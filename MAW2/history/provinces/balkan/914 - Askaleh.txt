@@ -1,0 +1,7 @@
+owner = AEG
+controller = AEG
+add_core = AEG
+trade_goods = iron
+life_rating = 35
+terrain = hills
+

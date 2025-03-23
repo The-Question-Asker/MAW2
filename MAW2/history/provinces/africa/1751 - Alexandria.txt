@@ -1,0 +1,7 @@
+owner = AEG
+controller = AEG
+add_core = AEG
+trade_goods = fish
+life_rating = 40
+naval_base = 1
+

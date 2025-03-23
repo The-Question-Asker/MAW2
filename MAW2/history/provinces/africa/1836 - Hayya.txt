@@ -1,0 +1,7 @@
+owner = AEG
+controller = AEG
+add_core = AEG
+add_core = SUD
+trade_goods = wool
+life_rating = 10
+terrain = desert

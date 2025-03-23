@@ -1,0 +1,6 @@
+owner = AEG
+controller = AEG
+add_core = AEG
+add_core = SUD
+trade_goods = fish
+life_rating = 31

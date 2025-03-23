@@ -1,0 +1,5 @@
+owner = AEG
+controller = AEG
+add_core = AEG
+trade_goods = fruit
+life_rating = 20

@@ -1,0 +1,6 @@
+owner = AEG
+controller = AEG
+add_core = HDJ
+trade_goods = wool
+life_rating = 35
+colonial = 2

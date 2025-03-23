@@ -1,0 +1,9 @@
+owner = AEG
+controller = AEG
+add_core = AEG
+add_core = CLC
+add_core = KDS
+trade_goods = wool
+life_rating = 35
+
+

@@ -1,0 +1,9 @@
+owner = AEG
+controller = AEG
+add_core = AEG
+add_core = PLS
+trade_goods = fruit
+life_rating = 35
+terrain = semidesert
+
+

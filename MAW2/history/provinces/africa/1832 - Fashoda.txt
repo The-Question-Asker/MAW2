@@ -1,0 +1,7 @@
+owner = AEG
+controller = AEG
+add_core = SHK
+add_core = SUD
+trade_goods = grain
+life_rating = 35
+colonial = 2

@@ -1,0 +1,5 @@
+name = "Men and Women 2"
+path = "mod/MAW2"
+user_dir = "MAW2"
+replace_path = "history/provinces"
+replace_path = "history/wars"
