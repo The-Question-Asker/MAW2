@@ -1,4 +1,4 @@
-capital = 994
+capital = 1725
 primary_culture = african
 culture = vasconian
 religion = orthodox

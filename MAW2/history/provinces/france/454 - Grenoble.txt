@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = WTL
+controller = WTL
+add_core = WTL
 trade_goods = wool
 life_rating = 31
-1861.1.1 = { railroad = 3 }
+

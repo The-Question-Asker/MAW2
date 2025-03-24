@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = FRK
+controller = FRK
+add_core = FRK
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

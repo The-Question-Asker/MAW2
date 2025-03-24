@@ -1,5 +1,5 @@
-owner = MOR
-controller = MOR
-add_core = MOR
+owner = HNU
+controller = HNU
+add_core = HNU
 trade_goods = fruit
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = MOR
-controller = MOR
-add_core = MOR
+owner = HNU
+controller = HNU
+add_core = HNU
 trade_goods = fish
 life_rating = 32
 terrain = semidesert

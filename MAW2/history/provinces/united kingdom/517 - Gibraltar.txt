@@ -1,9 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = HNU
+controller = HNU
+add_core = HNU
 terrain = urban
 trade_goods = fish
 life_rating = 35
-colonial = 2
-naval_base = 2
-fort = 1
+

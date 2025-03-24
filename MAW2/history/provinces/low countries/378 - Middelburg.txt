@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = FRK
+controller = FRK
+add_core = FRK
 trade_goods = fish
 life_rating = 35
