@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
+owner = KRS
+controller = KRS
+add_core = KRS
 trade_goods = fish
 life_rating = 30
 terrain = small_island
-colonial = 2

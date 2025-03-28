@@ -1,8 +1,5 @@
-owner = AUS
-controller = AUS
-add_core = SER
-add_core = BAN
-add_core = HUN
-add_core = SIE
+owner = SCL
+controller = SCL
+add_core = SCL
 trade_goods = grain
 life_rating = 35

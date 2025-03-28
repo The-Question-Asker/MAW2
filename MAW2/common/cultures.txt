@@ -196,7 +196,7 @@ east_latin = {
     leader = european
     unit = EuropeanGC
 
-	rumanian = {
+	vlach = {
 	  color = { 235 219 157 }
         	first_names = { }
 
@@ -260,7 +260,7 @@ jugoslavs = {
     leader = european
     unit = EuropeanGC
 
-	sclavonian = {
+	sclavenian = {
 	  color = { 235 219 157 }
         	first_names = { }
 

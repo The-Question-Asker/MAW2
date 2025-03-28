@@ -1,6 +1,5 @@
-owner = OLD
-controller = OLD
-add_core = OLD
-add_core = GER
+owner = KRS
+controller = KRS
+add_core = KRS
 trade_goods = coal
 life_rating = 40

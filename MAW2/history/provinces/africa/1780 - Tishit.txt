@@ -1,9 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = BUL
-add_core = SER
-add_core = MCD
-add_core = ALB
+owner = SCL
+controller = SCL
+add_core = SCL
 trade_goods = fruit
 life_rating = 35

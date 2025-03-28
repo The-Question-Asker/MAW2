@@ -1,7 +1,5 @@
-owner = PRU
-controller = PRU
-add_core = PRU
-add_core = WES
-add_core = GER
+owner = KRS
+controller = KRS
+add_core = KRS
 trade_goods = cattle
 life_rating = 40

@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = TEU
+controller = TEU
+add_core = TEU
 trade_goods = grain
 life_rating = 35

@@ -12,6 +12,9 @@ AEG        ="countries/Aegypt.txt"
 HNU        ="countries/Hispania-Numidia.txt"
 FRK        ="countries/Frankia.txt"
 PRS        ="countries/Persian Empire.txt"
+ANT        ="countries/Anatoliya.txt"
+SCL        ="countries/Sclavenia.txt"
+WND        ="countries/Wendia.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

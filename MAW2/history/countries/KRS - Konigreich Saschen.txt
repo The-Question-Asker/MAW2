@@ -1,4 +1,4 @@
-capital = 994
+capital = 589
 primary_culture = saxon
 religion = orthodox
 government = absolute_monarchy

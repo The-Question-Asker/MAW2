@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = KRS
+controller = KRS
+add_core = KRS
 trade_goods = cattle
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+
