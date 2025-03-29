@@ -1,6 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = PRS
+controller = PRS
+add_core = PRS
 trade_goods = fish
 life_rating = 35
 naval_base = 1

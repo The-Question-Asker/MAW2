@@ -1,5 +1,5 @@
-owner = CRL
-controller = CRL
+owner = PRS
+controller = PRS
 add_core = CRL
 add_core = AFG
 add_core = KAS

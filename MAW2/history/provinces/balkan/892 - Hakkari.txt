@@ -1,6 +1,6 @@
-owner = BDN
-controller = BDN
-add_core = TUR
+owner = PRS
+controller = PRS
+add_core = PRS
 add_core = BDN
 add_core = KDS
 trade_goods = fruit

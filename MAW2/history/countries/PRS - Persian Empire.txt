@@ -1,5 +1,5 @@
-capital = 994
-primary_culture = frankish
+capital = 926
+primary_culture = persian
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0
@@ -9,7 +9,7 @@ non_state_culture_literacy = 0.01
 civilized = yes
 
 #GreaterPowers = prestige
-#prestige = 120
+prestige = 120
 
 # Political reforms
 slavery = no_slavery

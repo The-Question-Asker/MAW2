@@ -1,5 +1,5 @@
-owner = QAT
-controller = QAT
+owner = PRS
+controller = PRS
 add_core = BHR
 add_core = QAT
 trade_goods = fish

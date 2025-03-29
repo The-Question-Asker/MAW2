@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = PRS
+controller = PRS
+add_core = PRS
 add_core = IRQ
 trade_goods = fruit
 life_rating = 35

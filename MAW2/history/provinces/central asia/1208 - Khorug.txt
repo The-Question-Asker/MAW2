@@ -1,5 +1,6 @@
-owner = BDK
-controller = BDK
+owner = PRS
+controller = PRS
+colonial = 2
 add_core = BDK
 add_core = BUK
 add_core = KOK

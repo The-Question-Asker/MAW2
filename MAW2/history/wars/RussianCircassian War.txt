@@ -27,3 +27,4 @@ name = "Russian-Circassian War"
     rem_attacker = RUS
     rem_attacker = CIR
 }
+

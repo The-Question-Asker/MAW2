@@ -1,7 +1,6 @@
-owner = TCA
-controller = TCA
+owner = PRS
+controller = PRS
 add_core = GEO
-add_core = TCA
 trade_goods = fish
 life_rating = 35
 naval_base = 1

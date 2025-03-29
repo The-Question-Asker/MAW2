@@ -1,5 +1,5 @@
-owner = NEJ
-controller = NEJ
+owner = PRS
+controller = PRS
 add_core = NEJ
 trade_goods = grain
 life_rating = 35

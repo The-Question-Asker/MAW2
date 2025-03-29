@@ -1,7 +1,6 @@
-owner = MKN
-controller = MKN
-add_core = PER
-add_core = AZB
+owner = PRS
+controller = PRS
+add_core = PRS
 add_core = KDS
 add_core = MKN
 trade_goods = cotton

@@ -1,5 +1,5 @@
-owner = MAK
-controller = MAK
+owner = PRS
+controller = PRS
 add_core = MAK
 add_core = BLC
 add_core = HND
