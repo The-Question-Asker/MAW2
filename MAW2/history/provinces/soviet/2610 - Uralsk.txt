@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
+owner = RTH
+controller = RTH
+colonial = 2
 add_core = KAZ
 trade_goods = cattle
 life_rating = 35
-colonial = 2

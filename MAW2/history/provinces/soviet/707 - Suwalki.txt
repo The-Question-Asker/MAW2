@@ -1,6 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = CPL
-add_core = POL
+owner = RTH
+controller = RTH
+add_core = RTH
+add_core = BYR
+add_core = KPD
 trade_goods = grain
 life_rating = 35

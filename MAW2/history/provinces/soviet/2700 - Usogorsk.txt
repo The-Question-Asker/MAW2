@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = RTH
+controller = RTH
+add_core = RTH
 add_core = URA
 trade_goods = timber
 life_rating = 35

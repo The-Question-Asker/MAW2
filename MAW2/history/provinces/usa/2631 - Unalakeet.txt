@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = RTH
+controller = RTH
 colonial = 2
 add_core = LSK
 terrain = new_world_arctic

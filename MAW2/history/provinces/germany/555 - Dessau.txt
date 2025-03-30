@@ -1,6 +1,5 @@
-owner = ANH
-controller = ANH
-add_core = ANH
-add_core = GER
+owner = RTH
+controller = RTH
+add_core = KPD
 trade_goods = fruit
 life_rating = 40

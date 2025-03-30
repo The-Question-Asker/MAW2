@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = RTH
+controller = RTH
 add_core = KAZ
 trade_goods = opium
 life_rating = 35
