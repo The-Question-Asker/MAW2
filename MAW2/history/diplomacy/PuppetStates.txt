@@ -1,6 +1,6 @@
 vassal = {
     first = PRS
-    second = DAG
+    second = CIR
     start_date = 1816.1.1
     end_date = 1936.1.1
 }
