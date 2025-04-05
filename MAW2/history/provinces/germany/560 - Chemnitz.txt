@@ -1,6 +1,5 @@
-owner = SAX
-controller = SAX
-add_core = SAX
-add_core = GER
+owner = KUR
+controller = KUR
+add_core = KUR
 trade_goods = iron
 life_rating = 40

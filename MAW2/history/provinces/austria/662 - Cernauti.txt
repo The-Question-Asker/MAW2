@@ -1,4 +1,5 @@
 owner = RTH
 controller = RTH
+add_core = KPD
 trade_goods = fruit
 life_rating = 35

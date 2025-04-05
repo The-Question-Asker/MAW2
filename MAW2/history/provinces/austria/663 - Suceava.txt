@@ -1,7 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = ROM
-add_core = MOL
-add_core = BKV
+owner = VLC
+controller = VLC
+add_core = VLC
 trade_goods = cattle
 life_rating = 35
+

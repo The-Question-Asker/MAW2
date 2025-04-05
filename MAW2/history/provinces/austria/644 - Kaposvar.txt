@@ -1,5 +1,5 @@
-owner = AUS
-controller = AUS
-add_core = HUN
+owner = BLA
+controller = BLA
+add_core = BLA
 trade_goods = cattle
 life_rating = 35
