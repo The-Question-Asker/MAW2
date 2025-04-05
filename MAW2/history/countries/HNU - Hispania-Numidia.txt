@@ -1,7 +1,7 @@
 capital = 1725
 primary_culture = african
 culture = vasconian
-religion = orthodox
+religion = arian
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_autocracy

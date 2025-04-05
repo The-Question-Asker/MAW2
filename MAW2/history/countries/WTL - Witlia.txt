@@ -1,4 +1,4 @@
-capital = 994
+capital = 749
 primary_culture = roman
 religion = orthodox
 government = absolute_monarchy

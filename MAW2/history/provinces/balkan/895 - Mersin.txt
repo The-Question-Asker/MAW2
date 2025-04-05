@@ -1,6 +1,5 @@
 owner = AEG
 controller = AEG
 add_core = AEG
-add_core = ANT
 trade_goods = fish
 life_rating = 35
