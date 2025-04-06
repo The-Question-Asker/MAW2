@@ -187,29 +187,35 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 17100
+        size = 13100
+    }
+	
+    farmers = {
+        culture = greek
+        religion = manichaean
+        size = 4100
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = llati
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = llati
         religion = orthodox
         size = 120
     }
 
     artisans = {
-        culture = bulgarian
+        culture = llati
         religion = orthodox
         size = 120
     }
 
     farmers = {
-        culture = bulgarian
+        culture = llati
         religion = orthodox
         size = 10825
     }
