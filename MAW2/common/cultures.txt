@@ -9,7 +9,7 @@ continental_germanic = {
     unit = EuropeanGC
 
 	saxon = {
-	  color = { 235 219 157 }
+	  color = { 133 128 118 }
         	first_names = { Adalberht Adalbern Adalfarus Adalhard Adalwin Adelmar 
 							Adolf Achatius Adelman Agilwardus Alardus Albrecht Anselm 
 							Antonius Arnulf Baldewin Bartilmebis Berchtold Bechtold Berold 
@@ -38,7 +38,7 @@ continental_germanic = {
     }
 	
 	frankish = {
-	  color = { 235 219 157 }
+	  color = { 29 29 59 }
         	first_names = { Acfred Aclefrid Aclulf Adald Amblard Angalramnus 
 							Berchar Bertbert Boso Chariulf Fardinanth Hadelin 
 							Hildirik Hlodowig Ingerman Ingalramnus Isarn 
@@ -57,7 +57,7 @@ continental_germanic = {
     }
 	
 	teutonic = {
-	  color = { 235 219 157 }
+	  color = { 148 67 117 }
         	first_names = { Alaric Adalberht Adalbern Adalfarus Adalhard Adalwin Adelmar 
 							Adolf Achatius Adelman Agilwardus Alardus Albrecht Anselm 
 							Antonius Arnulf Baldewin Bartilmebis Berchtold Bechtold Berold 
@@ -130,10 +130,18 @@ west_germanic = {
 							Wulflaf Wynhelm Wihtmund Wiglaf Raginmund Fredegear }
 
 			last_names = { "af Ræchwine" Bolger }
-		}
-	
 	}
+	
+	laaglander = {
+	  color = { 224 204 130 }
+        	first_names = { }
+
+			last_names = {	}
+    }
+	
 }
+
+
 
 ##LATINS##
 
@@ -153,9 +161,10 @@ latins = {
         	first_names = { }
 
 			last_names = {	}
+	}
 
 	roman = {
-	  color = { 235 219 157 }
+	  color = { 173 23 33 }
         	first_names = { Aelianus Aelius Aemilianus Aemilius Aetius Africanus Albanus 
 							Albus Antoninus Antonius Appius Aquilinus Atilius Augustinus 
 							Aulus Aurelianus Aurelius Avilius Avitus Balbinus Balbus 
@@ -197,14 +206,14 @@ east_latin = {
     unit = EuropeanGC
 
 	vlach = {
-	  color = { 235 219 157 }
+	  color = { 187 204 92 }
         	first_names = { }
 
 			last_names = {	}
     }
 	
-	grek = {
-	  color = { 235 219 157 }
+	llati = {
+	  color = { 125 98 130 }
         	first_names = { }
 
 			last_names = {	}
@@ -261,7 +270,7 @@ jugoslavs = {
     unit = EuropeanGC
 
 	sclavenian = {
-	  color = { 235 219 157 }
+	  color = { 154 176 123 }
         	first_names = { }
 
 			last_names = {	}
@@ -275,7 +284,7 @@ jugoslavs = {
     }
 	
 	galatian = {
-	  color = { 235 219 157 }
+	  color = { 252 57 3 }
         	first_names = { }
 
 			last_names = {	}
@@ -288,21 +297,21 @@ zapadoslavs = {
     unit = EuropeanGC
 
 	pannonian = {
-	  color = { 235 219 157 }
+	  color = { 92 72 31 }
         	first_names = { }
 
 			last_names = {	}
     }
 	
 	wendish = {
-	  color = { 235 219 157 }
+	  color = { 111 199 181 }
         	first_names = { }
 
 			last_names = {	}
     }	
 	
 	kuringian = {
-	  color = { 235 219 157 }
+	  color = { 77 7 135 }
         	first_names = { }
 
 			last_names = {	}
@@ -329,7 +338,7 @@ great_slavs = {
     }
 	
 	byeloruthenian = {
-	  color = { 235 219 157 }
+	  color = { 230 223 197 }
         	first_names = { }
 
 			last_names = {	}
