@@ -324,6 +324,13 @@ zapadoslavs = {
 			last_names = {	}
     }
 	
+	letts = {
+	  color = { 119 171 191 }
+        	first_names = { }
+
+			last_names = {	}
+    }
+	
 }
 
 great_slavs = {

@@ -2796,13 +2796,13 @@
 #Valence (656000/164000 POPS)
 453 = {
     aristocrats = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 1600
     }
 
     clergymen = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 1150
     }
@@ -2818,11 +2818,17 @@
         religion = orthodox
         size = 1650
     }
+	
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 11100
+    }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 81100
+        size = 71100
     }
 
        farmers = {
@@ -2834,42 +2840,42 @@
 #Grenoble (696000/174000 POPS)
 454 = {
     aristocrats = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 1700
     }
 
     clergymen = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 1250
     }
 
     artisans = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 4500
     }
 
-        artisans = {
+    artisans = {
         culture = frankish
         religion = orthodox
         size = 4000
     }
 
     soldiers = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 1750
     }
 
     farmers = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 70300
     }
 
-        farmers = {
+    farmers = {
         culture = frankish
         religion = orthodox
         size = 90800
@@ -3571,13 +3577,13 @@
 #Digne (113200/31000 POPS)
 469 = {
     aristocrats = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     clergymen = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 100
     }
@@ -3595,7 +3601,7 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 18900
     }
@@ -3609,19 +3615,19 @@
 #Toulon (224000/56000 POPS)
 470 = {
     aristocrats = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 500
     }
 
     clergymen = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     artisans = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 6000
     }
@@ -3641,19 +3647,19 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 20950
+        size = 35950
     }
 
     farmers = {
-        culture = frankish
+        culture = roman
         religion = orthodox
-        size = 20300
+        size = 5300
     }
 }
 #Frejus (132000/33000 POPS)
 471 = {
     aristocrats = {
-        culture = frankish
+        culture = roman
         religion = orthodox
         size = 300
     }
@@ -3679,13 +3685,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 20000
+        size = 23000
     }
 
     farmers = {
-        culture = frankish
+        culture = roman
         religion = orthodox
-        size = 10600
+        size = 7600
     }
 }
 #Nice (Sardinian until 1860) (170800/42700 POPS)
