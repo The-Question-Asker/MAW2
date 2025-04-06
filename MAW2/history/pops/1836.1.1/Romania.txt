@@ -541,33 +541,39 @@
 #Orsova (376000/94000 POPS) #part of Romania today
 653 = {
     clergymen = {
-        culture = pannonian
+        culture = sclavenian
         religion = orthodox
         size = 600
     }
 
     artisans = {
-        culture = pannonian
+        culture = vlach
         religion = orthodox
         size = 3000
     }
 
     soldiers = {
-        culture = pannonian
+        culture = sclavenian
         religion = orthodox
         size = 600
     }
 
     farmers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 22600
+    }
+	
+    farmers = {
         culture = pannonian
         religion = orthodox
-        size = 42600
+        size = 12600
     }
 
     serfs = {
-        culture = pannonian
+        culture = sclavenian
         religion = orthodox
-        size = 20000
+        size = 15000
     }
 
     serfs = {
@@ -597,7 +603,7 @@
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 16150
+        size = 14150
     }
 
     aristocrats = {
@@ -613,21 +619,21 @@
     }
 
     artisans = {
-        culture = roman
+        culture = vlach
         religion = orthodox
         size = 800
     }
 
     soldiers = {
-        culture = roman
+        culture = vlach
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = roman
+        culture = vlach
         religion = orthodox
-        size = 12900
+        size = 33900
     }
 }
 #Transylvania Region (2060000)
@@ -1013,7 +1019,7 @@
     farmers = {
         culture = pannonian
         religion = orthodox
-        size = 44575
+        size = 24575
     }
 
     serfs = {
@@ -1079,7 +1085,7 @@
     farmers = {
         culture = vlach
         religion = orthodox
-        size = 4900
+        size = 24900
     }
 
     clergymen = {
@@ -2545,9 +2551,9 @@
         size = 6000
     }
 
-    slaves = {
-        culture = greek
-        religion = orthodox
+    farmers = {
+        culture = circassian
+        religion = manichaean
         size = 2000
     }
 
@@ -2582,43 +2588,43 @@
     }
 
     farmers = {
-        culture = greek
+        culture = vlach
         religion = orthodox
         size = 12050
     }
 
     aristocrats = {
-        culture = greek
+        culture = vlach
         religion = orthodox
         size = 100
     }
 
     officers = {
-        culture = greek
+        culture = vlach
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = greek
+        culture = vlach
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = greek
+        culture = vlach
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = vlach
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = greek
+        culture = vlach
         religion = orthodox
         size = 400
     }
@@ -2648,7 +2654,7 @@
     }
 
     artisans = {
-        culture = greek
+        culture = armenian
         religion = manichaean
         size = 1100
     }
@@ -2729,25 +2735,25 @@
     }
 
     soldiers = {
-        culture = polish
+        culture = temarundian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = polish
+        culture = temarundian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = polish
+        culture = temarundian
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = polish
+        culture = temarundian
         religion = orthodox
         size = 2825
     }

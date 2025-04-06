@@ -113,25 +113,25 @@
     ########
 
     clergymen = {
-        culture = danish
+        culture = saxon
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = danish
+        culture = saxon
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = danish
+        culture = saxon
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = danish
+        culture = saxon
         religion = orthodox
         size = 4600
     }

@@ -141,31 +141,31 @@
     }
 
     aristocrats = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 2750
     }
@@ -387,31 +387,31 @@
     }
 
     aristocrats = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 20
     }
 
     clergymen = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 20
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 10
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = persian
         religion = sunni
         size = 900
     }
@@ -557,86 +557,86 @@
 #Batum (76000/19000 POPS) #now part of Georgia
 1096 = {
     aristocrats = {
-        culture = turkish
-        religion = sunni
+        culture = greek
+        religion = manichaean
         size = 50
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
+        culture = greek
+        religion = manichaean
         size = 110
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
+        culture = greek
+        religion = manichaean
         size = 150
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
+        culture = greek
+        religion = manichaean
         size = 110
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
+        culture = greek
+        religion = manichaean
         size = 2725
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 110
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 110
     }
 
     artisans = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 200
     }
 
     farmers = {
         culture = georgian
-        religion = orthodox
-        size = 3725
+        religion = manichaean
+        size = 8725
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 110
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 110
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 110
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 1000
     }
 
     aristocrats = {
         culture = georgian
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
@@ -659,9 +659,9 @@
     }
 
     farmers = {
-        culture = georgian
-        religion = sunni
-        size = 11250
+        culture = greek
+        religion = manichaean
+        size = 6250
     }
 
 }

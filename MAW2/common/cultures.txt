@@ -345,7 +345,7 @@ great_slavs = {
     }
 	
 	temarundian = {
-	  color = { 235 219 157 }
+	  color = { 9 115 80 }
         	first_names = { }
 
 			last_names = {	}
@@ -1221,7 +1221,7 @@ turko_semitic = {
             Bey Pasha Hoca Efendi
         }
     }
-    azerbaijani = {
+    persian = {
         color = {47 44 107}
         first_names = {
             Ahmad Aliagha Ali Bahram Elbay Farhad Firudin Hamid Hasan Heydar
