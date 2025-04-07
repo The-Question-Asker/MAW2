@@ -3,44 +3,44 @@
 #Kuwait (12000/3000 POPS) #now part of Kuwait
 935 = {
     aristocrats = {
-        culture = bedouin
-        religion = sunni
+        culture = persian
+        religion = manichaean
         size = 200
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 10
     }
 
     officers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 10
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 150
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 2725
     }
 }
@@ -50,61 +50,61 @@
 1162 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 150
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 25
     }
 
     officers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 10
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 1050
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     clergymen = {
         culture = bedouin
-        religion = shiite
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = shiite
+        religion = orthodox
         size = 150
     }
 
     farmers = {
         culture = bedouin
-        religion = shiite
+        religion = orthodox
         size = 3600
     }
 
@@ -122,7 +122,7 @@
 
     farmers = {
         culture = persian
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
@@ -136,43 +136,43 @@
 1165 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 70
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 10
     }
 
     officers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 10
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 25
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 1050
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 1525
     }
 
@@ -188,43 +188,43 @@
 1167 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 225
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 15
     }
 
     officers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 10
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 250
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 3650
     }
 
@@ -238,37 +238,37 @@
 1168 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 2625
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = orthodox
         size = 300
     }
 
