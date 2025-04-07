@@ -4428,33 +4428,39 @@
 #Antioch (160000/40000 POPS)
 900 = {
     aristocrats = {
-        culture = galatian
+        culture = greek
         religion = orthodox
         size = 300
     }
 
     clergymen = {
-        culture = galatian
+        culture = levantine
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = galatian
+        culture = levantine
         religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = galatian
+        culture = levantine
         religion = orthodox
         size = 225
     }
 
     farmers = {
-        culture = galatian
+        culture = levantine
         religion = orthodox
-        size = 10025
+        size = 8025
+    }
+	
+    farmers = {
+        culture = levantine
+        religion = manichaean
+        size = 2025
     }
 
     aristocrats = {
@@ -4502,7 +4508,13 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 8475
+        size = 6475
+    }
+	
+    farmers = {
+        culture = greek
+        religion = manichaean
+        size = 2475
     }
 
     clergymen = {
@@ -4525,19 +4537,19 @@
 
     clergymen = {
         culture = greek
-        religion = shiite
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = shiite
+        religion = manichaean
         size = 550
     }
 
     farmers = {
-        culture = greek
-        religion = shiite
+        culture = levantine
+        religion = orthodox
         size = 8500
     }
 

@@ -62,66 +62,6 @@
         size = 325
     }
 
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 4000
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 146000
-    }
-
     bureaucrats = {
         culture = greek
         religion = orthodox
@@ -598,6 +538,66 @@
         size = 2025
     }
 	
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 10000
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 10000
+    }
+
+    artisans = {
+        culture = circassian
+        religion = manichaean
+        size = 10000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = manichaean
+        size = 10000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 10000
+    }
+
+    artisans = {
+        culture = levantine
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 3000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 3000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 4000
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 146000
+    }
+	
     capitalists = {
         culture = greek
         religion = orthodox
@@ -643,7 +643,31 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 216725
+        size = 96725
+    }
+
+    farmers = {
+        culture = levantine
+        religion = orthodox
+        size = 46725
+    }
+
+    farmers = {
+        culture = circassian
+        religion = manichaean
+        size = 21725
+    }
+
+    farmers = {
+        culture = armenian
+        religion = manichaean
+        size = 31725
+    }
+	
+    farmers = {
+        culture = bedouin
+        religion = orthodox
+        size = 36725
     }
 
     bureaucrats = {
@@ -669,6 +693,12 @@
         religion = manichaean
         size = 12125
     }
+	
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 32125
+    }
 
     clergymen = {
         culture = sephardic
@@ -679,7 +709,7 @@
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 990
+        size = 10990
     }
 
     clergymen = {

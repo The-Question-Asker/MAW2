@@ -175,7 +175,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 17600
+        size = 15600
     }
 
     clergymen = {
@@ -199,7 +199,7 @@
     farmers = {
         culture = vlach
         religion = orthodox
-        size = 10300
+        size = 12300
     }
 }
 #Novi Sad (384000/96000 POPS) #part of sclaveniania today
@@ -301,25 +301,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = pannonian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = slovak
+        culture = pannonian
         religion = orthodox
         size = 450
     }
 
     soldiers = {
-        culture = slovak
+        culture = pannonian
         religion = orthodox
         size = 100
     }
 
     serfs = {
-        culture = slovak
+        culture = pannonian
         religion = orthodox
         size = 9375
     }

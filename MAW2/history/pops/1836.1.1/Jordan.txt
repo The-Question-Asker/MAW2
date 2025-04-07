@@ -3,183 +3,183 @@
 #Amman (20000/5000 POPS) #now part of Jordan
 908 = {
     aristocrats = {
-        culture = mashriqi
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 100
     }
 
     bureaucrats = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 20
     }
 
     soldiers = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 775
     }
 
     farmers = {
         culture = circassian
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 125
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 2800
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = levantine
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = levantine
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = levantine
         religion = orthodox
         size = 500
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = druze
+        culture = levantine
+        religion = manichaean
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
-        religion = druze
+        culture = levantine
+        religion = manichaean
         size = 390
     }
 }
 #Jerash (16000/4000 POPS) #now part of Jordan
 909 = {
     aristocrats = {
-        culture = mashriqi
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 35
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 2215
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 15
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 15
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 35
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 910
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = levantine
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = levantine
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = levantine
         religion = orthodox
         size = 500
     }
@@ -190,93 +190,93 @@
 910 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 125
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 2725
     }
 }
 #Maan (28000/7000 POPS) #now part of Jordan
 911 = {
     aristocrats = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 2050
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 4375
     }
 }
@@ -285,56 +285,56 @@
 #Aqaba (20000/5000 POPS) #now part of Jordan
 922 = {
     clergymen = {
-        culture = mashriqi
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = mashriqi
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 50
     }
 
     soldiers = {
-        culture = mashriqi
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = mashriqi
-        religion = sunni
+        culture = levantine
+        religion = orthodox
         size = 900
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 3775
     }
 

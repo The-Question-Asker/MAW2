@@ -2142,7 +2142,7 @@
     }
 
     farmers = {
-        culture = albanian
+        culture = greek
         religion = orthodox
         size = 4000
     }
@@ -2212,7 +2212,7 @@
     }
 
     farmers = {
-        culture = albanian
+        culture = greek
         religion = orthodox
         size = 4000
     }
@@ -2270,7 +2270,7 @@
     }
 
     farmers = {
-        culture = albanian
+        culture = greek
         religion = orthodox
         size = 6000
     }
@@ -2314,7 +2314,7 @@
     }
 
     farmers = {
-        culture = albanian
+        culture = greek
         religion = orthodox
         size = 3550
     }
@@ -2410,7 +2410,7 @@
     }
 
     farmers = {
-        culture = albanian
+        culture = greek
         religion = orthodox
         size = 4450
     }
@@ -2448,7 +2448,7 @@
     }
 
     farmers = {
-        culture = albanian
+        culture = greek
         religion = orthodox
         size = 2000
     }

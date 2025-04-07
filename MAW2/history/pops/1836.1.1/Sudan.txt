@@ -4,97 +4,109 @@
 1827 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
-        size = 650
+        religion = orthodox
+        size = 450
+    }
+	
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 250
     }
 
     bureaucrats = {
-        culture = sudanese
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 40
     }
 
     officers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 110
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 125
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 2125
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 3000
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
-        size = 38150
+        religion = orthodox
+        size = 30150
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 8150
     }
 
     bureaucrats = {
-        culture = misri
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 50
     }
 
     officers = {
-        culture = misri
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = misri
-        religion = sunni
+        culture = greek
+        religion = orthodox
         size = 300
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 275
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 800
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 125
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 15650
     }
 
@@ -114,31 +126,31 @@
 1828 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 375
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 1150
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 20425
     }
 
@@ -158,31 +170,31 @@
 1829 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 400
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 1150
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 20400
     }
 
@@ -219,31 +231,31 @@
 
     aristocrats = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     clergymen = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     farmers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 3625
     }
 }
@@ -251,31 +263,31 @@
 1830 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 475
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 1350
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 22125
     }
 
@@ -337,31 +349,31 @@
 1831 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 350
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 975
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 17625
     }
 
@@ -399,13 +411,13 @@
 1832 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     bureaucrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
@@ -505,103 +517,103 @@
 1833 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     bureaucrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     officers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 3575
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 125
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 350
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 6375
     }
 
     aristocrats = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 1800
     }
 
@@ -615,91 +627,91 @@
 1834 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 300
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 5475
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 2700
     }
 
     aristocrats = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 2700
     }
 }
@@ -709,73 +721,73 @@
 1835 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     bureaucrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 10
     }
 
     officers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 40
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 2600
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 250
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 700
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 150
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 12850
     }
 
@@ -787,31 +799,31 @@
 
     aristocrats = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 15
     }
 
     clergymen = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     artisans = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     soldiers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 10
     }
 
     farmers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 900
     }
 }
@@ -819,91 +831,91 @@
 1836 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 3625
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 3600
     }
 
     aristocrats = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 325
     }
 
     clergymen = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 900
     }
 
     soldiers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     farmers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 16500
     }
 }
@@ -911,91 +923,91 @@
 1837 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 15
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 10
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 900
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 300
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 5475
     }
 
     aristocrats = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 2700
     }
 }
@@ -1003,31 +1015,31 @@
 2564 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 1100
     }
 }
@@ -1036,31 +1048,31 @@
 1806 = {
     aristocrats = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = beja
-        religion = sunni
+        religion = orthodox
         size = 500
     }
 }
@@ -1070,37 +1082,37 @@
 1838 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 500
     }
 
     officers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 1100
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 450
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 23900
     }
 
@@ -1114,13 +1126,13 @@
 1839 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     bureaucrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
@@ -1158,31 +1170,31 @@
 1840 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 10000
     }
 
@@ -1246,49 +1258,49 @@
 1841 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 1200
     }
 
     bureaucrats = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     officers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 2600
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 1250
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 58600
     }
 
     slaves = {
         culture = teda
-        religion = sunni
+        religion = orthodox
         size = 4000
     }
 }
@@ -1296,67 +1308,67 @@
 1842 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 650
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 1500
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 1100
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 32300
     }
 
     slaves = {
         culture = teda
-        religion = sunni
+        religion = orthodox
         size = 10400
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = orthodox
         size = 3650
     }
 }
@@ -1364,31 +1376,31 @@
 1843 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 125
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 350
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 6350
     }
 
@@ -1458,31 +1470,31 @@
 1844 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = orthodox
         size = 2700
     }
 
@@ -1569,31 +1581,31 @@
 1845 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 75
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 3650
     }
 
@@ -1776,37 +1788,37 @@
 1739 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     officers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 25
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = orthodox
         size = 500
     }
 
