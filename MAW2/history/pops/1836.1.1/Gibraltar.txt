@@ -3,26 +3,26 @@
 #Gibraltar (16394/4100 POPS)
 517 = {
     officers = {
-        culture = british
-        religion = protestant
+        culture = hispanic
+        religion = arian
         size = 5
     }
 
     bureaucrats = {
-        culture = british
-        religion = protestant
+        culture = hispanic
+        religion = arian
         size = 5
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = hispanic
+        religion = arian
         size = 674
     }
 
     artisans = {
-        culture = british
-        religion = protestant
+        culture = hispanic
+        religion = arian
         size = 138
     }
 
@@ -33,38 +33,38 @@
     }
 
     artisans = {
-        culture = maghrebi
+        culture = sephardic
         religion = jewish
         size = 117
     }
 
     farmers = {
-        culture = spanish
-        religion = catholic
-        size = 1069
+        culture = hispanic
+        religion = arian
+        size = 1369
     }
 
     farmers = {
-        culture = portuguese
-        religion = catholic
+        culture = african
+        religion = arian
         size = 169
     }
 
     clergymen = {
-        culture = north_italian
-        religion = catholic
+        culture = african
+        religion = arian
         size = 5
     }
 
     farmers = {
-        culture = north_italian
-        religion = catholic
-        size = 1302
+        culture = african
+        religion = arian
+        size = 1002
     }
 
     farmers = {
-        culture = south_italian
-        religion = catholic
+        culture = african
+        religion = arian
         size = 35
     }
 }
