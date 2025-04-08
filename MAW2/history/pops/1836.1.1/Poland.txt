@@ -302,7 +302,7 @@
     }
     ########
 }
-#Silesia Region (2568000) #see Czechia.txt and Germany.txt for balance of region
+#Silesia Region (2568000) #see wendishia.txt and Germany.txt for balance of region
 #under the rule of Prussia in 1836
 #Breslau (936000/234000 POPS)
 682 = {
@@ -519,25 +519,25 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 925
     }
@@ -647,25 +647,25 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 3725
     }
@@ -751,25 +751,25 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = czech
+        culture = wendish
         religion = orthodox
         size = 9350
     }
@@ -1995,19 +1995,19 @@
 
     #1200 Ashkenazi Pops
     clergymen = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 100
     }
@@ -2018,7 +2018,7 @@
         size = 100
     }
     farmers = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 700
     }
@@ -2141,25 +2141,25 @@
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 450
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 175
     }
 
     farmers = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 18200
     }
@@ -2424,37 +2424,37 @@
     }
 
     aristocrats = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     officers = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 20700
     }
@@ -2586,25 +2586,25 @@
 #Przemysl (596000/149000 POPS)
 705 = {
     clergymen = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 950
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 175
     }
 
     serfs = {
-        culture = ukrainian
+        culture = wendish
         religion = orthodox
         size = 17700
     }

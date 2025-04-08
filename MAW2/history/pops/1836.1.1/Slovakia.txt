@@ -481,31 +481,31 @@
     }
 
     clergymen = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     craftsmen = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 2650
     }
@@ -805,43 +805,43 @@
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 225
     }
 
     officers = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 1000
     }
 
     soldiers = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 200
     }
 
     craftsmen = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = south_german
+        culture = wendish
         religion = orthodox
         size = 18825
     }

@@ -3,7 +3,7 @@
 #Maribor (204000/51000 POPS) #Part of Slovenia Today
 767 = {
     aristocrats = {
-        culture = sclavenian
+        culture = wendish
         religion = orthodox
         size = 750
     }
@@ -35,7 +35,7 @@
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 3150
+        size = 28150
     }
 
     clergymen = {
@@ -59,7 +59,7 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 45000
+        size = 20000
     }
 
     serfs = {
@@ -120,7 +120,19 @@
     artisans = {
         culture = wendish
         religion = orthodox
-        size = 4000
+        size = 2000
+    }
+	
+    artisans = {
+        culture = sclavenian
+        religion = orthodox
+        size = 2000
+    }
+	
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 1000
     }
 
     soldiers = {
@@ -132,13 +144,13 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 43150
+        size = 38150
     }
 
     serfs = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
-        size = 20000
+        size = 25000
     }
 
 }
@@ -157,7 +169,7 @@
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 2100
     }
@@ -171,7 +183,7 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 39075
+        size = 24075
     }
 
     farmers = {
@@ -189,7 +201,7 @@
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 1975
+        size = 16975
     }
 
 }
