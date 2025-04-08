@@ -753,7 +753,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 30975
     }
@@ -1021,7 +1021,7 @@
     }
 	
     farmers = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 28525
     }

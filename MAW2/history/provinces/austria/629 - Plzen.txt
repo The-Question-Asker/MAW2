@@ -1,6 +1,6 @@
-owner = KUR
-controller = KUR
-add_core = KUR
+owner = MOV
+controller = MOV
+add_core = MOV
 trade_goods = coal
 life_rating = 35
 

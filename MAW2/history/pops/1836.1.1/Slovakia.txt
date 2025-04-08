@@ -99,31 +99,31 @@
     }
 
     craftsmen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 750
     }
 
     soldiers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 9725
     }
@@ -213,7 +213,7 @@
     }
 
     farmers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 13000
     }
@@ -221,37 +221,37 @@
 #Trencin (342540/85635 POPS)
 634 = {
     clergymen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     artisans = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 2800
     }
 
     soldiers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     craftsmen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 53300
     }
 
     serfs = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 29000
     }
@@ -513,37 +513,37 @@
 #Banska Bystrica (340000/85000 POPS)
 636 = {
     clergymen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 475
     }
 
     artisans = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 2550
     }
 
     craftsmen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 40375
     }
 
     serfs = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 26000
     }

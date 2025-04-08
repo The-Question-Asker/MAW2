@@ -410,39 +410,39 @@
         size = 186250
     }
 
-    ####kuringians
+    ####wendishs
     aristocrats = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     craftsmen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     artisans = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 3650
     }
 
     farmers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 1000
     }

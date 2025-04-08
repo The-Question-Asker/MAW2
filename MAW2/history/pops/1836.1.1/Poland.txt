@@ -2898,25 +2898,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = letts
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = lithuanian
+        culture = letts
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = letts
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = lithuanian
+        culture = letts
         religion = orthodox
         size = 4625
     }
@@ -3246,25 +3246,25 @@
 #Bialystok (320000/80000 POPS)
 719 = {
     clergymen = {
-        culture = byelorussian
+        culture = byeloruthenian
         religion = orthodox
         size = 325
     }
 
     artisans = {
-        culture = byelorussian
+        culture = byeloruthenian
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = byelorussian
+        culture = byeloruthenian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = byelorussian
+        culture = byeloruthenian
         religion = orthodox
         size = 19275
     }
@@ -3300,25 +3300,25 @@
     }
 
     clergymen = {
-        culture = byelorussian
+        culture = byeloruthenian
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = byelorussian
+        culture = byeloruthenian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = byelorussian
+        culture = byeloruthenian
         religion = orthodox
         size = 750
     }
 
     farmers = {
-        culture = byelorussian
+        culture = byeloruthenian
         religion = orthodox
         size = 12350
     }

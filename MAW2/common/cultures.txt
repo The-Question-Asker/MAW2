@@ -57,7 +57,7 @@ continental_germanic = {
     }
 	
 	teutonic = {
-	  color = { 148 67 117 }
+	  color = { 99 63 0 } #148 67 117
         	first_names = { Alaric Adalberht Adalbern Adalfarus Adalhard Adalwin Adelmar 
 							Adolf Achatius Adelman Agilwardus Alardus Albrecht Anselm 
 							Antonius Arnulf Baldewin Bartilmebis Berchtold Bechtold Berold 
@@ -331,15 +331,9 @@ zapadoslavs = {
 			last_names = {	}
     }	
 	
-	kuringian = {
-	  color = { 70 53 84 }
-        	first_names = { }
-
-			last_names = {	}
-    }
 	
 	polish = {
-	  color = { 122 191 149 } #61 107 54
+	  color = { 148 77 98 } #61 107 54
         	first_names = { }
 
 			last_names = {	}
@@ -359,14 +353,14 @@ great_slavs = {
     unit = EuropeanGC
 
 	ruthenian = {
-	  color = { 235 219 157 }
+	  color = { 122 191 149 }
         	first_names = { }
 
 			last_names = {	}
     }
 	
 	byeloruthenian = {
-	  color = { 230 223 197 }
+	  color = { 240 235 223 }
         	first_names = { }
 
 			last_names = {	}

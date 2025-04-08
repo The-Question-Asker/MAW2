@@ -2246,31 +2246,31 @@
 #Chemnitz (330080/82520 POPS)
 560 = {
     aristocrats = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 945
     }
 
     clergymen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 740
     }
 
     artisans = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 5900
     }
 
     soldiers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 1180
     }
 
     labourers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 60755
     }
@@ -2286,43 +2286,43 @@
 #Weimar (365000/91250 POPS)
 561 = {
     aristocrats = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     bureaucrats = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 150
     }
 
     officers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 875
     }
 
     artisans = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 4250
     }
 
     soldiers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 1000
     }
 
     farmers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 70625
     }
@@ -5108,25 +5108,25 @@
 #Bayreuth (536000/134000 POPS)
 598 = {
     aristocrats = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 550
     }
 
     artisans = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 2500
     }
 
     soldiers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 600
     }
@@ -5156,7 +5156,7 @@
     }
 
     farmers = {
-        culture = kuringian
+        culture = wendish
         religion = orthodox
         size = 70300
     }
