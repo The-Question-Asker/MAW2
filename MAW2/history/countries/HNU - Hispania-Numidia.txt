@@ -1,6 +1,6 @@
 capital = 1725
 primary_culture = african
-culture = vasconian
+culture = hispanic
 religion = arian
 government = absolute_monarchy
 plurality = 5.0
