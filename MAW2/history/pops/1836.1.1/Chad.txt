@@ -5,115 +5,115 @@
 1818 = {
     aristocrats = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     bureaucrats = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     officers = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     soldiers = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     farmers = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 10000
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     officers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 13458
     }
 
     aristocrats = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     clergymen = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     soldiers = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     farmers = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 9000
     }
 
@@ -127,61 +127,61 @@
 1819 = {
     aristocrats = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 400
     }
 
     soldiers = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     farmers = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 8000
     }
 
     aristocrats = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     clergymen = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     soldiers = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 11000
     }
 
@@ -273,49 +273,49 @@
 
     aristocrats = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 125
     }
 
     clergymen = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     soldiers = {
         culture = sara
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 1000
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 125
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 3000
     }
 
@@ -331,151 +331,151 @@
 1821 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     bureaucrats = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     officers = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 550
     }
 
     aristocrats = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     officers = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     clergymen = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     soldiers = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 550
     }
 
     aristocrats = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 300
     }
 
     bureaucrats = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     soldiers = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 20183
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 300
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 7000
     }
 
@@ -497,37 +497,37 @@
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 150
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 350
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 7300
     }
 }
@@ -535,98 +535,98 @@
 1823 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 350
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 5000
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 300
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 500
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 7269
     }
 
 
     aristocrats = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 300
     }
 
     clergymen = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     bureaucrats = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 1500
     }
 
     soldiers = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 7246
     }
 
@@ -642,73 +642,73 @@
 1824 = {
     aristocrats = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 300
     }
 
     clergymen = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     artisans = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     soldiers = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 300
     }
 
     farmers = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 9216
     }
 
     aristocrats = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     bureaucrats = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     officers = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     soldiers = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     farmers = {
         culture = kanuri
-        religion = sunni
+        religion = manichaean
         size = 15010
     }
 
@@ -722,31 +722,31 @@
 1825 = {
     aristocrats = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     clergymen = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 25
     }
 
     artisans = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     soldiers = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 1380
     }
 }
@@ -755,37 +755,37 @@
 1826 = {
     aristocrats = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     clergymen = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 25
     }
 
     artisans = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     soldiers = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = teda
-        religion = sunni
+        religion = manichaean
         size = 1080
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = manichaean
         size = 300
     }
 

@@ -4,61 +4,61 @@
 2123 = {
     aristocrats = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 325
     }
 
     soldiers = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 3425
     }
 
     aristocrats = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     soldiers = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 8219
     }
 
@@ -72,31 +72,31 @@
 2124 = {
     aristocrats = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 15
     }
 
     clergymen = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     soldiers = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 10
     }
 
     farmers = {
         culture = kilombero
-        religion = sunni
+        religion = animist
         size = 500
     }
 

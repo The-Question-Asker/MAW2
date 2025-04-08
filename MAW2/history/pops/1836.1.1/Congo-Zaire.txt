@@ -505,19 +505,19 @@
 
     aristocrats = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 1280
     }
 
     clergymen = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 730
     }
 
     artisans = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 3480
     }
 
@@ -575,19 +575,19 @@
 
     aristocrats = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 920
     }
 
     clergymen = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 460
     }
 
     artisans = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 2380
     }
 
@@ -613,31 +613,31 @@
 1991 = {
     aristocrats = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 1375
     }
 
     clergymen = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 730
     }
 
     artisans = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 2840
     }
 
     soldiers = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 2200
     }
 
     farmers = {
         culture = kingwana
-        religion = sunni
+        religion = animist
         size = 449320
     }
 

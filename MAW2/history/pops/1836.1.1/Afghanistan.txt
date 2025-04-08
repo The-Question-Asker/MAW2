@@ -3,13 +3,19 @@
 #Kabul (996000/249000 POPS)
 1209 = {
     aristocrats = {
+        culture = persian
+        religion = manichaean
+        size = 2150
+    }
+	
+    aristocrats = {
         culture = pashtun
         religion = manichaean
-        size = 2750
+        size = 750
     }
 
     bureaucrats = {
-        culture = pashtun
+        culture = persian
         religion = manichaean
         size = 825
     }
@@ -27,9 +33,9 @@
     }
 
     artisans = {
-        culture = pashtun
+        culture = persian
         religion = manichaean
-        size = 5400
+        size = 15400
     }
 
     soldiers = {
@@ -39,7 +45,7 @@
     }
 
     soldiers = {
-        culture = pashtun
+        culture = persian
         religion = manichaean
         size = 3000
     }
@@ -59,7 +65,19 @@
     farmers = {
         culture = pashtun
         religion = manichaean
-        size = 100025
+        size = 60025
+    }
+	
+    farmers = {
+        culture = persian
+        religion = manichaean
+        size = 30025
+    }
+	
+    farmers = {
+        culture = persian
+        religion = zoroastrian
+        size = 10025
     }
 
     aristocrats = {

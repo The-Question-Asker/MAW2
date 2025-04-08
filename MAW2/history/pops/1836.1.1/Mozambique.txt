@@ -399,25 +399,25 @@
 
     clergymen = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 975
     }
 
     farmers = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 3000
     }
 }
@@ -491,13 +491,13 @@
 
     clergymen = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 975
     }
 
@@ -890,25 +890,25 @@
 
     clergymen = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 975
     }
 
     soldiers = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 5000
     }
 }
@@ -1062,55 +1062,55 @@
 
     aristocrats = {
         culture = makua
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = makua
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = makua
-        religion = sunni
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = makua
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = makua
-        religion = sunni
+        religion = animist
         size = 12750
     }
 
     clergymen = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 2925
     }
 
     farmers = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 5000
     }
 }
@@ -1154,25 +1154,25 @@
 
     clergymen = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 1950
     }
 
     farmers = {
         culture = swahili
-        religion = sunni
+        religion = animist
         size = 3000
     }
 }
@@ -1180,31 +1180,31 @@
 2064 = {
     aristocrats = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 21950
     }
 
@@ -1335,31 +1335,31 @@
 2581 = {
     aristocrats = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 450
     }
 
     clergymen = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     artisans = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 2100
     }
 
     soldiers = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 450
     }
 
     farmers = {
         culture = yao
-        religion = sunni
+        religion = animist
         size = 35600
     }
 

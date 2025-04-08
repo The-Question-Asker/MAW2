@@ -1202,7 +1202,7 @@
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = manichaean
         size = 1000
     }
 
@@ -1219,31 +1219,31 @@
 
     aristocrats = {
         culture = burmese
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = burmese
-        religion = sunni
+        religion = manichaean
         size = 125
     }
 
     artisans = {
         culture = burmese
-        religion = sunni
+        religion = manichaean
         size = 2750
     }
 
     soldiers = {
         culture = burmese
-        religion = sunni
+        religion = manichaean
         size = 150
     }
 
     farmers = {
         culture = burmese
-        religion = sunni
+        religion = manichaean
         size = 14875
     }
 
@@ -1297,13 +1297,13 @@
 
     clergymen = {
         culture = bengali
-        religion = sunni
+        religion = manichaean
         size = 50
     }
 
     farmers = {
         culture = bengali
-        religion = sunni
+        religion = manichaean
         size = 1950
     }
 

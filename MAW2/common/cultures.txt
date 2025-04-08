@@ -156,6 +156,13 @@ latins = {
 			last_names = {	}
     }
 	
+	galician = {
+	  color = { 25 120 25 }
+        	first_names = { }
+
+			last_names = {	}
+    }
+	
 	vasconian = {
 	  color = { 235 173 108 }
         	first_names = { }
@@ -164,7 +171,7 @@ latins = {
 	}
 
 	roman = {
-	  color = { 173 23 33 }
+	  color = { 227 7 21 } #173 23 33
         	first_names = { Aelianus Aelius Aemilianus Aemilius Aetius Africanus Albanus 
 							Albus Antoninus Antonius Appius Aquilinus Atilius Augustinus 
 							Aulus Aurelianus Aurelius Avilius Avitus Balbinus Balbus 
@@ -191,7 +198,7 @@ latins = {
     }
 	
 	narbonne = {
-	  color = { 235 219 157 }
+	  color = { 158 25 85 }
         	first_names = { Acarius Adaldus Agofredus Baudelius Bercharius 
 							Gangulphus Gommarus Leodegarius Remaclus Ursmarus 
 							Wildradus }
@@ -254,8 +261,8 @@ hellenes = {
     leader = european
     unit = EuropeanGC
 
-	greek = {
-	  color = { 235 219 157 }
+	greek = { #hellenic
+	  color = { 122 180 210 }
         	first_names = { }
 
 			last_names = {	}
@@ -263,6 +270,13 @@ hellenes = {
 
 	levantine = {
 	  color = { 16 101 125 }
+        	first_names = { }
+
+			last_names = {	}
+    }
+	
+	aegyptian = {
+	  color = { 157 201 197 }
         	first_names = { }
 
 			last_names = {	}
@@ -325,7 +339,7 @@ zapadoslavs = {
     }
 	
 	polish = {
-	  color = { 61 107 54 }
+	  color = { 122 191 149 } #61 107 54
         	first_names = { }
 
 			last_names = {	}
@@ -1144,23 +1158,23 @@ baltic = {
 
 levantine = {
     leader = european
-    greek = {
-        color = { 122  180  210 }
-        first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
-        Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
-        Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-        Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-        Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-        }
-
-        last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-        Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-        Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-        Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-        Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-        }
-        radicalism = 10
-    }
+    #greek = {
+    #    color = { 122  180  210 }
+    #    first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+    #    Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+    #    Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+    #    Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+    #    Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+    #    }
+	#
+    #    last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+    #    Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+    #    Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+    #    Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+    #    Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+    #    }
+    #    radicalism = 10
+    #}
     georgian = {
         color = {128 207 128}
         first_names = { Akaki Alexander Andria Bagrat Besarion David Dimitri Eduard Ekvtime Evgeni
@@ -1416,7 +1430,7 @@ iranian_turanian = {
     is_overseas = no
     unit = MiddleEasternGC
     persian = {
-        color = {144 88 81}
+        color = { 186 159 76 } #144 88 81
         first_names = {
             Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
             Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali"

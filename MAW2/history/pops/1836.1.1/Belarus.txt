@@ -283,13 +283,13 @@
 
     soldiers = {
         culture = tatar
-        religion = sunni
+        religion = manichaean
         size = 300
     }
 
     farmers = {
         culture = tatar
-        religion = sunni
+        religion = manichaean
         size = 1500
     }
 

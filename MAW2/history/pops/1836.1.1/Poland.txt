@@ -3367,7 +3367,7 @@
 
     farmers = {
         culture = tatar
-        religion = sunni
+        religion = manichaean
         size = 3400
     }
 

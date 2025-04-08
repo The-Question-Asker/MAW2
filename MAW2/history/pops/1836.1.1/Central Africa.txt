@@ -106,31 +106,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = fulbe
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = fulbe
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     soldiers = {
         culture = fulbe
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = fulbe
-        religion = sunni
+        religion = manichaean
         size = 900
     }
 }
@@ -168,31 +168,31 @@
 
     aristocrats = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     soldiers = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = baguirmi
-        religion = sunni
+        religion = manichaean
         size = 900
     }
 
@@ -357,31 +357,31 @@
 1971 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = manichaean
         size = 900
     }
 

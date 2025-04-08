@@ -305,7 +305,13 @@
     artisans = {
         culture = roman
         religion = orthodox
-        size = 3500
+        size = 2500
+    }
+	
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1000
     }
 
     soldiers = {
@@ -317,7 +323,13 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 30975
+        size = 17975
+    }
+	
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 13075
     }
 
 }

@@ -76,7 +76,7 @@
 
     slaves = {
         culture = uighur
-        religion = sunni
+        religion = manichaean
         size = 6000
     }
 }
@@ -114,7 +114,7 @@
 
     slaves = {
         culture = uighur
-        religion = sunni
+        religion = manichaean
         size = 5000
     }
 }
@@ -214,7 +214,7 @@
 
     slaves = {
         culture = uighur
-        religion = sunni
+        religion = manichaean
         size = 2000
     }
 }
@@ -350,37 +350,37 @@
 
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = manichaean
         size = 200
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = manichaean
         size = 600
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = manichaean
         size = 125
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = manichaean
         size = 10975
     }
 
     slaves = {
         culture = kazak
-        religion = sunni
+        religion = manichaean
         size = 2000
     }
 }

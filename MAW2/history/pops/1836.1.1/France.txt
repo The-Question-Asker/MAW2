@@ -1963,21 +1963,27 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 4000
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1000
     }
 
     farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 42400
+    }
+
+    farmers = {
         culture = frankish
         religion = orthodox
-        size = 72400
+        size = 34000
     }
 
 }
@@ -2363,27 +2369,33 @@
     }
 
     clergymen = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 600
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 5000
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1000
     }
 
     farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 53500
+    }
+	
+    farmers = {
         culture = frankish
         religion = orthodox
-        size = 83500
+        size = 33500
     }
 
 }
@@ -2403,33 +2415,39 @@
     }
 
     bureaucrats = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 950
     }
 
     clergymen = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 400
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 10000
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 750
     }
 
     farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 50750
+    }
+	
+    farmers = {
         culture = frankish
         religion = orthodox
-        size = 58750
+        size = 8750
     }
 }
 #Chateauroux (520000/130000 POPS)
@@ -2447,21 +2465,27 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 6500
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1350
     }
 
     farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 70000
+    }
+	
+    farmers = {
         culture = frankish
         religion = orthodox
-        size = 121000
+        size = 51000
     }
 }
 #Tulle (788000/197000 POPS)
@@ -2479,21 +2503,27 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 7500
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 2000
     }
 
     farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 110100
+    }
+	
+    farmers = {
         culture = frankish
         religion = orthodox
-        size = 134100
+        size = 24100
     }
 
 }
@@ -2513,19 +2543,19 @@
     }
 
     bureaucrats = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 850
     }
 
     clergymen = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1250
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 7000
     }
@@ -2537,7 +2567,7 @@
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1850
     }
@@ -2549,7 +2579,7 @@
     }
 
      farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 85700
     }
@@ -2569,27 +2599,27 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 5000
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1000
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 50050
+        size = 80050
     }
 
         farmers = {
         culture = frankish
         religion = orthodox
-        size = 42350
+        size = 12350
     }
 }
 #Cahors (286000/71500 POPS)
@@ -2607,7 +2637,7 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 3500
     }
@@ -2619,15 +2649,15 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 40825
+        size = 60825
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 33125
+        size = 13125
     }
 
 }
@@ -2647,51 +2677,45 @@
     }
 
     bureaucrats = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1650
     }
 
-    capitalists = {
-        culture = frankish
-        religion = orthodox
-        size = 50
-    }
-
     clerks = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 350
     }
 
-    craftsmen = {
-        culture = frankish
-        religion = orthodox
-        size = 6500
-    }
-
     clergymen = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1500
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 26500
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 2100
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 103600
+        size = 80600
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 23600
     }
 
     #####Jews
@@ -2758,7 +2782,7 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 10000
     }
@@ -2769,28 +2793,28 @@
         size = 5000
     }
 
-    craftsmen = {
-        culture = frankish
-        religion = orthodox
+    farmers = {
+        culture = narbonne
+        religion = arian
         size = 9000
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1150
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 50725
+        size = 70725
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 35025
+        size = 15025
     }
 }
 #Valence (656000/164000 POPS)
@@ -2808,13 +2832,13 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 8000
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1650
     }
@@ -2826,15 +2850,21 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 71100
     }
 
        farmers = {
+        culture = narbonne
+        religion = arian
+        size = 62600
+    }
+	
+       farmers = {
         culture = frankish
         religion = orthodox
-        size = 70600
+        size = 8600
     }
 }
 #Grenoble (696000/174000 POPS)
@@ -2858,7 +2888,7 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 4000
     }
@@ -2876,7 +2906,7 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 90800
     }
@@ -2886,61 +2916,67 @@
 #Toulouse (672000/168000 POPS)
 455 = {
     aristocrats = {
-        culture = frankish
+        culture = vasconian
         religion = orthodox
         size = 1600
     }
 
     officers = {
-        culture = frankish
+        culture = vasconian
         religion = orthodox
         size = 350
     }
 
     bureaucrats = {
-        culture = frankish
+        culture = vasconian
         religion = orthodox
         size = 800
     }
 
     clergymen = {
-        culture = frankish
+        culture = vasconian
         religion = orthodox
         size = 1200
     }
 
     artisans = {
-        culture = frankish
+        culture = vasconian
         religion = orthodox
         size = 10000
     }
 
     artisans = {
-        culture = frankish
+        culture = vasconian
         religion = orthodox
         size = 10000
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 5000
     }
 
     soldiers = {
-        culture = frankish
+        culture = vasconian
         religion = orthodox
         size = 1750
     }
 
     farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 18000
+    }
+	
+    farmers = {
         culture = frankish
         religion = orthodox
-        size = 20000
+        size = 2000
     }
 
     farmers = {
-        culture = frankish
+        culture = vasconian
         religion = orthodox
         size = 72300
     }
@@ -2960,59 +2996,65 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 7500
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 74150
+        size = 124150
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 60400
+        size = 10400
     }
 }
 #Foix (348000/87000 POPS)
 457 = {
     aristocrats = {
-        culture = frankish
-        religion = orthodox
+        culture = vasconian
+        religion = arian
         size = 800
     }
 
     clergymen = {
-        culture = frankish
-        religion = orthodox
+        culture = vasconian
+        religion = arian
         size = 450
     }
 
     artisans = {
-        culture = frankish
-        religion = orthodox
+        culture = vasconian
+        religion = arian
         size = 4000
     }
 
     soldiers = {
-        culture = frankish
-        religion = orthodox
+        culture = vasconian
+        religion = arian
         size = 1000
     }
 
     farmers = {
-        culture = frankish
+        culture = vasconian
+        religion = arian
+        size = 70750
+    }
+	
+    farmers = {
+        culture = narbonne
         religion = orthodox
-        size = 80750
+        size = 10750
     }
 
 }
@@ -3038,13 +3080,13 @@
     }
 
     clergymen = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1200
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 10000
     }
@@ -3056,7 +3098,7 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 10000
     }
@@ -3074,15 +3116,15 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 80910
+        size = 60910
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 30510
+        size = 50510
     }
 }
 #Mont de Marsan (556000/139000 POPS)
@@ -3106,7 +3148,7 @@
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1400
     }
@@ -3114,85 +3156,85 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 80675
+        size = 70675
     }
 
         farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 40975
+        size = 50975
     }
 }
 #Pau (676000/169000 POPS)
 460 = {
     aristocrats = {
-        culture = frankish
-        religion = orthodox
+        culture = vasconian
+        religion = arian
         size = 1200
     }
 
     clergymen = {
-        culture = frankish
-        religion = orthodox
+        culture = vasconian
+        religion = arian
         size = 850
     }
 
     artisans = {
-        culture = frankish
-        religion = orthodox
+        culture = vasconian
+        religion = arian
         size = 3000
     }
 
     artisans = {
-        culture = frankish
-        religion = orthodox
+        culture = narbonne
+        religion = arian
         size = 3000
     }
 
     soldiers = {
-        culture = frankish
-        religion = orthodox
+        culture = vasconian
+        religion = arian
         size = 1250
     }
 
     farmers = {
-        culture = frankish
-        religion = orthodox
+        culture = vasconian
+        religion = arian
         size = 64700
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 10000
     }
 
     aristocrats = {
-        culture = basque
+        culture = narbonne
         religion = orthodox
         size = 400
     }
 
     clergymen = {
-        culture = basque
+        culture = vasconian
         religion = orthodox
         size = 350
     }
 
     artisans = {
-        culture = basque
+        culture = narbonne
         religion = orthodox
         size = 2500
     }
 
     soldiers = {
-        culture = basque
+        culture = narbonne
         religion = orthodox
         size = 450
     }
 
     farmers = {
-        culture = basque
+        culture = narbonne
         religion = orthodox
         size = 31300
     }
@@ -3202,45 +3244,51 @@
 #Montpellier (724000/181000)
 461 = {
     aristocrats = {
-        culture = frankish
-        religion = orthodox
+        culture = catalan
+        religion = arian
         size = 1800
     }
 
     officers = {
-        culture = frankish
-        religion = orthodox
+        culture = catalan
+        religion = arian
         size = 450
     }
 
     bureaucrats = {
-        culture = frankish
-        religion = orthodox
+        culture = catalan
+        religion = arian
         size = 1100
     }
 
     clergymen = {
-        culture = frankish
-        religion = orthodox
+        culture = catalan
+        religion = arian
         size = 1300
     }
 
     artisans = {
-        culture = frankish
-        religion = orthodox
+        culture = catalan
+        religion = arian
         size = 11100
     }
 
     soldiers = {
-        culture = frankish
-        religion = orthodox
+        culture = catalan
+        religion = arian
         size = 1800
     }
 
     farmers = {
-        culture = frankish
+        culture = catalan
+        religion = arian
+        size = 61650
+    }
+	
+    farmers = {
+        culture = narbonne
         religion = orthodox
-        size = 123650
+        size = 62650
     }
 }
 #Rodez (504000/126000 POPS)
@@ -3252,95 +3300,101 @@
     }
 
     clergymen = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 850
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 6500
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1300
     }
 
     farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 110150
+    }
+	
+    farmers = {
         culture = frankish
         religion = orthodox
-        size = 116150
+        size = 6150
     }
 }
 #Carcassone (276000/69000 POPS)
 463 = {
     aristocrats = {
-        culture = frankish
+        culture = catalan
         religion = orthodox
         size = 700
     }
 
     clergymen = {
-        culture = frankish
+        culture = catalan
         religion = orthodox
         size = 450
     }
 
     artisans = {
-        culture = frankish
+        culture = catalan
         religion = orthodox
         size = 4500
     }
 
     soldiers = {
-        culture = frankish
+        culture = catalan
         religion = orthodox
         size = 1000
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 30000
+        size = 20000
     }
 
     farmers = {
-        culture = frankish
+        culture = catalan
         religion = orthodox
-        size = 32350
+        size = 42350
     }
 }
 #Perpignan (164000/41000 POPS)
 464 = {
     aristocrats = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1250
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 11425
     }
@@ -3423,9 +3477,15 @@
     }
 
     farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 24800
+    }
+	
+    farmers = {
         culture = frankish
         religion = orthodox
-        size = 27800
+        size = 3800
     }
 }
 #Chambery (228400/57100 POPS)
@@ -3461,9 +3521,15 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 26175
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 1175
     }
 
 }
@@ -3501,21 +3567,27 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 10000
+        size = 18000
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 10000
+        size = 2000
     }
 
+    artisans = {
+        culture = catalan
+        religion = orthodox
+        size = 8000
+    }
+	
     artisans = {
         culture = greek
         religion = orthodox
-        size = 10000
+        size = 2000
     }
 
     soldiers = {
@@ -3531,9 +3603,15 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 12400
+        size = 11000
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 1400
     }
 }
 #Avignon (243600/60900 POPS)
@@ -3563,7 +3641,7 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 35625
     }
@@ -3589,13 +3667,13 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1500
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 350
     }
@@ -3607,7 +3685,7 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 10000
     }
@@ -3633,21 +3711,27 @@
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 7000
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1000
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
-        size = 35950
+        size = 30950
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 5950
     }
 
     farmers = {
@@ -3665,25 +3749,25 @@
     }
 
     clergymen = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 1600
     }
 
     soldiers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 350
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 23000
     }
@@ -3727,7 +3811,7 @@
     }
 
     farmers = {
-        culture = frankish
+        culture = narbonne
         religion = orthodox
         size = 18825
     }

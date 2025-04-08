@@ -222,7 +222,7 @@
 
     aristocrats = {
         culture = beifaren
-        religion = sunni
+        religion = manichaean
         size = 400
     }
 

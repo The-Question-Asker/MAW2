@@ -39,67 +39,67 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2600
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 125
     }
 
     officers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 325
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10000
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 8000
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 26800
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2950
     }
@@ -123,7 +123,7 @@
     }
 
     slaves = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1025
     }
@@ -155,73 +155,73 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1500
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 462
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10000
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10000
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10000
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1800
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 3000
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 79238
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2825
     }
@@ -247,49 +247,49 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 850
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 425
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 4100
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 75625
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1875
     }
@@ -315,49 +315,49 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 700
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 300
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 3050
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 54700
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1875
     }
@@ -395,49 +395,49 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 700
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 325
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 5250
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 49625
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1850
     }
@@ -463,49 +463,49 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1100
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 400
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 4050
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 74820
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2800
     }
@@ -515,37 +515,37 @@
 #Alexandria (640000/160000 POPS)
 1751 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 6750
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 3150
     }
 
     officers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 900
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2025
     }
 	
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10000
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10000
     }
@@ -575,73 +575,73 @@
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 3000
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 3000
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 4000
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 146000
     }
 	
     capitalists = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 425
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10000
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = manichaean
         size = 750
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 3000
     }
 
     craftsmen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 30000
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = manichaean
         size = 3000
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10000
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 96725
     }
@@ -671,25 +671,25 @@
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = manichaean
         size = 25
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = manichaean
         size = 125
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = manichaean
         size = 750
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = manichaean
         size = 12125
     }
@@ -713,13 +713,13 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1950
     }
@@ -733,31 +733,31 @@
 #Matruh (60000/15000 POPS)
 1752 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 225
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 600
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10150
     }
@@ -861,43 +861,43 @@
 #Suez (72000/18000 POPS)
 1755 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 350
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10
     }
 
     officers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1900
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 16340
     }
@@ -905,31 +905,31 @@
 #Al Arish (16000/4000 POPS)
 1756 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1800
     }
@@ -967,31 +967,31 @@
 #Sharm al Shaykh (12000/3000 POPS)
 1757 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 15
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 900
     }
@@ -1161,67 +1161,67 @@
 #Asyut (196000/49000 POPS)
 1762 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 625
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 110
     }
 
     officers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 175
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2550
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 37390
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 15
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 900
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 20935
     }
@@ -1229,49 +1229,49 @@
 #Bani Suwayf (76000/19000 OPS) }
 1763 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 275
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2800
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 15575
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2800
     }
@@ -1279,49 +1279,49 @@
 #Minya (104000/26000 POPS)
 1764 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 375
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1550
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 18325
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 4800
     }
@@ -1329,49 +1329,49 @@
 #Fayyum (192000/48000 POPS)
 1765 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 800
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 425
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 2100
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 37675
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 300
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 5650
     }
@@ -1379,49 +1379,49 @@
 #Suhaj (96000/24000 POPS)
 2559 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 400
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 225
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 20025
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1850
     }
@@ -1431,67 +1431,67 @@
 #Aswan (48000/12000 POPS)
 1766 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 175
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 45
     }
 
     officers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 75
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 125
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 8980
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 5
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1850
     }
@@ -1499,49 +1499,49 @@
 #Luxor (68000/17000 POPS)
 1767 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 225
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 600
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 175
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10875
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 4700
     }
@@ -1549,49 +1549,49 @@
 #Idfu (76000/19000 POPS)
 1768 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 300
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 850
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 15475
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1850
     }
@@ -1599,49 +1599,49 @@
 #Qina (52000/13000 POPS)
 1769 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 550
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10000
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 1850
     }
@@ -1683,31 +1683,31 @@
 #Marsa Alam (20000/5000 POPS)
 1771 = {
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 15
     }
 
     clergymen = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 10
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 900
     }

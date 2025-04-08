@@ -70,37 +70,37 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 875
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 4000
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 91875
     }
 
@@ -186,31 +186,31 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 17125
     }
 }
@@ -218,31 +218,31 @@
 1403 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1500
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 875
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 3500
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 105875
     }
 
@@ -312,31 +312,31 @@
 1404 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 13850
     }
 
@@ -374,31 +374,31 @@
 2576 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 60
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 40
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 2700
     }
 
@@ -438,31 +438,31 @@
 1398 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 22750
     }
 
@@ -518,31 +518,31 @@
 1400 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1150
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 12150
     }
 
@@ -598,37 +598,37 @@
 1401 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 275
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 725
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 28275
     }
 
@@ -687,43 +687,43 @@
 1405 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     officers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 20650
     }
 
@@ -773,31 +773,31 @@
 1406 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 22500
     }
 
@@ -841,31 +841,31 @@
 1407 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 275
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 20725
     }
 
@@ -923,31 +923,31 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 450
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 2100
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 36975
     }
 
@@ -1057,31 +1057,31 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 875
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 3750
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 80125
     }
 
@@ -1155,37 +1155,37 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 14625
     }
 
@@ -1251,37 +1251,37 @@
 1413 = {
     aristocrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 4000
     }
 
     bureaucrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2500
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 16000
     }
 
     soldiers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 4750
     }
 
     farmers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 438500
     }
 
@@ -1415,31 +1415,31 @@
 
     aristocrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1500
     }
 
     clergymen = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1500
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 7500
     }
 
     soldiers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1500
     }
 
     farmers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 145000
     }
 }
@@ -1507,31 +1507,31 @@
 
     aristocrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2000
     }
 
     clergymen = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2000
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 8000
     }
 
     soldiers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2250
     }
 
     farmers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 190750
     }
 }
@@ -1539,31 +1539,31 @@
 1416 = {
     aristocrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1500
     }
 
     clergymen = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 6000
     }
 
     soldiers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     farmers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 124250
     }
 
@@ -1601,37 +1601,37 @@
 1417 = {
     aristocrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2500
     }
 
     clergymen = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2375
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2000
     }
 
     soldiers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2250
     }
 
     farmers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 217875
     }
 
@@ -1699,31 +1699,31 @@
 1418 = {
     aristocrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2500
     }
 
     clergymen = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2500
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 9000
     }
 
     soldiers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 2500
     }
 
     farmers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 228500
     }
 
@@ -1791,31 +1791,31 @@
 1419 = {
     aristocrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 625
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 4000
     }
 
     soldiers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 750
     }
 
     farmers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 71625
     }
 
@@ -1883,31 +1883,31 @@
 
     aristocrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1750
     }
 
     clergymen = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1625
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 8000
     }
 
     soldiers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1500
     }
 
     farmers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 153125
     }
 }
@@ -1915,31 +1915,31 @@
 1421 = {
     aristocrats = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1400
     }
 
     clergymen = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     artisans = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 4000
     }
 
     soldiers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = javan
-        religion = sunni
+        religion = animist
         size = 97500
     }
 
@@ -2040,37 +2040,37 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1850
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 34675
     }
 }
@@ -2078,13 +2078,13 @@
 1422 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 250
     }
 
@@ -2096,13 +2096,13 @@
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 15950
     }
 
@@ -2152,31 +2152,31 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 650
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 10925
     }
 }
@@ -2250,31 +2250,31 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     labourers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 8100
     }
 }
@@ -2318,37 +2318,37 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 800
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1050
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 11050
     }
 }
@@ -2371,37 +2371,37 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 275
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 20600
     }
 
@@ -2469,37 +2469,37 @@
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 650
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1500
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 30000
     }
 
     slaves = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 3000
     }
 }
@@ -2554,37 +2554,37 @@
 1430 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 700
     }
 
     bureaucrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 525
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 3000
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 600
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 4925
     }
 
@@ -2598,37 +2598,37 @@
 1431 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1750
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 3000
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1350
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 26150
     }
 
@@ -2642,31 +2642,31 @@
 1432 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1500
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 21750
     }
 
@@ -2741,31 +2741,31 @@
 
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 175
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1800
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 175
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 13675
     }
 }
@@ -2811,31 +2811,31 @@
 1435 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 20000
     }
 
@@ -2849,31 +2849,31 @@
 1436 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 600
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 11025
     }
 }
@@ -2881,31 +2881,31 @@
 1437 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 600
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 11025
     }
 
@@ -2916,25 +2916,25 @@
 1438 = {
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 13050
     }
 
@@ -3026,31 +3026,31 @@
 
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 2000
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 32200
     }
 }
@@ -3059,37 +3059,37 @@
 1439 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 425
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 2200
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 450
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 48425
     }
 
     slaves = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 2000
     }
 }
@@ -3127,31 +3127,31 @@
 
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 425
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 2200
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 450
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 40425
     }
 }
@@ -3189,31 +3189,31 @@
 
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1800
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 34350
     }
 
@@ -3774,31 +3774,31 @@
 
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 9650
     }
 }
@@ -3836,31 +3836,31 @@
 
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 20
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 680
     }
 }
@@ -3868,31 +3868,31 @@
 1450 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 550
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 5250
     }
 
@@ -3995,31 +3995,31 @@
 1453 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 3850
     }
 
@@ -4057,13 +4057,13 @@
 1452 = {
     aristocrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     bureaucrats = {
         culture = moluccan
-        religion = sunni
+        religion = animist
         size = 100
     }
 

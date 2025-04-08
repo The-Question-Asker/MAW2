@@ -1022,31 +1022,31 @@
 
     aristocrats = {
         culture = asian_minor
-        religion = sunni
+        religion = manichaean
         size = 175
     }
 
     clergymen = {
         culture = asian_minor
-        religion = sunni
+        religion = manichaean
         size = 75
     }
 
     artisans = {
         culture = asian_minor
-        religion = sunni
+        religion = manichaean
         size = 400
     }
 
     soldiers = {
         culture = asian_minor
-        religion = sunni
+        religion = manichaean
         size = 75
     }
 
     farmers = {
         culture = asian_minor
-        religion = sunni
+        religion = manichaean
         size = 7275
     }
 }
@@ -1108,7 +1108,7 @@
 
     farmers = {
         culture = asian_minor
-        religion = sunni
+        religion = manichaean
         size = 6000
     }
 

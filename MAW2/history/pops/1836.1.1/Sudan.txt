@@ -9,13 +9,13 @@
     }
 	
     aristocrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 250
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 40
     }
@@ -57,25 +57,25 @@
     }
 
     farmers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 8150
     }
 
     bureaucrats = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     officers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = greek
+        culture = aegyptian
         religion = orthodox
         size = 300
     }

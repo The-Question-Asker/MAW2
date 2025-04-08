@@ -655,19 +655,19 @@
 #Samarra (92000/23000 POPS)
 927 = {
     aristocrats = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 325
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 175
     }
 
     artisans = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 850
     }
@@ -682,6 +682,18 @@
         culture = mashriqi
         religion = manichaean
         size = 15475
+    }
+
+    farmers = {
+        culture = persian
+        religion = manichaean
+        size = 5475
+    }
+	
+    farmers = {
+        culture = persian
+        religion = zoroastrian
+        size = 475
     }
 
     aristocrats = {
@@ -717,19 +729,19 @@
 #Mendeli (84000/21000 POPS)
 928 = {
     aristocrats = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 175
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 125
     }
 
     artisans = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 600
     }
@@ -743,7 +755,13 @@
     farmers = {
         culture = mashriqi
         religion = manichaean
-        size = 10975
+        size = 30975
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = manichaean
+        size = 15975
     }
 
     aristocrats = {
@@ -773,7 +791,7 @@
     farmers = {
         culture = kurdish
         religion = manichaean
-        size = 3600
+        size = 13600
     }
 
     aristocrats = {
@@ -833,19 +851,19 @@
 #Karbala (100000/25000 POPS)
 929 = {
     aristocrats = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 125
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 400
     }
@@ -859,7 +877,7 @@
     farmers = {
         culture = mashriqi
         religion = manichaean
-        size = 7300
+        size = 17300
     }
 
     aristocrats = {
@@ -911,7 +929,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 23875
     }
@@ -919,19 +937,19 @@
 #Kut (100000/25000 POPS)
 930 = {
     aristocrats = {
-        culture = bedouin
+        culture = persian
         religion = manichaean
         size = 75
     }
 
     clergymen = {
-        culture = bedouin
+        culture = persian
         religion = manichaean
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = persian
         religion = manichaean
         size = 200
     }
@@ -999,7 +1017,13 @@
     farmers = {
         culture = mashriqi
         religion = manichaean
-        size = 17525
+        size = 10525
+    }
+	
+    farmers = {
+        culture = mashriqi
+        religion = manichaean
+        size = 28525
     }
 }
 #Badiyat al-Sham Region (8000)  #see Jordan.txt, Syria.txt & Saudi Arabia.txt for balance of region
@@ -1041,19 +1065,19 @@
 #Basra (140000/35000 POPS)
 932 = {
     bureaucrats = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 75
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
+        culture = persian
         religion = manichaean
         size = 150
     }
@@ -1153,23 +1177,35 @@
         religion = manichaean
         size = 19375
     }
+	
+    farmers = {
+        culture = persian
+        religion = manichaean
+        size = 5475
+    }
+	
+    farmers = {
+        culture = persian
+        religion = zoroastrian
+        size = 475
+    }
 }
 #Nasiriyya (152000/38000 POPS)
 933 = {
     aristocrats = {
-        culture = bedouin
+        culture = persian
         religion = manichaean
         size = 75
     }
 
     clergymen = {
-        culture = bedouin
+        culture = persian
         religion = manichaean
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = persian
         religion = manichaean
         size = 200
     }
@@ -1238,6 +1274,18 @@
         culture = mashriqi
         religion = manichaean
         size = 25825
+    }
+	
+    farmers = {
+        culture = persian
+        religion = manichaean
+        size = 8475
+    }
+	
+    farmers = {
+        culture = persian
+        religion = zoroastrian
+        size = 475
     }
 }
 #Najaf (96000/24000 POPS)

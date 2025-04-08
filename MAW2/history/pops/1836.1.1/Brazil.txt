@@ -2160,7 +2160,7 @@
 
     slaves = {
         culture = afro_brazilian
-        religion = sunni
+        religion = manichaean
         size = 7000
     }
 }
