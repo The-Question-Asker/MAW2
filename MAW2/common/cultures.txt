@@ -105,7 +105,7 @@ west_germanic = {
     unit = EuropeanGC
 
 	anglish = {
-	  color = { 235 219 157 }
+	  color = { 158 16 54 }
         	first_names = { Aculf Adalaver Adalbert Ægelric Ælfgar Ælfheah 
 							Ælfric Æthelbald Æthelferth Æthelgar Æthelweard 
 							Aldfrith Ahlred Athulf Athelstan Athelwald Aldhelm 
@@ -226,7 +226,7 @@ north_latin = {
     unit = EuropeanGC
 
 	brutonian = {
-	  color = { 235 219 157 }
+	  color = { 6 105 82 }
         	first_names = { Adelphius Sylfyos Publius Publyos Sextus Septymos Quintus Qyntos Adventus 
 							Prottus Aeneas Aennys Aemilianus Agricola Patricius Padrig Antonius Anhun 
 							Atticus Adhunys Trimalchio Barbus Barbid Battus Catulus Ybseccns Celsus 
@@ -242,7 +242,7 @@ north_latin = {
     }
 	
 	ivernach = {
-	  color = { 235 219 157 }
+	  color = { 136 168 47 }
         	first_names = { }
 
 			last_names = { Coileanus Brighidia Mohanus Bradain Ciardus Mochanus Ruadhia }

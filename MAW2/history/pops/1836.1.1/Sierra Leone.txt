@@ -41,73 +41,73 @@
 
     aristocrats = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 675
     }
 
     officers = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 1650
     }
 
     soldiers = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 350
     }
 
     farmers = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 32125
     }
 
     aristocrats = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 875
     }
 
     officers = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 2300
     }
 
     soldiers = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 450
     }
 
     farmers = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 48275
     }
 
@@ -146,31 +146,31 @@
 1886 = {
     aristocrats = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 900
     }
 
     clergymen = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 1875
     }
 
     soldiers = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 475
     }
 
     farmers = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 36650
     }
 
@@ -216,61 +216,61 @@
 1885 = {
     aristocrats = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 925
     }
 
     clergymen = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 1900
     }
 
     soldiers = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 475
     }
 
     farmers = {
         culture = mande
-        religion = manichaean
+        religion = animist
         size = 36600
     }
 
     aristocrats = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 800
     }
 
     clergymen = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 1650
     }
 
     soldiers = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 425
     }
 
     farmers = {
         culture = western_nigritic
-        religion = manichaean
+        religion = animist
         size = 37025
     }
 

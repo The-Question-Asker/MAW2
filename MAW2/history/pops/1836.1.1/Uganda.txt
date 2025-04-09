@@ -10,13 +10,13 @@
 
     aristocrats = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 350
     }
 
     bureaucrats = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 50
     }
 
@@ -28,13 +28,13 @@
 
     officers = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 725
     }
 
@@ -46,7 +46,7 @@
 
     artisans = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 1000
     }
 
@@ -58,7 +58,7 @@
 
     soldiers = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 1000
     }
 
@@ -70,7 +70,7 @@
 
     farmers = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 15000
     }
 
@@ -150,7 +150,7 @@
 
     farmers = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 2080
     }
 
@@ -194,25 +194,25 @@
 2021 = {
     aristocrats = {
         culture = luo
-        religion = manichaean
+        religion = animist
         size = 550
     }
 
     clergymen = {
         culture = luo
-        religion = manichaean
+        religion = animist
         size = 300
     }
 
     soldiers = {
         culture = luo
-        religion = manichaean
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = luo
-        religion = manichaean
+        religion = animist
         size = 700
     }
 
@@ -298,25 +298,25 @@
 
     aristocrats = {
         culture = luo
-        religion = manichaean
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = luo
-        religion = manichaean
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = luo
-        religion = manichaean
+        religion = animist
         size = 350
     }
 
     soldiers = {
         culture = luo
-        religion = manichaean
+        religion = animist
         size = 75
     }
 
@@ -328,7 +328,7 @@
 
     farmers = {
         culture = nilotic
-        religion = manichaean
+        religion = animist
         size = 2700
     }
 
@@ -354,13 +354,13 @@
 
     aristocrats = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 750
     }
 
     clergymen = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 375
     }
 
@@ -378,7 +378,7 @@
 
     soldiers = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 375
     }
 
@@ -390,7 +390,7 @@
 
     farmers = {
         culture = baganda
-        religion = manichaean
+        religion = animist
         size = 9000
     }
 

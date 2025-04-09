@@ -796,31 +796,31 @@
 1753 = {
     aristocrats = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 75
     }
 
     clergymen = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 50
     }
 
     artisans = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 250
     }
 
     soldiers = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 50
     }
 
     farmers = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 3575
     }
 	
@@ -834,31 +834,31 @@
 1754 = {
     aristocrats = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 50
     }
 
     clergymen = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 50
     }
 
     artisans = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 200
     }
 
     soldiers = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 50
     }
 
     farmers = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 3050
     }
 	
@@ -1106,7 +1106,7 @@
 	
     farmers = {
         culture = berber
-        religion = orthodox
+        religion = arian
         size = 1700
     }
 }
