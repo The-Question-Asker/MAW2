@@ -81,31 +81,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 275
     }
 
     clergymen = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 800
     }
 
     soldiers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 125
     }
 
     farmers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 15650
     }
@@ -558,31 +558,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 125
     }
 
     clergymen = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 350
     }
 
     soldiers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 75
     }
 
     farmers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 6375
     }
@@ -656,31 +656,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     clergymen = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 2700
     }
@@ -762,31 +762,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 250
     }
 
     clergymen = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 700
     }
 
     soldiers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 12850
     }
@@ -860,31 +860,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 75
     }
 
     clergymen = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     farmers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 3600
     }
@@ -952,31 +952,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 75
     }
 
     farmers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 5475
     }
@@ -1014,31 +1014,31 @@
 #Salima (8000/2000 POPS)
 2564 = {
     aristocrats = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 25
     }
 
     clergymen = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 1100
     }
@@ -1343,31 +1343,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     clergymen = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     farmers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 3650
     }

@@ -63,25 +63,25 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 125
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 350
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 375
     }
@@ -143,31 +143,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 75
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 250
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 50
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 4550
     }
@@ -211,31 +211,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 125
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 275
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 1100
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 4250
     }
@@ -291,31 +291,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 225
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 125
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 650
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 1100
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 10000
     }
@@ -373,31 +373,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 175
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 500
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 100
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 9150
     }
@@ -453,31 +453,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 125
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 400
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 75
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 7325
     }
@@ -521,31 +521,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 300
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 50
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 5500
     }
@@ -579,13 +579,13 @@
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 25
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 2750
     }
@@ -612,13 +612,13 @@
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 25
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 2750
     }
@@ -657,61 +657,61 @@
 2585 = {
 
     aristocrats = {
-        culture = african
+        culture = sahid
         religion = arian
         size = 25
     }
 
     clergymen = {
-        culture = african
+        culture = sahid
         religion = arian
         size = 50
     }
 
     artisans = {
-        culture = african
+        culture = sahid
         religion = arian
         size = 150
     }
 
     soldiers = {
-        culture = african
+        culture = sahid
         religion = arian
         size = 1100
     }
 
     farmers = {
-        culture = african
+        culture = sahid
         religion = arian
         size = 1650
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 15
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 25
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 50
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 10
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 500
     }
@@ -843,13 +843,13 @@
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 10
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 900
     }
@@ -918,7 +918,7 @@
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 2650
     }

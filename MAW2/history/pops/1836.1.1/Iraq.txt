@@ -1,47 +1,47 @@
-#Mosul Region (492000) #mashriqi-manichaean = assyrian
+#Mosul Region (492000) #babylonian-manichaean = assyrian
 #under the rule of Ottoman Empire in 1836
 #Mosul (228000/57000 POPS)
 923 = {
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 325
     }
 
     bureaucrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 25
     }
 
     officers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 50
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 150
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 650
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 1100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
-        size = 12000
+        size = 8000
     }
 
     aristocrats = {
@@ -155,7 +155,7 @@
     farmers = {
         culture = assyrian
         religion = manichaean
-        size = 17325
+        size = 21325
     }
 
     slaves = {
@@ -167,31 +167,31 @@
 #Arbil (104000/26000 POPS)
 924 = {
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 75
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 250
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 50
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 4575
     }
@@ -283,31 +283,31 @@
 #Kirkuk (160000/40000 POPS)
 925 = {
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 75
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 300
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 75
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 6075
     }
@@ -425,7 +425,7 @@
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 10950
     }
@@ -443,7 +443,7 @@
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 3225
     }
@@ -473,13 +473,13 @@
     }
 	
     craftsmen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 15525
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 60525
     }
@@ -491,7 +491,7 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 1000
     }
@@ -527,7 +527,7 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 600
     }
@@ -539,13 +539,13 @@
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 1500
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 2750
     }
@@ -587,19 +587,19 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = zoroastrian
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = zoroastrian
         size = 1500
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = zoroastrian
         size = 2425
     }
@@ -673,13 +673,13 @@
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 175
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 15475
     }
@@ -747,7 +747,7 @@
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 125
     }
@@ -759,7 +759,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 15975
     }
@@ -869,13 +869,13 @@
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 17300
     }
@@ -911,19 +911,19 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 550
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 275
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 1300
     }
@@ -997,25 +997,25 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 350
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 175
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 950
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 10525
     }
@@ -1083,13 +1083,13 @@
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 50
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 2975
     }
@@ -1155,25 +1155,25 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 375
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 200
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 1050
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 19375
     }
@@ -1253,25 +1253,25 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 500
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 275
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 1400
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 25825
     }

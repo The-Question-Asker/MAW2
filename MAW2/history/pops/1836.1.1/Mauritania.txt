@@ -291,31 +291,31 @@
 #Bir Maghrein (16000/4000 POPS) #now part of Mauritania
 1782 = {
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 10
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 15
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 50
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 25
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = arian
         size = 900
     }

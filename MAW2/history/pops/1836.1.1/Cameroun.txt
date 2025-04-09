@@ -530,31 +530,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = baguirmi
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = bedouin
+        culture = baguirmi
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = bedouin
+        culture = baguirmi
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = bedouin
+        culture = baguirmi
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = bedouin
+        culture = baguirmi
         religion = animist
         size = 18300
     }

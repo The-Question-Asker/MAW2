@@ -1577,31 +1577,31 @@
 #Ahvaz (56000/14000 POPS)
 1131 = {
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 200
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 425
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 9925
     }
@@ -1669,25 +1669,25 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 550
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 10050
     }
@@ -1707,31 +1707,31 @@
 #Dezful (32000/8000 POPS)
 1133 = {
     aristocrats = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 25
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 100
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 25
     }
 
     farmers = {
-        culture = mashriqi
+        culture = babylonian
         religion = manichaean
         size = 1800
     }

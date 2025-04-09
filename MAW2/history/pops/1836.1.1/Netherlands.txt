@@ -39,57 +39,62 @@
     }
     ########
     aristocrats = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 1410
     }
     officers = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 329
     }
     bureaucrats = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 2444
     }
     clergymen = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 1739
     }
     artisans = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 18800
     }
     artisans = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 9400
     }
     artisans = {
-        culture = laaglander
+        culture = saxon
         religion = orthodox
         size = 7520
     }
     soldiers = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 9400
     }
     soldiers = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 2256
     }
     farmers = {
+        culture = laaglander
+        religion = orthodox
+        size = 37911
+    }
+    farmers = {
         culture = saxon
         religion = orthodox
-        size = 42911
+        size = 5911
     }
     artisans = {
-        culture = laaglander
+        culture = saxon
         religion = orthodox
         size = 7990
     }
@@ -166,19 +171,19 @@
 #Utrecht (152000/38000 POPS)
 377 = {
     aristocrats = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 282
     }
     clergymen = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
         size = 164
     }
     artisans = {
-        culture = saxon
+        culture = laaglander
         religion = orthodox
-        size = 11280
+        size = 9280
     }
     soldiers = {
         culture = saxon
@@ -188,13 +193,13 @@
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 20053
+        size = 15053
     }
 	
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 3053
+        size = 10053
     }
 }
 #Middelburg (170000/42500 POPS)

@@ -9,39 +9,45 @@
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = babylonian
         religion = manichaean
         size = 10
     }
 
     officers = {
-        culture = bedouin
+        culture = babylonian
         religion = manichaean
         size = 10
     }
 
     clergymen = {
-        culture = bedouin
+        culture = babylonian
         religion = manichaean
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = babylonian
         religion = manichaean
         size = 150
     }
 
     soldiers = {
-        culture = bedouin
+        culture = babylonian
         religion = manichaean
         size = 100
     }
 
     farmers = {
-        culture = bedouin
+        culture = babylonian
         religion = manichaean
         size = 2725
+    }
+	
+    farmers = {
+        culture = bedouin
+        religion = manichaean
+        size = 325
     }
 }
 #Bahrain Region (28000) #see Saudi Arabia.txt for balance of region

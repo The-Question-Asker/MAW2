@@ -3,31 +3,31 @@
 #Guryev (19000/4750 POPS)
 1182 = {
     bureaucrats = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 20
     }
 
     clergymen = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 15
     }
 
     artisans = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 35
     }
 
     soldiers = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 15
     }
 
     farmers = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 665
     }
@@ -97,25 +97,25 @@
 #Uralsk (13000/3250 POPS)
 2610 = {
     clergymen = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 30
     }
 
     artisans = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 45
     }
 
     soldiers = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 1150
     }
@@ -219,31 +219,31 @@
 #Kokshetau (96000/24000 POPS)
 1184 = {
     bureaucrats = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 50
     }
 
     clergymen = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 2700
     }
@@ -311,7 +311,7 @@
     }
 
     slaves = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 5000
     }
@@ -415,7 +415,7 @@
     }
 
     farmers = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 500
     }
@@ -552,7 +552,7 @@
     }
 
     slaves = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 3000
     }
@@ -750,7 +750,7 @@
     }
 
     slaves = {
-        culture = russian
+        culture = temarundian
         religion = orthodox
         size = 6000
     }

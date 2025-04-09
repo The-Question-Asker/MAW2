@@ -1,7 +1,7 @@
-capital = 994
+capital = 1008
 primary_culture = ruthenian
-culture = byeloruthenia
-culture = temarundian
+culture = byeloruthenian
+#culture = temarundian
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0

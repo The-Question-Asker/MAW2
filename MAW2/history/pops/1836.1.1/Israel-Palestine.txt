@@ -441,7 +441,7 @@
     }
 
     farmers = {
-        culture = bedouin
+        culture = sahid
         religion = orthodox
         size = 5850
     }

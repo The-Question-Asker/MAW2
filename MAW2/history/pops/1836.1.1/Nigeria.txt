@@ -2348,31 +2348,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = berber
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = berber
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = bedouin
+        culture = berber
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = bedouin
+        culture = berber
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = bedouin
+        culture = berber
         religion = animist
         size = 7200
     }

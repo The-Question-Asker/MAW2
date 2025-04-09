@@ -4,109 +4,109 @@
 349 = {
     aristocrats = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     officers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 325
     }
 
     artisans = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 750
     }
 
     soldiers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 1600
     }
 
     farmers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 34425
     }
 
     aristocrats = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 375
     }
 
     bureaucrats = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 75
     }
 
     officers = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 125
     }
 
     clergymen = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     artisans = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 825
     }
 
     soldiers = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = swedish
-        religion = protestant
+        culture = norse
+        religion = orthodox
         size = 100
     }
 
     aristocrats = {
-        culture = swedish
-        religion = protestant
+        culture = norse
+        religion = orthodox
         size = 100
     }
 
     officers = {
-        culture = swedish
-        religion = protestant
+        culture = norse
+        religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = swedish
-        religion = protestant
+        culture = norse
+        religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = swedish
-        religion = protestant
+        culture = norse
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = swedish
-        religion = protestant
+        culture = norse
+        religion = orthodox
         size = 400
     }
 
@@ -182,25 +182,25 @@
 350 = {
     clergymen = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 425
     }
 
     artisans = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 2300
     }
 
     soldiers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 1450
     }
 
     farmers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 39825
     }
 
@@ -238,112 +238,118 @@
 351 = {
     aristocrats = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 350
     }
 
     clergymen = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     artisans = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 550
     }
 
     soldiers = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     farmers = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 400
     }
 
     artisans = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 600
     }
 
     soldiers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 200
     }
 
     farmers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 20800
     }
 }
 #Tartu/Dorpat (156000/39000 POPS)
 352 = {
     aristocrats = {
-        culture = ruthenian
-        religion = protestant
+        culture = byeloruthenian
+        religion = orthodox
         size = 250
     }
 
     clergymen = {
-        culture = ruthenian
-        religion = protestant
+        culture = byeloruthenian
+        religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = ruthenian
-        religion = protestant
+        culture = byeloruthenian
+        religion = orthodox
         size = 550
     }
 
     soldiers = {
-        culture = ruthenian
-        religion = protestant
+        culture = byeloruthenian
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = ruthenian
-        religion = protestant
+        culture = byeloruthenian
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 350
     }
 
     artisans = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 1300
     }
 
     soldiers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 350
     }
 
     farmers = {
+        culture = byeloruthenian
+        religion = orthodox
+        size = 24500
+    }
+
+    farmers = {
         culture = letts
-        religion = protestant
-        size = 34500
+        religion = orthodox
+        size = 10325
     }
 
     clergymen = {
@@ -375,49 +381,49 @@
 
     clergymen = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     artisans = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     farmers = {
         culture = ruthenian
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     artisans = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 100
     }
 
     farmers = {
         culture = letts
-        religion = protestant
+        religion = orthodox
         size = 3225
     }
 

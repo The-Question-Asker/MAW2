@@ -91,19 +91,13 @@ north_germanic = {
     leader = european
     unit = EuropeanGC
 
-	svergian = {
-	  color = { 235 219 157 }
+	norse = {
+	  color = { 50 70 128 }
         	first_names = { }
 
 			last_names = {	}
     }
 	
-	nyorsk = {
-	  color = { 235 219 157 }
-        	first_names = { }
-
-			last_names = {	}
-    }
 }
 
 west_germanic = {
@@ -333,7 +327,7 @@ zapadoslavs = {
 	
 	
 	polish = {
-	  color = { 148 77 98 } #61 107 54
+	  color = { 199 56 98 } #148 77 98 #61 107 54
         	first_names = { }
 
 			last_names = {	}
@@ -353,7 +347,7 @@ great_slavs = {
     unit = EuropeanGC
 
 	ruthenian = {
-	  color = { 122 191 149 }
+	  color = { 9 115 80 }
         	first_names = { }
 
 			last_names = {	}
@@ -367,7 +361,33 @@ great_slavs = {
     }
 	
 	temarundian = {
-	  color = { 9 115 80 }
+	  color = { 43 166 145 }
+        	first_names = { }
+
+			last_names = {	}
+    }
+	
+}
+
+mesopotamian = {
+    leader = european
+    unit = EuropeanGC
+
+	babylonian = {
+	  color = { 21 85 153 }
+        	first_names = { }
+
+			last_names = {	}
+    }
+	
+}
+
+coptic = {
+    leader = european
+    unit = EuropeanGC
+
+	sahid = {
+	  color = { 156 102 2 }
         	first_names = { }
 
 			last_names = {	}
@@ -420,7 +440,7 @@ jewish_cultures = {
     leader = european
     unit = EuropeanGC
     ashkenazi = {
-        color = { 150  212  214 }
+        color = { 242 121 182 } #150  212  214 
         first_names = { Abraham Albert Benjamin Daniel David Franz Gustav Heinrich Hermann Isaak Ignatz Jakob Jeremias Josef Leonhard Michael Mose Salomon Saul Shmuel
         Sigmund Simon Theodor }
 
@@ -609,7 +629,7 @@ finnougric = {
     leader = european
     unit = SwedishGC
     finnish = {
-        color = { 220 220 220}
+        color = { 194 148 79 }
         first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
         Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
         Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }

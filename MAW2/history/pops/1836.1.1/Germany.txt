@@ -1624,13 +1624,13 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 20000
+        size = 31000
     }
 
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 50000
+        size = 39000
     }
 
     clergymen = {
@@ -5607,31 +5607,31 @@
 #Gumbinnen (228000/57000 POPS) #now part of Russia
 697 = {
     aristocrats = {
-        culture = saxon
+        culture = polish
         religion = orthodox
         size = 1100
     }
 
     clergymen = {
-        culture = saxon
+        culture = polish
         religion = orthodox
         size = 475
     }
 
     artisans = {
-        culture = saxon
+        culture = polish
         religion = orthodox
         size = 2600
     }
 
     soldiers = {
-        culture = saxon
+        culture = polish
         religion = orthodox
         size = 550
     }
 
     farmers = {
-        culture = saxon
+        culture = polish
         religion = orthodox
         size = 47275
     }
@@ -5655,31 +5655,31 @@
     }
 
     farmers = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 1850
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = letts
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = lithuanian
+        culture = letts
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = letts
         religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = lithuanian
+        culture = letts
         religion = orthodox
         size = 3800
     }

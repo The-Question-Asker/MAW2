@@ -1162,7 +1162,7 @@
     }
 
     farmers = {
-        culture = polish
+        culture = byeloruthenian
         religion = orthodox
         size = 7475
     }
@@ -2346,13 +2346,13 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 68600
+        size = 78600
     }
 
     serfs = {
-        culture = polish
+        culture = byeloruthenian
         religion = orthodox
-        size = 20000
+        size = 11329
     }
 
     soldiers = {
