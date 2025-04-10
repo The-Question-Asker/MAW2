@@ -5,25 +5,25 @@
     aristocrats = {
         culture = african
         religion = arian
-        size = 2350
+        size = 4350
     }
 
     bureaucrats = {
         culture = african
         religion = arian
-        size = 350
+        size = 650
     }
 
     officers = {
         culture = african
         religion = arian
-        size = 325
+        size = 625
     }
 
     clergymen = {
         culture = african
         religion = arian
-        size = 1200
+        size = 2200
     }
 
     artisans = {
@@ -33,25 +33,55 @@
     }
 
     artisans = {
+        culture = hispanic
+        religion = arian
+        size = 10000
+    }
+	
+    artisans = {
+        culture = greek
+        religion = arian
+        size = 10000
+    }
+	
+    artisans = {
+        culture = greek
+        religion = manichaean
+        size = 2000
+    }
+	
+    artisans = {
+        culture = roman
+        religion = arian
+        size = 10000
+    }
+	
+    artisans = {
+        culture = african
+        religion = arian
+        size = 10000
+    }
+	
+    artisans = {
         culture = african
         religion = arian
         size = 10000
     }
 
     artisans = {
-        culture = african
-        religion = arian
+        culture = greek
+        religion = orthodox
         size = 7500
     }
 
     soldiers = {
         culture = african
         religion = arian
-        size = 3000
+        size = 9200
     }
 
     soldiers = {
-        culture = african
+        culture = hispanic
         religion = arian
         size = 1000
     }
@@ -59,13 +89,19 @@
     farmers = {
         culture = african
         religion = arian
-        size = 76425
+        size = 126425
+    }
+	
+    farmers = {
+        culture = african
+        religion = orthodox
+        size = 6425
     }
 
     slaves = {
         culture = berber
         religion = arian
-        size = 5000
+        size = 15000
     }
 
     clergymen = {
@@ -77,17 +113,17 @@
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 3725
+        size = 12725
     }
 
     artisans = {
-        culture = maltese
+        culture = narbonne
         religion = orthodox
         size = 500
     }
 
     artisans = {
-        culture = south_italian
+        culture = roman
         religion = orthodox
         size = 500
     }

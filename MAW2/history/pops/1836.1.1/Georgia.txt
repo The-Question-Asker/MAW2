@@ -1,142 +1,142 @@
 #Gruzhia Region (644000)
 #under the rule of Russia in 1836
-#Tblisi (232000/58000 POPS) #circassian-orthodox = Ossetian
+#Tblisi (232000/58000 POPS) #circassian-manichaean = Ossetian
 1090 = {
     bureaucrats = {
         culture = russian
-        religion = orthodox
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = russian
-        religion = orthodox
+        religion = manichaean
         size = 25
     }
 
     artisans = {
         culture = russian
-        religion = orthodox
+        religion = manichaean
         size = 25
     }
 
     soldiers = {
         culture = russian
-        religion = orthodox
+        religion = manichaean
         size = 250
     }
 
     aristocrats = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 1100
     }
 
     bureaucrats = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 50
     }
 
     officers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 175
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 475
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 725
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 1100
     }
 
     serfs = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 40625
     }
 
     farmers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 5000
     }
 
     aristocrats = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 25
     }
 
     clergymen = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 25
     }
 
     artisans = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 150
     }
 
     soldiers = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 25
     }
 
     farmers = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 2775
     }
 
     aristocrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 450
     }
 
     soldiers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     farmers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 2400
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 4000
     }
 
@@ -186,61 +186,61 @@
 1091 = {
     aristocrats = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 200
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 500
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 100
     }
 
     serfs = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 9100
     }
 
     aristocrats = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 100
     }
 
     clergymen = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 50
     }
 
     artisans = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 300
     }
 
     soldiers = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 50
     }
 
     farmers = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 5500
     }
 
@@ -252,31 +252,31 @@
 
     aristocrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 150
     }
 
     soldiers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     farmers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 2700
     }
 }
@@ -284,31 +284,31 @@
 1092 = {
     aristocrats = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 550
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 300
     }
 
     artisans = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 1300
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 300
     }
 
     serfs = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 27300
     }
 
@@ -328,61 +328,61 @@
 1093 = {
     aristocrats = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 50
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 75
     }
 
     artisans = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 200
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 50
     }
 
     serfs = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 3625
     }
 
     aristocrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 100
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 250
     }
 
     soldiers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     farmers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 4550
     }
 
@@ -420,43 +420,43 @@
 1094 = {
     aristocrats = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 500
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 250
     }
 
     artisans = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 1300
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 275
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 3500
     }
 
     serfs = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 20675
     }
 
     farmers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 3000
     }
 }
@@ -464,61 +464,61 @@
 1095 = {
     aristocrats = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 75
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 75
     }
 
     artisans = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 200
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 50
     }
 
     farmers = {
         culture = georgian
-        religion = orthodox
+        religion = manichaean
         size = 17600
     }
 
     aristocrats = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 150
     }
 
     clergymen = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 75
     }
 
     artisans = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 450
     }
 
     soldiers = {
         culture = russian
-        religion = orthodox
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 28225
     }
 

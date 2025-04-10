@@ -2547,7 +2547,19 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 70895
+        size = 40895
+    }
+	
+    farmers = {
+        culture = roman
+        religion = arian
+        size = 20895
+    }
+	
+    farmers = {
+        culture = catalan
+        religion = arian
+        size = 10895
     }
 }
 #Sassari (188000/47000 POPS)
@@ -2579,12 +2591,18 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 43211
+        size = 40211
+    }
+	
+    farmers = {
+        culture = roman
+        religion = arian
+        size = 3211
     }
 
     farmers = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 4814
     }
 

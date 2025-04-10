@@ -4,7 +4,7 @@
 254 = {
     farmers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 13000
     }
 
@@ -34,49 +34,49 @@
 
     aristocrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 1100
     }
 
     officers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 250
     }
 
     bureaucrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 1125
     }
 
     clergymen = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 500
     }
 
     soldiers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 1250
     }
 
     artisans = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 10000
     }
 
     artisans = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 2000
     }
 
     farmers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 74875
     }
 }
@@ -84,7 +84,7 @@
 255 = {
     farmers = {
         culture = ivernach
-        religion = orthodox
+        religion = arian
         size = 13000
     }
 
@@ -114,31 +114,31 @@
 
     aristocrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 500
     }
 
     clergymen = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 250
     }
 
     artisans = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 5000
     }
 
     soldiers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 1100
     }
 
     farmers = {
         culture = ivernach
-        religion = orthodox
+        religion = arian
         size = 62250
     }
 }
@@ -152,7 +152,7 @@
 
     farmers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 10000
     }
 
@@ -176,31 +176,31 @@
 
     aristocrats = {
         culture = ivernach
-        religion = orthodox
+        religion = arian
         size = 250
     }
 
     clergymen = {
         culture = ivernach
-        religion = orthodox
+        religion = arian
         size = 250
     }
 
     artisans = {
         culture = ivernach
-        religion = orthodox
+        religion = arian
         size = 2500
     }
 
     soldiers = {
         culture = ivernach
-        religion = orthodox
+        religion = arian
         size = 1100
     }
 
     farmers = {
         culture = ivernach
-        religion = orthodox
+        religion = arian
         size = 33000
     }
 }
@@ -208,7 +208,7 @@
 257 = {
     farmers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 9000
     }
 
@@ -244,25 +244,25 @@
 
     clergymen = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 50
     }
 
     artisans = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 2250
     }
 
     soldiers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 125
     }
 
     farmers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 7575
     }
 
@@ -305,7 +305,7 @@
 259 = {
     bureaucrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 500
     }
 
@@ -406,31 +406,31 @@
 
     aristocrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 900
     }
 
     bureaucrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 750
     }
 
     officers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 250
     }
 
     soldiers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 500
     }
 
     farmers = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 5250
     }
 }
@@ -511,13 +511,13 @@
 263 = {
     aristocrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 700
     }
 
     bureaucrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 625
     }
 
@@ -597,7 +597,7 @@
 264 = {
     aristocrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 350
     }
 
@@ -635,7 +635,7 @@
 265 = {
     aristocrats = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 350
     }
 

@@ -3,26 +3,26 @@
 #Baku (76000/19000 POPS)
 1102 = {
     bureaucrats = {
-        culture = russian
-        religion = orthodox
+        culture = persian
+        religion = manichaean
         size = 40
     }
 
     clergymen = {
-        culture = russian
-        religion = orthodox
+        culture = persian
+        religion = arian
         size = 5
     }
 
     artisans = {
-        culture = russian
-        religion = orthodox
+        culture = persian
+        religion = arian
         size = 15
     }
 
     soldiers = {
-        culture = russian
-        religion = orthodox
+        culture = persian
+        religion = arian
         size = 40
     }
 
@@ -100,13 +100,13 @@
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 10
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 740
     }
 
@@ -340,31 +340,31 @@
 
     aristocrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 75
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 75
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 350
     }
 
     soldiers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 75
     }
 
     farmers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 6425
     }
 }
@@ -402,31 +402,31 @@
 
     aristocrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 100
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 300
     }
 
     soldiers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 75
     }
 
     farmers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 5475
     }
 }

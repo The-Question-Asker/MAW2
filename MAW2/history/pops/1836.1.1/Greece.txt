@@ -4,7 +4,7 @@
 805 = {
     aristocrats = {
         culture = greek
-        religion = manichaean
+        religion = orthodox
         size = 800
     }
 
@@ -902,13 +902,13 @@
 
     soldiers = {
         culture = british
-        religion = protestant
+        religion = manichaean
         size = 250
     }
 
     clergymen = {
         culture = british
-        religion = protestant
+        religion = manichaean
         size = 157
     }
 
@@ -982,13 +982,13 @@
     ######British #250 soldiers + 100 civilians
     soldiers = {
         culture = british
-        religion = protestant
+        religion = manichaean
         size = 250
     }
 
     clergymen = {
         culture = british
-        religion = protestant
+        religion = manichaean
         size = 150
     }
 

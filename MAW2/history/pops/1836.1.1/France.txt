@@ -2651,7 +2651,13 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 60825
+        size = 40825
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 20825
     }
 
     farmers = {
@@ -2714,7 +2720,7 @@
 	
     farmers = {
         culture = narbonne
-        religion = orthodox
+        religion = arian
         size = 23600
     }
 
@@ -2808,7 +2814,13 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 70725
+        size = 55725
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 15725
     }
 
     farmers = {
@@ -2908,7 +2920,13 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 90800
+        size = 65800
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 25800
     }
 
 }
@@ -2917,56 +2935,62 @@
 455 = {
     aristocrats = {
         culture = vasconian
-        religion = orthodox
+        religion = arian
         size = 1600
     }
 
     officers = {
         culture = vasconian
-        religion = orthodox
+        religion = arian
         size = 350
     }
 
     bureaucrats = {
         culture = vasconian
-        religion = orthodox
+        religion = arian
         size = 800
     }
 
     clergymen = {
         culture = vasconian
-        religion = orthodox
+        religion = arian
         size = 1200
     }
 
     artisans = {
         culture = vasconian
-        religion = orthodox
+        religion = arian
         size = 10000
     }
 
     artisans = {
         culture = vasconian
-        religion = orthodox
+        religion = arian
         size = 10000
     }
 
     artisans = {
         culture = narbonne
-        religion = orthodox
+        religion = arian
         size = 5000
     }
 
     soldiers = {
         culture = vasconian
-        religion = orthodox
+        religion = arian
         size = 1750
     }
 
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 18000
+        size = 10000
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 8000
     }
 	
     farmers = {
@@ -2977,7 +3001,7 @@
 
     farmers = {
         culture = vasconian
-        religion = orthodox
+        religion = arian
         size = 72300
     }
 }
@@ -3010,7 +3034,13 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 124150
+        size = 94150
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 30150
     }
 
     farmers = {
@@ -3054,7 +3084,13 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 10750
+        size = 4750
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 6750
     }
 
 }
@@ -3236,7 +3272,13 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 31300
+        size = 10300
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 21300
     }
 
 }
@@ -3288,7 +3330,12 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 62650
+        size = 42650
+    }
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 22650
     }
 }
 #Rodez (504000/126000 POPS)
@@ -3320,7 +3367,13 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 110150
+        size = 70150
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 40150
     }
 	
     farmers = {
@@ -3333,37 +3386,43 @@
 463 = {
     aristocrats = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 700
     }
 
     clergymen = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 450
     }
 
     artisans = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 4500
     }
 
     soldiers = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 1000
     }
 
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 20000
+        size = 12000
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 8000
     }
 
     farmers = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 42350
     }
 }
@@ -3396,36 +3455,42 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 11425
+        size = 5425
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 6425
     }
 
     aristocrats = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 200
     }
 
     clergymen = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 175
     }
 
     artisans = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 2250
     }
 
     soldiers = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 250
     }
 
     farmers = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 25075
     }
 
@@ -3822,31 +3887,31 @@
 473 = {
     aristocrats = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 400
     }
 
     aristocrats = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 150
     }
 
     officers = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 50
     }
 
     bureaucrats = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 100
     }
 
     clergymen = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 200
     }
 
@@ -3864,20 +3929,26 @@
 
     soldiers = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 1100
     }
 
     farmers = {
         culture = catalan
-        religion = orthodox
+        religion = arian
         size = 20800
     }
 
     farmers = {
         culture = roman
         religion = orthodox
-        size = 28300
+        size = 20000
+    }
+	
+    farmers = {
+        culture = roman
+        religion = arian
+        size = 8300
     }
 
 }

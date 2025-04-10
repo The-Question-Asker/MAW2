@@ -658,31 +658,31 @@
 
     aristocrats = {
         culture = sahid
-        religion = arian
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
         culture = sahid
-        religion = arian
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sahid
-        religion = arian
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
         culture = sahid
-        religion = arian
+        religion = orthodox
         size = 1100
     }
 
     farmers = {
         culture = sahid
-        religion = arian
+        religion = orthodox
         size = 1650
     }
 

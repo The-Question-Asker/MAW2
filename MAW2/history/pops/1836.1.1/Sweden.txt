@@ -689,25 +689,25 @@
 
     aristocrats = {
         culture = french
-        religion = catholic
+        religion = manichaean
         size = 20
     }
 
     clergymen = {
         culture = french
-        religion = catholic
+        religion = manichaean
         size = 50
     }
 
     artisans = {
         culture = french
-        religion = catholic
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = french
-        religion = catholic
+        religion = manichaean
         size = 500
     }
 

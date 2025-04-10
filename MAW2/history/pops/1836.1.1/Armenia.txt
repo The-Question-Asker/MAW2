@@ -3,56 +3,56 @@
 #Erivan (128000/32000 POPS)
 1098 = {
     bureaucrats = {
-        culture = russian
-        religion = orthodox
+        culture = persian
+        religion = arian
         size = 50
     }
 
     clergymen = {
-        culture = russian
-        religion = orthodox
+        culture = persian
+        religion = arian
         size = 10
     }
 
     soldiers = {
-        culture = russian
-        religion = orthodox
+        culture = persian
+        religion = arian
         size = 75
     }
 
     aristocrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 175
     }
 
     bureaucrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 25
     }
 
     officers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 50
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 125
     }
 
     soldiers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 125
     }
 
     farmers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 11850
     }
 
@@ -118,7 +118,7 @@
 
     farmers = {
         culture = assyrian
-        religion = catholic
+        religion = manichaean
         size = 300
     }
 }
@@ -126,61 +126,61 @@
 1099 = {
     aristocrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 300
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 175
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 800
     }
 
     soldiers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 175
     }
 
     farmers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 14750
     }
 
     aristocrats = {
         culture = georgian
-        religion = orthodox
+        religion = arian
         size = 10
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = arian
         size = 15
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = arian
         size = 10
     }
 
     farmers = {
         culture = georgian
-        religion = orthodox
+        religion = arian
         size = 925
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = arian
         size = 325
     }
 
@@ -189,31 +189,31 @@
 1100 = {
     aristocrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 125
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 75
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 400
     }
 
     soldiers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 75
     }
 
     farmers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 7325
     }
 
@@ -245,31 +245,31 @@
 1101 = {
     aristocrats = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 125
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 175
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 450
     }
 
     soldiers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 100
     }
 
     farmers = {
         culture = armenian
-        religion = coptic
+        religion = arian
         size = 8250
     }
 

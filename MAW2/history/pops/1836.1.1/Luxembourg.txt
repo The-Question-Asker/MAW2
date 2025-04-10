@@ -46,7 +46,7 @@
 
     farmers = {
         culture = laaglander
-        religion = protestant
+        religion = arian
         size = 1320
     }
 

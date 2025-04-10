@@ -4899,7 +4899,7 @@
 
     artisans = {
         culture = ruthenian
-        religion = orthodox
+        religion = manichaean
         size = 350
     }
 
@@ -5059,31 +5059,31 @@
 
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = manichaean
         size = 15
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = manichaean
         size = 25
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = manichaean
         size = 50
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = manichaean
         size = 10
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = manichaean
         size = 900
     }
 }
