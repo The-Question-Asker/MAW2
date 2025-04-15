@@ -1,6 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = KVE
+controller = KVE
+add_core = KVE
 add_core = ICL
 trade_goods = fish
 life_rating = 32

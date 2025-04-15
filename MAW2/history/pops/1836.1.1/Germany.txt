@@ -3385,7 +3385,7 @@
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 27575
+        size = 40575
     }
 
     aristocrats = {
@@ -3413,9 +3413,9 @@
     }
 
     farmers = {
-        culture = saxon
+        culture = frankish
         religion = orthodox
-        size = 24875
+        size = 11875
     }
 }
 #Rhineland Region (1908000)

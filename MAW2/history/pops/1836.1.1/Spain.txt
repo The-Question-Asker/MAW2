@@ -1154,43 +1154,43 @@
     }
 
     aristocrats = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 500
     }
 
     officers = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 100
     }
 
     bureaucrats = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 200
     }
 
     clergymen = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 275
     }
 
     artisans = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 9000
     }
 
     soldiers = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 300
     }
 
     farmers = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 16125
     }
@@ -1225,36 +1225,34 @@
         culture = catalan
         religion = arian
         size = 33300
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     aristocrats = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 450
     }
 
     clergymen = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 200
     }
 
     artisans = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 1100
     }
 
     soldiers = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 250
     }
 
     farmers = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 18600
     }
@@ -1360,31 +1358,31 @@
     }
 
     aristocrats = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 450
     }
 
     clergymen = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 200
     }
 
     artisans = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 1100
     }
 
     soldiers = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 200
     }
 
     farmers = {
-        culture = hispanic
+        culture = vasconian
         religion = arian
         size = 17650
     }

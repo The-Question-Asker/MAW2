@@ -1,6 +1,6 @@
-owner = FIN
-controller = FIN
-add_core = FIN
+owner = SUO
+controller = SUO
+add_core = SUO
 add_core = KRL
 trade_goods = iron
 life_rating = 10

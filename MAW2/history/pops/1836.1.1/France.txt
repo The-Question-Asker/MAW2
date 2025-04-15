@@ -3461,7 +3461,7 @@
     farmers = {
         culture = narbonne
         religion = arian
-        size = 6425
+        size = 3425
     }
 
     aristocrats = {
@@ -3491,7 +3491,13 @@
     farmers = {
         culture = catalan
         religion = arian
-        size = 25075
+        size = 23075
+    }
+	
+    farmers = {
+        culture = vasconian
+        religion = arian
+        size = 5075
     }
 
 }

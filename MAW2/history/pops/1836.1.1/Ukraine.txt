@@ -3342,37 +3342,37 @@
     }
 
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = orthodox
         size = 100
     }
 
     officers = {
-        culture = north_german
+        culture = polish
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = orthodox
         size = 3575
     }
