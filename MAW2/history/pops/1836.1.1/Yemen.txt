@@ -160,33 +160,40 @@
 #Socotra (16000/4000 POPS)
 1177 = {
     aristocrats = {
-        culture = bedouin
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = aegyptian
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = bedouin
+        culture = aegyptian
         religion = orthodox
         size = 50
+    }
+
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 775
     }
 
     farmers = {
         culture = bedouin
         religion = orthodox
-        size = 4775
+        size = 4000
     }
 
     slaves = {
