@@ -8,6 +8,7 @@ plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.01
 prestige = 5
+civilized = yes
 
 # Political reforms
 slavery = yes_slavery
@@ -41,17 +42,23 @@ nonstate_consciousness = 0
 
 oob = "CIR_oob.txt"
 
-set_country_flag = sunni_country
-
-decision = caucasus_muslims_1836_setup
-
-foreign_weapons = yes_foreign_weapons
-foreign_artillery = yes_foreign_artillery
-
+set_country_flag = manichaean_country
 
 # Technologies
+post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+piston_steam_engine = 1
+mechanical_production = 1
 
 # Inventions
 small_arms_production = yes

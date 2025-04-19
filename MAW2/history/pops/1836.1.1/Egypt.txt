@@ -138,7 +138,7 @@
 
     artisans = {
         culture = circassian
-        religion = orthodox
+        religion = manichaean
         size = 10000
     }
 
@@ -447,7 +447,13 @@
     aristocrats = {
         culture = circassian
         religion = orthodox
-        size = 950
+        size = 250
+    }
+	
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 750
     }
 
     artisans = {
@@ -483,31 +489,31 @@
     soldiers = {
         culture = aegyptian
         religion = orthodox
-        size = 1100
+        size = 5100
     }
 
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 74820
+        size = 144820
     }
 
     clergymen = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
-        size = 2800
+        size = 22800
     }
 }
 #Alexandria Region (736000)
@@ -1377,19 +1383,19 @@
     }
 
     clergymen = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 300
     }
 
     farmers = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 5650
     }
@@ -1411,7 +1417,7 @@
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 1100
+        size = 2100
     }
 
     soldiers = {
@@ -1423,25 +1429,25 @@
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 20025
+        size = 30025
     }
 
     clergymen = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
-        size = 1850
+        size = 9850
     }
 }
 #Said Region (244000)
@@ -1519,47 +1525,53 @@
     aristocrats = {
         culture = aegyptian
         religion = orthodox
-        size = 225
+        size = 725
     }
 
     clergymen = {
         culture = aegyptian
         religion = orthodox
-        size = 125
+        size = 525
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 600
+        size = 3600
     }
 
     soldiers = {
         culture = aegyptian
         religion = orthodox
-        size = 175
+        size = 3175
     }
 
     farmers = {
         culture = aegyptian
+        religion = orthodox
+        size = 70875
+    }
+	
+    farmers = {
+        culture = sahid
         religion = orthodox
         size = 10875
     }
 
     clergymen = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 4700
     }
@@ -1593,25 +1605,25 @@
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 15475
+        size = 25475
     }
 
     clergymen = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
-        size = 1850
+        size = 5850
     }
 }
 #Qina (52000/13000 POPS)
@@ -1643,25 +1655,25 @@
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 10000
+        size = 22000
     }
 
     clergymen = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = aegyptian
+        culture = sahid
         religion = orthodox
-        size = 1850
+        size = 10850
     }
 }
 #Red Sea Region (44000) #see Sudan.txt for balance of the region
