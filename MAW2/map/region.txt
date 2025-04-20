@@ -191,79 +191,6 @@ BEL_387 = { 387 388 389 390 391 } #Flanders
 
 BEL_394 = { 394 392 393 395 398 } #Wallonia
 
-
-### France
-
-FRA_399 = { 403 402 2570 } #Picardie - used to be { 403 405 406 408 402 2570 }
-
-FRA_400 = { 408 405 406 407 432 } #Champagne
-
-FRA_404 = { 399 400 401 404 } #Nord-Pas-De-Calais/Artois
-
-FRA_411 = { 411 413 414 } #Ardennes
-
-FRA_412 = { 412 409 410 } #Alsace-Lorraine
-
-FRA_418 = { 418 415 416 417 } #Normandie
-
-FRA_420 = { 420 421 422 424 423 } #Bretagne
-
-FRA_425 = { 425 426 427 } #Ile de France
-
-FRA_428 = { 428 429 431 430 433 } #Bourgogne
-
-FRA_435 = { 435 434 437 } #Loire
-
-FRA_438 = { 438 436 439 440 441 } #Region Centre
-
-FRA_442 = { 442 444 443 } #Poitou
-
-FRA_445 = { 445 446 447 } #Limousin
-
-FRA_448 = { 448 449 450 } #Auvergne
-
-FRA_451 = { 451 452 453 454 } #Rhone
-
-FRA_455 = { 455 457 456 } #Le Midi
-
-FRA_458 = { 458 459 460 } #Aquitaine
-
-FRA_461 = { 461 462 463 464 } #Languedoc
-
-SAR_466 = { 465 466 472 } #Savoie
-
-FRA_467 = { 467 468 469 470 471 } #Provence
-
-
-### Spain & Portugal
-
-SPA_474 = { 474 476 } #Galicia
-
-SPA_477 = { 477 479 480 481 482 483 475 478 } #León-Castilla
-
-SPA_484 = { 484 485 486 } #Extremadura
-
-SPA_487 = { 487 488 489 490 491 } #Castilla la Nueva
-
-SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragón
-
-SPA_498 = { 498 499 500 501 502 } #Catalonia
-
-SPA_503 = { 503 504 505 506 507 508 } #Valencia
-
-SPA_512 = { 512 509 510 511 517 } #Andalucia
-
-SPA_513 = { 513 514 515 516 } #Granada
-
-POR_518 = { 518 519 520 } #Douro
-
-POR_521 = { 521 522 523 524 } #Estremadura
-
-POR_525 = { 525 526 527 } #Alentejo
-
-POR_2134 = { 2134 2135 2136 } #Macaronesia
-
-
 ### Germany & Switzerland
 
 HAN_528 = { 528 531 532 535 } #Lower Elbe
@@ -1524,34 +1451,35 @@ FRA_442 = { 442 444 443 } #Poitou
 
 FRA_445 = { 445 446 447 } #Limousin
 
-FRA_448 = { 448 449 450 } #Auvergne
+FRA_451 = { 451 452 448 } #Rhone
 
-FRA_451 = { 451 452 453 454 } #Rhone
+FRA_455 = { 455 457 500 496 } #Le Midi
 
-FRA_455 = { 455 457 456 } #Le Midi
+FRA_458 = { 458 459 } #Aquitaine
 
-FRA_458 = { 458 459 460 } #Aquitaine
+FRA_461 = { 461 463 464 } #Languedoc
 
-FRA_461 = { 461 462 463 464 } #Languedoc
+SAR_466 = { 465 466 472 454 469 471 } #Savoie
 
-SAR_466 = { 465 466 472 } #Savoie
+FRA_467 = { 467 468 470 453 } #Provence
 
-FRA_467 = { 467 468 469 470 471 } #Provence
-
+FRA_448 = { 456 462 449 450 } #Auvergne
 
 ### Spain & Portugal
 
-SPA_474 = { 474 476 } #Galicia
+SPA_474 = { 474 476 522 518 519 520 } #Galicia
 
-SPA_477 = { 477 479 480 481 482 483 475 478 } #León-Castilla
+SPA_477 = { 477 480 482 483 475 478 } #León-Castilla
 
-SPA_484 = { 484 485 486 } #Extremadura
+SPA_484 = { 484 485 486 487 489 491 } #Extremadura
 
-SPA_487 = { 487 488 489 490 491 } #Castilla la Nueva
+#SPA_487 = { } #Castilla la Nueva
 
-SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragón
+SPA_492 = { 492 493 494 479 481 460 } #Vasconia-Aragón
 
-SPA_498 = { 498 499 500 501 502 } #Catalonia
+POR_521 = { 488 490 495 497 } #Estremadura
+
+SPA_498 = { 498 499 501 502 } #Catalonia
 
 SPA_503 = { 503 504 505 506 507 508 } #Valencia
 
@@ -1559,11 +1487,7 @@ SPA_512 = { 512 509 510 511 517 } #Andalucia
 
 SPA_513 = { 513 514 515 516 } #Granada
 
-POR_518 = { 518 519 520 } #Douro
-
-POR_521 = { 521 522 523 524 } #Estremadura
-
-POR_525 = { 525 526 527 } #Alentejo
+POR_525 = { 525 526 527 521 523 524 } #Alentejo
 
 POR_2134 = { 2134 2135 2136 } #Macaronesia
 
