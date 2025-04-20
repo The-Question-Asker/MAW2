@@ -1,6 +1,7 @@
 owner = CHY
 controller = CHY
 add_core = CHY
+add_core = CIR
 trade_goods = wool
 life_rating = 35
 
