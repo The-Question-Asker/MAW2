@@ -399,11 +399,11 @@ MOL_676 = { 676 677 678 } #Bessarabia
 
 TUR_788 = { 783 789 788 786 785 784 2583 2569 } #Bosnia
 
-SER_794 = { 794 795 796 } #Northern Serbia
+SER_794 = { 794 795 796 798 799 } #Northern Serbia
 
 MON_2582 = { 2577 802 804 787 797 } #Dardania
 
-TUR_803 = { 798 799 } #Southern Serbia
+#TUR_803 = { } #Southern Serbia
 
 TUR_805 = { 805 819 820 821 822 806 807 } #Macedonia
 
@@ -1703,11 +1703,11 @@ MOL_676 = { 676 677 678 } #Bessarabia
 
 TUR_788 = { 783 789 788 786 785 784 2583 2569 } #Bosnia
 
-SER_794 = { 794 795 796 } #Northern Serbia
+SER_794 = { 794 795 796 798 799 } #Northern Serbia
 
 MON_2582 = { 2577 802 804 787 797 } #Dardania
 
-TUR_803 = { 798 799 } #Southern Serbia
+#TUR_803 = {  } #Southern Serbia
 
 TUR_805 = { 805 819 820 821 822 806 807 } #Macedonia
 
@@ -1752,15 +1752,15 @@ TUR_885 = { 885 886 1096 } #Kars
 
 TUR_890 = { 890 891 887 } #Van
 
-TUR_893 = { 893 889 899 892 2414 } #Diyarbakir
+TUR_893 = { 893 889 899 892 2414 1813 } #Diyarbakir
 
 TUR_894 = { 894 896 898 900 895 } #Adana
 
 EGY_897 = { 897 904 905 903 902 } #Western Syria
 
-EGY_903 = { 901 1813 906 907 } #Eastern Syria
+EGY_903 = { 901 906 907 } #Eastern Syria
 
-EGY_910 = { 908 910 911 922 909 } #Transjordan
+EGY_910 = { 908 910 911 922 909 } #Ammon
 
 EGY_915 = { 913 915 912 914 } #Lebanon
 
