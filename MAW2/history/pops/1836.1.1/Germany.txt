@@ -5,135 +5,135 @@
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 600
+        size = 360
     }
 
     bureaucrats = {
         culture = teutonic
         religion = orthodox
-        size = 175
+        size = 105
     }
 
     officers = {
         culture = teutonic
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 575
+        size = 345
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 2400
+        size = 1440
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 48650
+        size = 29190
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 1700
+        size = 1020
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 300
+        size = 180
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 300
+        size = 180
     }
     ########
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 4600
+        size = 2760
     }
 }
 #Lauenburg (148000/37000 POPS)
@@ -141,31 +141,31 @@
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 350
+        size = 210
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 375
+        size = 225
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 1825
+        size = 1095
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 33500
+        size = 20100
     }
 }
 #Lower Elbe Region (557600)
@@ -175,31 +175,25 @@
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     bureaucrats = {
         culture = teutonic
         religion = orthodox
-        size = 375
+        size = 225
     }
 
     officers = {
         culture = teutonic
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 625
-    }
-
-    artisans = {
-        culture = teutonic
-        religion = orthodox
-        size = 10000
+        size = 375
     }
 
     artisans = {
@@ -208,59 +202,65 @@
         size = 6000
     }
 
+    artisans = {
+        culture = teutonic
+        religion = orthodox
+        size = 3600
+    }
+
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 1050
+        size = 630
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 16310
+        size = 9786
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 765
+        size = 459
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 300
+        size = 180
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 1175
+        size = 705
     }
     ########
 }
@@ -270,43 +270,43 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 550
+        size = 330
     }
 
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     officers = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 2750
+        size = 1650
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 2000
+        size = 1200
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 48050
+        size = 28830
     }
 }
 #Lunenburg (180000/45000 POPS)
@@ -314,31 +314,31 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 450
+        size = 270
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 4500
+        size = 2700
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 2250
+        size = 1350
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 45900
+        size = 27540
     }
 }
 #Under rule of Britain 1836
@@ -347,7 +347,7 @@
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 400
+        size = 240
     }
 
 }
@@ -358,86 +358,86 @@
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     bureaucrats = {
         culture = teutonic
         religion = orthodox
-        size = 116
+        size = 69.6
     }
 
     officers = {
         culture = teutonic
         religion = orthodox
-        size = 22
+        size = 13.2
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 230
+        size = 138
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 6976
+        size = 4185.599999999999
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 406
+        size = 243.6
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 3476
+        size = 2085.6
     }
 
     farmers = {
         culture = polish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
     ########
 }
@@ -447,86 +447,86 @@
     aristocrats = {
         culture = polish
         religion = orthodox
-        size = 1225
+        size = 735
     }
 
     bureaucrats = {
         culture = polish
         religion = orthodox
-        size = 275
+        size = 165
     }
 
     officers = {
         culture = polish
         religion = orthodox
-        size = 150
+        size = 90
     }
 
     clergymen = {
         culture = polish
         religion = orthodox
-        size = 1200
+        size = 720
     }
 
     artisans = {
         culture = polish
         religion = orthodox
-        size = 6000
+        size = 3600
     }
 
     soldiers = {
         culture = polish
         religion = orthodox
-        size = 1250
+        size = 750
     }
 
     farmers = {
         culture = polish
         religion = orthodox
-        size = 80800
+        size = 48480
     }
 	
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 19800
+        size = 11880
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 200
+        size = 120
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 400
+        size = 240
     }
     ########
 }
@@ -535,37 +535,37 @@
     aristocrats = {
         culture = polish
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     clergymen = {
         culture = polish
         religion = orthodox
-        size = 225
+        size = 135
     }
 
     artisans = {
         culture = polish
         religion = orthodox
-        size = 1125
+        size = 675
     }
 
     soldiers = {
         culture = polish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = polish
         religion = orthodox
-        size = 10950
+        size = 6570
     }
 	
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 9950
+        size = 5970
     }
 }
 #Hannover Region (1288000)
@@ -575,2037 +575,19 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 750
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 875
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 5250
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 3000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 89325
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 75
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 200
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 50
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 3675
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-    ########
-}
-#Nienburg (276000/64000 POPS)
-535 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 550
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 625
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 3250
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 57575
-    }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-    ########
-}
-#Gottingen (180000/45000 POPS)
-537 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 425
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 2250
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 40925
-    }
-
-}
-#Osnabruck (220000/55000 POPS)
-538 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 2250
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 300
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 26950
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1750
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 22550
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-
-}
-#under the rule of Brunswick 1836
-#Brunswick (264000/66000 POPS)
-536 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 75
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
         size = 450
     }
 
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 8500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 53375
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 25
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 15
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 960
-    }
-}
-#East Frisia Region (496000)
-#under the rule of Bremen 1836
-#Bremen (52000/13000 POPS)
-539 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
     bureaucrats = {
         culture = saxon
-        religion = orthodox
-        size = 130
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 26
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 260
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 7319
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 485
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 4255
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 375
-    }
-}
-#under the rule of Oldenburg 1836
-#Oldenburg (184000/46000 POPS)
-540 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 125
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 75
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 425
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 2200
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 38800
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 40
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 1860
-    }
-}
-#Cloppenburg (84000/21000 POPS)
-541 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 125
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 650
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 125
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 11975
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 75
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 75
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 7450
-    }
-}
-#under the rule of Hannover 1836
-#Lingen (80000/20000 POPS)
-542 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 75
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 25
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 75
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 88
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 8075
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 65
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 2260
-    }
-
-}
-#Emden (84000/21000 POPS)
-543 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 30
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 70
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 50
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 3450
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 175
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1600
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 14925
-    }
-
-}
-#Pomerania Region (289000) #see Poland.txt for balance of region
-#under the rule of Prussia 1836
-#Swinemunde (132000/33000 POPS)
-547 = {
-    aristocrats = {
-        culture = polish
         religion = orthodox
         size = 300
     }
 
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 325
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 1650
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 29725
-    }
-}
-#Stralsund (157000/39250 POPS)
-548 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 200
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 2350
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 20250
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 150
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 1400
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 12450
-    }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-}
-#Brandenburg Region (1628000) #see Poland.txt for balance of region
-#under the rule of Prussia 1836
-#Berlin (772000/193000 POPS)
-549 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 1750
-    }
-
-    bureaucrats = {
-        culture = polish
-        religion = orthodox
-        size = 700
-    }
-
-    officers = {
-        culture = polish
-        religion = orthodox
-        size = 1200
-    }
-
-    capitalists = {
-        culture = polish
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 1550
-    }
-
-    clerks = {
-        culture = polish
-        religion = orthodox
-        size = 600
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 20000
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 5000
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 56300
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 100
-    }
-
-    craftsmen = {
-        culture = polish
-        religion = orthodox
-        size = 150
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 1350
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 3400
-    }
-
-    ######Jews
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1000
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 6000
-    }
-    ########
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    craftsmen = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1850
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 2900
-    }
-}
-#Prenzlau (280000/70000 POPS)
-550 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 700
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 675
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 3500
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 2400
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 62500
-    }
-}
-#Pritzwalk (232000/58000 POPS)
-551 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 550
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 575
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 31875
-    }
-	
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 21875
-    }
-}
-#Cottbus (344000/86000 POPS)
-552 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 750
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 300
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 3000
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 1300
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 31000
-    }
-
-    farmers = {
-        culture = wendish
-        religion = orthodox
-        size = 39000
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 50
-    }
-
-    farmers = {
-        culture = wendish
-        religion = orthodox
-        size = 7100
-    }
-}
-#Anhalt Region (1527000)
-#under the rule of Prussia 1836
-#Magdeburg (577200/144300 POPS)
-553 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 1200
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 1400
-    }
-
     officers = {
         culture = saxon
         religion = orthodox
-        size = 350
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 1125
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 10000
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 103025
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1750
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 22750
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-}
-#Erfurt (220800/55200 POPS)
-554 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 3350
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 39750
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 750
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 9050
-    }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-    ########
-}
-#Halle (445000/111250 POPS)
-556 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 1150
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 925
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 5000
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 91925
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 575
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 10225
-    }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-}
-#Stendal (140000/35000 POPS)
-557 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 350
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 325
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1750
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 31575
-    }
-}
-#under the rule of Anhalt 1836
-#Dessau (144000/36000 POPS)
-555 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 325
-    }
-
-    bureaucrats = {
-        culture = polish
-        religion = orthodox
-        size = 70
-    }
-
-    officers = {
-        culture = polish
-        religion = orthodox
-        size = 25
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 325
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 1900
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 12355
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 20
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 50
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 10
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 18920
-    }
-}
-#Saxony Region (1379000)
-#under the rule of Saxony 1836
-#Dresden (806380/201595 POPS)
-558 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 1905
-    }
-
-    bureaucrats = {
-        culture = polish
-        religion = orthodox
-        size = 825
-    }
-
-    officers = {
-        culture = polish
-        religion = orthodox
-        size = 135
-    }
-
-    capitalists = {
-        culture = polish
-        religion = orthodox
-        size = 135
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 2055
-    }
-
-    clerks = {
-        culture = polish
-        religion = orthodox
-        size = 135
-    }
-
-    craftsmen = {
-        culture = polish
-        religion = orthodox
-        size = 1290
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 12925
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 2090
-    }
-
-    labourers = {
-        culture = polish
-        religion = orthodox
-        size = 172630
-    }
-
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 100
-    }
-
-    officers = {
-        culture = polish
-        religion = orthodox
-        size = 100
-    }
-
-    capitalists = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    craftsmen = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    labourers = {
-        culture = saxon
-        religion = orthodox
-        size = 5470
-    }
-
-    clerks = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-}
-#Leipzig (494440/123610 POPS)
-559 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 1300
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 1315
-    }
-
-    clerks = {
-        culture = polish
-        religion = orthodox
-        size = 135
-    }
-
-    craftsmen = {
-        culture = polish
-        religion = orthodox
-        size = 1405
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 10580
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 1315
-    }
-
-    labourers = {
-        culture = polish
-        religion = orthodox
-        size = 107560
-    }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clerks = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    labourers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-}
-#Chemnitz (330080/82520 POPS)
-560 = {
-    aristocrats = {
-        culture = wendish
-        religion = orthodox
-        size = 945
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 740
-    }
-
-    artisans = {
-        culture = wendish
-        religion = orthodox
-        size = 5900
-    }
-
-    soldiers = {
-        culture = wendish
-        religion = orthodox
-        size = 1180
-    }
-
-    labourers = {
-        culture = wendish
-        religion = orthodox
-        size = 60755
-    }
-	
-    labourers = {
-        culture = saxon
-        religion = orthodox
-        size = 13755
-    }
-}
-#Thuringia Region (865000)
-#under the rule of Saxe-Weimar 1836
-#Weimar (365000/91250 POPS)
-561 = {
-    aristocrats = {
-        culture = wendish
-        religion = orthodox
-        size = 1100
-    }
-
-    bureaucrats = {
-        culture = wendish
-        religion = orthodox
-        size = 150
-    }
-
-    officers = {
-        culture = wendish
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 875
-    }
-
-    artisans = {
-        culture = wendish
-        religion = orthodox
-        size = 4250
-    }
-
-    soldiers = {
-        culture = wendish
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = wendish
-        religion = orthodox
-        size = 70625
-    }
-	
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 13625
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-    ########
-}
-#under the rule of Saxe-Coburg 1836
-#Gotha (292000/73000 POPS)
-562 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 725
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 125
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 75
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 675
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 3650
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 66750
-    }
-}
-#under the rule of Saxe-Meiningen 1836
-#Meiningen (208000/52000 POPS)
-563 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 510
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 90
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 50
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 2600
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 47350
-    }
-}
-#Hesse Region (1719600)
-#under the rule of Frankfurt 1836
-#Frankfurt-am-Main (44000/16000 POPS)
-564 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 200
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 135
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 138
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 8175
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 475
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 1550
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 900
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-    ########
-}
-#under the rule of Nassau 1836
-#Wiesbaden (402400/100600 POPS)
-565 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 475
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 175
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 450
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 3300
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 3000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 42500
+        size = 180
     }
 
     clergymen = {
@@ -2617,56 +599,2074 @@
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1650
+        size = 3150
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 1000
+        size = 1800
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 40306
+        size = 53595
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 45
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 120
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 30
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 2205
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 180
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
+        size = 300
+    }
+    ########
+}
+#Nienburg (276000/64000 POPS)
+535 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 330
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 375
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1950
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 34545
+    }
+
+    ######Jews
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 240
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 240
+    }
+    ########
+}
+#Gottingen (180000/45000 POPS)
+537 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 240
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 255
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1350
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
         size = 600
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 24555
+    }
+
+}
+#Osnabruck (220000/55000 POPS)
+538 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1350
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 180
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 16170
+    }
+
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 120
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1050
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 150
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 13530
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+    ########
+
+}
+#under the rule of Brunswick 1836
+#Brunswick (264000/66000 POPS)
+536 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 45
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 270
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 5100
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 32025
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 15
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 9
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 576
+    }
+}
+#East Frisia Region (496000)
+#under the rule of Bremen 1836
+#Bremen (52000/13000 POPS)
+539 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 90
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 78
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 15.6
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 156
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 4391.4
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 291
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 2553
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 225
+    }
+}
+#under the rule of Oldenburg 1836
+#Oldenburg (184000/46000 POPS)
+540 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 240
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 75
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 45
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 255
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1320
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 23280
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 24
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 1116
+    }
+}
+#Cloppenburg (84000/21000 POPS)
+541 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 75
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 75
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 390
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 75
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 7185
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 45
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 240
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 45
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 4470
+    }
+}
+#under the rule of Hannover 1836
+#Lingen (80000/20000 POPS)
+542 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 90
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 45
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 15
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 45
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 240
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 52.8
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 4845
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 39
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 90
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 15
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 1356
+    }
+
+}
+#Emden (84000/21000 POPS)
+543 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 18
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 42
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 240
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 30
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 2070
+    }
+
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 90
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 105
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 960
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 90
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 8955
+    }
+
+}
+#Pomerania Region (289000) #see Poland.txt for balance of region
+#under the rule of Prussia 1836
+#Swinemunde (132000/33000 POPS)
+547 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 180
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 195
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 990
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 17835
+    }
+}
+#Stralsund (157000/39250 POPS)
+548 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 120
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 120
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 1410
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 12150
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 90
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 840
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 7470
+    }
+
+    ######Jews
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+    ########
+}
+#Brandenburg Region (1628000) #see Poland.txt for balance of region
+#under the rule of Prussia 1836
+#Berlin (772000/193000 POPS)
+549 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 1050
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = orthodox
+        size = 420
+    }
+
+    officers = {
+        culture = polish
+        religion = orthodox
+        size = 720
+    }
+
+    capitalists = {
+        culture = polish
+        religion = orthodox
+        size = 60
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 930
+    }
+
+    clerks = {
+        culture = polish
+        religion = orthodox
+        size = 360
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 12000
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 33780
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 60
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = orthodox
+        size = 90
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 810
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 2040
+    }
+
+    ######Jews
+    capitalists = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 600
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3600
+    }
+    ########
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    craftsmen = {
+        culture = saxon
+        religion = orthodox
+        size = 90
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1110
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 1740
+    }
+}
+#Prenzlau (280000/70000 POPS)
+550 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 420
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 405
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 2100
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 1440
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 37500
+    }
+}
+#Pritzwalk (232000/58000 POPS)
+551 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 330
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 345
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 1800
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 19125
+    }
+	
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 13125
+    }
+}
+#Cottbus (344000/86000 POPS)
+552 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 450
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 240
+    }
+
+    clergymen = {
+        culture = wendish
+        religion = orthodox
+        size = 180
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 1800
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 780
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 18600
+    }
+
+    farmers = {
+        culture = wendish
+        religion = orthodox
+        size = 23400
+    }
+
+    clergymen = {
+        culture = wendish
+        religion = orthodox
+        size = 60
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 30
+    }
+
+    farmers = {
+        culture = wendish
+        religion = orthodox
+        size = 4260
+    }
+}
+#Anhalt Region (1527000)
+#under the rule of Prussia 1836
+#Magdeburg (577200/144300 POPS)
+553 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 720
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 840
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 210
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 675
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 6000
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 61815
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1050
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 150
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 13650
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+    ########
+}
+#Erfurt (220800/55200 POPS)
+554 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 240
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 2010
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 23850
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 450
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 5430
+    }
+
+    ######Jews
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 120
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 180
+    }
+    ########
+}
+#Halle (445000/111250 POPS)
+556 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 690
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 555
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 3000
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 55155
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 345
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 6135
+    }
+
+    ######Jews
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+    ########
+}
+#Stendal (140000/35000 POPS)
+557 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 210
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 195
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1050
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 18945
+    }
+}
+#under the rule of Anhalt 1836
+#Dessau (144000/36000 POPS)
+555 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 195
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = orthodox
+        size = 42
+    }
+
+    officers = {
+        culture = polish
+        religion = orthodox
+        size = 15
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 195
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 1140
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 7413
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 12
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 30
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 6
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 11352
+    }
+}
+#Saxony Region (1379000)
+#under the rule of Saxony 1836
+#Dresden (806380/201595 POPS)
+558 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 1143
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = orthodox
+        size = 495
+    }
+
+    officers = {
+        culture = polish
+        religion = orthodox
+        size = 81
+    }
+
+    capitalists = {
+        culture = polish
+        religion = orthodox
+        size = 81
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 1233
+    }
+
+    clerks = {
+        culture = polish
+        religion = orthodox
+        size = 81
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = orthodox
+        size = 774
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 7755
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 1254
+    }
+
+    labourers = {
+        culture = polish
+        religion = orthodox
+        size = 103578
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 60
+    }
+
+    officers = {
+        culture = polish
+        religion = orthodox
+        size = 60
+    }
+
+    capitalists = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    craftsmen = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 600
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    labourers = {
+        culture = saxon
+        religion = orthodox
+        size = 3282
+    }
+
+    clerks = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    capitalists = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+}
+#Leipzig (494440/123610 POPS)
+559 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 780
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 789
+    }
+
+    clerks = {
+        culture = polish
+        religion = orthodox
+        size = 81
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = orthodox
+        size = 843
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 6348
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 789
+    }
+
+    labourers = {
+        culture = polish
+        religion = orthodox
+        size = 64536
+    }
+
+    ######Jews
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clerks = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    labourers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+    ########
+}
+#Chemnitz (330080/82520 POPS)
+560 = {
+    aristocrats = {
+        culture = wendish
+        religion = orthodox
+        size = 567
+    }
+
+    clergymen = {
+        culture = wendish
+        religion = orthodox
+        size = 444
+    }
+
+    artisans = {
+        culture = wendish
+        religion = orthodox
+        size = 3540
+    }
+
+    soldiers = {
+        culture = wendish
+        religion = orthodox
+        size = 708
+    }
+
+    labourers = {
+        culture = wendish
+        religion = orthodox
+        size = 36453
+    }
+	
+    labourers = {
+        culture = saxon
+        religion = orthodox
+        size = 8253
+    }
+}
+#Thuringia Region (865000)
+#under the rule of Saxe-Weimar 1836
+#Weimar (365000/91250 POPS)
+561 = {
+    aristocrats = {
+        culture = wendish
+        religion = orthodox
+        size = 660
+    }
+
+    bureaucrats = {
+        culture = wendish
+        religion = orthodox
+        size = 90
+    }
+
+    officers = {
+        culture = wendish
+        religion = orthodox
+        size = 60
+    }
+
+    clergymen = {
+        culture = wendish
+        religion = orthodox
+        size = 525
+    }
+
+    artisans = {
+        culture = wendish
+        religion = orthodox
+        size = 2550
+    }
+
+    soldiers = {
+        culture = wendish
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = wendish
+        religion = orthodox
+        size = 42375
+    }
+	
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 8175
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 120
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 300
+    }
+    ########
+}
+#under the rule of Saxe-Coburg 1836
+#Gotha (292000/73000 POPS)
+562 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 435
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 75
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 45
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 405
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 2190
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 40050
+    }
+}
+#under the rule of Saxe-Meiningen 1836
+#Meiningen (208000/52000 POPS)
+563 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 306
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 54
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 30
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1560
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 28410
+    }
+}
+#Hesse Region (1719600)
+#under the rule of Frankfurt 1836
+#Frankfurt-am-Main (44000/16000 POPS)
+564 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 120
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 81
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 82.8
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 4905
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 285
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 930
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 540
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 180
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 300
+    }
+    ########
+}
+#under the rule of Nassau 1836
+#Wiesbaden (402400/100600 POPS)
+565 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 285
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 105
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 270
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1980
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 1800
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 25500
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 315
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 990
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 24183.6
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 300
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 360
     }
     ########
 }
@@ -2676,49 +2676,231 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 875
+        size = 525
     }
 
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 325
+        size = 195
     }
 
     officers = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 875
+        size = 525
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 4500
+        size = 2700
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 78225
+        size = 46935
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 135
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 660
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 120
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 12285
+    }
+
+    ######Jews
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+    ########
+}
+#Fulda (248000/62000 POPS)
+568 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1560
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 330
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 28110
+    }
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 6180
+    }
+}
+#under the rule of Hesse-Darmstadt 1836
+#Giessen (200000/50000 POPS)
+567 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 27600
+    }
+}
+#Darmstadt (360000/90000 POPS)
+2560 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = saxon
+        religion = orthodox
+        size = 240
+    }
+
+    officers = {
+        culture = saxon
+        religion = orthodox
+        size = 120
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 2160
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 28380
     }
 
     clergymen = {
@@ -2730,159 +2912,544 @@
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1100
+        size = 1440
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 210
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 20475
+        size = 20325
+    }
+}
+#Palatinate-Moselle Region (1815200)
+#under the rule of Baden 1836
+#Mannheim (261000/65250 POPS)
+569 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 120
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 90
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 450
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 90
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 8250
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 240
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 27960
     }
 
     ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
     ########
 }
-#Fulda (248000/62000 POPS)
-568 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 2600
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 550
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 46850
-    }
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 10300
-    }
-}
 #under the rule of Hesse-Darmstadt 1836
-#Giessen (200000/50000 POPS)
-567 = {
+#Mainz (242200/60550 POPS)
+570 = {
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 2500
+        size = 3540
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 46000
-    }
-}
-#Darmstadt (360000/90000 POPS)
-2560 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 500
+        size = 25560
     }
 
-    bureaucrats = {
+    clergymen = {
         culture = saxon
         religion = orthodox
-        size = 400
+        size = 60
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 660
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 5220
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
     }
 
     officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+    ########
+}
+#under the rule of Bavaria 1836
+#Kaiserslautern (556000/139000 POPS)
+571 = {
+    aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 390
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 500
+        size = 390
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1860
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 34440
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 420
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 2280
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 450
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 42450
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+    ########
+}
+#under the rule of Prussia 1836
+#Trier (220000/55000 POPS)
+572 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 180
+    }
+
+    bureaucrats = {
+        culture = frankish
+        religion = orthodox
+        size = 510
+    }
+
+    officers = {
+        culture = frankish
+        religion = orthodox
+        size = 120
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 810
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 165
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 20265
+    }
+
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 165
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 840
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 165
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 9480
+    }
+}
+#Saarbrucken (308000/77000 POPS)
+573 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 135
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 750
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 150
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 7215
+    }
+
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 270
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 330
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1560
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 34140
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 15
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 1125
+    }
+}
+#Kreuznach (228000/57000 POPS)
+574 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 180
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 165
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 900
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 210
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 24345
+    }
+
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 165
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 810
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 150
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 7125
+    }
+}
+#Rhineland Region (1908000)
+#under the rule of Prussia in 1836
+#Cologne (484000/121000 POPS)
+575 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 720
+    }
+
+    bureaucrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1260
+    }
+
+    officers = {
+        culture = frankish
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 735
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 9900
     }
 
     artisans = {
@@ -2891,22 +3458,137 @@
         size = 3600
     }
 
-    soldiers = {
-        culture = saxon
+    artisans = {
+        culture = frankish
         religion = orthodox
-        size = 1000
+        size = 2175
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 1800
     }
 
     farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 27126
+    }
+	
+    farmers = {
         culture = saxon
         religion = orthodox
-        size = 47300
+        size = 28326
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    capitalists = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 180
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 120
+    }
+    ########
+}
+#Aachen (400000/100000 POPS)
+576 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 660
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 375
+        size = 510
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 2700
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 20670
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 39870
+    }
+
+    clergymen = {
+        culture = laaglander
+        religion = orthodox
+        size = 6
+    }
+
+    farmers = {
+        culture = laaglander
+        religion = orthodox
+        size = 594
+    }
+}
+
+#Kleves (356000/89000 POPS)
+577 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 480
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 480
     }
 
     artisans = {
@@ -2918,725 +3600,43 @@
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 350
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 33875
-    }
-}
-#Palatinate-Moselle Region (1815200)
-#under the rule of Baden 1836
-#Mannheim (261000/65250 POPS)
-569 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 750
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 13750
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 2500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 46600
-    }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-}
-#under the rule of Hesse-Darmstadt 1836
-#Mainz (242200/60550 POPS)
-570 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 5900
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 42600
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1100
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 8700
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-}
-#under the rule of Bavaria 1836
-#Kaiserslautern (556000/139000 POPS)
-571 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 650
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 650
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 3100
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 57400
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 700
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 3800
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 750
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 70750
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-}
-#under the rule of Prussia 1836
-#Trier (220000/55000 POPS)
-572 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 300
-    }
-
-    bureaucrats = {
-        culture = frankish
-        religion = orthodox
-        size = 850
-    }
-
-    officers = {
-        culture = frankish
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 250
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 1350
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 275
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 33775
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 275
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1400
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 275
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 15800
-    }
-}
-#Saarbrucken (308000/77000 POPS)
-573 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 250
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 225
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 1250
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 12025
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 450
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 550
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 2600
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 56900
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 25
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 1875
-    }
-}
-#Kreuznach (228000/57000 POPS)
-574 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 275
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 350
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 40575
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 275
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1350
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 11875
-    }
-}
-#Rhineland Region (1908000)
-#under the rule of Prussia in 1836
-#Cologne (484000/121000 POPS)
-575 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
         size = 1200
     }
 
-    bureaucrats = {
-        culture = frankish
-        religion = orthodox
-        size = 2100
-    }
-
-    officers = {
-        culture = frankish
-        religion = orthodox
-        size = 500
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 1225
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 16500
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 6000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 3625
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 3000
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 45210
-    }
-	
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 47210
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-    ########
-}
-#Aachen (400000/100000 POPS)
-576 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 1100
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 850
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 4500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 34450
-    }
-	
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 66450
-    }
-
-    clergymen = {
-        culture = laaglander
-        religion = orthodox
-        size = 10
-    }
-
-    farmers = {
-        culture = laaglander
-        religion = orthodox
-        size = 990
-    }
-}
-
-#Kleves (356000/89000 POPS)
-577 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 800
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 800
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 4000
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 72400
+        size = 43440
     }
 
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 75
+        size = 45
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 450
+        size = 270
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 8275
+        size = 4965
     }
 
 }
@@ -3645,134 +3645,134 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 700
+        size = 420
     }
 
     capitalists = {
         culture = frankish
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     capitalists = {
         culture = frankish
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     capitalists = {
         culture = frankish
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 675
+        size = 405
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 4200
+        size = 2520
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 2000
+        size = 1200
     }
 
     craftsmen = {
         culture = frankish
         religion = orthodox
-        size = 5000
+        size = 3000
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 57425
+        size = 34455
     }
 
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     craftsmen = {
         culture = saxon
         religion = orthodox
-        size = 5000
+        size = 3000
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 14500
+        size = 8700
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     craftsmen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
     ########
 
@@ -3782,55 +3782,55 @@
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 75
+        size = 45
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 25
+        size = 15
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 3700
+        size = 2220
     }
 
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 450
+        size = 270
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 450
+        size = 270
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 2350
+        size = 1410
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 42250
+        size = 25350
     }
 
 }
@@ -3839,61 +3839,61 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 17600
+        size = 10560
     }
 
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 325
+        size = 195
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 75
+        size = 45
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 5500
+        size = 3300
     }
 }
 #Westphalia Region (1390000)
@@ -3903,152 +3903,152 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     capitalists = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     capitalists = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     capitalists = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 700
+        size = 420
     }
 
     officers = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 275
+        size = 165
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1400
+        size = 840
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     craftsmen = {
         culture = saxon
         religion = orthodox
-        size = 4000
+        size = 2400
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 20725
+        size = 12435
     }
 
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 625
+        size = 375
     }
 
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 325
+        size = 195
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 675
+        size = 405
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 3300
+        size = 1980
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 2000
+        size = 1200
     }
 
     craftsmen = {
         culture = saxon
         religion = orthodox
-        size = 4000
+        size = 2400
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 55475
+        size = 33285
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     craftsmen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 200
+        size = 120
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 200
+        size = 120
     }
     ########
 }
@@ -4057,61 +4057,61 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 175
+        size = 105
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 14625
+        size = 8775
     }
 
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 900
+        size = 540
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 4850
+        size = 2910
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 87250
+        size = 52350
     }
 }
 #Minden (216000/54000 POPS)
@@ -4119,206 +4119,7 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 375
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1700
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 31025
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 200
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1100
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 17600
-    }
-}
-#Siegen (104000/26000 POPS)
-583 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1100
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 12475
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 900
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 10775
-    }
-}
-#Korbach (128000/32000 POPS)
-584 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 175
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 950
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 16675
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 650
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 11125
-    }
-}
-#under the rule of Lippe in 1836
-#Detmold (98000/24500 POPS)
-585 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 50
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 25
+        size = 180
     }
 
     clergymen = {
@@ -4330,171 +4131,57 @@
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1150
+        size = 1020
     }
 
     soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 20810
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 20
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 980
-    }
-}
-#Baden Region (1040000)
-#under the rule of Baden in 1836
-#Karlsruhe (632000/158000 POPS)
-586 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 1600
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 700
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 350
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 1500
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 7650
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1550
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 139650
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 250
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 4400
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-    ########
-}
-#Freiburg (244000/61000 POPS)
-587 = {
-    aristocrats = {
         culture = saxon
         religion = orthodox
         size = 600
     }
 
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 18615
+    }
+
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 120
+    }
+
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 575
+        size = 120
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 2850
+        size = 660
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 51975
+        size = 10560
+    }
+}
+#Siegen (104000/26000 POPS)
+583 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 90
     }
 
     clergymen = {
@@ -4506,51 +4193,25 @@
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 660
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 25
+        size = 90
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 3700
+        size = 7485
     }
-}
-#Konstanz (164000/41000 POPS)
-588 = {
+
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 350
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 375
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1850
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 34025
+        size = 60
     }
 
     clergymen = {
@@ -4562,329 +4223,86 @@
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 540
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 25
+        size = 60
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 3700
+        size = 6465
     }
 }
-#Wurttemburg Region (1308000)
-#under the rule of Wurttemburg in 1836
-#Stuttgart (676000/169000 POPS)
-589 = {
+#Korbach (128000/32000 POPS)
+584 = {
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 1500
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 850
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 450
+        size = 120
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 1500
+        size = 105
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 9500
+        size = 570
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 131200
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 175
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 15175
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-    ########
-}
-#Heilbronn (340000/85000 POPS)
-590 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 850
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 825
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 4250
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 850
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 79225
-    }
-}
-
-#Tubingen (292000/73000 POPS)
-591 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 375
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1900
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 36925
-    }
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 325
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1750
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 300
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 30625
-    }
-}
-#Swabia Region (833000)
-#under the rule of Bavaria in 1836
-#Augsburg (364000/91000 POPS)
-592 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 1100
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 1050
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 10000
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 77950
-    }
-}
-#under the rule of Wurttemburg in 1836
-#Ulm (408000/102000 POPS)
-593 = {
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 550
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 6350
+        size = 10005
     }
 
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 900
+        size = 60
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 925
+        size = 75
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 4550
+        size = 390
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 900
+        size = 600
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 83750
+        size = 6675
     }
 }
-#under the rule of Prussia in 1836
-#Sigmaringen (61000/15250 POPS)
-594 = {
+#under the rule of Lippe in 1836
+#Detmold (98000/24500 POPS)
+585 = {
     aristocrats = {
         culture = saxon
         religion = orthodox
@@ -4894,7 +4312,7 @@
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 20
+        size = 30
     }
 
     officers = {
@@ -4906,227 +4324,17 @@
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 150
+        size = 135
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 775
+        size = 690
     }
 
     soldiers = {
         culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 13140
-    }
-}
-#Franconia Region (1876000)
-#under the rule of Bavaria in 1836
-#Nuremburg (904000/226000 POPS)
-595 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 1350
-    }
-
-    bureaucrats = {
-        culture = saxon
-        religion = orthodox
-        size = 1050
-    }
-
-    officers = {
-        culture = saxon
-        religion = orthodox
-        size = 450
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 1125
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 4500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 93375
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 1450
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 1375
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 5500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1500
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 111275
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-    ########
-}
-#Aschaffenburg (136000/34000 POPS)
-596 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 350
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 350
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1750
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 350
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 31200
-    }
-}
-#Wurzburg (300000/75000 POPS)
-597 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 750
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 750
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 7000
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 65500
-    }
-}
-#Bayreuth (536000/134000 POPS)
-598 = {
-    aristocrats = {
-        culture = wendish
-        religion = orthodox
-        size = 550
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 550
-    }
-
-    artisans = {
-        culture = wendish
-        religion = orthodox
-        size = 2500
-    }
-
-    soldiers = {
-        culture = wendish
         religion = orthodox
         size = 600
     }
@@ -5134,255 +4342,23 @@
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 52800
+        size = 12486
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 900
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 4900
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 900
+        size = 12
     }
 
     farmers = {
-        culture = wendish
+        culture = saxon
         religion = orthodox
-        size = 70300
+        size = 588
     }
 }
-#Bavaria Region (1536000)
-#under the rule of Bavaria in 1836
-#Munich (960000/220000 POPS)
-599 = {
-    aristocrats = {
-        culture = wendish
-        religion = orthodox
-        size = 2100
-    }
 
-    bureaucrats = {
-        culture = wendish
-        religion = orthodox
-        size = 800
-    }
 
-    officers = {
-        culture = wendish
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 2050
-    }
-
-    artisans = {
-        culture = wendish
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = wendish
-        religion = orthodox
-        size = 1100
-    }
-
-    soldiers = {
-        culture = wendish
-        religion = orthodox
-        size = 3000
-    }
-
-    farmers = {
-        culture = wendish
-        religion = orthodox
-        size = 175650
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = wendish
-        religion = orthodox
-        size = 2000
-    }
-
-    soldiers = {
-        culture = wendish
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 11475
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-    ########
-}
-#Landshut (164000/41000 POPS)
-600 = {
-    aristocrats = {
-        culture = wendish
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 425
-    }
-
-    artisans = {
-        culture = wendish
-        religion = orthodox
-        size = 2000
-    }
-
-    soldiers = {
-        culture = wendish
-        religion = orthodox
-        size = 450
-    }
-
-    farmers = {
-        culture = wendish
-        religion = orthodox
-        size = 37725
-    }
-}
-#Ingolstadt (164000/41000 POPS)
-601 = {
-    aristocrats = {
-        culture = wendish
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 425
-    }
-
-    artisans = {
-        culture = wendish
-        religion = orthodox
-        size = 2000
-    }
-
-    soldiers = {
-        culture = wendish
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = wendish
-        religion = orthodox
-        size = 22175
-    }
-	
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 14175
-    }
-}
-#Regensburg (248000/62000 POPS)
-602 = {
-    aristocrats = {
-        culture = wendish
-        religion = orthodox
-        size = 650
-    }
-
-    clergymen = {
-        culture = wendish
-        religion = orthodox
-        size = 625
-    }
-
-    artisans = {
-        culture = wendish
-        religion = orthodox
-        size = 5000
-    }
-
-    soldiers = {
-        culture = wendish
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = wendish
-        religion = orthodox
-        size = 54725
-    }
-}
 #Silesia Region (200000) #see Czechia.txt and Poland.txt for balance of region
 #under the rule of Prussia in 1836
 #Gorlitz (200000/50000 POPS)
@@ -5390,55 +4366,55 @@
     aristocrats = {
         culture = polish
         religion = orthodox
-        size = 850
+        size = 510
     }
 
     clergymen = {
         culture = polish
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     artisans = {
         culture = polish
         religion = orthodox
-        size = 2300
+        size = 1380
     }
 
     soldiers = {
         culture = polish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = polish
         religion = orthodox
-        size = 51450
+        size = 30870
     }
 
     clergymen = {
         culture = polish
         religion = orthodox
-        size = 70
+        size = 42
     }
 
     artisans = {
         culture = polish
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     soldiers = {
         culture = polish
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     farmers = {
         culture = polish
         religion = orthodox
-        size = 3680
+        size = 2208
     }
 }
 
@@ -5449,221 +4425,79 @@
     aristocrats = {
         culture = polish
         religion = orthodox
-        size = 2250
+        size = 1350
     }
 
     bureaucrats = {
         culture = polish
         religion = orthodox
-        size = 1300
+        size = 780
     }
 
     officers = {
         culture = polish
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     clergymen = {
         culture = polish
         religion = orthodox
-        size = 825
+        size = 495
     }
 
     artisans = {
         culture = polish
         religion = orthodox
-        size = 10000
+        size = 6000
     }
 
     artisans = {
         culture = letts
-        religion = orthodox
-        size = 5000
-    }
-
-    soldiers = {
-        culture = polish
         religion = orthodox
         size = 3000
     }
 
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 1800
+    }
+
     farmers = {
         culture = polish
         religion = orthodox
-        size = 68875
+        size = 41325
     }
 
     clergymen = {
         culture = polish
         religion = orthodox
-        size = 175
+        size = 105
     }
 
     artisans = {
         culture = letts
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     soldiers = {
         culture = letts
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = letts
         religion = orthodox
-        size = 18025
+        size = 10815
     }
 
     clergymen = {
         culture = letts
         religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = letts
-        religion = orthodox
-        size = 250
-    }
-
-    soldiers = {
-        culture = letts
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = letts
-        religion = orthodox
-        size = 4625
-    }
-
-    clergymen = {
-        culture = letts
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = letts
-        religion = orthodox
-        size = 250
-    }
-
-    soldiers = {
-        culture = letts
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = byeloruthenian
-        religion = orthodox
-        size = 5650
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-    ########
-}
-#Gumbinnen (228000/57000 POPS) #now part of Russia
-697 = {
-    aristocrats = {
-        culture = polish
-        religion = orthodox
-        size = 1100
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 475
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 2600
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 550
-    }
-
-    farmers = {
-        culture = polish
-        religion = orthodox
-        size = 47275
-    }
-
-    clergymen = {
-        culture = polish
-        religion = orthodox
-        size = 25
-    }
-
-    artisans = {
-        culture = polish
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = polish
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 1850
-    }
-
-    clergymen = {
-        culture = letts
-        religion = orthodox
-        size = 25
+        size = 60
     }
 
     artisans = {
@@ -5675,13 +4509,155 @@
     soldiers = {
         culture = letts
         religion = orthodox
-        size = 25
+        size = 60
     }
 
     farmers = {
         culture = letts
         religion = orthodox
-        size = 3800
+        size = 2775
+    }
+
+    clergymen = {
+        culture = letts
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = letts
+        religion = orthodox
+        size = 150
+    }
+
+    soldiers = {
+        culture = letts
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = byeloruthenian
+        religion = orthodox
+        size = 3390
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 120
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 120
+    }
+    ########
+}
+#Gumbinnen (228000/57000 POPS) #now part of Russia
+697 = {
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 660
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 285
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 1560
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 330
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 28365
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 15
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 60
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 15
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 1110
+    }
+
+    clergymen = {
+        culture = letts
+        religion = orthodox
+        size = 15
+    }
+
+    artisans = {
+        culture = letts
+        religion = orthodox
+        size = 90
+    }
+
+    soldiers = {
+        culture = letts
+        religion = orthodox
+        size = 15
+    }
+
+    farmers = {
+        culture = letts
+        religion = orthodox
+        size = 2280
     }
 }
 
@@ -5690,49 +4666,49 @@
     officers = {
         culture = saxon
         religion = orthodox
-        size = 25
+        size = 15
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 75
+        size = 45
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 88
+        size = 52.8
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 8075
+        size = 4845
     }
 
     farmers = {
         culture = saxon
-        size = 500
+        size = 300
         religion = orthodox
     }
 
     clergymen = {
         culture = dutch
         religion = orthodox
-        size = 15
+        size = 9
     }
 
     farmers = {
         culture = dutch
         religion = orthodox
-        size = 985
+        size = 591
     }
 
 }

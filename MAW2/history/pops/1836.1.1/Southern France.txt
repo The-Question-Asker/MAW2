@@ -1,0 +1,1563 @@
+#Languedoc Region (1668000)
+#Montpellier (724000/181000)
+461 = {
+    aristocrats = {
+        culture = catalan
+        religion = arian
+        size = 1800
+    }
+
+    officers = {
+        culture = catalan
+        religion = arian
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = catalan
+        religion = arian
+        size = 1100
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = arian
+        size = 1300
+    }
+
+    artisans = {
+        culture = catalan
+        religion = arian
+        size = 11100
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = arian
+        size = 1800
+    }
+
+    farmers = {
+        culture = catalan
+        religion = arian
+        size = 61650
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 42650
+    }
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 22650
+    }
+}
+#Rodez (504000/126000 POPS)
+462 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1200
+    }
+
+    clergymen = {
+        culture = narbonne
+        religion = orthodox
+        size = 850
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 6500
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 1300
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 70150
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 40150
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 6150
+    }
+}
+#Carcassone (276000/69000 POPS)
+463 = {
+    aristocrats = {
+        culture = catalan
+        religion = arian
+        size = 700
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = arian
+        size = 450
+    }
+
+    artisans = {
+        culture = catalan
+        religion = arian
+        size = 4500
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = arian
+        size = 1000
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 12000
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 8000
+    }
+
+    farmers = {
+        culture = catalan
+        religion = arian
+        size = 42350
+    }
+}
+#Perpignan (164000/41000 POPS)
+464 = {
+    aristocrats = {
+        culture = narbonne
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = narbonne
+        religion = orthodox
+        size = 75
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 1250
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 150
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 5425
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 3425
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = arian
+        size = 200
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = arian
+        size = 175
+    }
+
+    artisans = {
+        culture = catalan
+        religion = arian
+        size = 2250
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = arian
+        size = 250
+    }
+
+    farmers = {
+        culture = catalan
+        religion = arian
+        size = 23075
+    }
+	
+    farmers = {
+        culture = vasconian
+        religion = arian
+        size = 5075
+    }
+
+}
+#Savoy Region (486800)
+##Sardinian until 1860
+#Annecy (258400/64600 POPS)
+465 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 600
+    }
+
+    officers = {
+        culture = roman
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = orthodox
+        size = 200
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 3250
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 28100
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 24800
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 3800
+    }
+}
+#Chambery (228400/57100 POPS)
+466 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 375
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 2800
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 26375
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 26175
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 1175
+    }
+
+}
+#Provence Region (1268400)
+#Marseilles (384800/96200 POPS)
+467 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 900
+    }
+
+    officers = {
+        culture = roman
+        religion = orthodox
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = orthodox
+        size = 700
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 500
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 10000
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 18000
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 2000
+    }
+
+    artisans = {
+        culture = catalan
+        religion = orthodox
+        size = 8000
+    }
+	
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 2000
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 40400
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 11000
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 1400
+    }
+}
+#Avignon (243600/60900 POPS)
+468 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 650
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 325
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 8000
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 35625
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 10300
+    }
+}
+#Digne (113200/31000 POPS)
+469 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 250
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 1500
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 350
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 18900
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 10000
+    }
+}
+#Toulon (224000/56000 POPS)
+470 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 500
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 6000
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 7000
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 30950
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 5950
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 5300
+    }
+}
+#Frejus (132000/33000 POPS)
+471 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = narbonne
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 1600
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 350
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 23000
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 7600
+    }
+}
+#Nice (Sardinian until 1860) (170800/42700 POPS)
+472 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 450
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 225
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 6000
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 19025
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 18825
+    }
+
+}
+#Corsica Region (210000)
+#Corsica (210000/52500 POPS)
+473 = {
+    aristocrats = {
+        culture = catalan
+        religion = arian
+        size = 400
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = arian
+        size = 150
+    }
+
+    officers = {
+        culture = catalan
+        religion = arian
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = catalan
+        religion = arian
+        size = 100
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = arian
+        size = 200
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 1500
+    }
+
+    artisans = {
+        culture = catalan
+        religion = orthodox
+        size = 1100
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = arian
+        size = 1100
+    }
+
+    farmers = {
+        culture = catalan
+        religion = arian
+        size = 20800
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 20000
+    }
+	
+    farmers = {
+        culture = roman
+        religion = arian
+        size = 8300
+    }
+
+}
+
+#Aquitaine Region (1864000)
+#Bordeaux (632000/158000 POPS)
+458 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1500
+    }
+
+    officers = {
+        culture = frankish
+        religion = orthodox
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1100
+    }
+
+    clergymen = {
+        culture = narbonne
+        religion = orthodox
+        size = 1200
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 10000
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 10000
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 10000
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 1100
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 1600
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 60910
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 50510
+    }
+}
+#Mont de Marsan (556000/139000 POPS)
+459 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1350
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 1075
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 7000
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 1400
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 70675
+    }
+
+        farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 50975
+    }
+}
+#Pau (676000/169000 POPS)
+460 = {
+    aristocrats = {
+        culture = vasconian
+        religion = arian
+        size = 1200
+    }
+
+    clergymen = {
+        culture = vasconian
+        religion = arian
+        size = 850
+    }
+
+    artisans = {
+        culture = vasconian
+        religion = arian
+        size = 3000
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = arian
+        size = 3000
+    }
+
+    soldiers = {
+        culture = vasconian
+        religion = arian
+        size = 1250
+    }
+
+    farmers = {
+        culture = vasconian
+        religion = arian
+        size = 64700
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 10000
+    }
+
+    aristocrats = {
+        culture = narbonne
+        religion = orthodox
+        size = 400
+    }
+
+    clergymen = {
+        culture = vasconian
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 2500
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 450
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 10300
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 21300
+    }
+
+}
+#Midi Region (1604000)
+#Toulouse (672000/168000 POPS)
+455 = {
+    aristocrats = {
+        culture = vasconian
+        religion = arian
+        size = 1600
+    }
+
+    officers = {
+        culture = vasconian
+        religion = arian
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = vasconian
+        religion = arian
+        size = 800
+    }
+
+    clergymen = {
+        culture = vasconian
+        religion = arian
+        size = 1200
+    }
+
+    artisans = {
+        culture = vasconian
+        religion = arian
+        size = 10000
+    }
+
+    artisans = {
+        culture = vasconian
+        religion = arian
+        size = 10000
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = arian
+        size = 5000
+    }
+
+    soldiers = {
+        culture = vasconian
+        religion = arian
+        size = 1750
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 10000
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 8000
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = vasconian
+        religion = arian
+        size = 72300
+    }
+}
+#Montauban (584000/146000 POPS)
+456 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1400
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 1050
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 7500
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 94150
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 30150
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 10400
+    }
+}
+#Foix (348000/87000 POPS)
+457 = {
+    aristocrats = {
+        culture = vasconian
+        religion = arian
+        size = 800
+    }
+
+    clergymen = {
+        culture = vasconian
+        religion = arian
+        size = 450
+    }
+
+    artisans = {
+        culture = vasconian
+        religion = arian
+        size = 4000
+    }
+
+    soldiers = {
+        culture = vasconian
+        religion = arian
+        size = 1000
+    }
+
+    farmers = {
+        culture = vasconian
+        religion = arian
+        size = 70750
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 4750
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 6750
+    }
+
+}
+
+#Lyonnais-Dauphine Region (2588000)
+#Lyon (824000/206000 POPS)
+451 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 2000
+    }
+
+    officers = {
+        culture = frankish
+        religion = orthodox
+        size = 700
+    }
+
+    bureaucrats = {
+        culture = narbonne
+        religion = orthodox
+        size = 1650
+    }
+
+    clerks = {
+        culture = narbonne
+        religion = orthodox
+        size = 350
+    }
+
+    clergymen = {
+        culture = narbonne
+        religion = orthodox
+        size = 1500
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 26500
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 2100
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 80600
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 23600
+    }
+
+    #####Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    capitalists = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clerks = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 250
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1000
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2800
+    }
+}
+#St Etienne (412000/103000 POPS)
+452 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1100
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 825
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 10000
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 5000
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 9000
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 1150
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 55725
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 15725
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 15025
+    }
+}
+#Valence (656000/164000 POPS)
+453 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 1600
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 1150
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 8000
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 1650
+    }
+	
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 11100
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 71100
+    }
+
+       farmers = {
+        culture = narbonne
+        religion = arian
+        size = 62600
+    }
+	
+       farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 8600
+    }
+}
+#Grenoble (696000/174000 POPS)
+454 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 1700
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 1250
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 4500
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 4000
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 1750
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 70300
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 65800
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 25800
+    }
+
+}
+
+#Auvergne Region (1418000)
+#Clermont-Ferrand (728000/182000 POPS)
+448 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1750
+    }
+
+    officers = {
+        culture = frankish
+        religion = orthodox
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = narbonne
+        religion = orthodox
+        size = 850
+    }
+
+    clergymen = {
+        culture = narbonne
+        religion = orthodox
+        size = 1250
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 7000
+    }
+
+        artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 2000
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 1850
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 31200
+    }
+
+     farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 85700
+    }
+}
+#Aurillac (404000/101000 POPS)
+449 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1100
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 750
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 80050
+    }
+
+        farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 12350
+    }
+}
+#Cahors (286000/71500 POPS)
+450 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 700
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 425
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 3500
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 750
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 40825
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 20825
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 13125
+    }
+
+}
+#Limousin Region (1596000)
+#Limoges (288000/72000 POPS)
+445 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 700
+    }
+
+    officers = {
+        culture = frankish
+        religion = orthodox
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = narbonne
+        religion = orthodox
+        size = 950
+    }
+
+    clergymen = {
+        culture = narbonne
+        religion = orthodox
+        size = 400
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 750
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 50750
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 8750
+    }
+}
+#Chateauroux (520000/130000 POPS)
+446 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1300
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 850
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 6500
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 70000
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 51000
+    }
+}
+#Tulle (788000/197000 POPS)
+447 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 1900
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 1500
+    }
+
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 7500
+    }
+
+    soldiers = {
+        culture = narbonne
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 110100
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 24100
+    }
+
+}
+

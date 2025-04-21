@@ -5,127 +5,127 @@
     aristocrats = {
         culture = circassian
         religion = manichaean
-        size = 750
+        size = 1500
     }
 
     bureaucrats = {
         culture = circassian
         religion = manichaean
-        size = 1450
+        size = 2900
     }
 
     officers = {
         culture = circassian
         religion = manichaean
-        size = 450
+        size = 900
     }
 
     artisans = {
         culture = circassian
         religion = manichaean
-        size = 1250
+        size = 2500
     }
 
     artisans = {
         culture = circassian
         religion = manichaean
-        size = 10000
+        size = 20000
     }
 
     soldiers = {
         culture = circassian
         religion = manichaean
-        size = 1250
+        size = 2500
     }
 
     aristocrats = {
         culture = aegyptian
         religion = orthodox
-        size = 2600
+        size = 5200
     }
 
     bureaucrats = {
         culture = aegyptian
         religion = orthodox
-        size = 125
+        size = 250
     }
 
     officers = {
         culture = aegyptian
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = aegyptian
         religion = orthodox
-        size = 325
+        size = 650
     }
 
     bureaucrats = {
         culture = aegyptian
         religion = orthodox
-        size = 25
+        size = 50
     }
 
     clergymen = {
         culture = aegyptian
         religion = orthodox
-        size = 175
+        size = 350
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 8000
+        size = 16000
     }
 
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 26800
+        size = 53600
     }
 
     clergymen = {
         culture = aegyptian
         religion = orthodox
-        size = 25
+        size = 50
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 2950
+        size = 5900
     }
 
     clergymen = {
         culture = sephardic
         religion = jewish
-        size = 25
+        size = 50
     }
 
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 1225
+        size = 2450
     }
 
     slaves = {
         culture = nilotic
         religion = animist
-        size = 9000
+        size = 18000
     }
 
     slaves = {
         culture = aegyptian
         religion = orthodox
-        size = 1025
+        size = 2050
     }
 }
 #Dumyat (402600/100650 POPS)
@@ -133,1405 +133,55 @@
     aristocrats = {
         culture = circassian
         religion = orthodox
-        size = 500
-    }
-
-    artisans = {
-        culture = circassian
-        religion = manichaean
-        size = 10000
-    }
-
-    artisans = {
-        culture = circassian
-        religion = orthodox
-        size = 5575
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = orthodox
-        size = 75
-    }
-
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1500
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 462
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1800
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 79238
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 25
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 2825
-    }
-}
-#Tanta (341600/85400 POPS)
-1747 = {
-    aristocrats = {
-        culture = circassian
-        religion = orthodox
-        size = 750
-    }
-
-    artisans = {
-        culture = circassian
-        religion = orthodox
-        size = 5575
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = orthodox
-        size = 75
-    }
-
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 850
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 425
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 4100
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 75625
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 25
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1875
-    }
-}
-#Mansura (256200/64050 POPS)
-1748 = {
-    aristocrats = {
-        culture = circassian
-        religion = orthodox
-        size = 600
-    }
-
-    artisans = {
-        culture = circassian
-        religion = orthodox
-        size = 2400
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = orthodox
-        size = 50
-    }
-
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 700
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 300
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 3050
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 2100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 54700
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 25
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1875
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 245
-    }
-}
-#Ziqaziq (272600/68150 POPS)
-1749 = {
-    aristocrats = {
-        culture = circassian
-        religion = orthodox
-        size = 650
-    }
-
-    artisans = {
-        culture = circassian
-        religion = orthodox
-        size = 425
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = orthodox
-        size = 75
-    }
-
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 700
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 325
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 5250
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 2100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 49625
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1850
-    }
-}
-#Giza (386400/96600 POPS)
-1750 = {
-    aristocrats = {
-        culture = circassian
-        religion = orthodox
-        size = 250
-    }
-	
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 750
-    }
-
-    artisans = {
-        culture = circassian
-        religion = orthodox
-        size = 550
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = orthodox
-        size = 100
-    }
-
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1100
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 400
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 4050
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 5100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 144820
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = sahid
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 22800
-    }
-}
-#Alexandria Region (736000)
-#under the rule of Egypt in 1836
-#Alexandria (640000/160000 POPS)
-1751 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 6750
-    }
-
-    bureaucrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 3150
-    }
-
-    officers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 900
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 2025
-    }
-	
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = circassian
-        religion = manichaean
-        size = 10000
-    }
-
-    artisans = {
-        culture = armenian
-        religion = manichaean
-        size = 10000
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 10000
-    }
-
-    artisans = {
-        culture = levantine
-        religion = orthodox
-        size = 5000
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 4000
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 146000
-    }
-	
-    capitalists = {
-        culture = aegyptian
-        religion = orthodox
-        size = 425
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = manichaean
-        size = 750
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 3000
-    }
-
-    craftsmen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 30000
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = manichaean
-        size = 3000
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10000
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 96725
-    }
-
-    farmers = {
-        culture = levantine
-        religion = orthodox
-        size = 46725
-    }
-
-    farmers = {
-        culture = circassian
-        religion = manichaean
-        size = 21725
-    }
-
-    farmers = {
-        culture = armenian
-        religion = manichaean
-        size = 31725
-    }
-	
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 36725
-    }
-
-    bureaucrats = {
-        culture = aegyptian
-        religion = manichaean
-        size = 25
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = manichaean
-        size = 125
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = manichaean
-        size = 750
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = manichaean
-        size = 12125
-    }
-	
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 32125
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 10990
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1950
-    }
-
-    slaves = {
-        culture = armenian
-        religion = manichaean
-        size = 6000
-    }
-}
-#Matruh (60000/15000 POPS)
-1752 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 225
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 600
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10150
-    }
-
-    aristocrats = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 75
-    }
-
-    artisans = {
-        culture = sahid
-        religion = orthodox
-        size = 150
-    }
-
-    soldiers = {
-        culture = sahid
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 2700
-    }
-}
-#Sidi Barrani (20000/5000 POPS)
-1753 = {
-    aristocrats = {
-        culture = berber
-        religion = arian
-        size = 75
-    }
-
-    clergymen = {
-        culture = berber
-        religion = arian
-        size = 50
-    }
-
-    artisans = {
-        culture = berber
-        religion = arian
-        size = 250
-    }
-
-    soldiers = {
-        culture = berber
-        religion = arian
-        size = 50
-    }
-
-    farmers = {
-        culture = berber
-        religion = arian
-        size = 3575
-    }
-	
-    farmers = {
-        culture = sahid
-        religion = orthodox
         size = 1000
     }
-}
-#Siwa (16000/4000 POPS)
-1754 = {
-    aristocrats = {
-        culture = berber
-        religion = arian
-        size = 50
-    }
 
-    clergymen = {
-        culture = berber
-        religion = arian
-        size = 50
+    artisans = {
+        culture = circassian
+        religion = manichaean
+        size = 20000
     }
 
     artisans = {
-        culture = berber
-        religion = arian
-        size = 200
+        culture = circassian
+        religion = orthodox
+        size = 11150
     }
 
     soldiers = {
-        culture = berber
-        religion = arian
-        size = 50
-    }
-
-    farmers = {
-        culture = berber
-        religion = arian
-        size = 3050
-    }
-	
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 650
-    }
-}
-#Sinai Region (100000)
-#under the rule of Egypt in 1836
-#Suez (72000/18000 POPS)
-1755 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 350
-    }
-
-    bureaucrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10
-    }
-
-    officers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 25
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 175
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1900
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 200
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 16340
-    }
-}
-#Al Arish (16000/4000 POPS)
-1756 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 25
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1100
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1800
-    }
-
-    aristocrats = {
-        culture = sahid
-        religion = orthodox
-        size = 25
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = sahid
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = sahid
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 1800
-    }
-}
-#Sharm al Shaykh (12000/3000 POPS)
-1757 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 15
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 25
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 250
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 10
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 900
-    }
-
-    aristocrats = {
-        culture = sahid
-        religion = orthodox
-        size = 25
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = sahid
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = sahid
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 5800
-    }
-}
-#Hariga Region (56000)
-#uncolonized in 1836
-#Farafra (8000/2000 POPS)
-1758 = {
-    aristocrats = {
-        culture = sahid
-        religion = orthodox
-        size = 25
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = sahid
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = sahid
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 1800
-    }
-}
-#Bawiti (12000/3000 POPS)
-1759 = {
-    aristocrats = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 75
-    }
-
-    artisans = {
-        culture = sahid
+        culture = circassian
         religion = orthodox
         size = 150
     }
 
-    soldiers = {
-        culture = sahid
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 1000
-    }
-	
-    farmers = {
-        culture = berber
-        religion = arian
-        size = 1700
-    }
-}
-#Mut (20000/5000 POPS)
-1760 = {
-    aristocrats = {
-        culture = sahid
-        religion = orthodox
-        size = 75
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = sahid
-        religion = orthodox
-        size = 250
-    }
-
-    soldiers = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 4575
-    }
-}
-#Baris (16000/4000 POPS)
-1761 = {
-    aristocrats = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = sahid
-        religion = orthodox
-        size = 200
-    }
-
-    soldiers = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 3650
-    }
-}
-#Vostani Region (672000)
-#under the rule of Egypt in 1836
-#Asyut (196000/49000 POPS)
-1762 = {
     aristocrats = {
         culture = aegyptian
         religion = orthodox
-        size = 625
-    }
-
-    bureaucrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 110
-    }
-
-    officers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 175
+        size = 3000
     }
 
     clergymen = {
         culture = aegyptian
         religion = orthodox
-        size = 150
+        size = 924
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 2550
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 37390
-    }
-
-    bureaucrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 15
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 150
+        size = 20000
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 900
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 20935
-    }
-}
-#Bani Suwayf (76000/19000 OPS) }
-1763 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 275
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 150
+        size = 20000
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 2800
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 200
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 15575
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 2800
-    }
-}
-#Minya (104000/26000 POPS)
-1764 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 375
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1550
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 18325
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 4800
-    }
-}
-#Fayyum (192000/48000 POPS)
-1765 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 800
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 425
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 2100
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 37675
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = sahid
-        religion = orthodox
-        size = 300
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 5650
-    }
-}
-#Suhaj (96000/24000 POPS)
-2559 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 225
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 2100
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 30025
-    }
-
-    clergymen = {
-        culture = sahid
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = sahid
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 9850
-    }
-}
-#Said Region (244000)
-#under the rule of Egypt in 1836
-#Aswan (48000/12000 POPS)
-1766 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 175
-    }
-
-    bureaucrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 45
-    }
-
-    officers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 75
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 125
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 8980
-    }
-
-    bureaucrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 5
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = aegyptian
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = aegyptian
-        religion = orthodox
-        size = 1850
-    }
-}
-#Luxor (68000/17000 POPS)
-1767 = {
-    aristocrats = {
-        culture = aegyptian
-        religion = orthodox
-        size = 725
-    }
-
-    clergymen = {
-        culture = aegyptian
-        religion = orthodox
-        size = 525
+        size = 20000
     }
 
     artisans = {
@@ -1543,37 +193,1387 @@
     soldiers = {
         culture = aegyptian
         religion = orthodox
-        size = 3175
+        size = 6000
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 200
     }
 
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 70875
-    }
-	
-    farmers = {
-        culture = sahid
-        religion = orthodox
-        size = 10875
+        size = 158476
     }
 
     clergymen = {
-        culture = sahid
+        culture = aegyptian
         religion = orthodox
         size = 50
     }
 
     artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 5650
+    }
+}
+#Tanta (341600/85400 POPS)
+1747 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 1500
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 11150
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1700
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 850
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 8200
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 2200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 151250
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 3750
+    }
+}
+#Mansura (256200/64050 POPS)
+1748 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 1200
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 4800
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 100
+    }
+
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1400
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 6100
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 4200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 109400
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 3750
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 490
+    }
+}
+#Ziqaziq (272600/68150 POPS)
+1749 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 1300
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 850
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1400
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 650
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 10500
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 4200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 99250
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 3700
+    }
+}
+#Giza (386400/96600 POPS)
+1750 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+	
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1500
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1100
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 200
+    }
+
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 2200
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 800
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 8100
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 10200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 289640
+    }
+
+    clergymen = {
         culture = sahid
         religion = orthodox
-        size = 250
+        size = 100
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 300
     }
 
     farmers = {
         culture = sahid
         religion = orthodox
-        size = 4700
+        size = 45600
+    }
+}
+#Alexandria Region (736000)
+#under the rule of Egypt in 1836
+#Alexandria (640000/160000 POPS)
+1751 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 13500
+    }
+
+    bureaucrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 6300
+    }
+
+    officers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1800
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 4050
+    }
+	
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 20000
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 20000
+    }
+
+    artisans = {
+        culture = circassian
+        religion = manichaean
+        size = 20000
+    }
+
+    artisans = {
+        culture = armenian
+        religion = manichaean
+        size = 20000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 20000
+    }
+
+    artisans = {
+        culture = levantine
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 6000
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 6000
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 8000
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 292000
+    }
+	
+    capitalists = {
+        culture = aegyptian
+        religion = orthodox
+        size = 850
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 20000
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = manichaean
+        size = 1500
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 6000
+    }
+
+    craftsmen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 60000
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = manichaean
+        size = 6000
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 20000
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 193450
+    }
+
+    farmers = {
+        culture = levantine
+        religion = orthodox
+        size = 93450
+    }
+
+    farmers = {
+        culture = circassian
+        religion = manichaean
+        size = 43450
+    }
+
+    farmers = {
+        culture = armenian
+        religion = manichaean
+        size = 63450
+    }
+	
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 73450
+    }
+
+    bureaucrats = {
+        culture = aegyptian
+        religion = manichaean
+        size = 50
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = manichaean
+        size = 250
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = manichaean
+        size = 1500
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = manichaean
+        size = 24250
+    }
+	
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 64250
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 20
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 21980
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 3900
+    }
+
+    slaves = {
+        culture = armenian
+        religion = manichaean
+        size = 12000
+    }
+}
+#Matruh (60000/15000 POPS)
+1752 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 450
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1200
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 2200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 20300
+    }
+
+    aristocrats = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 300
+    }
+
+    soldiers = {
+        culture = sahid
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 5400
+    }
+}
+#Sidi Barrani (20000/5000 POPS)
+1753 = {
+    aristocrats = {
+        culture = berber
+        religion = arian
+        size = 150
+    }
+
+    clergymen = {
+        culture = berber
+        religion = arian
+        size = 100
+    }
+
+    artisans = {
+        culture = berber
+        religion = arian
+        size = 500
+    }
+
+    soldiers = {
+        culture = berber
+        religion = arian
+        size = 100
+    }
+
+    farmers = {
+        culture = berber
+        religion = arian
+        size = 7150
+    }
+	
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 2000
+    }
+}
+#Siwa (16000/4000 POPS)
+1754 = {
+    aristocrats = {
+        culture = berber
+        religion = arian
+        size = 100
+    }
+
+    clergymen = {
+        culture = berber
+        religion = arian
+        size = 100
+    }
+
+    artisans = {
+        culture = berber
+        religion = arian
+        size = 400
+    }
+
+    soldiers = {
+        culture = berber
+        religion = arian
+        size = 100
+    }
+
+    farmers = {
+        culture = berber
+        religion = arian
+        size = 6100
+    }
+	
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 1300
+    }
+}
+#Sinai Region (100000)
+#under the rule of Egypt in 1836
+#Suez (72000/18000 POPS)
+1755 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 700
+    }
+
+    bureaucrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 20
+    }
+
+    officers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 3800
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 400
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 32680
+    }
+}
+#Al Arish (16000/4000 POPS)
+1756 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 2200
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 3600
+    }
+
+    aristocrats = {
+        culture = sahid
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 200
+    }
+
+    soldiers = {
+        culture = sahid
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 3600
+    }
+}
+#Sharm al Shaykh (12000/3000 POPS)
+1757 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 30
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 500
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 20
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1800
+    }
+
+    aristocrats = {
+        culture = sahid
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 200
+    }
+
+    soldiers = {
+        culture = sahid
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 11600
+    }
+}
+#Hariga Region (56000)
+#uncolonized in 1836
+#Farafra (8000/2000 POPS)
+1758 = {
+    aristocrats = {
+        culture = sahid
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 200
+    }
+
+    soldiers = {
+        culture = sahid
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 3600
+    }
+}
+#Bawiti (12000/3000 POPS)
+1759 = {
+    aristocrats = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 300
+    }
+
+    soldiers = {
+        culture = sahid
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 2000
+    }
+	
+    farmers = {
+        culture = berber
+        religion = arian
+        size = 3400
+    }
+}
+#Mut (20000/5000 POPS)
+1760 = {
+    aristocrats = {
+        culture = sahid
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 500
+    }
+
+    soldiers = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 9150
+    }
+}
+#Baris (16000/4000 POPS)
+1761 = {
+    aristocrats = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 400
+    }
+
+    soldiers = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 7300
+    }
+}
+#Vostani Region (672000)
+#under the rule of Egypt in 1836
+#Asyut (196000/49000 POPS)
+1762 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 220
+    }
+
+    officers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 350
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 5100
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 2200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 74780
+    }
+
+    bureaucrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 30
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1800
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 41870
+    }
+}
+#Bani Suwayf (76000/19000 OPS) }
+1763 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 5600
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 400
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 31150
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 5600
+    }
+}
+#Minya (104000/26000 POPS)
+1764 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 750
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 3100
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 2200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 36650
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 9600
+    }
+}
+#Fayyum (192000/48000 POPS)
+1765 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1600
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 850
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 4200
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 2200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 75350
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 11300
+    }
+}
+#Suhaj (96000/24000 POPS)
+2559 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 800
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 450
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 4200
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 60050
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 19700
+    }
+}
+#Said Region (244000)
+#under the rule of Egypt in 1836
+#Aswan (48000/12000 POPS)
+1766 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 90
+    }
+
+    officers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 17960
+    }
+
+    bureaucrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 10
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 3700
+    }
+}
+#Luxor (68000/17000 POPS)
+1767 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1450
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1050
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 7200
+    }
+
+    soldiers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 6350
+    }
+
+    farmers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 141750
+    }
+	
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 21750
+    }
+
+    clergymen = {
+        culture = sahid
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = sahid
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = sahid
+        religion = orthodox
+        size = 9400
     }
 }
 #Idfu (76000/19000 POPS)
@@ -1581,49 +1581,49 @@
     aristocrats = {
         culture = aegyptian
         religion = orthodox
-        size = 300
+        size = 600
     }
 
     clergymen = {
         culture = aegyptian
         religion = orthodox
-        size = 175
+        size = 350
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 850
+        size = 1700
     }
 
     soldiers = {
         culture = aegyptian
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 25475
+        size = 50950
     }
 
     clergymen = {
         culture = sahid
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = sahid
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = sahid
         religion = orthodox
-        size = 5850
+        size = 11700
     }
 }
 #Qina (52000/13000 POPS)
@@ -1631,49 +1631,49 @@
     aristocrats = {
         culture = aegyptian
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = aegyptian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 550
+        size = 1100
     }
 
     soldiers = {
         culture = aegyptian
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 22000
+        size = 44000
     }
 
     clergymen = {
         culture = sahid
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = sahid
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = sahid
         religion = orthodox
-        size = 10850
+        size = 21700
     }
 }
 #Red Sea Region (44000) #see Sudan.txt for balance of the region
@@ -1683,31 +1683,31 @@
     aristocrats = {
         culture = sahid
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     clergymen = {
         culture = sahid
         religion = orthodox
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = sahid
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     soldiers = {
         culture = sahid
         religion = orthodox
-        size = 25
+        size = 50
     }
 
     farmers = {
         culture = sahid
         religion = orthodox
-        size = 2700
+        size = 5400
     }
 }
 #Marsa Alam (20000/5000 POPS)
@@ -1715,61 +1715,61 @@
     aristocrats = {
         culture = aegyptian
         religion = orthodox
-        size = 15
+        size = 30
     }
 
     clergymen = {
         culture = aegyptian
         religion = orthodox
-        size = 25
+        size = 50
     }
 
     artisans = {
         culture = aegyptian
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     soldiers = {
         culture = aegyptian
         religion = orthodox
-        size = 10
+        size = 20
     }
 
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 900
+        size = 1800
     }
 
     aristocrats = {
         culture = sahid
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     clergymen = {
         culture = sahid
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = sahid
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     soldiers = {
         culture = sahid
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     farmers = {
         culture = sahid
         religion = orthodox
-        size = 3650
+        size = 7300
     }
 }
 #Ras Gharib (12000/3000 POPS)
@@ -1777,31 +1777,31 @@
     aristocrats = {
         culture = sahid
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     clergymen = {
         culture = sahid
         religion = orthodox
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = sahid
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     soldiers = {
         culture = sahid
         religion = orthodox
-        size = 25
+        size = 50
     }
 
     farmers = {
         culture = sahid
         religion = orthodox
-        size = 2700
+        size = 5400
     }
 
 }

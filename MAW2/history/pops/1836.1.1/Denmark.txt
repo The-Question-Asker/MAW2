@@ -4,25 +4,25 @@
     bureaucrats = {
         culture = icelandic
         religion = orthodox
-        size = 15
+        size = 9
     }
 
     clergymen = {
         culture = icelandic
         religion = orthodox
-        size = 75
+        size = 45
     }
 
     artisans = {
         culture = icelandic
         religion = orthodox
-        size = 135
+        size = 81
     }
 
     farmers = {
         culture = icelandic
         religion = orthodox
-        size = 1575
+        size = 945
     }
 
 }
@@ -32,49 +32,49 @@
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     bureaucrats = {
         culture = teutonic
         religion = orthodox
-        size = 350
+        size = 210
     }
 
     officers = {
         culture = teutonic
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 375
+        size = 225
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 10000
+        size = 6000
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 2500
+        size = 1500
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 48075
+        size = 28845
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 226
+        size = 135.6
     }
 }
 #Alborg (152000/38000 POPS)
@@ -83,31 +83,31 @@
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 7000
+        size = 4200
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 14500
+        size = 8700
     }
 }
 #Ribe (148000/37000 POPS)
@@ -117,31 +117,31 @@
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 23400
+        size = 14040
     }
 
 }
@@ -151,27 +151,27 @@
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 1100
+        size = 660
     }
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 125
+        size = 75
     }
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 1100
+        size = 660
     }
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 250
+        size = 150
     }
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 23550
+        size = 14130
     }
 }
 
@@ -182,73 +182,73 @@
     bureaucrats = {
         culture = teutonic
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 125
+        size = 75
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 5500
+        size = 3300
     }
 
     soldiers = {
-        culture = teutonic
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = teutonic
-        religion = orthodox
-        size = 10025
-    }
-
-    aristocrats = {
-        culture = teutonic
-        religion = orthodox
-        size = 650
-    }
-
-    bureaucrats = {
-        culture = teutonic
-        religion = orthodox
-        size = 100
-    }
-
-    officers = {
         culture = teutonic
         religion = orthodox
         size = 150
     }
 
+    farmers = {
+        culture = teutonic
+        religion = orthodox
+        size = 6015
+    }
+
+    aristocrats = {
+        culture = teutonic
+        religion = orthodox
+        size = 390
+    }
+
+    bureaucrats = {
+        culture = teutonic
+        religion = orthodox
+        size = 60
+    }
+
+    officers = {
+        culture = teutonic
+        religion = orthodox
+        size = 90
+    }
+
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 2500
+        size = 1500
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 38850
+        size = 23310
     }
 }
 #Aabenra (100000/25000 POPS)
@@ -256,55 +256,55 @@
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 125
+        size = 75
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 16625
+        size = 9975
     }
 
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 6550
+        size = 3930
     }
 
 }
@@ -314,37 +314,25 @@
     aristocrats = {
         culture = norse
         religion = orthodox
-        size = 1550
+        size = 930
     }
 
     bureaucrats = {
         culture = norse
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     officers = {
         culture = norse
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     clergymen = {
         culture = norse
         religion = orthodox
-        size = 750
-    }
-
-    artisans = {
-        culture = norse
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = norse
-        religion = orthodox
-        size = 10000
+        size = 450
     }
 
     artisans = {
@@ -353,34 +341,46 @@
         size = 6000
     }
 
-    soldiers = {
+    artisans = {
         culture = norse
         religion = orthodox
-        size = 3000
+        size = 6000
+    }
+
+    artisans = {
+        culture = norse
+        religion = orthodox
+        size = 3600
     }
 
     soldiers = {
         culture = norse
         religion = orthodox
-        size = 1000
+        size = 1800
+    }
+
+    soldiers = {
+        culture = norse
+        religion = orthodox
+        size = 600
     }
 
     farmers = {
         culture = norse
         religion = orthodox
-        size = 64000
+        size = 38400
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 858
+        size = 514.8
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 1100
+        size = 660
     }
 }
 #Odense (208000/52000 POPS)
@@ -388,31 +388,31 @@
     aristocrats = {
         culture = teutonic
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 2000
+        size = 1200
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 46250
+        size = 27750
     }
 }
 #Bornholm (16000/4000 POPS)
@@ -420,25 +420,25 @@
     clergymen = {
         culture = teutonic
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     artisans = {
         culture = teutonic
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     soldiers = {
         culture = teutonic
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     farmers = {
         culture = teutonic
         religion = orthodox
-        size = 3500
+        size = 2100
     }
 
 }

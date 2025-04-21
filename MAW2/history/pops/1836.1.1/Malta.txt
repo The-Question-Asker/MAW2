@@ -5,73 +5,73 @@
     bureaucrats = {
         culture = greek
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     artisans = {
         culture = circassian
         religion = manichaean
-        size = 150
+        size = 300
     }
 
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     bureaucrats = {
         culture = greek
         religion = orthodox
-        size = 10
+        size = 20
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 275
+        size = 550
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 5500
+        size = 11000
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 340
+        size = 680
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 12475
+        size = 24950
     }
 	
     farmers = {
         culture = greek
         religion = arian
-        size = 3475
+        size = 6950
     }
 	
     farmers = {
         culture = roman
         religion = orthodox
-        size = 2075
+        size = 4150
     }
 	
     farmers = {
         culture = african
         religion = orthodox
-        size = 3075
+        size = 6150
     }
 
 }

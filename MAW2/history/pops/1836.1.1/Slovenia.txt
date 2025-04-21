@@ -5,86 +5,86 @@
     aristocrats = {
         culture = wendish
         religion = orthodox
-        size = 750
+        size = 1500
     }
 
     bureaucrats = {
         culture = sclavenian
         religion = orthodox
-        size = 250
+        size = 500
     }
 
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 1100
+        size = 2200
     }
 
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 28150
+        size = 56300
     }
 
     clergymen = {
         culture = wendish
         religion = orthodox
-        size = 450
+        size = 900
     }
 
     artisans = {
         culture = wendish
         religion = orthodox
-        size = 1600
+        size = 3200
     }
 
     soldiers = {
         culture = wendish
         religion = orthodox
-        size = 450
+        size = 900
     }
 
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 20000
+        size = 40000
     }
 
     serfs = {
         culture = gypsy
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     serfs = {
         culture = wendish
         religion = orthodox
-        size = 1000
+        size = 2000
     }
 
     ######Jews
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
     ########
 
@@ -96,61 +96,61 @@
     aristocrats = {
         culture = wendish
         religion = orthodox
-        size = 825
+        size = 1650
     }
 
     bureaucrats = {
         culture = wendish
         religion = orthodox
-        size = 225
+        size = 450
     }
 
     officers = {
         culture = wendish
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = wendish
         religion = orthodox
-        size = 700
+        size = 1400
     }
 
     artisans = {
         culture = wendish
         religion = orthodox
-        size = 2000
+        size = 4000
     }
 	
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 2000
+        size = 4000
     }
 	
     artisans = {
         culture = roman
         religion = orthodox
-        size = 1000
+        size = 2000
     }
 
     soldiers = {
         culture = wendish
         religion = orthodox
-        size = 1100
+        size = 2200
     }
 
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 38150
+        size = 76300
     }
 
     serfs = {
         culture = sclavenian
         religion = orthodox
-        size = 25000
+        size = 50000
     }
 
 }
@@ -159,49 +159,49 @@
     aristocrats = {
         culture = wendish
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     clergymen = {
         culture = wendish
         religion = orthodox
-        size = 425
+        size = 850
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 2100
+        size = 4200
     }
 
     soldiers = {
         culture = wendish
         religion = orthodox
-        size = 425
+        size = 850
     }
 
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 24075
+        size = 48150
     }
 
     farmers = {
         culture = gypsy
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 16975
+        size = 33950
     }
 
 }

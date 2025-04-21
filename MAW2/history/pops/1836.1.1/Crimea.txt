@@ -1,0 +1,427 @@
+#Simferopol (126000/29000 POPS)
+964 = {
+    farmers = {
+        culture = gypsy
+        religion = orthodox
+        size = 300
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = manichaean
+        size = 1100
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = manichaean
+        size = 150
+    }
+
+    officers = {
+        culture = greek
+        religion = manichaean
+        size = 80
+    }
+
+    clergymen = {
+        culture = greek
+        religion = manichaean
+        size = 400
+    }
+
+    artisans = {
+        culture = greek
+        religion = manichaean
+        size = 1900
+    }
+
+    soldiers = {
+        culture = greek
+        religion = manichaean
+        size = 2000
+    }
+
+    farmers = {
+        culture = greek
+        religion = manichaean
+        size = 16370
+    }
+
+    serfs = {
+        culture = greek
+        religion = manichaean
+        size = 20000
+    }
+
+    clergymen = {
+        culture = temarundian
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = temarundian
+        religion = orthodox
+        size = 300
+    }
+
+    soldiers = {
+        culture = temarundian
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = temarundian
+        religion = orthodox
+        size = 5500
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 350
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 120
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 4930
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 400
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1500
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = manichaean
+        size = 200
+    }
+
+    artisans = {
+        culture = circassian
+        religion = manichaean
+        size = 200
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = manichaean
+        size = 200
+    }
+
+    farmers = {
+        culture = circassian
+        religion = manichaean
+        size = 1770
+    }
+}
+
+#Kerch (48000/12000 POPS)
+966 = {
+    aristocrats = {
+        culture = greek
+        religion = manichaean
+        size = 400
+    }
+
+    clergymen = {
+        culture = greek
+        religion = manichaean
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = manichaean
+        size = 350
+    }
+
+    soldiers = {
+        culture = greek
+        religion = manichaean
+        size = 200
+    }
+
+    farmers = {
+        culture = greek
+        religion = manichaean
+        size = 15900
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = manichaean
+        size = 100
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = manichaean
+        size = 200
+    }
+
+    artisans = {
+        culture = circassian
+        religion = manichaean
+        size = 250
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = manichaean
+        size = 200
+    }
+
+    farmers = {
+        culture = circassian
+        religion = manichaean
+        size = 3500
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 790
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 400
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 1500
+    }
+}
+#Sevastopol (60000/15000 POPS)
+967 = {
+    farmers = {
+        culture = armenian
+        religion = manichaean
+        size = 1800
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = manichaean
+        size = 500
+    }
+
+    clergymen = {
+        culture = greek
+        religion = manichaean
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = manichaean
+        size = 350
+    }
+
+    soldiers = {
+        culture = greek
+        religion = manichaean
+        size = 200
+    }
+
+    farmers = {
+        culture = greek
+        religion = manichaean
+        size = 18750
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = manichaean
+        size = 100
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = manichaean
+        size = 200
+    }
+
+    artisans = {
+        culture = circassian
+        religion = manichaean
+        size = 200
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = manichaean
+        size = 200
+    }
+
+    farmers = {
+        culture = circassian
+        religion = manichaean
+        size = 3550
+    }
+
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 300
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1180
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 500
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 1920
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 1750
+    }
+}

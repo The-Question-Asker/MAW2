@@ -5,7 +5,149 @@
     aristocrats = {
         culture = roman
         religion = orthodox
-        size = 750
+        size = 1500
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 400
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 2900
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 450
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 41750
+    }
+
+    clergymen = {
+        culture = sclavenian
+        religion = orthodox
+        size = 450
+    }
+
+    artisans = {
+        culture = sclavenian
+        religion = orthodox
+        size = 1800
+    }
+
+    soldiers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 41250
+    }
+
+    farmers = {
+        culture = gypsy
+        religion = orthodox
+        size = 600
+    }
+}
+#sclaveniania Region (870000)
+#under the rule of Austria in 1836
+#Zagreb (224000/56000 POPS)
+771 = {
+    aristocrats = {
+        culture = sclavenian
+        religion = orthodox
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = sclavenian
+        religion = orthodox
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = orthodox
+        size = 1000
+    }
+
+    officers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 200
+    }
+
+    clergymen = {
+        culture = sclavenian
+        religion = orthodox
+        size = 900
+    }
+
+    artisans = {
+        culture = sclavenian
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 2200
+    }
+
+    farmers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 86100
+    }
+
+    farmers = {
+        culture = sclavenian
+        religion = manichaean
+        size = 600
+    }
+
+    serfs = {
+        culture = gypsy
+        religion = orthodox
+        size = 2000
+    }
+
+    serfs = {
+        culture = sclavenian
+        religion = orthodox
+        size = 24000
+    }
+
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 1400
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = orthodox
+        size = 200
+    }
+
+    officers = {
+        culture = roman
+        religion = orthodox
+        size = 300
     }
 
     clergymen = {
@@ -17,185 +159,13 @@
     artisans = {
         culture = roman
         religion = orthodox
-        size = 1450
+        size = 1400
     }
 
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 225
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 20875
-    }
-
-    clergymen = {
-        culture = sclavenian
-        religion = orthodox
-        size = 225
-    }
-
-    artisans = {
-        culture = sclavenian
-        religion = orthodox
-        size = 900
-    }
-
-    soldiers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 20625
-    }
-
-    farmers = {
-        culture = gypsy
-        religion = orthodox
-        size = 300
-    }
-}
-#sclaveniania Region (870000)
-#under the rule of Austria in 1836
-#Zagreb (224000/56000 POPS)
-771 = {
-    aristocrats = {
-        culture = sclavenian
-        religion = orthodox
-        size = 450
-    }
-
-    bureaucrats = {
-        culture = sclavenian
-        religion = orthodox
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = roman
-        religion = orthodox
-        size = 500
-    }
-
-    officers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = sclavenian
-        religion = orthodox
-        size = 450
-    }
-
-    artisans = {
-        culture = sclavenian
-        religion = orthodox
-        size = 2500
-    }
-
-    soldiers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 43050
-    }
-
-    farmers = {
-        culture = sclavenian
-        religion = manichaean
-        size = 300
-    }
-
-    serfs = {
-        culture = gypsy
-        religion = orthodox
-        size = 1000
-    }
-
-    serfs = {
-        culture = sclavenian
-        religion = orthodox
-        size = 12000
-    }
-
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 700
-    }
-
-    bureaucrats = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    officers = {
-        culture = roman
-        religion = orthodox
-        size = 150
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 700
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 3250
-    }
-
-    bureaucrats = {
-        culture = roman
-        religion = orthodox
-        size = 50
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 300
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
@@ -204,41 +174,71 @@
         size = 6500
     }
 
+    bureaucrats = {
+        culture = roman
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 600
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 13000
+    }
+
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 800
+        size = 1600
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 1000
     }
     ########
 }
@@ -247,86 +247,86 @@
     aristocrats = {
         culture = sclavenian
         religion = orthodox
-        size = 350
+        size = 700
     }
 
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 175
+        size = 350
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 900
+        size = 1800
     }
 
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 175
+        size = 350
     }
 
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 16300
+        size = 32600
     }
 
     farmers = {
         culture = sclavenian
         religion = manichaean
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 550
+        size = 1100
     }
 
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 125
+        size = 250
     }
 
     serfs = {
         culture = sclavenian
         religion = orthodox
-        size = 10225
+        size = 20450
     }
 
     ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
     ########
 }
@@ -335,7 +335,125 @@
     aristocrats = {
         culture = sclavenian
         religion = orthodox
+        size = 1100
+    }
+
+    clergymen = {
+        culture = sclavenian
+        religion = orthodox
+        size = 700
+    }
+
+    artisans = {
+        culture = sclavenian
+        religion = orthodox
+        size = 3400
+    }
+
+    soldiers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 2200
+    }
+
+    farmers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 58800
+    }
+
+    clergymen = {
+        culture = sclavenian
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = sclavenian
+        religion = orthodox
+        size = 1200
+    }
+
+    soldiers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 300
+    }
+
+    serfs = {
+        culture = sclavenian
+        religion = orthodox
+        size = 4250
+    }
+}
+#Senj (96000/24000 POPS)
+774 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
         size = 550
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = orthodox
+        size = 400
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 1300
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 26650
+    }
+
+    clergymen = {
+        culture = sclavenian
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = sclavenian
+        religion = orthodox
+        size = 1100
+    }
+
+    soldiers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 250
+    }
+
+    serfs = {
+        culture = sclavenian
+        religion = orthodox
+        size = 14450
+    }
+}
+#Varadzin (68000/17000 POPS)
+775 = {
+    aristocrats = {
+        culture = sclavenian
+        religion = orthodox
+        size = 400
     }
 
     clergymen = {
@@ -353,137 +471,19 @@
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 1100
+        size = 350
     }
 
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 29400
-    }
-
-    clergymen = {
-        culture = sclavenian
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = sclavenian
-        religion = orthodox
-        size = 600
-    }
-
-    soldiers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 150
+        size = 21200
     }
 
     serfs = {
         culture = sclavenian
         religion = orthodox
-        size = 2125
-    }
-}
-#Senj (96000/24000 POPS)
-774 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 275
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 125
-    }
-
-    bureaucrats = {
-        culture = roman
-        religion = orthodox
-        size = 200
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 650
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 125
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 13325
-    }
-
-    clergymen = {
-        culture = sclavenian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = sclavenian
-        religion = orthodox
-        size = 550
-    }
-
-    soldiers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 125
-    }
-
-    serfs = {
-        culture = sclavenian
-        religion = orthodox
-        size = 7225
-    }
-}
-#Varadzin (68000/17000 POPS)
-775 = {
-    aristocrats = {
-        culture = sclavenian
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = sclavenian
-        religion = orthodox
-        size = 175
-    }
-
-    artisans = {
-        culture = sclavenian
-        religion = orthodox
-        size = 850
-    }
-
-    soldiers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 175
-    }
-
-    farmers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 10600
-    }
-
-    serfs = {
-        culture = sclavenian
-        religion = orthodox
-        size = 5000
+        size = 10000
     }
 
     ######Jews
@@ -491,25 +491,25 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
     ########
 }
@@ -518,98 +518,98 @@
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 2675
+        size = 5350
     }
 
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 250
+        size = 500
     }
 
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     serfs = {
         culture = sclavenian
         religion = orthodox
-        size = 4625
+        size = 9250
     }
 
     clergymen = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = roman
         religion = orthodox
-        size = 250
+        size = 500
     }
 
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = roman
         religion = orthodox
-        size = 4650
+        size = 9300
     }
 
     ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
     ########
 }
@@ -618,43 +618,43 @@
     aristocrats = {
         culture = sclavenian
         religion = orthodox
-        size = 225
+        size = 450
     }
 
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 1100
+        size = 2200
     }
 
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 10275
+        size = 20550
     }
 
     farmers = {
         culture = sclavenian
         religion = manichaean
-        size = 100
+        size = 200
     }
 
     serfs = {
         culture = sclavenian
         religion = orthodox
-        size = 8000
+        size = 16000
     }
 }
 #Fiume (52000/13000 POPS)
@@ -662,79 +662,79 @@
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 1200
+        size = 2400
     }
 
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 4700
+        size = 9400
     }
 
     aristocrats = {
         culture = roman
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     clergymen = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = roman
         religion = orthodox
-        size = 1300
+        size = 2600
     }
 
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = roman
         religion = orthodox
-        size = 4425
+        size = 8850
     }
 
     clergymen = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = roman
         religion = orthodox
-        size = 250
+        size = 500
     }
 
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = roman
         religion = orthodox
-        size = 700
+        size = 1400
     }
 }
 #Baranya Region (180000) #see Hungary.txt for balance of Region
@@ -744,217 +744,67 @@
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 250
+        size = 500
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 1300
+        size = 2600
     }
 
     soldiers = {
         culture = sclavenian
-        religion = orthodox
-        size = 275
-    }
-
-    farmers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 19775
-    }
-
-    serfs = {
-        culture = gypsy
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = sclavenian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = sclavenian
-        religion = orthodox
-        size = 350
-    }
-
-    soldiers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 100
-    }
-
-    serfs = {
-        culture = sclavenian
-        religion = orthodox
-        size = 1500
-    }
-
-    aristocrats = {
-        culture = roman
         religion = orthodox
         size = 550
     }
 
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 300
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 2025
-    }
-
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 350
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 350
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 2300
-    }
-}
-#Dalmatia Region (320000) #see Montenegro.txt for balance of region
-#under the rule of Austria in 1836
-#Split (140000/35000 POPS)
-780 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 350
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 2000
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 350
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 23250
-    }
-
     farmers = {
         culture = sclavenian
-        religion = manichaean
-        size = 100
+        religion = orthodox
+        size = 39550
     }
 
     serfs = {
         culture = gypsy
         religion = orthodox
-        size = 1000
+        size = 800
+    }
+
+    clergymen = {
+        culture = sclavenian
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = sclavenian
+        religion = orthodox
+        size = 700
+    }
+
+    soldiers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 200
     }
 
     serfs = {
         culture = sclavenian
         religion = orthodox
-        size = 10000
+        size = 3000
     }
 
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 450
-    }
-}
-#Zadar (128000/32000 POPS)
-781 = {
     aristocrats = {
         culture = roman
         religion = orthodox
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    officers = {
-        culture = roman
-        religion = orthodox
-        size = 75
+        size = 1100
     }
 
     clergymen = {
         culture = roman
         religion = orthodox
-        size = 225
+        size = 200
     }
 
     artisans = {
@@ -966,67 +816,217 @@
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 225
+        size = 200
     }
 
     farmers = {
         culture = roman
         religion = orthodox
-        size = 20525
+        size = 4050
     }
 
-    bureaucrats = {
-        culture = greek
+    aristocrats = {
+        culture = roman
         religion = orthodox
-        size = 75
+        size = 700
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 700
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
-        size = 2125
+        size = 4600
+    }
+}
+#Dalmatia Region (320000) #see Montenegro.txt for balance of region
+#under the rule of Austria in 1836
+#Split (140000/35000 POPS)
+780 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 800
     }
 
     clergymen = {
-        culture = sclavenian
+        culture = roman
         religion = orthodox
-        size = 100
+        size = 700
     }
 
     artisans = {
-        culture = sclavenian
+        culture = roman
         religion = orthodox
-        size = 300
+        size = 4000
     }
 
     soldiers = {
-        culture = sclavenian
+        culture = roman
         religion = orthodox
-        size = 100
+        size = 700
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 46500
+    }
+
+    farmers = {
+        culture = sclavenian
+        religion = manichaean
+        size = 200
+    }
+
+    serfs = {
+        culture = gypsy
+        religion = orthodox
+        size = 2000
     }
 
     serfs = {
         culture = sclavenian
         religion = orthodox
-        size = 6550
+        size = 20000
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 900
+    }
+}
+#Zadar (128000/32000 POPS)
+781 = {
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = orthodox
+        size = 200
+    }
+
+    officers = {
+        culture = roman
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = roman
+        religion = orthodox
+        size = 450
+    }
+
+    artisans = {
+        culture = roman
+        religion = orthodox
+        size = 1200
+    }
+
+    soldiers = {
+        culture = roman
+        religion = orthodox
+        size = 450
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 41050
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 1400
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 4250
+    }
+
+    clergymen = {
+        culture = sclavenian
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = sclavenian
+        religion = orthodox
+        size = 600
+    }
+
+    soldiers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 200
+    }
+
+    serfs = {
+        culture = sclavenian
+        religion = orthodox
+        size = 13100
     }
 }
 #Dubrovnik (52000/13000 POPS)
@@ -1034,91 +1034,91 @@
     aristocrats = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 9125
+        size = 18250
     }
 
     farmers = {
         culture = sclavenian
         religion = manichaean
-        size = 100
+        size = 200
     }
 
     aristocrats = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = roman
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = roman
         religion = orthodox
-        size = 400
+        size = 800
     }
 
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     serfs = {
         culture = sclavenian
         religion = orthodox
-        size = 1825
+        size = 3650
     }
 
 }
@@ -1129,90 +1129,90 @@
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 800
+        size = 1600
     }
 
     soldiers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 175
-    }
-
-    farmers = {
-        culture = sclavenian
-        religion = orthodox
-        size = 10775
-    }
-
-    serfs = {
-        culture = sclavenian
-        religion = orthodox
-        size = 4000
-    }
-
-    farmers = {
-        culture = sclavenian
-        religion = manichaean
-        size = 100
-    }
-
-    clergymen = {
-        culture = sclavenian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
         culture = sclavenian
         religion = orthodox
         size = 350
     }
 
+    farmers = {
+        culture = sclavenian
+        religion = orthodox
+        size = 21550
+    }
+
+    serfs = {
+        culture = sclavenian
+        religion = orthodox
+        size = 8000
+    }
+
+    farmers = {
+        culture = sclavenian
+        religion = manichaean
+        size = 200
+    }
+
+    clergymen = {
+        culture = sclavenian
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = sclavenian
+        religion = orthodox
+        size = 700
+    }
+
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 7475
+        size = 14950
     }
 
     aristocrats = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = roman
         religion = orthodox
-        size = 1785
+        size = 3570
     }
 }

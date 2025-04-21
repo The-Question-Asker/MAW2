@@ -1,5 +1,6 @@
-owner = MOE
-controller = MOE
+owner = SCL
+controller = SCL
+add_core = SCL
 add_core = MOE
 trade_goods = grain
 life_rating = 35

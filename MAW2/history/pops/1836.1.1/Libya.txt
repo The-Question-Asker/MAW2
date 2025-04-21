@@ -5,109 +5,109 @@
     aristocrats = {
         culture = african
         religion = arian
-        size = 550
+        size = 1100
     }
 
     bureaucrats = {
         culture = african
         religion = arian
-        size = 50
+        size = 100
     }
 
     officers = {
         culture = african
         religion = arian
-        size = 75
+        size = 150
     }
 
     clergymen = {
         culture = african
         religion = arian
-        size = 275
+        size = 550
     }
 
     artisans = {
         culture = roman
         religion = arian
-        size = 10150
+        size = 20300
     }
 	
     artisans = {
         culture = greek
         religion = orthodox
-        size = 10150
+        size = 20300
     }
 	
     artisans = {
         culture = african
         religion = arian
-        size = 10150
+        size = 20300
     }
 	
     artisans = {
         culture = hispanic
         religion = arian
-        size = 10150
+        size = 20300
     }
 
     soldiers = {
         culture = african
         religion = arian
-        size = 2100
+        size = 4200
     }
 
     farmers = {
         culture = hispanic
         religion = arian
-        size = 32900
+        size = 65800
     }
 
     aristocrats = {
         culture = berber
         religion = arian
-        size = 125
+        size = 250
     }
 
     clergymen = {
         culture = berber
         religion = arian
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = berber
         religion = arian
-        size = 350
+        size = 700
     }
 
     soldiers = {
         culture = berber
         religion = arian
-        size = 375
+        size = 750
     }
 
     farmers = {
         culture = african
         religion = arian
-        size = 73075
+        size = 146150
     }
 
     slaves = {
         culture = forest_bantu
         religion = animist
-        size = 6500
+        size = 13000
     }
 
     clergymen = {
         culture = sephardic
         religion = jewish
-        size = 325
+        size = 650
     }
 
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 8475
+        size = 16950
     }
 }
 #Gharyan (40000/10000 POPS)
@@ -115,67 +115,67 @@
     aristocrats = {
         culture = african
         religion = arian
-        size = 50
+        size = 100
     }
 
     clergymen = {
-        culture = african
-        religion = arian
-        size = 75
-    }
-
-    artisans = {
         culture = african
         religion = arian
         size = 150
     }
 
+    artisans = {
+        culture = african
+        religion = arian
+        size = 300
+    }
+
     soldiers = {
         culture = african
         religion = arian
-        size = 1100
+        size = 2200
     }
 
     farmers = {
         culture = african
         religion = arian
-        size = 1725
+        size = 3450
     }
 
     aristocrats = {
         culture = berber
         religion = arian
-        size = 75
+        size = 150
     }
 
     clergymen = {
         culture = berber
         religion = arian
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = berber
         religion = arian
-        size = 250
+        size = 500
     }
 
     soldiers = {
         culture = berber
         religion = arian
-        size = 50
+        size = 100
     }
 
     farmers = {
         culture = berber
         religion = arian
-        size = 4550
+        size = 9100
     }
 
     slaves = {
         culture = forest_bantu
         religion = animist
-        size = 2000
+        size = 4000
     }
 }
 #Misratah (84000/21000 POPS)
@@ -183,67 +183,235 @@
     aristocrats = {
         culture = african
         religion = arian
-        size = 175
+        size = 350
     }
 
     clergymen = {
         culture = african
         religion = arian
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = african
         religion = arian
-        size = 500
+        size = 1000
     }
 
     soldiers = {
         culture = african
         religion = arian
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = african
         religion = arian
-        size = 10125
+        size = 20250
     }
 
     aristocrats = {
         culture = berber
         religion = arian
-        size = 125
+        size = 250
     }
 
     clergymen = {
         culture = berber
         religion = arian
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = berber
         religion = arian
-        size = 275
+        size = 550
     }
 
     soldiers = {
         culture = berber
         religion = arian
-        size = 1100
+        size = 2200
     }
 
     farmers = {
         culture = berber
         religion = arian
-        size = 4250
+        size = 8500
     }
 
     slaves = {
         culture = forest_bantu
         religion = animist
-        size = 5000
+        size = 10000
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 20
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 980
+    }
+}
+#Sirt (100000/25000 POPS)
+1734 = {
+    aristocrats = {
+        culture = african
+        religion = arian
+        size = 300
+    }
+
+    clergymen = {
+        culture = african
+        religion = arian
+        size = 150
+    }
+
+    artisans = {
+        culture = african
+        religion = arian
+        size = 800
+    }
+
+    soldiers = {
+        culture = african
+        religion = arian
+        size = 150
+    }
+
+    farmers = {
+        culture = african
+        religion = arian
+        size = 14600
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = arian
+        size = 450
+    }
+
+    clergymen = {
+        culture = berber
+        religion = arian
+        size = 250
+    }
+
+    artisans = {
+        culture = berber
+        religion = arian
+        size = 1300
+    }
+
+    soldiers = {
+        culture = berber
+        religion = arian
+        size = 2200
+    }
+
+    farmers = {
+        culture = berber
+        religion = arian
+        size = 20000
+    }
+
+    slaves = {
+        culture = forest_bantu
+        religion = animist
+        size = 8000
+    }
+}
+#Cyrenaica Region (232000)
+#under the rule of Ottoman Empire in 1836
+#Benghazi (124000/31000 POPS)
+1735 = {
+    aristocrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 550
+    }
+
+    bureaucrats = {
+        culture = aegyptian
+        religion = orthodox
+        size = 50
+    }
+
+    officers = {
+        culture = aegyptian
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = aegyptian
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = aegyptian
+        religion = orthodox
+        size = 1470
+    }
+
+    soldiers = {
+        culture = african
+        religion = arian
+        size = 2200
+    }
+
+    farmers = {
+        culture = african
+        religion = arian
+        size = 24050
+    }
+
+    farmers = {
+        culture = african
+        religion = orthodox
+        size = 4050
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = arian
+        size = 350
+    }
+
+    clergymen = {
+        culture = berber
+        religion = arian
+        size = 150
+    }
+
+    artisans = {
+        culture = berber
+        religion = arian
+        size = 1000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = arian
+        size = 200
+    }
+
+    farmers = {
+        culture = berber
+        religion = arian
+        size = 18300
+    }
+
+    slaves = {
+        culture = forest_bantu
+        religion = animist
+        size = 12000
     }
 
     clergymen = {
@@ -258,66 +426,72 @@
         size = 490
     }
 }
-#Sirt (100000/25000 POPS)
-1734 = {
+#Darnah (60000/15000 POPS)
+1736 = {
     aristocrats = {
-        culture = african
-        religion = arian
+        culture = aegyptian
+        religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = african
-        religion = arian
-        size = 75
+        culture = aegyptian
+        religion = orthodox
+        size = 100
     }
 
     artisans = {
         culture = african
         religion = arian
-        size = 400
+        size = 500
     }
 
     soldiers = {
         culture = african
         religion = arian
-        size = 75
+        size = 100
     }
 
     farmers = {
         culture = african
         religion = arian
-        size = 7300
+        size = 6550
+    }
+	
+    farmers = {
+        culture = african
+        religion = orthodox
+        size = 2550
     }
 
     aristocrats = {
         culture = berber
         religion = arian
-        size = 225
+        size = 250
     }
 
     clergymen = {
         culture = berber
         religion = arian
-        size = 125
+        size = 150
     }
 
     artisans = {
         culture = berber
         religion = arian
-        size = 650
+        size = 800
     }
 
     soldiers = {
         culture = berber
         religion = arian
-        size = 1100
+        size = 150
     }
 
     farmers = {
         culture = berber
         religion = arian
-        size = 10000
+        size = 14650
     }
 
     slaves = {
@@ -326,68 +500,60 @@
         size = 4000
     }
 }
-#Cyrenaica Region (232000)
-#under the rule of Ottoman Empire in 1836
-#Benghazi (124000/31000 POPS)
-1735 = {
+#Tobruk (48000/12000 POPS)
+1737 = {
     aristocrats = {
-        culture = african
-        religion = arian
-        size = 275
-    }
-
-    bureaucrats = {
-        culture = african
-        religion = arian
-        size = 25
-    }
-
-    officers = {
-        culture = african
-        religion = arian
-        size = 25
+        culture = aegyptian
+        religion = orthodox
+        size = 50
     }
 
     clergymen = {
-        culture = african
-        religion = arian
-        size = 150
+        culture = aegyptian
+        religion = orthodox
+        size = 100
     }
 
     artisans = {
         culture = african
         religion = arian
-        size = 735
+        size = 300
     }
 
     soldiers = {
         culture = african
         religion = arian
-        size = 1100
+        size = 50
     }
 
     farmers = {
         culture = african
         religion = arian
-        size = 14025
+        size = 5000
+    }
+	
+    farmers = {
+        culture = african
+        religion = orthodox
+        size = 400
     }
 
     aristocrats = {
         culture = berber
         religion = arian
-        size = 175
+        size = 200
     }
 
     clergymen = {
         culture = berber
         religion = arian
-        size = 75
+        size = 100
     }
 
     artisans = {
         culture = berber
         religion = arian
-        size = 500
+        size = 600
     }
 
     soldiers = {
@@ -399,7 +565,7 @@
     farmers = {
         culture = berber
         religion = arian
-        size = 9150
+        size = 11000
     }
 
     slaves = {
@@ -407,133 +573,58 @@
         religion = animist
         size = 6000
     }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 245
-    }
 }
-#Darnah (60000/15000 POPS)
-1736 = {
+#Kufrah Region (48000)
+#uncolonized in 1836
+#Jaghbub (12000/3000 POPS)
+1738 = {
     aristocrats = {
-        culture = african
-        religion = arian
-        size = 75
-    }
-
-    clergymen = {
         culture = african
         religion = arian
         size = 50
     }
 
-    artisans = {
-        culture = african
-        religion = arian
-        size = 250
-    }
-
-    soldiers = {
-        culture = african
-        religion = arian
-        size = 50
-    }
-
-    farmers = {
-        culture = african
-        religion = arian
-        size = 4575
-    }
-
-    aristocrats = {
-        culture = berber
-        religion = arian
-        size = 125
-    }
-
-    clergymen = {
-        culture = berber
-        religion = arian
-        size = 75
-    }
-
-    artisans = {
-        culture = berber
-        religion = arian
-        size = 400
-    }
-
-    soldiers = {
-        culture = berber
-        religion = arian
-        size = 75
-    }
-
-    farmers = {
-        culture = berber
-        religion = arian
-        size = 7325
-    }
-
-    slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 2000
-    }
-}
-#Tobruk (48000/12000 POPS)
-1737 = {
-    aristocrats = {
-        culture = african
-        religion = arian
-        size = 25
-    }
-
     clergymen = {
         culture = african
-        religion = arian
-        size = 50
-    }
-
-    artisans = {
-        culture = african
-        religion = arian
-        size = 150
-    }
-
-    soldiers = {
-        culture = african
-        religion = arian
-        size = 25
-    }
-
-    farmers = {
-        culture = african
-        religion = arian
-        size = 2700
-    }
-
-    aristocrats = {
-        culture = berber
         religion = arian
         size = 100
     }
 
-    clergymen = {
+    artisans = {
+        culture = african
+        religion = arian
+        size = 300
+    }
+
+    soldiers = {
         culture = berber
         religion = arian
         size = 50
     }
 
-    artisans = {
+    farmers = {
         culture = berber
+        religion = arian
+        size = 5500
+    }
+}
+
+#Waddan (16000/4000 POPS)
+1740 = {
+    aristocrats = {
+        culture = african
+        religion = arian
+        size = 50
+    }
+
+    clergymen = {
+        culture = african
+        religion = arian
+        size = 100
+    }
+
+    artisans = {
+        culture = african
         religion = arian
         size = 300
     }
@@ -550,107 +641,34 @@
         size = 5500
     }
 
-    slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 3000
-    }
-}
-#Kufrah Region (48000)
-#uncolonized in 1836
-#Jaghbub (12000/3000 POPS)
-1738 = {
-    aristocrats = {
-        culture = african
-        religion = arian
-        size = 25
-    }
-
-    clergymen = {
-        culture = african
-        religion = arian
-        size = 50
-    }
-
-    artisans = {
-        culture = african
-        religion = arian
-        size = 150
-    }
-
-    soldiers = {
-        culture = berber
-        religion = arian
-        size = 25
-    }
-
-    farmers = {
-        culture = berber
-        religion = arian
-        size = 2750
-    }
-}
-
-#Waddan (16000/4000 POPS)
-1740 = {
-    aristocrats = {
-        culture = african
-        religion = arian
-        size = 25
-    }
-
-    clergymen = {
-        culture = african
-        religion = arian
-        size = 50
-    }
-
-    artisans = {
-        culture = african
-        religion = arian
-        size = 150
-    }
-
-    soldiers = {
-        culture = berber
-        religion = arian
-        size = 25
-    }
-
-    farmers = {
-        culture = berber
-        religion = arian
-        size = 2750
-    }
-
     aristocrats = {
         culture = tuareg
         religion = arian
-        size = 15
+        size = 30
     }
 
     clergymen = {
         culture = tuareg
         religion = arian
-        size = 25
+        size = 50
     }
 
     artisans = {
         culture = tuareg
         religion = arian
-        size = 50
+        size = 100
     }
 
     soldiers = {
         culture = tuareg
         religion = arian
-        size = 10
+        size = 20
     }
 
     farmers = {
         culture = tuareg
         religion = arian
-        size = 900
+        size = 1800
     }
 }
 #Matan al Sarah (4000/1000 POPS)
@@ -659,85 +677,85 @@
     aristocrats = {
         culture = sahid
         religion = orthodox
-        size = 25
+        size = 50
     }
 
     clergymen = {
         culture = sahid
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = sahid
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     soldiers = {
         culture = sahid
         religion = orthodox
-        size = 1100
+        size = 2200
     }
 
     farmers = {
         culture = sahid
         religion = orthodox
-        size = 1650
+        size = 3300
     }
 
     aristocrats = {
         culture = berber
         religion = arian
-        size = 15
+        size = 30
     }
 
     clergymen = {
         culture = berber
         religion = arian
-        size = 25
+        size = 50
     }
 
     artisans = {
         culture = berber
         religion = arian
-        size = 50
+        size = 100
     }
 
     soldiers = {
         culture = berber
         religion = arian
-        size = 10
+        size = 20
     }
 
     farmers = {
         culture = berber
         religion = arian
-        size = 500
+        size = 1000
     }
 
     aristocrats = {
         culture = teda
         religion = arian
-        size = 15
+        size = 30
     }
 
     clergymen = {
         culture = teda
         religion = arian
-        size = 25
+        size = 50
     }
 
     artisans = {
         culture = teda
         religion = arian
-        size = 50
+        size = 100
     }
 
     farmers = {
         culture = teda
         religion = arian
-        size = 1310
+        size = 2620
     }
 }
 #Fezzan Region (70000)
@@ -747,79 +765,79 @@
     aristocrats = {
         culture = african
         religion = arian
-        size = 15
+        size = 30
     }
 
     bureaucrats = {
         culture = african
         religion = arian
-        size = 20
+        size = 40
     }
 
     officers = {
         culture = african
         religion = arian
-        size = 15
+        size = 30
     }
 
     clergymen = {
-        culture = african
-        religion = arian
-        size = 25
-    }
-
-    artisans = {
         culture = african
         religion = arian
         size = 50
     }
 
-    soldiers = {
-        culture = african
-        religion = arian
-        size = 10
-    }
-
-    farmers = {
-        culture = african
-        religion = arian
-        size = 880
-    }
-
-    aristocrats = {
-        culture = tuareg
-        religion = arian
-        size = 25
-    }
-
-    clergymen = {
-        culture = tuareg
-        religion = arian
-        size = 25
-    }
-
     artisans = {
-        culture = tuareg
+        culture = african
         religion = arian
         size = 100
     }
 
     soldiers = {
+        culture = african
+        religion = arian
+        size = 20
+    }
+
+    farmers = {
+        culture = african
+        religion = arian
+        size = 1760
+    }
+
+    aristocrats = {
         culture = tuareg
         religion = arian
-        size = 25
+        size = 50
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = arian
+        size = 50
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = arian
+        size = 200
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = arian
+        size = 50
     }
 
     farmers = {
         culture = tuareg
         religion = arian
-        size = 1875
+        size = 3750
     }
 
     slaves = {
         culture = berber
         religion = arian
-        size = 1100
+        size = 2200
     }
 }
 #Sabha (14000/3500 POPS)
@@ -827,67 +845,67 @@
     aristocrats = {
         culture = african
         religion = arian
-        size = 15
+        size = 30
     }
 
     clergymen = {
-        culture = african
-        religion = arian
-        size = 25
-    }
-
-    artisans = {
         culture = african
         religion = arian
         size = 50
     }
 
-    soldiers = {
-        culture = berber
-        religion = arian
-        size = 10
-    }
-
-    farmers = {
-        culture = berber
-        religion = arian
-        size = 900
-    }
-
-    aristocrats = {
-        culture = tuareg
-        religion = arian
-        size = 25
-    }
-
-    clergymen = {
-        culture = tuareg
-        religion = arian
-        size = 25
-    }
-
     artisans = {
-        culture = tuareg
+        culture = african
         religion = arian
         size = 100
     }
 
     soldiers = {
+        culture = berber
+        religion = arian
+        size = 20
+    }
+
+    farmers = {
+        culture = berber
+        religion = arian
+        size = 1800
+    }
+
+    aristocrats = {
         culture = tuareg
         religion = arian
-        size = 25
+        size = 50
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = arian
+        size = 50
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = arian
+        size = 200
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = arian
+        size = 50
     }
 
     farmers = {
         culture = tuareg
         religion = arian
-        size = 1875
+        size = 3750
     }
 
     slaves = {
         culture = teda
         religion = arian
-        size = 500
+        size = 1000
     }
 }
 
@@ -896,67 +914,67 @@
     aristocrats = {
         culture = african
         religion = arian
-        size = 65
+        size = 130
     }
 
     clergymen = {
         culture = african
         religion = arian
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = african
         religion = arian
-        size = 200
+        size = 400
     }
 
     soldiers = {
         culture = african
         religion = arian
-        size = 1100
+        size = 2200
     }
 
     farmers = {
         culture = berber
         religion = arian
-        size = 2650
+        size = 5300
     }
 
     aristocrats = {
         culture = tuareg
         religion = arian
-        size = 40
+        size = 80
     }
 
     clergymen = {
         culture = tuareg
         religion = arian
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = tuareg
         religion = arian
-        size = 150
+        size = 300
     }
 
     soldiers = {
         culture = tuareg
         religion = arian
-        size = 1120
+        size = 2240
     }
 
     farmers = {
         culture = tuareg
         religion = arian
-        size = 1800
+        size = 3600
     }
 
     slaves = {
         culture = berber
         religion = arian
-        size = 3100
+        size = 6200
     }
 
 }

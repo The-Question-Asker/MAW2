@@ -2,54 +2,54 @@
     aristocrats = {
         culture = sclavenian
         religion = orthodox
-        size = 614
+        size = 1228
     }
     bureaucrats = {
         culture = sclavenian
         religion = orthodox
-        size = 143
+        size = 286
     }
     officers = {
         culture = sclavenian
         religion = orthodox
-        size = 122
+        size = 244
     }
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 256
+        size = 512
     }
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 1310
+        size = 2620
     }
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 819
+        size = 1638
     }
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 40947
+        size = 81894
     }
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 4065
+        size = 8130
     }
 
     ######Jews
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 200
     }
     ########
 }
@@ -57,187 +57,187 @@
     aristocrats = {
         culture = sclavenian
         religion = orthodox
-        size = 880
+        size = 1760
     }
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 307
+        size = 614
     }
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 1556
+        size = 3112
     }
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 819
+        size = 1638
     }
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 30566
+        size = 61132
     }
     clergymen = {
         culture = sclavenian
         religion = manichaean
-        size = 100
+        size = 200
     }
     artisans = {
         culture = sclavenian
         religion = manichaean
-        size = 430
+        size = 860
     }
     farmers = {
         culture = sclavenian
         religion = manichaean
-        size = 10127
+        size = 20254
     }
 }
 851 = {
     aristocrats = {
         culture = sclavenian
         religion = orthodox
-        size = 245
+        size = 490
     }
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 491
+        size = 982
     }
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 450
+        size = 900
     }
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 5632
+        size = 11264
     }
     clergymen = {
         culture = sclavenian
         religion = manichaean
-        size = 100
+        size = 200
     }
     farmers = {
         culture = sclavenian
         religion = manichaean
-        size = 2355
+        size = 4710
     }
 }
 852 = {
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 573
+        size = 1146
     }
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 256
+        size = 512
     }
     artisans = {
         culture = greek
         religion = orthodox
-        size = 1331
+        size = 2662
     }
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 286
+        size = 572
     }
     farmers = {
         culture = greek
         religion = orthodox
-        size = 10947
+        size = 21894
     }
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 143
+        size = 286
     }
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 2232
+        size = 4464
     }
 }
 853 = {
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 307
+        size = 614
     }
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 102
+        size = 204
     }
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 450
+        size = 900
     }
     artisans = {
         culture = greek
         religion = orthodox
-        size = 122
+        size = 244
     }
     farmers = {
         culture = greek
         religion = orthodox
-        size = 6246
+        size = 12492
     }
     farmers = {
         culture = greek
         religion = manichaean
-        size = 1000
+        size = 2000
     }
     soldiers = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
     clergymen = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
     artisans = {
         culture = sclavenian
         religion = orthodox
-        size = 100
+        size = 200
     }
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 6679
+        size = 13358
     }
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 122
+        size = 244
     }
     clergymen = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 200
     }
     artisans = {
         culture = roman
         religion = orthodox
-        size = 245
+        size = 490
     }
     farmers = {
         culture = roman
         religion = orthodox
-        size = 1799
+        size = 3598
     }
 }

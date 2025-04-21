@@ -4,73 +4,73 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1400
+        size = 840
     }
 
     officers = {
         culture = laaglander
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     bureaucrats = {
         culture = laaglander
         religion = orthodox
-        size = 1750
+        size = 1050
     }
 
     clergymen = {
         culture = laaglander
         religion = orthodox
-        size = 1500
+        size = 900
     }
 
     artisans = {
         culture = laaglander
         religion = orthodox
-        size = 10000
+        size = 6000
     }
 
     artisans = {
         culture = laaglander
         religion = orthodox
-        size = 7000
+        size = 4200
     }
 
     soldiers = {
         culture = laaglander
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = laaglander
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = laaglander
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = laaglander
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = laaglander
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     labourers = {
         culture = laaglander
         religion = orthodox
-        size = 120500
+        size = 72300
     }
 }
 #Dunkirk (396000/99000 POPS)
@@ -78,73 +78,73 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 800
+        size = 480
     }
 
     clergymen = {
         culture = laaglander
         religion = orthodox
-        size = 850
+        size = 510
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 5000
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
         size = 3000
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 1800
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 600
     }
 
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 63550
+        size = 38130
     }
 
     artisans = {
         culture = laaglander
         religion = orthodox
-        size = 2500
+        size = 1500
     }
 
     soldiers = {
         culture = laaglander
         religion = orthodox
-        size = 300
+        size = 180
     }
 
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 15000
+        size = 9000
     }
 }
 #Arras (428000/107000 POPS)
@@ -152,37 +152,37 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 850
+        size = 510
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 925
+        size = 555
     }
 
     artisans = {
         culture = laaglander
         religion = orthodox
-        size = 5750
+        size = 3450
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1150
+        size = 690
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 60200
+        size = 36120
     }
 
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 30125
+        size = 18075
     }
 }
 #Amiens (552000/138000 POPS)
@@ -190,43 +190,43 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1250
+        size = 750
     }
 
     clergymen = {
         culture = laaglander
         religion = orthodox
-        size = 1175
+        size = 705
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 10000
+        size = 6000
     }
 
     artisans = {
         culture = laaglander
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1500
+        size = 900
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 102875
+        size = 61725
     }
 
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 13075
+        size = 7845
     }
 }
 #Beauvais (392000/98000 POPS)
@@ -234,43 +234,43 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     clergymen = {
         culture = laaglander
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     artisans = {
         culture = laaglander
         religion = orthodox
-        size = 5000
+        size = 3000
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 80450
+        size = 48270
     }
 
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 9450
+        size = 5670
     }
 
 }
@@ -280,43 +280,43 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1050
+        size = 630
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 350
+        size = 210
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 1125
+        size = 675
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 6500
+        size = 3900
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1500
+        size = 900
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 120725
+        size = 72435
     }
 }
 #Cambrai (280000/70000 POPS)
@@ -324,31 +324,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 600
+        size = 360
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 3500
+        size = 2100
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 64400
+        size = 38640
     }
 }
 #Charleville (308000/77000 POPS)
@@ -356,31 +356,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 850
+        size = 510
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 656
+        size = 393.59999999999996
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 4250
+        size = 2550
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 937
+        size = 562.1999999999999
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 89556
+        size = 53733.6
     }
 
 }
@@ -390,43 +390,43 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 300
+        size = 180
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 550
+        size = 330
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 3750
+        size = 2250
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 55900
+        size = 33540
     }
 }
 #Chaumont (256000/64000 POPS)
@@ -434,31 +434,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 600
+        size = 360
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 3250
+        size = 1950
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 98750
+        size = 59250
     }
 }
 #Chalons (348000/87000 POPS)
@@ -466,31 +466,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 800
+        size = 480
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 650
+        size = 390
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 5850
+        size = 3510
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 78700
+        size = 47220
     }
 
 }
@@ -500,133 +500,252 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 300
+        size = 180
     }
 
     officers = {
         culture = saxon
         religion = orthodox
-        size = 60
+        size = 36
     }
 
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 375
+        size = 225
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 5500
+        size = 3300
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 350
+        size = 210
     }
 
 
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     officers = {
         culture = saxon
         religion = orthodox
-        size = 60
+        size = 36
     }
 
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 6000
+        size = 3600
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 49040
+        size = 29424
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 775
+        size = 465
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 300
     }
     ########
 
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 80
+        size = 48
     }
 
     bureaucrats = {
+        culture = frankish
+        religion = orthodox
+        size = 90
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 2100
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 165
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 30897
+    }
+}
+#Mulhausen (424000/106000 POPS)
+410 = {
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 180
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 180
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 900
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 180
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 16560
+    }
+
+    aristocrats = {
+        culture = saxon
+        religion = orthodox
+        size = 210
+    }
+
+    clergymen = {
+        culture = saxon
+        religion = orthodox
+        size = 225
+    }
+
+    artisans = {
+        culture = saxon
+        religion = orthodox
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 240
+    }
+
+    farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 24825
+    }
+
+    ######Jews
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 180
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 360
+    }
+    ########
+
+    aristocrats = {
         culture = frankish
         religion = orthodox
         size = 150
@@ -635,144 +754,25 @@
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 250
+        size = 180
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 3500
+        size = 900
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 275
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 51495
-    }
-}
-#Mulhausen (424000/106000 POPS)
-410 = {
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 300
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 1500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 300
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 27600
-    }
-
-    aristocrats = {
-        culture = saxon
-        religion = orthodox
-        size = 350
-    }
-
-    clergymen = {
-        culture = saxon
-        religion = orthodox
-        size = 375
-    }
-
-    artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 2500
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 400
-    }
-
-    farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 41375
-    }
-
-    ######Jews
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 600
-    }
-    ########
-
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 250
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 300
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 1500
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 350
+        size = 210
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 27600
+        size = 16560
     }
 
 }
@@ -782,110 +782,110 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 600
+        size = 360
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 850
+        size = 510
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 7450
+        size = 4470
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 74600
+        size = 44760
     }
 
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 175
+        size = 105
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1250
+        size = 750
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 275
+        size = 165
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 400
+        size = 240
     }
     ########
 }
@@ -894,61 +894,61 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 600
+        size = 360
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 425
+        size = 255
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 6000
+        size = 3600
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 650
+        size = 390
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 60825
+        size = 36495
     }
 
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 75
+        size = 45
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 3500
+        size = 2100
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 6275
+        size = 3765
     }
 
     ######Jews
@@ -956,25 +956,25 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 450
+        size = 270
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 850
+        size = 510
     }
 
     #####
@@ -982,31 +982,31 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 275
+        size = 165
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 2500
+        size = 1500
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 27775
+        size = 16665
     }
 }
 #Verdun (320000/80000 POPS)
@@ -1014,55 +1014,55 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 450
+        size = 270
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 319
+        size = 191.4
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 1500
+        size = 900
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 751
+        size = 450.59999999999996
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 54919
+        size = 32951.4
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1525
+        size = 915
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     labourers = {
         culture = saxon
         religion = orthodox
-        size = 1400
+        size = 840
     }
 }
 #Epinal (412000/103000 POPS)
@@ -1070,55 +1070,55 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 900
+        size = 540
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 3750
+        size = 2250
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     labourers = {
         culture = frankish
         religion = orthodox
-        size = 74450
+        size = 44670
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 1225
+        size = 735
     }
 
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     labourers = {
         culture = saxon
         religion = orthodox
-        size = 700
+        size = 420
     }
 
 }
@@ -1128,116 +1128,40 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1600
+        size = 960
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 1650
+        size = 990
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 1550
+        size = 930
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 10000
+        size = 6000
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 10000
+        size = 6000
     }
 
     artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 5000
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 146550
-    }
-}
-#Evreux (424000/106000 POPS)
-416 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1050
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 850
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 5250
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 97750
-    }
-}
-#Alencon (442000/110500 POPS)
-417 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    capitalists = {
-        culture = frankish
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 900
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 5100
-    }
-
-    craftsmen = {
         culture = frankish
         religion = orthodox
         size = 3000
@@ -1252,7 +1176,83 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 98800
+        size = 87930
+    }
+}
+#Evreux (424000/106000 POPS)
+416 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 630
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 510
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 3150
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 660
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 58650
+    }
+}
+#Alencon (442000/110500 POPS)
+417 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 660
+    }
+
+    capitalists = {
+        culture = frankish
+        religion = orthodox
+        size = 240
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 540
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 3060
+    }
+
+    craftsmen = {
+        culture = frankish
+        religion = orthodox
+        size = 1800
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 720
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 59280
     }
 }
 #Caen (1088000/272000 POPS)
@@ -1260,37 +1260,37 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 2650
+        size = 1590
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 2550
+        size = 1530
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 10000
+        size = 6000
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 3500
+        size = 2100
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 2750
+        size = 1650
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 150550
+        size = 90330
     }
 
 }
@@ -1300,61 +1300,212 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1350
+        size = 810
     }
 
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 1550
+        size = 930
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 5000
+        size = 3000
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 1050
+        size = 630
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 9500
+        size = 5700
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 3600
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 66480
+    }
+}
+#St Brieuc (604000/151000 POPS)
+421 = {
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 120
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 300
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 240
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 3000
+    }
+
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 720
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 660
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 4200
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 660
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 80700
+    }
+}
+#Vannes (436000/109000 POPS)
+422 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 660
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 600
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 6000
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 480
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 2640
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 54420
+    }
+}
+#Nantes (476000/119000 POPS)
+423 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 660
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 6000
     }
 
     artisans = {
@@ -1366,170 +1517,19 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 110800
-    }
-}
-#St Brieuc (604000/151000 POPS)
-421 = {
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 200
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 400
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 5000
-    }
-
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1200
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 7000
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 134500
-    }
-}
-#Vannes (436000/109000 POPS)
-422 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 1000
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 10000
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 800
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 4400
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 90700
-    }
-}
-#Nantes (476000/119000 POPS)
-423 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 1000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 10000
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 1250
+        size = 750
     }
 
     labourers = {
         culture = frankish
         religion = orthodox
-        size = 20650
+        size = 12390
     }
 
     labourers = {
         culture = frankish
         religion = orthodox
-        size = 20450
+        size = 12270
     }
 }
 #Rennes (548000/137000 POPS)
@@ -1537,43 +1537,43 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1400
+        size = 840
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 1150
+        size = 690
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 9000
+        size = 5400
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 24050
+        size = 14430
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 100000
+        size = 60000
     }
 
 }
@@ -1583,61 +1583,61 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 3000
+        size = 1800
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 800
+        size = 480
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 1500
+        size = 900
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 4000
+        size = 2400
     }
 
     capitalists = {
         culture = frankish
         religion = orthodox
-        size = 200
+        size = 120
     }
 
     clerks = {
         culture = frankish
         religion = orthodox
-        size = 1500
+        size = 900
     }
 
     craftsmen = {
         culture = frankish
         religion = orthodox
-        size = 13500
+        size = 8100
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 55400
+        size = 33240
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 4000
+        size = 2400
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 222200
+        size = 133320
     }
 
     ####Jews
@@ -1645,55 +1645,55 @@
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 300
     }
 
     capitalists = {
         culture = ashkenazi
         religion = jewish
-        size = 200
+        size = 120
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 300
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 100
+        size = 60
     }
 
     clerks = {
         culture = ashkenazi
         religion = jewish
-        size = 1400
+        size = 840
     }
 
     craftsmen = {
         culture = ashkenazi
         religion = jewish
-        size = 2000
+        size = 1200
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 2000
+        size = 1200
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 350
+        size = 210
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 5000
+        size = 3000
     }
 }
 #Chartres (284000/71000 POPS)
@@ -1701,31 +1701,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 700
+        size = 420
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 525
+        size = 315
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 19100
+        size = 11460
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 79675
+        size = 47805
     }
 }
 #Melun (328000/82000 POPS)
@@ -1733,31 +1733,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 800
+        size = 480
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 600
+        size = 360
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 19100
+        size = 11460
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 90500
+        size = 54300
     }
 
 }
@@ -1767,43 +1767,43 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 900
+        size = 540
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 8000
+        size = 4800
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 83850
+        size = 50310
     }
 }
 #Auxerre (356000/89000 POPS)
@@ -1811,31 +1811,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 900
+        size = 540
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 700
+        size = 420
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 4500
+        size = 2700
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 82900
+        size = 49740
     }
 }
 #Moulins (596000/149000 POPS)
@@ -1843,31 +1843,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1400
+        size = 840
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 1275
+        size = 765
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 7450
+        size = 4470
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1500
+        size = 900
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 137575
+        size = 82545
     }
 }
 #Macon (536000/134000 POPS)
@@ -1875,31 +1875,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 900
+        size = 540
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 5000
+        size = 3000
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 126000
+        size = 75600
     }
 
 }
@@ -1909,43 +1909,43 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1400
+        size = 840
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 550
+        size = 330
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 1250
+        size = 750
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 8000
+        size = 4800
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1500
+        size = 900
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 137050
+        size = 82230
     }
 }
 #Lons (314000/78500 POPS)
@@ -1953,37 +1953,37 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 700
+        size = 420
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 400
+        size = 240
     }
 
     artisans = {
         culture = narbonne
         religion = orthodox
-        size = 4000
+        size = 2400
     }
 
     soldiers = {
         culture = narbonne
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 42400
+        size = 25440
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 34000
+        size = 20400
     }
 
 }
@@ -1993,89 +1993,19 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1900
+        size = 1140
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 500
+        size = 300
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 1200
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 1000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 2000
-    }
-
-    labourers = {
-        culture = frankish
-        religion = orthodox
-        size = 77900
-    }
-}
-#Laval (358000/89500 POPS)
-435 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 800
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 550
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 4500
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 900
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 82750
-    }
-}
-#Le Mans (464000/116000 POPS)
-436 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
+        size = 720
     }
 
     clergymen = {
@@ -2090,16 +2020,86 @@
         size = 6000
     }
 
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 660
+    }
+
     soldiers = {
         culture = frankish
         religion = orthodox
         size = 1200
     }
 
+    labourers = {
+        culture = frankish
+        religion = orthodox
+        size = 46740
+    }
+}
+#Laval (358000/89500 POPS)
+435 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 480
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 330
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 2700
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 540
+    }
+
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 107100
+        size = 49650
+    }
+}
+#Le Mans (464000/116000 POPS)
+436 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 660
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 360
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 3600
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 720
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 64260
     }
 }
 #La Roche (344000/86000 POPS)
@@ -2107,31 +2107,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 800
+        size = 480
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 450
+        size = 270
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 4000
+        size = 2400
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 900
+        size = 540
     }
 
     labourers = {
         culture = frankish
         religion = orthodox
-        size = 79850
+        size = 47910
     }
 
 }
@@ -2141,63 +2141,25 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 700
+        size = 420
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 300
+        size = 180
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 700
+        size = 420
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 550
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 1500
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 63350
-    }
-}
-#Bourges (264400/66100 POPS)
-439 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 600
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 450
+        size = 330
     }
 
     artisans = {
@@ -2206,16 +2168,54 @@
         size = 6000
     }
 
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 900
+    }
+
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 660
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 58250
+        size = 38010
+    }
+}
+#Bourges (264400/66100 POPS)
+439 = {
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 360
+    }
+
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 270
+    }
+
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 3600
+    }
+
+    soldiers = {
+        culture = frankish
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 34950
     }
 }
 #Blois (243600/60900 POPS)
@@ -2223,31 +2223,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 600
+        size = 360
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 300
+        size = 180
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 4500
+        size = 2700
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 54500
+        size = 32700
     }
 }
 #Tours (300000/75000 POPS)
@@ -2255,31 +2255,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 450
+        size = 270
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 8000
+        size = 4800
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 64800
+        size = 38880
     }
 
 }
@@ -2289,43 +2289,43 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 300
+        size = 180
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 700
+        size = 420
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 825
+        size = 495
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 5500
+        size = 3300
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1150
+        size = 690
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 103925
+        size = 62355
     }
 }
 #Poitiers (288000/72000 POPS)
@@ -2333,31 +2333,31 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 700
+        size = 420
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 425
+        size = 255
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 6500
+        size = 3900
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 750
+        size = 450
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 63625
+        size = 38175
     }
 }
 #Angouleme (364000/91000 POPS)
@@ -2365,1348 +2365,23 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 900
+        size = 540
     }
 
     clergymen = {
         culture = narbonne
         religion = orthodox
-        size = 600
+        size = 360
     }
 
     artisans = {
         culture = narbonne
         religion = orthodox
-        size = 5000
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 53500
-    }
-	
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 33500
-    }
-
-}
-#Limousin Region (1596000)
-#Limoges (288000/72000 POPS)
-445 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 700
-    }
-
-    officers = {
-        culture = frankish
-        religion = orthodox
-        size = 450
-    }
-
-    bureaucrats = {
-        culture = narbonne
-        religion = orthodox
-        size = 950
-    }
-
-    clergymen = {
-        culture = narbonne
-        religion = orthodox
-        size = 400
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 10000
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 750
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 50750
-    }
-	
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 8750
-    }
-}
-#Chateauroux (520000/130000 POPS)
-446 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1300
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 850
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 6500
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1350
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 70000
-    }
-	
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 51000
-    }
-}
-#Tulle (788000/197000 POPS)
-447 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1900
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 1500
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 7500
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 110100
-    }
-	
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 24100
-    }
-
-}
-#Auvergne Region (1418000)
-#Clermont-Ferrand (728000/182000 POPS)
-448 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1750
-    }
-
-    officers = {
-        culture = frankish
-        religion = orthodox
-        size = 400
-    }
-
-    bureaucrats = {
-        culture = narbonne
-        religion = orthodox
-        size = 850
-    }
-
-    clergymen = {
-        culture = narbonne
-        religion = orthodox
-        size = 1250
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 7000
-    }
-
-        artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 2000
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1850
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 31200
-    }
-
-     farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 85700
-    }
-}
-#Aurillac (404000/101000 POPS)
-449 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 750
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 5000
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 80050
-    }
-
-        farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 12350
-    }
-}
-#Cahors (286000/71500 POPS)
-450 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 700
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 425
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 3500
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 750
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 40825
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 20825
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 13125
-    }
-
-}
-#Lyonnais-Dauphine Region (2588000)
-#Lyon (824000/206000 POPS)
-451 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 2000
-    }
-
-    officers = {
-        culture = frankish
-        religion = orthodox
-        size = 700
-    }
-
-    bureaucrats = {
-        culture = narbonne
-        religion = orthodox
-        size = 1650
-    }
-
-    clerks = {
-        culture = narbonne
-        religion = orthodox
-        size = 350
-    }
-
-    clergymen = {
-        culture = narbonne
-        religion = orthodox
-        size = 1500
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 26500
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 2100
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 80600
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 23600
-    }
-
-    #####Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clerks = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 250
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1000
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2800
-    }
-}
-#St Etienne (412000/103000 POPS)
-452 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 825
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 5000
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 9000
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1150
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 55725
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 15725
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 15025
-    }
-}
-#Valence (656000/164000 POPS)
-453 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 1600
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 1150
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 8000
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1650
-    }
-	
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 11100
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 71100
-    }
-
-       farmers = {
-        culture = narbonne
-        religion = arian
-        size = 62600
-    }
-	
-       farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 8600
-    }
-}
-#Grenoble (696000/174000 POPS)
-454 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 1700
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 1250
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 4500
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 4000
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 1750
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 70300
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 65800
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 25800
-    }
-
-}
-#Midi Region (1604000)
-#Toulouse (672000/168000 POPS)
-455 = {
-    aristocrats = {
-        culture = vasconian
-        religion = arian
-        size = 1600
-    }
-
-    officers = {
-        culture = vasconian
-        religion = arian
-        size = 350
-    }
-
-    bureaucrats = {
-        culture = vasconian
-        religion = arian
-        size = 800
-    }
-
-    clergymen = {
-        culture = vasconian
-        religion = arian
-        size = 1200
-    }
-
-    artisans = {
-        culture = vasconian
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = vasconian
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = arian
-        size = 5000
-    }
-
-    soldiers = {
-        culture = vasconian
-        religion = arian
-        size = 1750
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 10000
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 8000
-    }
-	
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = vasconian
-        religion = arian
-        size = 72300
-    }
-}
-#Montauban (584000/146000 POPS)
-456 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1400
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 1050
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 7500
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1500
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 94150
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 30150
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 10400
-    }
-}
-#Foix (348000/87000 POPS)
-457 = {
-    aristocrats = {
-        culture = vasconian
-        religion = arian
-        size = 800
-    }
-
-    clergymen = {
-        culture = vasconian
-        religion = arian
-        size = 450
-    }
-
-    artisans = {
-        culture = vasconian
-        religion = arian
-        size = 4000
-    }
-
-    soldiers = {
-        culture = vasconian
-        religion = arian
-        size = 1000
-    }
-
-    farmers = {
-        culture = vasconian
-        religion = arian
-        size = 70750
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 4750
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 6750
-    }
-
-}
-#Aquitaine Region (1864000)
-#Bordeaux (632000/158000 POPS)
-458 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1500
-    }
-
-    officers = {
-        culture = frankish
-        religion = orthodox
-        size = 500
-    }
-
-    bureaucrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    clergymen = {
-        culture = narbonne
-        religion = orthodox
-        size = 1200
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 1100
-    }
-
-    soldiers = {
-        culture = frankish
-        religion = orthodox
-        size = 1600
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 60910
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 50510
-    }
-}
-#Mont de Marsan (556000/139000 POPS)
-459 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1350
-    }
-
-    clergymen = {
-        culture = frankish
-        religion = orthodox
-        size = 1075
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 7000
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1400
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 70675
-    }
-
-        farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 50975
-    }
-}
-#Pau (676000/169000 POPS)
-460 = {
-    aristocrats = {
-        culture = vasconian
-        religion = arian
-        size = 1200
-    }
-
-    clergymen = {
-        culture = vasconian
-        religion = arian
-        size = 850
-    }
-
-    artisans = {
-        culture = vasconian
-        religion = arian
-        size = 3000
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = arian
         size = 3000
     }
 
     soldiers = {
-        culture = vasconian
-        religion = arian
-        size = 1250
-    }
-
-    farmers = {
-        culture = vasconian
-        religion = arian
-        size = 64700
-    }
-
-    farmers = {
         culture = narbonne
-        religion = orthodox
-        size = 10000
-    }
-
-    aristocrats = {
-        culture = narbonne
-        religion = orthodox
-        size = 400
-    }
-
-    clergymen = {
-        culture = vasconian
-        religion = orthodox
-        size = 350
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 2500
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 450
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 10300
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 21300
-    }
-
-}
-#Languedoc Region (1668000)
-#Montpellier (724000/181000)
-461 = {
-    aristocrats = {
-        culture = catalan
-        religion = arian
-        size = 1800
-    }
-
-    officers = {
-        culture = catalan
-        religion = arian
-        size = 450
-    }
-
-    bureaucrats = {
-        culture = catalan
-        religion = arian
-        size = 1100
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = arian
-        size = 1300
-    }
-
-    artisans = {
-        culture = catalan
-        religion = arian
-        size = 11100
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = arian
-        size = 1800
-    }
-
-    farmers = {
-        culture = catalan
-        religion = arian
-        size = 61650
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 42650
-    }
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 22650
-    }
-}
-#Rodez (504000/126000 POPS)
-462 = {
-    aristocrats = {
-        culture = frankish
-        religion = orthodox
-        size = 1200
-    }
-
-    clergymen = {
-        culture = narbonne
-        religion = orthodox
-        size = 850
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 6500
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1300
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 70150
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 40150
-    }
-	
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 6150
-    }
-}
-#Carcassone (276000/69000 POPS)
-463 = {
-    aristocrats = {
-        culture = catalan
-        religion = arian
-        size = 700
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = arian
-        size = 450
-    }
-
-    artisans = {
-        culture = catalan
-        religion = arian
-        size = 4500
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = arian
-        size = 1000
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 12000
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 8000
-    }
-
-    farmers = {
-        culture = catalan
-        religion = arian
-        size = 42350
-    }
-}
-#Perpignan (164000/41000 POPS)
-464 = {
-    aristocrats = {
-        culture = narbonne
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = narbonne
-        religion = orthodox
-        size = 75
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 1250
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 5425
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 3425
-    }
-
-    aristocrats = {
-        culture = catalan
-        religion = arian
-        size = 200
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = arian
-        size = 175
-    }
-
-    artisans = {
-        culture = catalan
-        religion = arian
-        size = 2250
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = arian
-        size = 250
-    }
-
-    farmers = {
-        culture = catalan
-        religion = arian
-        size = 23075
-    }
-	
-    farmers = {
-        culture = vasconian
-        religion = arian
-        size = 5075
-    }
-
-}
-#Savoy Region (486800)
-##Sardinian until 1860
-#Annecy (258400/64600 POPS)
-465 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 600
-    }
-
-    officers = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    bureaucrats = {
-        culture = roman
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 350
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 3250
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 28100
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 24800
-    }
-	
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 3800
-    }
-}
-#Chambery (228400/57100 POPS)
-466 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 550
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 375
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 2800
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 26375
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 26175
-    }
-	
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 1175
-    }
-
-}
-#Provence Region (1268400)
-#Marseilles (384800/96200 POPS)
-467 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 900
-    }
-
-    officers = {
-        culture = roman
-        religion = orthodox
-        size = 300
-    }
-
-    bureaucrats = {
-        culture = roman
-        religion = orthodox
-        size = 700
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 500
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 18000
-    }
-
-    artisans = {
-        culture = frankish
-        religion = orthodox
-        size = 2000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = orthodox
-        size = 8000
-    }
-	
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 2000
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 40400
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 11000
-    }
-	
-    farmers = {
-        culture = narbonne
-        religion = arian
-        size = 1400
-    }
-}
-#Avignon (243600/60900 POPS)
-468 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 650
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 325
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 8000
-    }
-
-    soldiers = {
-        culture = roman
         religion = orthodox
         size = 600
     }
@@ -3714,247 +2389,13 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 35625
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 10300
-    }
-}
-#Digne (113200/31000 POPS)
-469 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 250
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 1500
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 350
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 18900
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 10000
-    }
-}
-#Toulon (224000/56000 POPS)
-470 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 500
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 250
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 6000
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 7000
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 30950
+        size = 32100
     }
 	
     farmers = {
-        culture = narbonne
-        religion = arian
-        size = 5950
-    }
-
-    farmers = {
-        culture = roman
+        culture = frankish
         religion = orthodox
-        size = 5300
-    }
-}
-#Frejus (132000/33000 POPS)
-471 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = narbonne
-        religion = orthodox
-        size = 150
-    }
-
-    artisans = {
-        culture = narbonne
-        religion = orthodox
-        size = 1600
-    }
-
-    soldiers = {
-        culture = narbonne
-        religion = orthodox
-        size = 350
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 23000
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 7600
-    }
-}
-#Nice (Sardinian until 1860) (170800/42700 POPS)
-472 = {
-    aristocrats = {
-        culture = roman
-        religion = orthodox
-        size = 450
-    }
-
-    clergymen = {
-        culture = roman
-        religion = orthodox
-        size = 225
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 6000
-    }
-
-    soldiers = {
-        culture = roman
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 19025
-    }
-
-    farmers = {
-        culture = narbonne
-        religion = orthodox
-        size = 18825
-    }
-
-}
-#Corsica Region (210000)
-#Corsica (210000/52500 POPS)
-473 = {
-    aristocrats = {
-        culture = catalan
-        religion = arian
-        size = 400
-    }
-
-    aristocrats = {
-        culture = catalan
-        religion = arian
-        size = 150
-    }
-
-    officers = {
-        culture = catalan
-        religion = arian
-        size = 50
-    }
-
-    bureaucrats = {
-        culture = catalan
-        religion = arian
-        size = 100
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = arian
-        size = 200
-    }
-
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 1500
-    }
-
-    artisans = {
-        culture = catalan
-        religion = orthodox
-        size = 1100
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = arian
-        size = 1100
-    }
-
-    farmers = {
-        culture = catalan
-        religion = arian
-        size = 20800
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 20000
-    }
-	
-    farmers = {
-        culture = roman
-        religion = arian
-        size = 8300
+        size = 20100
     }
 
 }

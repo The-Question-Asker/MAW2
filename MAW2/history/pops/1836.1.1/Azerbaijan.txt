@@ -5,79 +5,43 @@
     bureaucrats = {
         culture = persian
         religion = manichaean
-        size = 40
+        size = 80
     }
 
     clergymen = {
         culture = persian
         religion = arian
-        size = 5
+        size = 10
     }
 
     artisans = {
         culture = persian
         religion = arian
-        size = 15
+        size = 30
     }
 
     soldiers = {
         culture = persian
         religion = arian
-        size = 40
+        size = 80
     }
 
     aristocrats = {
         culture = persian
         religion = manichaean
-        size = 125
+        size = 250
     }
 
     bureaucrats = {
         culture = persian
         religion = manichaean
-        size = 15
+        size = 30
     }
 
     clergymen = {
         culture = persian
         religion = manichaean
-        size = 50
-    }
-
-    artisans = {
-        culture = persian
-        religion = manichaean
-        size = 300
-    }
-
-    soldiers = {
-        culture = persian
-        religion = manichaean
-        size = 60
-    }
-
-    farmers = {
-        culture = persian
-        religion = manichaean
-        size = 5350
-    }
-
-    aristocrats = {
-        culture = persian
-        religion = manichaean
-        size = 175
-    }
-
-    bureaucrats = {
-        culture = persian
-        religion = manichaean
-        size = 5
-    }
-
-    clergymen = {
-        culture = persian
-        religion = manichaean
-        size = 110
+        size = 100
     }
 
     artisans = {
@@ -89,37 +53,73 @@
     soldiers = {
         culture = persian
         religion = manichaean
-        size = 125
+        size = 120
     }
 
     farmers = {
         culture = persian
         religion = manichaean
-        size = 10985
+        size = 10700
+    }
+
+    aristocrats = {
+        culture = persian
+        religion = manichaean
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = persian
+        religion = manichaean
+        size = 10
+    }
+
+    clergymen = {
+        culture = persian
+        religion = manichaean
+        size = 220
+    }
+
+    artisans = {
+        culture = persian
+        religion = manichaean
+        size = 1200
+    }
+
+    soldiers = {
+        culture = persian
+        religion = manichaean
+        size = 250
+    }
+
+    farmers = {
+        culture = persian
+        religion = manichaean
+        size = 21970
     }
 
     clergymen = {
         culture = armenian
         religion = arian
+        size = 20
+    }
+
+    artisans = {
+        culture = armenian
+        religion = arian
+        size = 1480
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
         size = 10
     }
 
     artisans = {
-        culture = armenian
-        religion = arian
-        size = 740
-    }
-
-    clergymen = {
         culture = sephardic
         religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 245
+        size = 490
     }
 }
 #Siyazen (56000/14000 POPS)
@@ -127,321 +127,43 @@
     aristocrats = {
         culture = persian
         religion = manichaean
-        size = 50
+        size = 100
     }
 
     clergymen = {
         culture = persian
-        religion = manichaean
-        size = 50
-    }
-
-    artisans = {
-        culture = persian
-        religion = manichaean
-        size = 150
-    }
-
-    soldiers = {
-        culture = persian
-        religion = manichaean
-        size = 25
-    }
-
-    farmers = {
-        culture = persian
-        religion = manichaean
-        size = 2725
-    }
-
-    aristocrats = {
-        culture = persian
-        religion = manichaean
-        size = 125
-    }
-
-    clergymen = {
-        culture = persian
-        religion = manichaean
-        size = 75
-    }
-
-    artisans = {
-        culture = persian
-        religion = manichaean
-        size = 350
-    }
-
-    soldiers = {
-        culture = persian
-        religion = manichaean
-        size = 75
-    }
-
-    farmers = {
-        culture = persian
-        religion = manichaean
-        size = 6400
-    }
-
-    aristocrats = {
-        culture = dagestani
-        religion = manichaean
-        size = 75
-    }
-
-    clergymen = {
-        culture = dagestani
         religion = manichaean
         size = 100
     }
 
     artisans = {
-        culture = dagestani
-        religion = manichaean
-        size = 100
-    }
-
-    soldiers = {
-        culture = dagestani
-        religion = manichaean
-        size = 100
-    }
-
-    farmers = {
-        culture = dagestani
-        religion = manichaean
-        size = 3600
-    }
-}
-#Sheki (24000/6000 POPS)
-1104 = {
-    aristocrats = {
         culture = persian
         religion = manichaean
-        size = 30
-    }
-
-    clergymen = {
-        culture = persian
-        religion = manichaean
-        size = 45
-    }
-
-    artisans = {
-        culture = persian
-        religion = manichaean
-        size = 100
-    }
-
-    soldiers = {
-        culture = persian
-        religion = manichaean
-        size = 25
-    }
-
-    farmers = {
-        culture = persian
-        religion = manichaean
-        size = 1800
-    }
-
-    aristocrats = {
-        culture = georgian
-        religion = orthodox
-        size = 20
-    }
-
-    clergymen = {
-        culture = georgian
-        religion = orthodox
-        size = 20
-    }
-
-    artisans = {
-        culture = georgian
-        religion = orthodox
-        size = 50
-    }
-
-    soldiers = {
-        culture = georgian
-        religion = orthodox
-        size = 10
-    }
-
-    farmers = {
-        culture = georgian
-        religion = orthodox
-        size = 900
-    }
-
-    aristocrats = {
-        culture = dagestani
-        religion = manichaean
-        size = 50
-    }
-
-    clergymen = {
-        culture = dagestani
-        religion = manichaean
-        size = 100
-    }
-
-    artisans = {
-        culture = dagestani
-        religion = manichaean
-        size = 150
-    }
-
-    soldiers = {
-        culture = dagestani
-        religion = manichaean
-        size = 100
-    }
-
-    farmers = {
-        culture = dagestani
-        religion = manichaean
-        size = 2600
-    }
-}
-#Ganja (68000/17000 POPS)
-1105 = {
-    aristocrats = {
-        culture = persian
-        religion = manichaean
-        size = 225
-    }
-
-    clergymen = {
-        culture = persian
-        religion = manichaean
-        size = 75
-    }
-
-    artisans = {
-        culture = persian
-        religion = manichaean
-        size = 500
-    }
-
-    soldiers = {
-        culture = persian
-        religion = manichaean
-        size = 100
-    }
-
-    farmers = {
-        culture = persian
-        religion = manichaean
-        size = 9100
-    }
-
-    aristocrats = {
-        culture = armenian
-        religion = arian
-        size = 75
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = arian
-        size = 75
-    }
-
-    artisans = {
-        culture = armenian
-        religion = arian
-        size = 350
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = arian
-        size = 75
-    }
-
-    farmers = {
-        culture = armenian
-        religion = arian
-        size = 6425
-    }
-}
-#Agdam (60000/15000 POPS)
-1106 = {
-    aristocrats = {
-        culture = persian
-        religion = manichaean
-        size = 150
-    }
-
-    clergymen = {
-        culture = persian
-        religion = manichaean
-        size = 75
-    }
-
-    artisans = {
-        culture = persian
-        religion = manichaean
-        size = 450
-    }
-
-    soldiers = {
-        culture = persian
-        religion = manichaean
-        size = 100
-    }
-
-    farmers = {
-        culture = persian
-        religion = manichaean
-        size = 8225
-    }
-
-    aristocrats = {
-        culture = armenian
-        religion = arian
-        size = 100
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = arian
-        size = 50
-    }
-
-    artisans = {
-        culture = armenian
-        religion = arian
         size = 300
     }
 
     soldiers = {
-        culture = armenian
-        religion = arian
-        size = 75
+        culture = persian
+        religion = manichaean
+        size = 50
     }
 
     farmers = {
-        culture = armenian
-        religion = arian
-        size = 5475
+        culture = persian
+        religion = manichaean
+        size = 5450
     }
-}
-#Lankaran (56000/14000 POPS)
-1107 = {
+
     aristocrats = {
         culture = persian
         religion = manichaean
-        size = 225
+        size = 250
     }
 
     clergymen = {
         culture = persian
         religion = manichaean
-        size = 125
+        size = 150
     }
 
     artisans = {
@@ -460,6 +182,284 @@
         culture = persian
         religion = manichaean
         size = 12800
+    }
+
+    aristocrats = {
+        culture = dagestani
+        religion = manichaean
+        size = 150
+    }
+
+    clergymen = {
+        culture = dagestani
+        religion = manichaean
+        size = 200
+    }
+
+    artisans = {
+        culture = dagestani
+        religion = manichaean
+        size = 200
+    }
+
+    soldiers = {
+        culture = dagestani
+        religion = manichaean
+        size = 200
+    }
+
+    farmers = {
+        culture = dagestani
+        religion = manichaean
+        size = 7200
+    }
+}
+#Sheki (24000/6000 POPS)
+1104 = {
+    aristocrats = {
+        culture = persian
+        religion = manichaean
+        size = 60
+    }
+
+    clergymen = {
+        culture = persian
+        religion = manichaean
+        size = 90
+    }
+
+    artisans = {
+        culture = persian
+        religion = manichaean
+        size = 200
+    }
+
+    soldiers = {
+        culture = persian
+        religion = manichaean
+        size = 50
+    }
+
+    farmers = {
+        culture = persian
+        religion = manichaean
+        size = 3600
+    }
+
+    aristocrats = {
+        culture = georgian
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = georgian
+        religion = orthodox
+        size = 40
+    }
+
+    artisans = {
+        culture = georgian
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = georgian
+        religion = orthodox
+        size = 20
+    }
+
+    farmers = {
+        culture = georgian
+        religion = orthodox
+        size = 1800
+    }
+
+    aristocrats = {
+        culture = dagestani
+        religion = manichaean
+        size = 100
+    }
+
+    clergymen = {
+        culture = dagestani
+        religion = manichaean
+        size = 200
+    }
+
+    artisans = {
+        culture = dagestani
+        religion = manichaean
+        size = 300
+    }
+
+    soldiers = {
+        culture = dagestani
+        religion = manichaean
+        size = 200
+    }
+
+    farmers = {
+        culture = dagestani
+        religion = manichaean
+        size = 5200
+    }
+}
+#Ganja (68000/17000 POPS)
+1105 = {
+    aristocrats = {
+        culture = persian
+        religion = manichaean
+        size = 450
+    }
+
+    clergymen = {
+        culture = persian
+        religion = manichaean
+        size = 150
+    }
+
+    artisans = {
+        culture = persian
+        religion = manichaean
+        size = 1000
+    }
+
+    soldiers = {
+        culture = persian
+        religion = manichaean
+        size = 200
+    }
+
+    farmers = {
+        culture = persian
+        religion = manichaean
+        size = 18200
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = arian
+        size = 150
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = arian
+        size = 150
+    }
+
+    artisans = {
+        culture = armenian
+        religion = arian
+        size = 700
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = arian
+        size = 150
+    }
+
+    farmers = {
+        culture = armenian
+        religion = arian
+        size = 12850
+    }
+}
+#Agdam (60000/15000 POPS)
+1106 = {
+    aristocrats = {
+        culture = persian
+        religion = manichaean
+        size = 300
+    }
+
+    clergymen = {
+        culture = persian
+        religion = manichaean
+        size = 150
+    }
+
+    artisans = {
+        culture = persian
+        religion = manichaean
+        size = 900
+    }
+
+    soldiers = {
+        culture = persian
+        religion = manichaean
+        size = 200
+    }
+
+    farmers = {
+        culture = persian
+        religion = manichaean
+        size = 16450
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = arian
+        size = 200
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = arian
+        size = 100
+    }
+
+    artisans = {
+        culture = armenian
+        religion = arian
+        size = 600
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = arian
+        size = 150
+    }
+
+    farmers = {
+        culture = armenian
+        religion = arian
+        size = 10950
+    }
+}
+#Lankaran (56000/14000 POPS)
+1107 = {
+    aristocrats = {
+        culture = persian
+        religion = manichaean
+        size = 450
+    }
+
+    clergymen = {
+        culture = persian
+        religion = manichaean
+        size = 250
+    }
+
+    artisans = {
+        culture = persian
+        religion = manichaean
+        size = 1400
+    }
+
+    soldiers = {
+        culture = persian
+        religion = manichaean
+        size = 300
+    }
+
+    farmers = {
+        culture = persian
+        religion = manichaean
+        size = 25600
     }
 
 }

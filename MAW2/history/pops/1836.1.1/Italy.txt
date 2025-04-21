@@ -369,31 +369,31 @@
     aristocrats = {
         culture = roman
         religion = orthodox
-        size = 7350
+        size = 10350
     }
 
     capitalists = {
         culture = roman
         religion = orthodox
-        size = 25
+        size = 225
     }
 
     bureaucrats = {
         culture = roman
         religion = orthodox
-        size = 1325
+        size = 2325
     }
 
     officers = {
         culture = roman
         religion = orthodox
-        size = 600
+        size = 900
     }
 
     clergymen = {
         culture = roman
         religion = orthodox
-        size = 3350
+        size = 4350
     }
 
     artisans = {
@@ -413,9 +413,27 @@
         religion = orthodox
         size = 10000
     }
+	
+    craftsmen = {
+        culture = roman
+        religion = orthodox
+        size = 10000
+    }
+	
+    craftsmen = {
+        culture = roman
+        religion = orthodox
+        size = 10000
+    }
+
+    craftsmen = {
+        culture = roman
+        religion = orthodox
+        size = 10000
+    }
 
     artisans = {
-        culture = roman
+        culture = greek
         religion = orthodox
         size = 6000
     }
@@ -435,7 +453,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 275925
+        size = 475925
     }
 
     ######Jews

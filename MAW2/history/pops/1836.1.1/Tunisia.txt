@@ -5,127 +5,127 @@
     aristocrats = {
         culture = african
         religion = arian
-        size = 4350
+        size = 8700
     }
 
     bureaucrats = {
         culture = african
         religion = arian
-        size = 650
+        size = 1300
     }
 
     officers = {
         culture = african
         religion = arian
-        size = 625
+        size = 1250
     }
 
     clergymen = {
         culture = african
         religion = arian
-        size = 2200
+        size = 4400
     }
 
     artisans = {
         culture = african
         religion = arian
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = hispanic
         religion = arian
-        size = 10000
+        size = 20000
     }
 	
     artisans = {
         culture = greek
         religion = arian
-        size = 10000
+        size = 20000
     }
 	
     artisans = {
         culture = greek
         religion = manichaean
-        size = 2000
+        size = 4000
     }
 	
     artisans = {
         culture = roman
         religion = arian
-        size = 10000
+        size = 20000
     }
 	
     artisans = {
         culture = african
         religion = arian
-        size = 10000
+        size = 20000
     }
 	
     artisans = {
         culture = african
         religion = arian
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 7500
+        size = 15000
     }
 
     soldiers = {
         culture = african
         religion = arian
-        size = 9200
+        size = 18400
     }
 
     soldiers = {
         culture = hispanic
         religion = arian
-        size = 1000
+        size = 2000
     }
 
     farmers = {
         culture = african
         religion = arian
-        size = 126425
+        size = 252850
     }
 	
     farmers = {
         culture = african
         religion = orthodox
-        size = 6425
+        size = 12850
     }
 
     slaves = {
         culture = berber
         religion = arian
-        size = 15000
+        size = 30000
     }
 
     clergymen = {
         culture = sephardic
         religion = jewish
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 12725
+        size = 25450
     }
 
     artisans = {
         culture = narbonne
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     artisans = {
         culture = roman
         religion = orthodox
-        size = 500
+        size = 1000
     }
 }
 #Bizerte (268000/67000 POPS)
@@ -133,201 +133,31 @@
     aristocrats = {
         culture = african
         religion = arian
-        size = 1250
+        size = 2500
     }
 
     clergymen = {
         culture = african
         religion = arian
-        size = 675
+        size = 1350
     }
 
     artisans = {
         culture = african
         religion = arian
-        size = 3250
+        size = 6500
     }
 
     soldiers = {
         culture = african
         religion = arian
-        size = 1100
+        size = 2200
     }
 
     farmers = {
         culture = african
         religion = arian
-        size = 58575
-    }
-
-    slaves = {
-        culture = berber
-        religion = arian
-        size = 2000
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 250
-    }
-}
-#Gafsa (112000/28000 POPS)
-1727 = {
-    aristocrats = {
-        culture = african
-        religion = arian
-        size = 450
-    }
-
-    clergymen = {
-        culture = african
-        religion = arian
-        size = 275
-    }
-
-    artisans = {
-        culture = african
-        religion = arian
-        size = 1250
-    }
-
-    soldiers = {
-        culture = african
-        religion = arian
-        size = 1100
-    }
-
-    farmers = {
-        culture = african
-        religion = arian
-        size = 22025
-    }
-
-    slaves = {
-        culture = berber
-        religion = arian
-        size = 3000
-    }
-}
-#Kairouan (228000/57000 POPS)
-1728 = {
-    aristocrats = {
-        culture = african
-        religion = arian
-        size = 875
-    }
-
-    clergymen = {
-        culture = african
-        religion = arian
-        size = 400
-    }
-
-    artisans = {
-        culture = african
-        religion = arian
-        size = 2250
-    }
-
-    soldiers = {
-        culture = african
-        religion = arian
-        size = 1100
-    }
-
-    farmers = {
-        culture = african
-        religion = arian
-        size = 40225
-    }
-
-    slaves = {
-        culture = berber
-        religion = arian
-        size = 12000
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 245
-    }
-}
-#Tozeur (96000/24000 POPS)
-1729 = {
-    aristocrats = {
-        culture = african
-        religion = arian
-        size = 350
-    }
-
-    clergymen = {
-        culture = african
-        religion = arian
-        size = 200
-    }
-
-    artisans = {
-        culture = african
-        religion = arian
-        size = 950
-    }
-
-    soldiers = {
-        culture = african
-        religion = arian
-        size = 200
-    }
-
-    farmers = {
-        culture = african
-        religion = arian
-        size = 17300
-    }
-
-    slaves = {
-        culture = berber
-        religion = arian
-        size = 5000
-    }
-}
-#Gabes (200000/50000 POPS)
-1730 = {
-    aristocrats = {
-        culture = african
-        religion = arian
-        size = 900
-    }
-
-    clergymen = {
-        culture = african
-        religion = arian
-        size = 400
-    }
-
-    artisans = {
-        culture = african
-        religion = arian
-        size = 2275
-    }
-
-    soldiers = {
-        culture = african
-        religion = arian
-        size = 1100
-    }
-
-    farmers = {
-        culture = african
-        religion = arian
-        size = 40825
+        size = 117150
     }
 
     slaves = {
@@ -340,6 +170,176 @@
         culture = sephardic
         religion = jewish
         size = 500
+    }
+}
+#Gafsa (112000/28000 POPS)
+1727 = {
+    aristocrats = {
+        culture = african
+        religion = arian
+        size = 900
+    }
+
+    clergymen = {
+        culture = african
+        religion = arian
+        size = 550
+    }
+
+    artisans = {
+        culture = african
+        religion = arian
+        size = 2500
+    }
+
+    soldiers = {
+        culture = african
+        religion = arian
+        size = 2200
+    }
+
+    farmers = {
+        culture = african
+        religion = arian
+        size = 44050
+    }
+
+    slaves = {
+        culture = berber
+        religion = arian
+        size = 6000
+    }
+}
+#Kairouan (228000/57000 POPS)
+1728 = {
+    aristocrats = {
+        culture = african
+        religion = arian
+        size = 1750
+    }
+
+    clergymen = {
+        culture = african
+        religion = arian
+        size = 800
+    }
+
+    artisans = {
+        culture = african
+        religion = arian
+        size = 4500
+    }
+
+    soldiers = {
+        culture = african
+        religion = arian
+        size = 2200
+    }
+
+    farmers = {
+        culture = african
+        religion = arian
+        size = 80450
+    }
+
+    slaves = {
+        culture = berber
+        religion = arian
+        size = 24000
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 490
+    }
+}
+#Tozeur (96000/24000 POPS)
+1729 = {
+    aristocrats = {
+        culture = african
+        religion = arian
+        size = 700
+    }
+
+    clergymen = {
+        culture = african
+        religion = arian
+        size = 400
+    }
+
+    artisans = {
+        culture = african
+        religion = arian
+        size = 1900
+    }
+
+    soldiers = {
+        culture = african
+        religion = arian
+        size = 400
+    }
+
+    farmers = {
+        culture = african
+        religion = arian
+        size = 34600
+    }
+
+    slaves = {
+        culture = berber
+        religion = arian
+        size = 10000
+    }
+}
+#Gabes (200000/50000 POPS)
+1730 = {
+    aristocrats = {
+        culture = african
+        religion = arian
+        size = 1800
+    }
+
+    clergymen = {
+        culture = african
+        religion = arian
+        size = 800
+    }
+
+    artisans = {
+        culture = african
+        religion = arian
+        size = 4550
+    }
+
+    soldiers = {
+        culture = african
+        religion = arian
+        size = 2200
+    }
+
+    farmers = {
+        culture = african
+        religion = arian
+        size = 81650
+    }
+
+    slaves = {
+        culture = berber
+        religion = arian
+        size = 8000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1000
     }
 
 }

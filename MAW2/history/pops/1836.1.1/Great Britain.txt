@@ -4,37 +4,37 @@
     aristocrats = {
         culture = anglish
         religion = arian
-        size = 200
+        size = 120
     }
 
     officers = {
         culture = anglish
         religion = arian
-        size = 500
+        size = 300
     }
 
     soldiers = {
         culture = anglish
         religion = arian
-        size = 1100
+        size = 660
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 3400
+        size = 2040
     }
 
     farmers = {
         culture = anglish
         religion = arian
-        size = 40000
+        size = 24000
     }
 
     farmers = {
         culture = anglish
         religion = orthodox
-        size = 2000
+        size = 1200
     }
 }
 #Inverness (328000/82000 POPS)
@@ -42,31 +42,31 @@
     aristocrats = {
         culture = anglish
         religion = arian
-        size = 160
+        size = 96
     }
 
     clergymen = {
         culture = anglish
         religion = arian
-        size = 250
+        size = 150
     }
 
     soldiers = {
         culture = anglish
         religion = arian
-        size = 2000
+        size = 1200
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 4000
+        size = 2400
     }
 
     farmers = {
         culture = anglish
         religion = arian
-        size = 68090
+        size = 40854
     }
 }
 
@@ -76,31 +76,31 @@
     aristocrats = {
         culture = anglish
         religion = arian
-        size = 40
+        size = 24
     }
 
     clergymen = {
         culture = anglish
         religion = arian
-        size = 225
+        size = 135
     }
 
     soldiers = {
         culture = anglish
         religion = arian
-        size = 375
+        size = 225
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 1000
+        size = 600
     }
 
     farmers = {
         culture = anglish
         religion = arian
-        size = 5860
+        size = 3516
     }
 
 }
@@ -110,31 +110,31 @@
     aristocrats = {
         culture = anglish
         religion = arian
-        size = 300
+        size = 180
     }
 
     bureaucrats = {
         culture = anglish
         religion = arian
-        size = 1100
+        size = 660
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 8000
+        size = 4800
     }
 
     soldiers = {
         culture = anglish
         religion = arian
-        size = 2000
+        size = 1200
     }
 
     farmers = {
         culture = anglish
         religion = arian
-        size = 78200
+        size = 46920
     }
 
 }
@@ -144,91 +144,91 @@
     aristocrats = {
         culture = anglish
         religion = arian
-        size = 1100
+        size = 660
     }
 
     officers = {
         culture = anglish
         religion = arian
-        size = 1200
+        size = 720
     }
 
     clergymen = {
         culture = anglish
         religion = arian
-        size = 1375
+        size = 825
     }
 
     bureaucrats = {
         culture = anglish
         religion = arian
-        size = 550
+        size = 330
     }
 
     bureaucrats = {
         culture = anglish
         religion = arian
-        size = 2100
+        size = 1260
     }
 
     artisans = {
         culture = brutonian
         religion = arian
-        size = 400
+        size = 240
     }
 
     farmers = {
         culture = anglish
         religion = arian
-        size = 8000
+        size = 4800
     }
 
     artisans = {
         culture = brutonian
         religion = arian
-        size = 6000
+        size = 3600
     }
 
     soldiers = {
         culture = anglish
         religion = arian
-        size = 2500
+        size = 1500
     }
 
     farmers = {
         culture = anglish
         religion = arian
-        size = 51175
+        size = 30705
     }
 
     clergymen = {
         culture = anglish
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = anglish
         religion = orthodox
-        size = 1500
+        size = 900
     }
 
     artisans = {
         culture = anglish
         religion = orthodox
-        size = 5000
+        size = 3000
     }
 
     farmers = {
         culture = anglish
         religion = orthodox
-        size = 26400
+        size = 15840
     }
 
     artisans = {
         culture = brutonian
         religion = orthodox
-        size = 1100
+        size = 660
     }
 }
 #Stirling (364000/91000 POPS)
@@ -236,37 +236,37 @@
     aristocrats = {
         culture = anglish
         religion = arian
-        size = 200
+        size = 120
     }
 
     clergymen = {
         culture = anglish
         religion = arian
-        size = 200
+        size = 120
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 6500
+        size = 3900
     }
 
     soldiers = {
         culture = anglish
         religion = arian
-        size = 1100
+        size = 660
     }
 
     farmers = {
         culture = anglish
         religion = arian
-        size = 79100
+        size = 47460
     }
 
     farmers = {
         culture = anglish
         religion = orthodox
-        size = 4000
+        size = 2400
     }
 }
 #Glasgow (620000/155000 POPS)
@@ -274,73 +274,73 @@
     aristocrats = {
         culture = anglish
         religion = arian
-        size = 800
+        size = 480
     }
 
     clergymen = {
         culture = anglish
         religion = arian
-        size = 1500
+        size = 900
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 10850
+        size = 6510
     }
 
     farmers = {
         culture = anglish
         religion = arian
-        size = 55000
+        size = 33000
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 10000
+        size = 6000
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 10000
+        size = 6000
     }
 
     artisans = {
         culture = brutonian
         religion = arian
-        size = 2000
+        size = 1200
     }
 
     soldiers = {
         culture = anglish
         religion = arian
-        size = 3000
+        size = 1800
     }
 
     farmers = {
         culture = anglish
         religion = arian
-        size = 53150
+        size = 31890
     }
 
     clergymen = {
         culture = anglish
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     farmers = {
         culture = anglish
         religion = orthodox
-        size = 4900
+        size = 2940
     }
 
     farmers = {
         culture = brutonian
         religion = orthodox
-        size = 10000
+        size = 6000
     }
 }
 #Dumfries (168000/42000 POPS)
@@ -348,25 +348,25 @@
     aristocrats = {
         culture = anglish
         religion = arian
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = anglish
         religion = arian
-        size = 100
+        size = 60
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 2000
+        size = 1200
     }
 
     labourers = {
         culture = anglish
         religion = arian
-        size = 40800
+        size = 24480
     }
 
 }
@@ -376,61 +376,61 @@
     aristocrats = {
         culture = brutonian
         religion = arian
-        size = 500
+        size = 300
     }
 
     bureaucrats = {
         culture = brutonian
         religion = arian
-        size = 100
+        size = 60
     }
 
     bureaucrats = {
         culture = brutonian
         religion = arian
-        size = 1025
+        size = 615
     }
 
     officers = {
         culture = brutonian
         religion = arian
-        size = 350
+        size = 210
     }
 
     clergymen = {
         culture = brutonian
         religion = arian
-        size = 375
+        size = 225
     }
 
     artisans = {
         culture = brutonian
         religion = arian
-        size = 50
+        size = 30
     }
 
     farmers = {
         culture = brutonian
         religion = arian
-        size = 1100
+        size = 660
     }
 
     artisans = {
         culture = brutonian
         religion = arian
-        size = 3500
+        size = 2100
     }
 
     soldiers = {
         culture = brutonian
         religion = arian
-        size = 1100
+        size = 660
     }
 
     labourers = {
         culture = brutonian
         religion = arian
-        size = 88000
+        size = 52800
     }
 }
 #Cardigan (168000/42000 POPS)
@@ -438,1138 +438,19 @@
     aristocrats = {
         culture = brutonian
         religion = arian
-        size = 250
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 125
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 1000
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 41625
-    }
-}
-#Llandrindod (182000/45500 POPS)
-275 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 250
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 250
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 2250
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 42250
-    }
-}
-#Holyhead (240000/60000 POPS)
-276 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 250
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 250
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
         size = 150
     }
 
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 3000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 3100
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 52500
-    }
-
-}
-
-#Lancashire Region : 1896000
-#Liverpool (936000/234000 POPS)
-277 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    officers = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 1550
-    }
-
     clergymen = {
         culture = brutonian
         religion = arian
-        size = 1100
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 1250
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 1750
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 30000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 2500
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 3000
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 138850
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = orthodox
-        size = 50
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 1100
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = orthodox
-        size = 1500
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = orthodox
-        size = 6450
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = orthodox
-        size = 125
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 2250
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = orthodox
-        size = 10750
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 7875
-    }
-}
-#Manchester (744000/186000 POPS)
-278 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 1500
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 2100
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 1150
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 82500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 6000
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 65350
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = orthodox
         size = 75
     }
 
-    labourers = {
-        culture = brutonian
-        religion = orthodox
-        size = 8850
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = orthodox
-        size = 2000
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = orthodox
-        size = 2075
-    }
-}
-#Carlisle (216000/54000 POPS)
-279 = {
-    aristocrats = {
-        culture = anglish
-        religion = arian
-        size = 250
-    }
-
-    clergymen = {
-        culture = anglish
-        religion = arian
-        size = 250
-    }
-
-    artisans = {
-        culture = anglish
-        religion = arian
-        size = 4000
-    }
-
-    soldiers = {
-        culture = anglish
-        religion = arian
-        size = 500
-    }
-
-    farmers = {
-        culture = anglish
-        religion = arian
-        size = 36000
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 8000
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 3250
-    }
-
-}
-#Yorkshire-Northumbria Region : 2190000
-#Newcastle-upon-Tyne (552000/138000 POPS)
-280 = {
-    aristocrats = {
-        culture = anglish
-        religion = arian
-        size = 1100
-    }
-
-    clergymen = {
-        culture = anglish
-        religion = arian
-        size = 750
-    }
-
-    farmers = {
-        culture = anglish
-        religion = arian
-        size = 30000
-    }
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = anglish
-        religion = arian
-        size = 5900
-    }
-
-    soldiers = {
-        culture = anglish
-        religion = arian
-        size = 1500
-    }
-
-    labourers = {
-        culture = anglish
-        religion = arian
-        size = 94850
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = orthodox
-        size = 4000
-    }
-}
-#Hull (512000/128000 POPS)
-281 = {
-    aristocrats = {
-        culture = anglish
-        religion = arian
-        size = 1100
-    }
-
-    clergymen = {
-        culture = anglish
-        religion = arian
-        size = 750
-    }
-
-    artisans = {
-        culture = anglish
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = anglish
-        religion = arian
-        size = 1300
-    }
-
-    soldiers = {
-        culture = anglish
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = anglish
-        religion = arian
-        size = 64950
-    }
-	
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 44950
-    }
-
-    labourers = {
-        culture = anglish
-        religion = orthodox
-        size = 5000
-    }
-}
-#Leeds (468000/117000 POPS)
-282 = {
-    aristocrats = {
-        culture = anglish
-        religion = arian
-        size = 750
-    }
-
-    clergymen = {
-        culture = anglish
-        religion = arian
-        size = 625
-    }
-
-
-    artisans = {
-        culture = anglish
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    soldiers = {
-        culture = anglish
-        religion = arian
-        size = 1250
-    }
-
-    labourers = {
-        culture = anglish
-        religion = arian
-        size = 40625
-    }
-	
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 52625
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 3000
-    }
-}
-#Sheffield (658000/164500 POPS)
-283 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 2050
-    }
-
-    officers = {
-        culture = brutonian
-        religion = arian
-        size = 1250
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 2150
-    }
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 25000
-    }
-    officers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 875
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
     soldiers = {
         culture = brutonian
         religion = arian
-        size = 1500
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 102825
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 4000
-    }
-
-}
-#West Midlands Region : 1760000
-#Birmingham (644000/161000 POPS)
-284 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    officers = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 2525
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 350
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 1625
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 16000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 2000
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 3000
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 118900
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 3000
-    }
-}
-#Chester (368000/92000 POPS)
-285 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 625
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 5000
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 52625
-    }
-	
-    labourers = {
-        culture = anglish
-        religion = arian
-        size = 32625
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 1100
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = orthodox
-        size = 1100
-    }
-}
-#Shrewsbury (316000/79000 POPS)
-286 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 375
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 4250
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 68875
-    }
-}
-#Coventry (432000/108000 POPS)
-287 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 3500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 3000
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 95000
-    }
-
-}
-#East Midlands Region : 1224000
-#Nottingham (484000/121000 POPS)
-288 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    officers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 100
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 200
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 5000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 3000
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 99700
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 5000
-    }
-}
-#Leicester (404000/101000 POPS)
-289 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 250
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 375
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 6000
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 90375
-    }
-}
-#Lincoln (336000/84000 POPS)
-290 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 6500
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 75500
-    }
-
-}
-#East Anglia Region : 1260000
-#Cambridge (308000/77000 POPS)
-291 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    officers = {
-        culture = brutonian
-        religion = arian
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 1750
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 5500
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 68500
-    }
-}
-#Ipswich (676000/169000 POPS)
-292 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 1500
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    artisans = {
-        culture = anglish
-        religion = arian
-        size = 8500
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1500
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 90500
-    }
-	
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 71000
-    }
-}
-#Chelmsford (276000/69000 POPS)
-293 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 375
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 7500
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1500
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 57125
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = orthodox
-        size = 2000
-    }
-
-}
-#Oxfordshire/Buckinghamshire Region : 616000
-#294 : Oxford (304000/76000 POPS)
-294 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    officers = {
-        culture = brutonian
-        religion = arian
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 1075
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 1500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 6000
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1500
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 66625
-    }
-}
-#St. Albans (312000/78000 POPS)
-295 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 1500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 4000
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 71750
-    }
-
-}
-#Cornwall-Dorset Region : 2032000
-#Bristol (404000/101000 POPS)
-296 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    officers = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 1550
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 1625
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 250
+        size = 660
     }
 
     artisans = {
@@ -1581,31 +462,1150 @@
     farmers = {
         culture = brutonian
         religion = arian
-        size = 12000
+        size = 24975
     }
-
-    artisans = {
+}
+#Llandrindod (182000/45500 POPS)
+275 = {
+    aristocrats = {
         culture = brutonian
         religion = arian
-        size = 9000
+        size = 150
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 150
     }
 
     soldiers = {
         culture = brutonian
         religion = arian
-        size = 1100
+        size = 300
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 1350
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 25350
+    }
+}
+#Holyhead (240000/60000 POPS)
+276 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 150
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 150
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 90
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 1800
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 1860
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 31500
+    }
+
+}
+
+#Lancashire Region : 1896000
+#Liverpool (936000/234000 POPS)
+277 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    officers = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 930
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 750
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 1050
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 18000
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 6000
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 1500
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 1800
     }
 
     labourers = {
         culture = brutonian
         religion = arian
-        size = 63275
+        size = 83310
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = orthodox
+        size = 30
     }
 
     farmers = {
         culture = brutonian
         religion = orthodox
-        size = 2000
+        size = 660
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = orthodox
+        size = 900
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = orthodox
+        size = 3870
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = orthodox
+        size = 75
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 1350
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = orthodox
+        size = 6450
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 4725
+    }
+}
+#Manchester (744000/186000 POPS)
+278 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 900
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 1260
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 690
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 49500
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 6000
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 3600
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 39210
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = orthodox
+        size = 45
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = orthodox
+        size = 5310
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = orthodox
+        size = 1200
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = orthodox
+        size = 1245
+    }
+}
+#Carlisle (216000/54000 POPS)
+279 = {
+    aristocrats = {
+        culture = anglish
+        religion = arian
+        size = 150
+    }
+
+    clergymen = {
+        culture = anglish
+        religion = arian
+        size = 150
+    }
+
+    artisans = {
+        culture = anglish
+        religion = arian
+        size = 2400
+    }
+
+    soldiers = {
+        culture = anglish
+        religion = arian
+        size = 300
+    }
+
+    farmers = {
+        culture = anglish
+        religion = arian
+        size = 21600
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 4800
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 1950
+    }
+
+}
+#Yorkshire-Northumbria Region : 2190000
+#Newcastle-upon-Tyne (552000/138000 POPS)
+280 = {
+    aristocrats = {
+        culture = anglish
+        religion = arian
+        size = 660
+    }
+
+    clergymen = {
+        culture = anglish
+        religion = arian
+        size = 450
+    }
+
+    farmers = {
+        culture = anglish
+        religion = arian
+        size = 18000
+    }
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 6000
+    }
+
+    artisans = {
+        culture = anglish
+        religion = arian
+        size = 3540
+    }
+
+    soldiers = {
+        culture = anglish
+        religion = arian
+        size = 900
+    }
+
+    labourers = {
+        culture = anglish
+        religion = arian
+        size = 56910
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = orthodox
+        size = 2400
+    }
+}
+#Hull (512000/128000 POPS)
+281 = {
+    aristocrats = {
+        culture = anglish
+        religion = arian
+        size = 660
+    }
+
+    clergymen = {
+        culture = anglish
+        religion = arian
+        size = 450
+    }
+
+    artisans = {
+        culture = anglish
+        religion = arian
+        size = 6000
+    }
+
+    artisans = {
+        culture = anglish
+        religion = arian
+        size = 780
+    }
+
+    soldiers = {
+        culture = anglish
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = anglish
+        religion = arian
+        size = 38970
+    }
+	
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 26970
+    }
+
+    labourers = {
+        culture = anglish
+        religion = orthodox
+        size = 3000
+    }
+}
+#Leeds (468000/117000 POPS)
+282 = {
+    aristocrats = {
+        culture = anglish
+        religion = arian
+        size = 450
+    }
+
+    clergymen = {
+        culture = anglish
+        religion = arian
+        size = 375
+    }
+
+
+    artisans = {
+        culture = anglish
+        religion = arian
+        size = 6000
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    soldiers = {
+        culture = anglish
+        religion = arian
+        size = 750
+    }
+
+    labourers = {
+        culture = anglish
+        religion = arian
+        size = 24375
+    }
+	
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 31575
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 1800
+    }
+}
+#Sheffield (658000/164500 POPS)
+283 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 1230
+    }
+
+    officers = {
+        culture = brutonian
+        religion = arian
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 1290
+    }
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 15000
+    }
+    officers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 525
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 6000
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 900
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 61695
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 2400
+    }
+
+}
+#West Midlands Region : 1760000
+#Birmingham (644000/161000 POPS)
+284 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    officers = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 1515
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 210
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 975
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 9600
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 6000
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 1200
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 1800
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 71340
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 660
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 1800
+    }
+}
+#Chester (368000/92000 POPS)
+285 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 375
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 3000
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 31575
+    }
+	
+    labourers = {
+        culture = anglish
+        religion = arian
+        size = 19575
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 660
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = orthodox
+        size = 660
+    }
+}
+#Shrewsbury (316000/79000 POPS)
+286 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 225
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 2550
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 41325
+    }
+}
+#Coventry (432000/108000 POPS)
+287 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 2100
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 1800
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 57000
+    }
+
+}
+#East Midlands Region : 1224000
+#Nottingham (484000/121000 POPS)
+288 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    officers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 60
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 120
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 3000
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 1800
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 59820
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 3000
+    }
+}
+#Leicester (404000/101000 POPS)
+289 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 150
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 225
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 3600
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 54225
+    }
+}
+#Lincoln (336000/84000 POPS)
+290 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 3900
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 45300
+    }
+
+}
+#East Anglia Region : 1260000
+#Cambridge (308000/77000 POPS)
+291 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    officers = {
+        culture = brutonian
+        religion = arian
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 1050
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 3300
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 41100
+    }
+}
+#Ipswich (676000/169000 POPS)
+292 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 900
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    artisans = {
+        culture = anglish
+        religion = arian
+        size = 5100
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 900
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 54300
+    }
+	
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 42600
+    }
+}
+#Chelmsford (276000/69000 POPS)
+293 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 225
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 4500
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 900
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 34275
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = orthodox
+        size = 1200
+    }
+
+}
+#Oxfordshire/Buckinghamshire Region : 616000
+#294 : Oxford (304000/76000 POPS)
+294 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    officers = {
+        culture = brutonian
+        religion = arian
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 645
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 900
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 3600
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 900
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 39975
+    }
+}
+#St. Albans (312000/78000 POPS)
+295 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 900
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 2400
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 43050
+    }
+
+}
+#Cornwall-Dorset Region : 2032000
+#Bristol (404000/101000 POPS)
+296 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    officers = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 930
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 975
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 150
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 360
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 7200
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 5400
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 37965
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 1200
     }
 }
 #Salisbury (408000/102000 POPS)
@@ -1613,37 +1613,37 @@
     aristocrats = {
         culture = brutonian
         religion = arian
-        size = 1100
+        size = 660
     }
 
     clergymen = {
         culture = brutonian
         religion = arian
-        size = 625
+        size = 375
     }
 
     artisans = {
         culture = brutonian
         religion = arian
-        size = 5000
+        size = 3000
     }
 
     farmers = {
         culture = brutonian
         religion = arian
-        size = 12000
+        size = 7200
     }
 
     soldiers = {
         culture = brutonian
         religion = arian
-        size = 1100
+        size = 660
     }
 
     labourers = {
         culture = brutonian
         religion = arian
-        size = 82375
+        size = 49425
     }
 }
 #Bath (408000/102000 POPS)
@@ -1651,36 +1651,36 @@
     aristocrats = {
         culture = brutonian
         religion = arian
-        size = 1750
+        size = 1050
     }
 
     clergymen = {
         culture = brutonian
         religion = arian
-        size = 1625
+        size = 975
     }
 
     artisans = {
         culture = brutonian
         religion = arian
-        size = 5000
+        size = 3000
     }
 
     soldiers = {
         culture = brutonian
         religion = arian
-        size = 1100
+        size = 660
     }
     farmers = {
         culture = brutonian
         religion = arian
-        size = 12000
+        size = 7200
     }
 
     labourers = {
         culture = brutonian
         religion = arian
-        size = 70625
+        size = 42375
     }
 }
 #Plymouth (812000/203000 POPS)
@@ -1688,43 +1688,43 @@
     aristocrats = {
         culture = brutonian
         religion = arian
-        size = 1500
+        size = 900
     }
 
     clergymen = {
         culture = brutonian
         religion = arian
-        size = 1250
+        size = 750
     }
 
     artisans = {
         culture = brutonian
         religion = arian
-        size = 5500
+        size = 3300
     }
 
     soldiers = {
         culture = brutonian
         religion = arian
-        size = 1500
+        size = 900
     }
 
     labourers = {
         culture = brutonian
         religion = arian
-        size = 186250
+        size = 111750
     }
 
     farmers = {
         culture = brutonian
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
     farmers = {
         culture = brutonian
         religion = orthodox
-        size = 1100
+        size = 660
     }
 
 }
@@ -1734,237 +1734,49 @@
     aristocrats = {
         culture = brutonian
         religion = arian
-        size = 1500
+        size = 900
     }
 
     officers = {
         culture = brutonian
         religion = arian
-        size = 900
+        size = 540
     }
 
     bureaucrats = {
         culture = brutonian
         religion = arian
-        size = 1800
+        size = 1080
     }
 
     clergymen = {
         culture = brutonian
         religion = arian
-        size = 1850
+        size = 1110
     }
 
     bureaucrats = {
         culture = brutonian
         religion = arian
-        size = 500
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 12000
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 16000
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 10000
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 10000
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = arian
-        size = 77000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = orthodox
-        size = 8000
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 7000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = jewish
-        size = 1500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = jewish
-        size = 3400
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 4000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = saxon
-        religion = arian
-        size = 1050
-    }
-
-    farmers = {
-        culture = frankish
-        religion = orthodox
-        size = 900
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
         size = 300
     }
 
-}
-#Sussex-Kent Region : 1212000
-#Canterbury (476000/98000 POPS)
-301 = {
-    aristocrats = {
+    farmers = {
         culture = brutonian
         religion = arian
-        size = 750
+        size = 7200
     }
 
-    clergymen = {
+    farmers = {
         culture = brutonian
         religion = arian
-        size = 625
+        size = 9600
     }
 
-    artisans = {
+    farmers = {
         culture = brutonian
         religion = arian
-        size = 4000
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 90625
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = orthodox
-        size = 1100
-    }
-}
-#Brighton (404000/101000 POPS)
-302 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 500
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 10000
-    }
-
-    artisans = {
-        culture = brutonian
-        religion = arian
-        size = 1250
-    }
-
-    soldiers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    labourers = {
-        culture = brutonian
-        religion = arian
-        size = 87500
-    }
-}
-#Southampton (332000/83000 POPS)
-303 = {
-    aristocrats = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    officers = {
-        culture = brutonian
-        religion = arian
-        size = 1100
-    }
-
-    bureaucrats = {
-        culture = brutonian
-        religion = arian
-        size = 750
-    }
-
-    clergymen = {
-        culture = brutonian
-        religion = arian
-        size = 500
+        size = 6000
     }
 
     artisans = {
@@ -1976,13 +1788,201 @@
     soldiers = {
         culture = brutonian
         religion = arian
-        size = 1100
+        size = 6000
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = arian
+        size = 46200
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = orthodox
+        size = 4800
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 4200
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = jewish
+        size = 60
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = jewish
+        size = 900
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = jewish
+        size = 2040
+    }
+
+    farmers = {
+        culture = brutonian
+        religion = orthodox
+        size = 2400
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = orthodox
+        size = 6000
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = saxon
+        religion = arian
+        size = 630
+    }
+
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 540
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 180
+    }
+
+}
+#Sussex-Kent Region : 1212000
+#Canterbury (476000/98000 POPS)
+301 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 375
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 2400
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
     }
 
     labourers = {
         culture = brutonian
         religion = arian
-        size = 73000
+        size = 54375
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = orthodox
+        size = 660
+    }
+}
+#Brighton (404000/101000 POPS)
+302 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 6000
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 750
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 52500
+    }
+}
+#Southampton (332000/83000 POPS)
+303 = {
+    aristocrats = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    officers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    bureaucrats = {
+        culture = brutonian
+        religion = arian
+        size = 450
+    }
+
+    clergymen = {
+        culture = brutonian
+        religion = arian
+        size = 300
+    }
+
+    artisans = {
+        culture = brutonian
+        religion = arian
+        size = 3600
+    }
+
+    soldiers = {
+        culture = brutonian
+        religion = arian
+        size = 660
+    }
+
+    labourers = {
+        culture = brutonian
+        religion = arian
+        size = 43800
     }
 
 }
@@ -1992,43 +1992,43 @@
     aristocrats = {
         culture = anglish
         religion = arian
-        size = 100
+        size = 60
     }
 
     bureaucrats = {
         culture = anglish
         religion = arian
-        size = 25
+        size = 15
     }
 
     clergymen = {
         culture = anglish
         religion = arian
-        size = 125
+        size = 75
     }
 
     artisans = {
         culture = anglish
         religion = arian
-        size = 3250
+        size = 1950
     }
 
     soldiers = {
         culture = anglish
         religion = arian
-        size = 100
+        size = 60
     }
 
     labourers = {
         culture = anglish
         religion = arian
-        size = 7600
+        size = 4560
     }
 
     labourers = {
         culture = anglish
         religion = orthodox
-        size = 300
+        size = 180
     }
 
 }
@@ -2038,37 +2038,37 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 100
+        size = 60
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 50
+        size = 30
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 125
+        size = 75
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 3400
+        size = 2040
     }
 
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 250
+        size = 150
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 14075
+        size = 8445
     }
 
 }
