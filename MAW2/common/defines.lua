@@ -13,7 +13,7 @@ country = {
     GOLD_TO_WORKER_PAY_RATE = 0.75, -- Multiplier for how much money gold pays to pops
     GREAT_NATIONS_COUNT = 8,
     GREATNESS_DAYS = 365,        -- how many days until country risks losing status as great nation
-    BADBOY_LIMIT = 25,
+    BADBOY_LIMIT = 36,
     MAX_BUREAUCRACY_PERCENTAGE = 0.01, -- More than max percent bureaucrats of population will give no additional benefits
     BUREAUCRACY_PERCENTAGE_INCREMENT = 0.001, -- For each social administrative reform level, this is added to MAX_BUREAUCRACY_PERCENTAGE
     MIN_CRIMEFIGHT_PERCENT = 0.1,
@@ -30,7 +30,7 @@ country = {
     BASE_GREATPOWER_DAILY_INFLUENCE = 0.25, -- Influence value which is distributed each day
     AI_SUPPORT_REFORM = 0.025, -- At least this many % needs to support a reform for the AI to take it
     BASE_MONTHLY_DIPLOPOINTS = 0.3, -- Base value gain for diplomatic actions each month
-    DIPLOMAT_TRAVEL_TIME = 14,
+    DIPLOMAT_TRAVEL_TIME = -1,
     PROVINCE_OVERSEAS_PENALTY = 0.015, -- Each province req. this many goods flagged as overseas penalty
     NONCORE_TAX_PENALTY = -0.05, -- -5% for each non-core in state
     BASE_TARIFF_EFFICIENCY = 0.2, -- baseline tariff efficiency
@@ -150,7 +150,7 @@ military = {
     LEADER_AGE_DEATH_FACTOR = 4, -- higher value means leaders live longer
     LEADER_PRESTIGE_TO_MORALE_FACTOR = 0.9, -- f.ex. 100% of prestige = +10% morale
     LEADER_PRESTIGE_TO_MAX_ORG_FACTOR = 0.7, -- f.ex. 100% of prestige = +10 max org
-    LEADER_TRANSFER_PENALTY_ON_COUNTRY_PRESTIGE = 0.05, -- country prestige penalty on unassign leader (f.ex if leader has 100% prestige, the country loose 4% of its prestige)
+    LEADER_TRANSFER_PENALTY_ON_COUNTRY_PRESTIGE = 0.0, -- country prestige penalty on unassign leader (f.ex if leader has 100% prestige, the country loose 4% of its prestige)
     LEADER_PRESTIGE_LAND_GAIN = 0.3, -- extra speed gain on prestige for land combat
     LEADER_PRESTIGE_NAVAL_GAIN = 0.3, -- extra speed gain on prestige for naval combat
     NAVAL_COMBAT_SEEKING_CHANCE = 0.5, -- base chance of picking a target (increased by leader reconnaissance)
@@ -215,7 +215,7 @@ diplomacy = {
     PEACE_COST_COLONY = 10,
 
     INFAMY_ADD_TO_SPHERE = 2,
-    INFAMY_RELEASE_PUPPET = 0.5,
+    INFAMY_RELEASE_PUPPET = 1,
     INFAMY_MAKE_PUPPET = 5,
     INFAMY_DISARMAMENT = 5,
     INFAMY_DESTROY_FORTS = 2,
@@ -509,7 +509,7 @@ diplomacy = {
 
     GUNBOAT_DIPLOMATIC_COST = 1,
     GUNBOAT_RELATION_ON_ACCEPT = 1,
-    WARGOAL_JINGOISM_REQUIREMENT = 0.07,
+    WARGOAL_JINGOISM_REQUIREMENT = 0.001,
 
     LIBERATE_STATE_RELATION_INCREASE = 50,
     DISHONORED_CALLALLY_PRESTIGE_PENALTY = -3,
@@ -522,8 +522,8 @@ diplomacy = {
     PUPPET_BONUS_INFLUENCE_PERCENT = 1.0, -- bonus if they are our puppet
 
     -- effects of manually releasing a nation
-    RELEASE_NATION_PRESTIGE = 0,
-    RELEASE_NATION_INFAMY = -2,
+    RELEASE_NATION_PRESTIGE = -5,
+    RELEASE_NATION_INFAMY = -0.5,
 
     INFAMY_CLEAR_UNION_SPHERE = 0, -- Infamy for asserting hegemony
 
@@ -727,12 +727,12 @@ ai =
     PEACE_ALLY_WAR_EXHAUSTION_MULT = 1.0, -- Multiplies PEACE_WAR_EXHAUSTION_FACTOR for allies in a war
     PEACE_ALLY_WAR_DIRECTION_MULT = 0, -- Multiplies PEACE_WAR_DIRECTION_FACTOR for allies in a war
     PEACE_ALLY_FORCE_BALANCE_MULT = 0, -- Multiplies PEACE_FORCE_BALANCE_FACTOR for allies in a war
-    AGGRESSION_BASE = 5, -- general AI aggression
-    AGGRESSION_UNCIV_BONUS = 10, -- additional AI civ aggression against uncivs
+    AGGRESSION_BASE = 10, -- general AI aggression
+    AGGRESSION_UNCIV_BONUS = 15, -- additional AI civ aggression against uncivs
     FLEET_SIZE = 30, -- AI will attempt to keep fleets of roughly this size (fewer fleets generally results in more competent naval AI)
     MIN_FLEETS = 1, -- Minimum amount of main fleets the AI will divide its navy into (does not include specialized fleets such as blockades and naval invasions)
     MAX_FLEETS = 20, -- Maximal amount of main fleets the AI will divide its navy into (does not include specialized fleets such as blockades and naval invasions)
-    MONTHS_BEFORE_DISBAND = 8, -- Months from start date before AI will disband armies/navies (to avoid disbands because of early economic turmoil)
+    MONTHS_BEFORE_DISBAND = 24, -- Months from start date before AI will disband armies/navies (to avoid disbands because of early economic turmoil)
 },
 
 graphics =

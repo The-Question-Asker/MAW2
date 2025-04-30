@@ -57,8 +57,6 @@ PROV850;Skadar;;;;;;;;;;;;;x
 PROV852;Oricum;;;;;;;;;;;;;x
 PROV851;Dyrrhachium;;;;;;;;;;;;;x
 PROV849;Masio;;;;;;;;;;;;;x
-AUS_633;Upper Pannonia;;;;;;;;;;;;;x
-AUS_641;Pannonia;;;;;;;;;;;;;x
 RUS_1102;Atropatene;;;;;;;;;;;;;x
 TUR_893;Cappadocia;;;;;;;;;;;;;x
 RUS_964;Tauric Peninsula;;;;;;;;;;;;;x
@@ -172,3 +170,10 @@ SPA_512;West Baetica;;;;;;;;;;;;;x
 SPA_513;East Baetica;;;;;;;;;;;;;x
 SPA_484;Lusitania Interior;;;;;;;;;;;;;x
 SPA_503;Cartagina;;;;;;;;;;;;;x
+AUS_619;North Wendia;;;;;;;;;;;;;x
+AUS_768;South Wendia;;;;;;;;;;;;;x
+AUS_623;Pannonia;;;;;;;;;;;;;x
+AUS_633;Carpathia;;;;;;;;;;;;;x
+AUS_641;West Dacia;;;;;;;;;;;;;x
+AUS_654;East Dacia;;;;;;;;;;;;;x
+NET_385;West Friesland;;;;;;;;;;;;;x

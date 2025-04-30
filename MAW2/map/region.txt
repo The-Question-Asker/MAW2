@@ -170,127 +170,79 @@ RUS_343 = { 343 344 341 340 } #Helsinki
 
 RUS_345 = { 345 346 347 348 } #Turku
 
-DEN_367 = { 367 366 368 2557 } #Jylland
+DEN_367 = { 367 366 368 2557 371 } #Jylland
 
-HOL_369 = { 369 530 529 533 } #Holstein
+HOL_369 = { 369 530 529 533 370 528 } #Holstein
 
-SCH_370 = { 370 371 } #Schleswig
+#SCH_370 = { } #Schleswig
 
 DEN_372 = { 372 373 374 } #Sjaelland
 
 
 ### Low Countries
 
-NET_375 = { 375 376 377 382 } #Holland
+NET_375 = { 375 376 377 } #Holland
 
 NET_379 = { 379 378 380 381 } #Zeeland
 
-NET_385 = { 385 383 384 386 } #Friesland
+NET_385 = { 385 383 384 386 382 } #Friesland
 
 BEL_387 = { 387 388 389 390 391 } #Flanders
 
 BEL_394 = { 394 392 393 395 398 } #Wallonia
 
-### Germany & Switzerland
-
-HAN_528 = { 528 531 532 535 } #Lower Elbe
-
-HAN_534 = { 534 536 537 585 } #Hannover
-
-HAN_540 = { 539 540 543 542 541 1743 } #East Friesland
-
-PRU_544 = { 544 545 547 548 } #Mecklenburg
-
-PRU_546 = { 546 679 680 692 681 } #Pomerania
-
-PRU_549 = { 549 550 551 552 } #Brandenburg
-
-PRU_553 = { 553 555 556 557 } #Magdeburg
-
-PRU_554 = { 554 561 562 563 } #Thuringia
-
-SAX_558 = { 558 559 560 687 } #Saxony
-
-HES_2560 = { 564 565 566 567 568 2560 } #Hessen
-
-PRU_570 = { 570 573 574 571 } #Palatinate
-
-PRU_575 = { 575 576 577 572 397 396 } #Rheinland
-
-PRU_578 = { 578 579 2561 583 } #Eastern Rheinland
-
-PRU_581 = { 580 581 582 584 538 } #Westfalen
-
-BAD_586 = { 586 587 588 569 } #Baden
-
-WUR_589 = { 589 590 591 593 594 } #Wurttemburg
-
-BAV_595 = { 595 596 597 598 } #Franconia
-
-BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
-
-SWI_603 = { 603 606 611 2568 605 604 607 608 609 } #Switzerland
-
-PRU_682 = { 682 683 684 685 } #Silesia
-
-PRU_690 = { 690 691 694 693 } #Westpreußen
-
-PRU_695 = { 695 696 697 698 } #Ostpreußen
-
-PRU_701 = { 701 699 700 } #Posen
-
 
 ### Austria
 
-AUS_612 = { 612 613 615 618 734 735 } #Tirol
-
-#AUS_613 = {  } #Kärnten-Steiermark
-
-AUS_619 = { 619 620 621 622 624 616 617 } #Österreich
-
-AUS_623 = { 639 623 640 642 643 644 } #Transdanubia
-
-AUS_625 = { 625 626 631 } #Bohemia
-
-AUS_626 = { 627 628 629 630 } #Moravia/Sudetes
-
-AUS_627 = { 688 632 689 2584 } #Lower Silesia
-
-AUS_633 = { 633 634 635 636 637 638 950 } #Slovakia
-
-AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
-
-AUS_652 = { 652 653 } #Banat
-
-AUS_654 = { 654 655 656 661 651 647 } #Western Transylvania
-
-AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
-
-AUS_702 = { 703 704 705 714 } #Galicia-Lodomeria
-
-AUS_662 = { 702 951 952 953} #East Galicia
-
-RUS_715 = { 715 711 713 716 } #West Galicia
-
-AUS_726 = { 726 727 728 2669 } #Lombardia
-
-#AUS_733 = { } #Friuli
-
-AUS_729 = { 729 730 731 732 733 8 } #Venetia
-
-#AUS_734 = { } #South Tirol
-
-AUS_736 = { 769 770 778 736 737 } #Istria
-
-AUS_768 = { 767 768 773 775 771 } #Slovenia
-
-#AUS_771 = {  } #Croatia
-
-AUS_777 = { 779 793 777 772 776 } #Slavonia
-
-AUS_780 = { 780 781 782 774 2582 } #Dalmatia
-
-AUS_2538 = { 2538 791 792 } #Vojvodina
+#AUS_612 = { 612 613 615 618 734 735 } #Tirol
+#
+##AUS_613 = {  } #Kärnten-Steiermark
+#
+#AUS_619 = { 619 620 621 622 624 616 617 } #Österreich
+#
+#AUS_623 = { 639 623 640 642 643 644 } #Transdanubia
+#
+#AUS_625 = { 625 626 631 } #Bohemia
+#
+#AUS_626 = { 627 628 629 630 } #Moravia/Sudetes
+#
+#AUS_627 = { 688 632 689 2584 } #Lower Silesia
+#
+#AUS_633 = { 633 634 635 636 637 638 950 } #Slovakia
+#
+#AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
+#
+#AUS_652 = { 652 653 } #Banat
+#
+#AUS_654 = { 654 655 656 661 651 647 } #Western Transylvania
+#
+#AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
+#
+#AUS_702 = { 703 704 705 714 } #Galicia-Lodomeria
+#
+#AUS_662 = { 702 951 952 953} #East Galicia
+#
+#RUS_715 = { 715 711 713 716 } #West Galicia
+#
+#AUS_726 = { 726 727 728 2669 } #Lombardia
+#
+##AUS_733 = { } #Friuli
+#
+#AUS_729 = { 729 730 731 732 733 8 } #Venetia
+#
+##AUS_734 = { } #South Tirol
+#
+#AUS_736 = { 769 770 778 736 737 } #Istria
+#
+#AUS_768 = { 767 768 773 775 771 } #Slovenia
+#
+##AUS_771 = {  } #Croatia
+#
+#AUS_777 = { 779 793 777 772 776 } #Slavonia
+#
+#AUS_780 = { 780 781 782 774 2582 } #Dalmatia
+#
+#AUS_2538 = { 2538 791 792 } #Vojvodina
 
 
 ### Italy
@@ -1379,48 +1331,48 @@ ENG_300 = { 300 294 301 302 303 } #South East England
 
 ### Scandinavia
 
-DEN_251 = { 251 252 253 2636 } #Iceland & Greenland
+#DEN_251 = { 251 252 253 2636 } #Iceland & Greenland
+#
+#SWE_308 = { 308 305 306 307 } #Nordnoge
+#
+#SWE_309 = { 309 311 310 312 } #Vestlandet
+#
+#SWE_313 = { 313 316 314 315 } #Ostlandet
+#
+#SWE_318 = { 318 317 319 320 321 } #Norrland
+#
+#SWE_322 = { 322 324 326 325 } #Stockholm
+#
+#SWE_329 = { 329 328 327 323 330 } #Goteburg
+#
+#SWE_334 = { 334 332 331 333 335 } #Malmo
+#
+#RUS_336 = { 336 337 338 342 } #Northern Finland
+#
+#RUS_343 = { 343 344 341 340 } #Helsinki
+#
+#RUS_345 = { 345 346 347 348 } #Turku
+#
+#DEN_367 = { 367 366 368 2557 } #Jylland
+#
+#HOL_369 = { 369 530 529 533 } #Holstein
+#
+#SCH_370 = { 370 371 } #Schleswig
+#
+#DEN_372 = { 372 373 374 } #Sjaelland
 
-SWE_308 = { 308 305 306 307 } #Nordnoge
 
-SWE_309 = { 309 311 310 312 } #Vestlandet
-
-SWE_313 = { 313 316 314 315 } #Ostlandet
-
-SWE_318 = { 318 317 319 320 321 } #Norrland
-
-SWE_322 = { 322 324 326 325 } #Stockholm
-
-SWE_329 = { 329 328 327 323 330 } #Goteburg
-
-SWE_334 = { 334 332 331 333 335 } #Malmo
-
-RUS_336 = { 336 337 338 342 } #Northern Finland
-
-RUS_343 = { 343 344 341 340 } #Helsinki
-
-RUS_345 = { 345 346 347 348 } #Turku
-
-DEN_367 = { 367 366 368 2557 } #Jylland
-
-HOL_369 = { 369 530 529 533 } #Holstein
-
-SCH_370 = { 370 371 } #Schleswig
-
-DEN_372 = { 372 373 374 } #Sjaelland
-
-
-### Low Countries
-
-NET_375 = { 375 376 377 382 } #Holland
-
-NET_379 = { 379 378 380 381 } #Zeeland
-
-NET_385 = { 385 383 384 386 } #Friesland
-
-BEL_387 = { 387 388 389 390 391 } #Flanders
-
-BEL_394 = { 394 392 393 395 398 } #Wallonia
+#### Low Countries
+#
+#NET_375 = { 375 376 377 382 } #Holland
+#
+#NET_379 = { 379 378 380 381 } #Zeeland
+#
+#NET_385 = { 385 383 384 386 } #Friesland
+#
+#BEL_387 = { 387 388 389 390 391 } #Flanders
+#
+#BEL_394 = { 394 392 393 395 398 } #Wallonia
 
 
 ### France
@@ -1494,23 +1446,23 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 ### Germany & Switzerland
 
-HAN_528 = { 528 531 532 535 } #Lower Elbe
+HAN_528 = { 531 532 553 557 } #Lower Elbe
 
-HAN_534 = { 534 536 537 585 } #Hannover
+HAN_534 = { 534 536 537 585 535 } #Hannover
 
 HAN_540 = { 539 540 543 542 541 1743 } #East Friesland
 
 PRU_544 = { 544 545 547 548 } #Mecklenburg
 
-PRU_546 = { 546 679 680 692 681 } #Pomerania
+PRU_546 = { 546 679 680 692 } #Pomerania
 
-PRU_549 = { 549 550 551 552 } #Brandenburg
+PRU_549 = { 549 550 551 552 681 } #Brandenburg
 
-PRU_553 = { 553 555 556 557 } #Magdeburg
+#PRU_553 = { } #Magdeburg
 
 PRU_554 = { 554 561 562 563 } #Thuringia
 
-SAX_558 = { 558 559 560 687 } #Saxony
+SAX_558 = { 558 559 560 687 555 556 } #Saxony
 
 HES_2560 = { 564 565 566 567 568 2560 } #Hessen
 
@@ -1547,7 +1499,7 @@ AUS_612 = { 612 613 614 615 618 734 735 } #Tirol
 
 #AUS_613 = {  } #Kärnten-Steiermark
 
-AUS_619 = { 619 620 621 622 624 616 617 } #Österreich
+AUS_619 = { 619 620 621 622 624 616 617 633 } #Österreich
 
 AUS_623 = { 639 623 640 642 643 644 } #Transdanubia
 
@@ -1557,13 +1509,13 @@ AUS_626 = { 627 628 629 630 } #Moravia/Sudetes
 
 AUS_627 = { 688 632 689 2584 } #Lower Silesia
 
-AUS_633 = { 633 634 635 636 637 638 950 } #Slovakia
+AUS_633 = { 634 635 636 637 638 950 } #Slovakia
 
 AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
 
-AUS_652 = { 652 653 } #Banat
+AUS_652 = { 652 653 656 } #Banat
 
-AUS_654 = { 654 655 656 661 651 647 } #Western Transylvania
+AUS_654 = { 654 655 661 651 647 } #Western Transylvania
 
 AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
 
