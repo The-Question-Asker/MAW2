@@ -1,5 +1,5 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = WTL
+controller = WTL
+colonial = 2
 trade_goods = grain
 life_rating = 35

@@ -1,8 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = MTC
-add_core = RPL
+owner = STC
+controller = STC
+add_core = STC
 trade_goods = grain
-terrain = plains
 life_rating = 31
-colonial = 2
+

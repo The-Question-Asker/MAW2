@@ -1,6 +1,7 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = WTL
+controller = WTL
+add_core = WTL
+colonial = 2
 trade_goods = grain
 terrain = montane_forest
 life_rating = 35

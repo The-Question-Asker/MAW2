@@ -1,16 +1,7 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = CRA
+controller = CRA
+add_core = CRA
 trade_goods = grain
 life_rating = 35
 
-party_loyalty = {
-    ideology = conservative
-    loyalty_value = 5
-}
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 20
-}
 
-1861.1.1 = { railroad = 3 }

@@ -1,13 +1,7 @@
-owner = USA
-
-controller = USA
-
-add_core = USA
-
+owner = AGU
+controller = AGU
+add_core = AGU
 trade_goods = grain
 life_rating = 35
-terrain = urban
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 40
-}
+
+

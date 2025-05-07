@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = QUE
+owner = NNE
+controller = NNE
+add_core = NNE
 trade_goods = grain
 life_rating = 32
-colonial = 2
-1861.1.1 = { railroad = 3 }
+

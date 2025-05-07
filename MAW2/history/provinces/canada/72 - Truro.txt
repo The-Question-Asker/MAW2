@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = MRU
+owner = NNE
+controller = NNE
+add_core = NNE
 trade_goods = timber
 life_rating = 31
-colonial = 2
+

@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-
-add_core = MEX
+owner = WTL
+controller = WTL
+add_core = WTL
+colonial = 2
 trade_goods = fish
 life_rating = 35
