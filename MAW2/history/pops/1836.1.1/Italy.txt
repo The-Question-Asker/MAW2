@@ -405,15 +405,9 @@
     artisans = {
         culture = roman
         religion = orthodox
-        size = 10000
+        size = 30000
     }
 
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 10000
-    }
-	
     craftsmen = {
         culture = roman
         religion = orthodox
@@ -424,6 +418,12 @@
         culture = roman
         religion = orthodox
         size = 10000
+    }
+	
+    craftsmen = {
+        culture = roman
+        religion = orthodox
+        size = 30000
     }
 
     craftsmen = {
@@ -440,7 +440,7 @@
 
     craftsmen = {
         culture = roman
-        religion = orthodox
+        religion = arian
         size = 3000
     }
 
@@ -1676,10 +1676,10 @@
         size = 10000
     }
 
-    artisans = {
+    craftsmen = {
         culture = roman
         religion = orthodox
-        size = 6600
+        size = 60600
     }
 
     soldiers = {

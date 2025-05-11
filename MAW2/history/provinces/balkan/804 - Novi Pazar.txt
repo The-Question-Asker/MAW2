@@ -3,3 +3,21 @@ controller = SCL
 add_core = SCL
 trade_goods = iron
 life_rating = 35
+
+state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+}	
+
+state_building = {
+    level = 2
+    building = artillery_factory
+    upgrade = yes
+}	
+
+state_building = {
+    level = 3
+    building = cement_factory
+    upgrade = yes
+}	

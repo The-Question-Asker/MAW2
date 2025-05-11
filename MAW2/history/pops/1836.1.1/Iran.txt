@@ -26,6 +26,12 @@
         religion = manichaean
         size = 1250
     }
+	
+    craftsmen = {
+        culture = persian
+        religion = manichaean
+        size = 65000
+    }
 
     artisans = {
         culture = persian

@@ -846,10 +846,16 @@
         size = 1500
     }
 
+    craftsmen = {
+        culture = saxon
+        religion = orthodox
+        size = 40500
+    }
+	
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 9500
+        size = 7500
     }
 
     soldiers = {

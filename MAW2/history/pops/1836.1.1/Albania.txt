@@ -134,27 +134,27 @@
 }
 852 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1146
     }
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 512
     }
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2662
     }
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 572
     }
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 21894
     }
@@ -171,32 +171,32 @@
 }
 853 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 614
     }
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 204
     }
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 900
     }
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 244
     }
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 12492
     }
     farmers = {
-        culture = greek
+        culture = roman
         religion = manichaean
         size = 2000
     }
@@ -221,7 +221,7 @@
         size = 13358
     }
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 244
     }

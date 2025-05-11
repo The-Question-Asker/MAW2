@@ -4,3 +4,26 @@ add_core = KRS
 trade_goods = fruit
 life_rating = 40
 
+state_building = {
+    level = 1
+    building = canned_food_factory
+    upgrade = yes
+}
+
+state_building = {
+    level = 2
+    building = ammunition_factory
+    upgrade = yes
+}
+
+state_building = {
+    level = 1
+    building = liquor_distillery
+    upgrade = yes
+}
+
+state_building = {
+    level = 2
+    building = steel_factory
+    upgrade = yes
+}

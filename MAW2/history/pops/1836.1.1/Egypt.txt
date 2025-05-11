@@ -544,13 +544,13 @@
         size = 4050
     }
 	
-    artisans = {
+    craftsmen = {
         culture = aegyptian
         religion = orthodox
         size = 20000
     }
 
-    artisans = {
+    craftsmen = {
         culture = aegyptian
         religion = orthodox
         size = 20000
@@ -601,7 +601,7 @@
     farmers = {
         culture = aegyptian
         religion = orthodox
-        size = 292000
+        size = 202000
     }
 	
     capitalists = {
@@ -610,7 +610,7 @@
         size = 850
     }
 
-    artisans = {
+    craftsmen = {
         culture = aegyptian
         religion = orthodox
         size = 20000
@@ -631,7 +631,7 @@
     craftsmen = {
         culture = aegyptian
         religion = orthodox
-        size = 60000
+        size = 30000
     }
 
     soldiers = {
@@ -655,7 +655,7 @@
     farmers = {
         culture = levantine
         religion = orthodox
-        size = 93450
+        size = 83450
     }
 
     farmers = {

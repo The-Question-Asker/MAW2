@@ -619,25 +619,25 @@
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 300
     }
 
     farmers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 7400
     }
@@ -712,25 +712,25 @@
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 15900
     }
@@ -795,37 +795,37 @@
     }
 
     aristocrats = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     officers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
@@ -879,31 +879,31 @@
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 200
     }
 
     clergymen = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 200
     }
 
     artisans = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 2200
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 2200
     }
 
     farmers = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 39400
     }
@@ -948,37 +948,37 @@
     }
 
     aristocrats = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     officers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 4000
     }
@@ -1062,37 +1062,37 @@
     }
 
     aristocrats = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     officers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 1800
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 69100
     }
@@ -1145,6 +1145,12 @@
         culture = sclavenian
         religion = orthodox
         size = 800
+    }
+	
+    craftsmen = {
+        culture = sclavenian
+        religion = orthodox
+        size = 45000
     }
 
     farmers = {

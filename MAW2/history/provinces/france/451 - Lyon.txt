@@ -4,3 +4,32 @@ add_core = FRK
 trade_goods = iron
 life_rating = 34
 
+state_building = {
+    level = 1
+    building = winery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = furniture_factory
+    upgrade = yes
+}
+state_building = {
+    level = 2
+    building = luxury_clothes_factory
+    upgrade = yes
+}
+	
+state_building = {
+    level = 2
+    building = glass_factory
+    upgrade = yes
+}	
+
+state_building = {
+    level = 2
+    building = steel_factory
+    upgrade = yes
+}	
+
+

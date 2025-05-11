@@ -5,3 +5,26 @@ trade_goods = cotton
 life_rating = 45
 fort = 1
 
+state_building = {
+    level = 3
+    building = fabric_factory
+    upgrade = yes
+}
+
+state_building = {
+    level = 2
+    building = luxury_clothes_factory
+    upgrade = yes
+}
+
+state_building = {
+        level = 5
+        building = steel_factory
+        upgrade = yes
+    }
+state_building = {
+        level = 2
+        building = machine_parts_factory
+        upgrade = yes
+}
+

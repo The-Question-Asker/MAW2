@@ -26,13 +26,13 @@
         size = 4400
     }
 
-    artisans = {
+    craftsmen = {
         culture = african
         religion = arian
         size = 20000
     }
 
-    artisans = {
+    craftsmen = {
         culture = hispanic
         religion = arian
         size = 20000

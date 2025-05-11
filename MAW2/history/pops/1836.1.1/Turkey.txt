@@ -397,6 +397,12 @@
         religion = orthodox
         size = 20000
     }
+	
+    craftsmen = {
+        culture = llati
+        religion = orthodox
+        size = 20000
+    }
 
     soldiers = {
         culture = llati
@@ -440,7 +446,7 @@
         size = 3100
     }
 
-    artisans = {
+    craftsmen = {
         culture = greek
         religion = manichaean
         size = 18000
@@ -475,7 +481,7 @@
         size = 240
     }
 
-    artisans = {
+    craftsmen = {
         culture = galatian
         religion = orthodox
         size = 30000

@@ -1061,7 +1061,7 @@
         size = 1500
     }
 
-    artisans = {
+    craftsmen = {
         culture = narbonne
         religion = orthodox
         size = 26500
@@ -1072,17 +1072,29 @@
         religion = orthodox
         size = 2100
     }
+	
+    craftsmen = {
+        culture = narbonne
+        religion = orthodox
+        size = 10600
+    }
 
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 80600
+        size = 50600
     }
 	
     farmers = {
         culture = narbonne
         religion = arian
-        size = 23600
+        size = 20600
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 33600
     }
 
     #####Jews

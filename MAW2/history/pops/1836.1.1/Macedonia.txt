@@ -3,37 +3,37 @@
 #Skopje (424000/106000 POPS)
 806 = {
     aristocrats = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 4900
     }
 
     clergymen = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 650
     }
 
     artisans = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 4000
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 6000
     }
 
     farmers = {
-        culture = llati
+        culture = roman
         religion = orthodox
         size = 40450
     }
 	
     farmers = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 10450
     }
@@ -205,43 +205,43 @@
     }
 
     aristocrats = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 3000
     }
 
     bureaucrats = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 450
     }
 
     officers = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 350
     }
 
     clergymen = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 200
     }
 
     artisans = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 2600
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 2200
     }
 
     farmers = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 3950
     }
@@ -299,25 +299,25 @@
 #Debar - Former Tichit
 1780 = {
     clergymen = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 250
     }
 
     artisans = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 800
     }
 
     soldiers = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 4200
     }
 
     farmers = {
-        culture = llati
+        culture = roman
         religion = manichaean
         size = 44124
     }
