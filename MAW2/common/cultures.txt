@@ -105,7 +105,7 @@ west_germanic = {
     unit = EuropeanGC
 
 	anglish = {
-	  color = { 158 16 54 }
+	  color = { 194 107 130 } 
         	first_names = { Aculf Adalaver Adalbert Ægelric Ælfgar Ælfheah 
 							Ælfric Æthelbald Æthelferth Æthelgar Æthelweard 
 							Aldfrith Ahlred Athulf Athelstan Athelwald Aldhelm 
