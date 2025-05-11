@@ -522,7 +522,19 @@
     farmers = {
         culture = brutonian
         religion = arian
-        size = 24975
+        size = 16975
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 2975
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 8175
     }
 }
 #Llandrindod (182000/45500 POPS)
@@ -554,7 +566,19 @@
     farmers = {
         culture = brutonian
         religion = arian
-        size = 25350
+        size = 15350
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 8350
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 2350
     }
 }
 #Holyhead (240000/60000 POPS)
@@ -598,7 +622,19 @@
     farmers = {
         culture = brutonian
         religion = arian
-        size = 31500
+        size = 11500
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 11500
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 11500
     }
 
 }
@@ -669,7 +705,13 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 83310
+        size = 43310
+    }
+
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 33310
     }
 
     clergymen = {
@@ -714,10 +756,10 @@
         size = 6450
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
-        size = 4725
+        size = 14725
     }
 }
 #Manchester (744000/186000 POPS)
@@ -740,10 +782,10 @@
         size = 690
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = arian
-        size = 49500
+        size = 39500
     }
 
     artisans = {
@@ -788,10 +830,10 @@
         size = 1200
     }
 
-    labourers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
-        size = 1245
+        size = 10245
     }
 }
 #Carlisle (216000/54000 POPS)
@@ -823,16 +865,22 @@
     farmers = {
         culture = anglish
         religion = arian
-        size = 21600
+        size = 15600
+    }
+	
+    serfs = {
+        culture = anglish
+        religion = arian
+        size = 6600
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
         size = 4800
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = arian
         size = 1950
@@ -880,10 +928,16 @@
     labourers = {
         culture = anglish
         religion = arian
-        size = 56910
+        size = 22910
+    }
+	
+    serfs = {
+        culture = anglish
+        religion = arian
+        size = 36910
     }
 
-    labourers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
         size = 2400
@@ -921,7 +975,7 @@
         size = 660
     }
 
-    labourers = {
+    serfs = {
         culture = anglish
         religion = arian
         size = 38970
@@ -930,11 +984,17 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 26970
+        size = 16970
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 10970
     }
 
     labourers = {
-        culture = anglish
+        culture = brutonian
         religion = orthodox
         size = 3000
     }
@@ -972,7 +1032,7 @@
         size = 750
     }
 
-    labourers = {
+    serfs = {
         culture = anglish
         religion = arian
         size = 24375
@@ -981,13 +1041,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 31575
+        size = 10575
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 16575
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
-        size = 1800
+        size = 6800
     }
 }
 #Sheffield (658000/164500 POPS)
@@ -1047,13 +1113,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 61695
+        size = 11695
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 40695
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
-        size = 2400
+        size = 12400
     }
 
 }
@@ -1123,19 +1195,25 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 71340
+        size = 30340
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 23340
     }
 
-    farmers = {
-        culture = brutonian
+    serfs = {
+        culture = anglish
         religion = orthodox
         size = 660
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
-        size = 1800
+        size = 18000
     }
 }
 #Chester (368000/92000 POPS)
@@ -1167,19 +1245,25 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 31575
+        size = 17575
     }
 	
-    labourers = {
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 8575
+    }
+	
+    serfs = {
         culture = anglish
         religion = arian
         size = 19575
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
-        size = 660
+        size = 6660
     }
 
     artisans = {
@@ -1217,7 +1301,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 41325
+        size = 11325
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 24325
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 6325
     }
 }
 #Coventry (432000/108000 POPS)
@@ -1261,7 +1357,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 57000
+        size = 22000
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 27000
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 8000
     }
 
 }
@@ -1304,8 +1412,8 @@
         size = 120
     }
 
-    farmers = {
-        culture = brutonian
+    serfs = {
+        culture = anglish
         religion = arian
         size = 3000
     }
@@ -1325,13 +1433,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 59820
+        size = 20820
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 29820
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
-        size = 3000
+        size = 13000
     }
 }
 #Leicester (404000/101000 POPS)
@@ -1363,7 +1477,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 54225
+        size = 27225
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 21225
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 6225
     }
 }
 #Lincoln (336000/84000 POPS)
@@ -1395,7 +1521,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 45300
+        size = 10300
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 15300
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 28300
     }
 
 }
@@ -1441,7 +1579,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 41100
+        size = 15100
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 20100
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 5900
     }
 }
 #Ipswich (676000/169000 POPS)
@@ -1473,12 +1623,18 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 54300
+        size = 24300
     }
 	
-    labourers = {
+    serfs = {
         culture = brutonian
         religion = arian
+        size = 30600
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
         size = 42600
     }
 }
@@ -1511,13 +1667,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 34275
+        size = 10275
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 14275
     }
 
-    labourers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
-        size = 1200
+        size = 10200
     }
 
 }
@@ -1563,7 +1725,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 39975
+        size = 28975
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 13975
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 3975
     }
 }
 #St. Albans (312000/78000 POPS)
@@ -1595,7 +1769,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 43050
+        size = 15050
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 13050
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 20050
     }
 
 }
@@ -1659,13 +1845,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 37965
+        size = 25965
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 10965
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
-        size = 1200
+        size = 3200
     }
 }
 #Salisbury (408000/102000 POPS)
@@ -1703,7 +1895,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 49425
+        size = 24425
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 25025
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 9425
     }
 }
 #Bath (408000/102000 POPS)
@@ -1731,17 +1935,24 @@
         religion = arian
         size = 660
     }
-    farmers = {
+    serfs = {
         culture = brutonian
-        religion = arian
+        religion = orthodox
         size = 7200
     }
 
     labourers = {
         culture = brutonian
         religion = arian
-        size = 42375
+        size = 20375
     }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 22375
+    }
+	
 }
 #Plymouth (812000/203000 POPS)
 299 = {
@@ -1772,19 +1983,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 111750
+        size = 11750
+    }
+
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 60660
     }
 
     farmers = {
         culture = brutonian
         religion = orthodox
-        size = 660
-    }
-
-    farmers = {
-        culture = brutonian
-        religion = orthodox
-        size = 660
+        size = 30660
     }
 
 }
@@ -1854,7 +2065,13 @@
     farmers = {
         culture = brutonian
         religion = arian
-        size = 46200
+        size = 26200
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 20200
     }
 
     artisans = {
@@ -1863,7 +2080,7 @@
         size = 4800
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
         size = 4200
@@ -1876,18 +2093,18 @@
     }
 
     farmers = {
-        culture = brutonian
+        culture = ashkenazi
         religion = jewish
         size = 900
     }
 
     artisans = {
-        culture = brutonian
+        culture = ashkenazi
         religion = jewish
         size = 2040
     }
 
-    farmers = {
+    serfs  = {
         culture = brutonian
         religion = orthodox
         size = 2400
@@ -1906,8 +2123,8 @@
     }
 
     farmers = {
-        culture = saxon
-        religion = arian
+        culture = greek
+        religion = manichaean
         size = 630
     }
 
@@ -1954,7 +2171,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 54375
+        size = 20375
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 30375
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 4375
     }
 
     artisans = {
@@ -1998,7 +2227,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 52500
+        size = 20500
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 20500
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 12500
     }
 }
 #Southampton (332000/83000 POPS)
@@ -2042,7 +2283,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 43800
+        size = 13800
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 30800
+    }
+
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 10800
     }
 
 }
@@ -2050,44 +2303,56 @@
 #Douglas (46000/11500 POPS)
 304 = {
     aristocrats = {
-        culture = anglish
+        culture = brutonian
         religion = arian
         size = 60
     }
 
     bureaucrats = {
-        culture = anglish
+        culture = brutonian
         religion = arian
         size = 15
     }
 
     clergymen = {
-        culture = anglish
+        culture = brutonian
         religion = arian
         size = 75
     }
 
     artisans = {
+        culture = brutonian
+        religion = arian
+        size = 1050
+    }
+	
+    artisans = {
         culture = anglish
         religion = arian
-        size = 1950
+        size = 950
     }
 
     soldiers = {
-        culture = anglish
+        culture = brutonian
         religion = arian
         size = 60
     }
 
     labourers = {
-        culture = anglish
+        culture = brutonian
         religion = arian
-        size = 4560
+        size = 360
     }
 
-    labourers = {
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 4260
+    }
+
+    serfs = {
         culture = anglish
-        religion = orthodox
+        religion = arian
         size = 180
     }
 
