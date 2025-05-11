@@ -1,5 +1,5 @@
-owner = AGA
-controller = AGA
-add_core = AGA
+owner = MER
+controller = MER
+add_core = MER
 trade_goods = coal
 life_rating = 35

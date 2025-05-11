@@ -1,6 +1,7 @@
-owner = IVE
-controller = IVE
+owner = HLM
+controller = HLM
 add_core = IVE
+colonial = 2
 trade_goods = fish
 life_rating = 35
 

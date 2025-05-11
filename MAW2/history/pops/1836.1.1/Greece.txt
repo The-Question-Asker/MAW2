@@ -1129,7 +1129,13 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 54900
+        size = 20900
+    }
+	
+    farmers = {
+        culture = llati
+        religion = orthodox
+        size = 30900
     }
 
     soldiers = {
@@ -1153,7 +1159,7 @@
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 7250
+        size = 11250
     }
 }
 #Thessaly Region (408000)

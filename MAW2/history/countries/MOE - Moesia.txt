@@ -1,5 +1,5 @@
 capital = 873
-primary_culture = llati
+primary_culture = greek
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0

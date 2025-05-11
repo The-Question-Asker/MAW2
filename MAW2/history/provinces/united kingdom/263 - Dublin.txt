@@ -1,7 +1,7 @@
-owner = IVE
-controller = IVE
+owner = HLM
+controller = HLM
 add_core = IVE
 trade_goods = grain
-naval_base = 1
+colonial = 2
 life_rating = 35
 

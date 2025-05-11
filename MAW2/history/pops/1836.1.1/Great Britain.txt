@@ -28,10 +28,16 @@
     farmers = {
         culture = anglish
         religion = arian
-        size = 24000
+        size = 20000
+    }
+	
+    serfs = {
+        culture = anglish
+        religion = arian
+        size = 4000
     }
 
-    farmers = {
+    serfs = {
         culture = anglish
         religion = orthodox
         size = 1200
@@ -66,7 +72,13 @@
     farmers = {
         culture = anglish
         religion = arian
-        size = 40854
+        size = 32854
+    }
+	
+    serfs = {
+        culture = anglish
+        religion = arian
+        size = 8854
     }
 }
 
@@ -100,7 +112,13 @@
     farmers = {
         culture = anglish
         religion = arian
-        size = 3516
+        size = 2816
+    }
+	
+    serfs = {
+        culture = anglish
+        religion = arian
+        size = 816
     }
 
 }
@@ -134,7 +152,19 @@
     farmers = {
         culture = anglish
         religion = arian
-        size = 46920
+        size = 30920
+    }
+
+    serfs = {
+        culture = anglish
+        religion = arian
+        size = 13920
+    }
+	
+    serfs = {
+        culture = anglish
+        religion = orthodox
+        size = 3020
     }
 
 }
@@ -219,7 +249,7 @@
         size = 3000
     }
 
-    farmers = {
+    serfs = {
         culture = anglish
         religion = orthodox
         size = 15840
@@ -260,10 +290,16 @@
     farmers = {
         culture = anglish
         religion = arian
-        size = 47460
+        size = 40460
+    }
+	
+    serfs = {
+        culture = anglish
+        religion = arian
+        size = 7460
     }
 
-    farmers = {
+    serfs = {
         culture = anglish
         religion = orthodox
         size = 2400
@@ -331,13 +367,13 @@
         size = 60
     }
 
-    farmers = {
+    serfs = {
         culture = anglish
         religion = orthodox
         size = 2940
     }
 
-    farmers = {
+    serfs = {
         culture = brutonian
         religion = orthodox
         size = 6000
@@ -366,7 +402,19 @@
     labourers = {
         culture = anglish
         religion = arian
-        size = 24480
+        size = 18480
+    }
+	
+    serfs = {
+        culture = anglish
+        religion = arian
+        size = 4480
+    }
+	
+    serfs = {
+        culture = anglish
+        religion = orthodox
+        size = 2480
     }
 
 }
@@ -430,7 +478,19 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 52800
+        size = 22800
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = arian
+        size = 26800
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = orthodox
+        size = 4000
     }
 }
 #Cardigan (168000/42000 POPS)

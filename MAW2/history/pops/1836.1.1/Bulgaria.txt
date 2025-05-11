@@ -2398,7 +2398,13 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 50550
+        size = 30550
+    }
+	
+    farmers = {
+        culture = llati
+        religion = orthodox
+        size = 20550
     }
 
     artisans = {
