@@ -1,0 +1,376 @@
+
+
+army = {
+    name = "Soudanese Army"
+    location = 1827
+
+    regiment = {
+        name= "Soudanese Levies"
+        type = irregular
+        home = 1831
+    }
+	
+    regiment = {
+        name= "Soudanese Levies"
+        type = irregular
+        home = 1832
+    }
+	
+    regiment = {
+        name= "Soudanese Levies"
+        type = irregular
+        home = 1828
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1827
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1830
+    }
+
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1829
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1152
+    }
+	
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1767
+    }
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1767
+    }
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 1767
+    }
+}
+
+army = {
+    name = "Army of the West"
+    location = 1735
+
+    regiment = {
+        name= "African Levies"
+        type = irregular
+        home = 1735
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1745
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 854
+    }
+
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1765
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1764
+    }
+
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1747
+    }
+	
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1762
+    }
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1752
+    }
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 1734
+    }
+}
+
+
+army = {
+    name = "Army of the Levant"
+    location = 913
+
+    regiment = {
+        name= "Levantine Levies"
+        type = irregular
+        home = 897
+    }
+	
+    regiment = {
+        name= "Levantine Levies"
+        type = irregular
+        home = 897
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 898
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 898
+    }
+
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 898
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 900
+    }
+
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 900
+    }
+	
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 900
+    }
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 900
+    }
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 900
+    }
+}
+
+army = {
+    name = "European Garrison"
+    location = 834
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 834
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 834
+    }
+
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 845
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 839
+    }
+
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 842
+    }
+	
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 838
+    }
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 869
+    }
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 826
+    }
+}
+
+army = {
+    name = "Tauric Garrison"
+    location = 967
+
+    regiment = {
+        name= "Tauric Levies"
+        type = irregular
+        home = 964
+    }
+	
+    regiment = {
+        name= "Tauric Levies"
+        type = irregular
+        home = 896
+    }
+	
+    regiment = {
+        name= "Tauric Levies"
+        type = irregular
+        home = 896
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 894
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 894
+    }
+
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 837
+    }
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 825
+    }
+}
+
+army = {
+    name = "Army of Aegypt"
+    location = 1751
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1751
+    }
+
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1751
+    }
+
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1751
+    }
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1751
+    }
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 1751
+    }
+}
+
