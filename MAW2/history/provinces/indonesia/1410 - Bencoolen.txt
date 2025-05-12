@@ -1,5 +1,6 @@
-owner = DJA
-controller = DJA
+owner = AEG
+controller = AEG
 add_core = DJA
 trade_goods = fish
 life_rating = 35
+colonial = 2

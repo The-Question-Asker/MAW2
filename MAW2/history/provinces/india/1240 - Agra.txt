@@ -1,9 +1,8 @@
-owner = ENG
-controller = ENG
+owner = AWA
+controller = AWA
 add_core = MUG
 add_core = AWA
 add_core = HND
 trade_goods = dye
 life_rating = 32
-colonial = 2
-fort = 1
+

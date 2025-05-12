@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
+owner = AEG
+controller = AEG
 add_core = DJA
 trade_goods = grain
 life_rating = 35

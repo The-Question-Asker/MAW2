@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
+owner = AEG
+controller = AEG
 add_core = JAV
 trade_goods = coffee
 life_rating = 35
