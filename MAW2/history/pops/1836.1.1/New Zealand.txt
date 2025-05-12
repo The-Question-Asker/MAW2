@@ -1,4 +1,4 @@
-#New Zealand : 85000
+	#New Zealand : 85000
 #uncolonized in 1836
 #North Island Region (61000)
 #Auckland (17000/4250 POPS)
@@ -28,44 +28,44 @@
     }
 
     aristocrats = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 30
     }
 
     artisans = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 200
     }
 
     bureaucrats = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 75
     }
 
     officers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 200
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 1000
     }
 
@@ -104,26 +104,26 @@
     }
 
     artisans = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 30
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 200
     }
 }
@@ -154,8 +154,8 @@
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 5
     }
 
@@ -192,8 +192,8 @@
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 5
     }
 
@@ -236,26 +236,26 @@
     }
 
     artisans = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 
@@ -289,26 +289,26 @@
     }
 
     artisans = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 50
     }
 }
@@ -341,8 +341,8 @@
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 5
     }
 
@@ -379,8 +379,8 @@
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 5
     }
 
@@ -417,8 +417,8 @@
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 5
     }
 
@@ -455,8 +455,8 @@
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
+        culture = maori
+        religion = animist
         size = 5
     }
 

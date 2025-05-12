@@ -26,10 +26,16 @@
         size = 3240
     }
 
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 10150
+    }
+	
     farmers = {
         culture = ivernach
         religion = arian
-        size = 15150
+        size = 5150
     }
 
     aristocrats = {
@@ -136,10 +142,16 @@
         size = 660
     }
 
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 30350
+    }
+	
     farmers = {
         culture = ivernach
         religion = arian
-        size = 37350
+        size = 7350
     }
 }
 #Armagh (274000/68500 POPS)
@@ -198,7 +210,7 @@
         size = 660
     }
 
-    farmers = {
+    serfs = {
         culture = ivernach
         religion = arian
         size = 19800
@@ -236,10 +248,16 @@
         size = 300
     }
 
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 41950
+    }
+	
     farmers = {
         culture = ivernach
         religion = arian
-        size = 61950
+        size = 21950
     }
 
     clergymen = {
@@ -298,7 +316,13 @@
     farmers = {
         culture = ivernach
         religion = arian
-        size = 76050
+        size = 26050
+    }
+	
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 50050
     }
 }
 #Sligo (768000/192000 POPs)
@@ -342,7 +366,13 @@
     farmers = {
         culture = ivernach
         religion = arian
-        size = 105750
+        size = 15750
+    }
+	
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 90750
     }
 
 }
@@ -398,10 +428,16 @@
         size = 900
     }
 
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 63010
+    }
+	
     farmers = {
         culture = ivernach
         religion = arian
-        size = 113010
+        size = 51010
     }
 
     aristocrats = {
@@ -469,7 +505,13 @@
     farmers = {
         culture = ivernach
         religion = arian
-        size = 111900
+        size = 41900
+    }
+	
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 72900
     }
 }
 #Waterford (536000/134000 POPs)
@@ -498,10 +540,16 @@
         size = 660
     }
 
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 40850
+    }
+	
     farmers = {
         culture = ivernach
         religion = arian
-        size = 74850
+        size = 34850
     }
 
 }
@@ -510,13 +558,13 @@
 #Dublin (860000/215000 POPs)
 263 = {
     aristocrats = {
-        culture = anglish
+        culture = brutonian
         religion = arian
         size = 420
     }
 
     bureaucrats = {
-        culture = anglish
+        culture = brutonian
         religion = arian
         size = 375
     }
@@ -570,7 +618,7 @@
     }
 
     artisans = {
-        culture = ivernach
+        culture = brutonian
         religion = arian
         size = 6000
     }
@@ -590,7 +638,13 @@
     farmers = {
         culture = ivernach
         religion = arian
-        size = 92625
+        size = 22625
+    }
+	
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 72625
     }
 }
 #Kildare (532000/133000 POPs)
@@ -628,7 +682,13 @@
     farmers = {
         culture = ivernach
         religion = arian
-        size = 74640
+        size = 44640
+    }
+	
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 34640
     }
 }
 #Wexford (444000/111000 POPS)
@@ -666,7 +726,13 @@
     farmers = {
         culture = ivernach
         religion = arian
-        size = 61800
+        size = 29800
+    }
+	
+    serfs = {
+        culture = ivernach
+        religion = arian
+        size = 34800
     }
 
 }

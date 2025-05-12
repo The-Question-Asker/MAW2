@@ -1137,23 +1137,23 @@ ARG_2393 = { 2393 2395 2390 2389 } #La Pampa
 ARG_2398 = { 2131 2398 2399 2400 } #Patagonia Meridional
 
 
-### Australia & New Zealand
-
-ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 2508 } #New South Wales
-
-ENG_2476 = { 2476 2477 2478 2479 2480 2481 2482 } #Victoria
-
-ENG_2483 = { 2483 2484 2485 2486 2487 2488 2489 2490 2604 } #Queensland
-
-ENG_2491 = { 2491 2492 2493 2494 2495 2496 } #South Australia
-
-ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
-
-ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
-
-ENG_2509 = { 2509 2510 2511 2512 2571 2524 } #North Island - Aotearoa
-
-ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
+#### Australia & New Zealand
+#
+#ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 2508 } #New South Wales
+#
+#ENG_2476 = { 2476 2477 2478 2479 2480 2481 2482 } #Victoria
+#
+#ENG_2483 = { 2483 2484 2485 2486 2487 2488 2489 2490 2604 } #Queensland
+#
+#ENG_2491 = { 2491 2492 2493 2494 2495 2496 } #South Australia
+#
+#ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
+#
+#ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
+#
+#ENG_2509 = { 2509 2510 2511 2512 2571 2524 } #North Island - Aotearoa
+#
+#ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
 
 
 ### Pacific Islands
@@ -2440,22 +2440,25 @@ ARG_2398 = { 2131 2398 2399 2400 } #Patagonia Meridional
 
 ### Australia & New Zealand
 
-ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 2508 } #New South Wales
+ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2508 } #New South Wales
 
 ENG_2476 = { 2476 2477 2478 2479 2480 2481 2482 } #Victoria
 
-ENG_2483 = { 2483 2484 2485 2486 2487 2488 2489 2490 2604 } #Queensland
+ENG_2483 = { 2483 2484 2485 2486 2487 2488 2604 } #Queensland
 
-ENG_2491 = { 2491 2492 2493 2494 2495 2496 } #South Australia
+ENG_2491 = { 2491 2492 2493 2494 2496 } #South Australia
 
-ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
+ENG_2497 = { 2497 2498 2499 2501 2502 2504 2602 } #Western Australia
 
-ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
+ENG_2505 = { 2505 2506 } #Northern Territory
 
 ENG_2509 = { 2509 2510 2511 2512 2571 2524 } #North Island - Aotearoa
 
 ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
 
+AST_1111 = { 2601 2605 2503 2500 }
+
+AST_2222 = { 2603 2507 2495 2475 2490 2489 }
 
 ### Pacific Islands
 

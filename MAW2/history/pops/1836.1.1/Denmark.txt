@@ -2,25 +2,25 @@
 #Torshavn (7000/1750 POPS)
 253 = {
     bureaucrats = {
-        culture = icelandic
+        culture = norse
         religion = orthodox
         size = 9
     }
 
     clergymen = {
-        culture = icelandic
+        culture = norse
         religion = orthodox
         size = 45
     }
 
     artisans = {
-        culture = icelandic
+        culture = norse
         religion = orthodox
         size = 81
     }
 
     farmers = {
-        culture = icelandic
+        culture = norse
         religion = orthodox
         size = 945
     }
