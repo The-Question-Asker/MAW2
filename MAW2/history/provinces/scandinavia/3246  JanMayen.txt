@@ -1,5 +1,6 @@
-owner = SWE
-controller = SWE
+owner = AMO
+controller = AMO
+add_core = AMO
 trade_goods = cotton
 life_rating = 31
 colonial = 2

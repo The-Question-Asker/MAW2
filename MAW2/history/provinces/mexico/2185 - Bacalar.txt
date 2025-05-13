@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
-add_core = YUC
+owner = AMO
+controller = AMO
+add_core = AMO
 trade_goods = timber
 life_rating = 33
+colonial = 2

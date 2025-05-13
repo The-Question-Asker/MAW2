@@ -1,7 +1,6 @@
-owner = MEX
-controller = MEX
-
-add_core = MEX
-add_core = YUC
+owner = AMO
+controller = AMO
+add_core = AMO
 trade_goods = grain
 life_rating = 35
+colonial = 2

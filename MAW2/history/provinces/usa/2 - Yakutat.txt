@@ -1,7 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = LSK
+owner = AMO
+controller = AMO
+add_core = AMO
+colonial = 2
 trade_goods = fish
 life_rating = 20
-colonial = 2
-terrain = new_world_montane_tundra
+

@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = TTB
+owner = AMO
+controller = AMO
+add_core = AMO
 trade_goods = cotton
 life_rating = 35
 colonial = 2

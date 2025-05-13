@@ -1,15 +1,7 @@
-owner = MEX
-controller = MEX
-add_core = MEX
-add_core = CAL
+owner = PHO
+controller = PHO
+add_core = PHO
 trade_goods = fruit
-terrain = new_world_semidesert
 life_rating = 31
-colonial = 2
-1861.1.1 = {
-    owner = USA
-    controller = USA
-    add_core = USA
-    remove_core = MEX
-    colonial = 0
-}
+
+
