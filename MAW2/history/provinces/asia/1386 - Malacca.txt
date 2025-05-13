@@ -3,4 +3,6 @@ controller = WTL
 add_core = JOH
 trade_goods = tropical_wood
 life_rating = 37
+naval_base = 2
 colonial = 2
+
