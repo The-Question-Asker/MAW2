@@ -1,7 +1,7 @@
 capital = 104
 primary_culture = frankish 
 religion = orthodox
-government = absolute_monarchy
+government = democracy
 plurality = 5.0
 nationalvalue = nv_autocracy
 literacy = 0.16

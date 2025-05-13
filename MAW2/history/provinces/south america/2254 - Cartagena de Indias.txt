@@ -1,6 +1,7 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = HNU
+controller = HNU
+colonial = 2
 trade_goods = fish
 life_rating = 35
-naval_base = 1
+
+

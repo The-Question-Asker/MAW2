@@ -1,6 +1,5 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner = TWT
+controller = TWT
+add_core = TWT
 trade_goods = grain
-terrain = dryhills
 life_rating = 35

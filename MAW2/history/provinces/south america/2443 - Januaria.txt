@@ -1,6 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = TBJ
+controller = TBJ
+add_core = TBJ
 trade_goods = fruit
-terrain = dryhills
 life_rating = 35

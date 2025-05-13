@@ -1,7 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = PNM
+owner = HNU
+controller = HNU
+colonial = 2
 trade_goods = fruit
 life_rating = 32
-1861.1.1 = { railroad = 2 }
+

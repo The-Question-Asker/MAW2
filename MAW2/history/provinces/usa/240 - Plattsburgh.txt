@@ -1,2 +1,5 @@
+add_core = AGU
+add_core = NNE
+add_core = LTH
 trade_goods = timber
 life_rating = 30

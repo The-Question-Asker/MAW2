@@ -1,6 +1,6 @@
-owner = ECU
-controller = ECU
-add_core = ECU
+owner = HNU
+controller = HNU
+add_core = TWT
+colonial = 2
 trade_goods = timber
-terrain = montane_forest
 life_rating = 33

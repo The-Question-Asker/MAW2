@@ -1,9 +1,6 @@
-owner = PBC
-controller = PBC
-add_core = BOL
+owner = TWT
+controller = TWT
+add_core = TWT
 trade_goods = wool
 life_rating = 35
-1860.1.1 = {
-    owner = BOL
-    controller = BOL
-}
+

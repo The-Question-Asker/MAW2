@@ -1,6 +1,5 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = HNU
+controller = HNU
+colonial = 2
 trade_goods = cattle
-terrain = savanna
 life_rating = 35

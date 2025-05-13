@@ -1,5 +1,6 @@
 owner = HNU
 controller = HNU
+add_core = TWT
 colonial = 2
 trade_goods = iron
 life_rating = 35

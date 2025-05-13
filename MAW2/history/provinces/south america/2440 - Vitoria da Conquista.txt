@@ -1,7 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
-add_core = BAH
+owner = TBJ
+controller = TBJ
+add_core = TBJ
 trade_goods = cattle
-terrain = dryhills
 life_rating = 35

@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
+owner = HNU
+controller = HNU
 colonial = 2
-add_core = NIC
 trade_goods = fruit
 life_rating = 33

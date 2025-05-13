@@ -1,6 +1,5 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = PNM
+owner = HNU
+controller = HNU
+colonial = 2
 trade_goods = fruit
 life_rating = 33
