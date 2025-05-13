@@ -32,7 +32,7 @@
         size = 9000
     }
 
-    artisans = {
+    craftsmen = {
         culture = wendish
         religion = orthodox
         size = 8200

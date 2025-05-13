@@ -341,13 +341,13 @@
     artisans = {
         culture = wendish
         religion = orthodox
-        size = 10000
+        size = 12000
     }
 
-    artisans = {
+    craftsmen = {
         culture = wendish
         religion = orthodox
-        size = 10000
+        size = 8000
     }
 
     artisans = {
@@ -374,7 +374,7 @@
         size = 4500
     }
 
-    craftsmen = {
+    artisans = {
         culture = wendish
         religion = orthodox
         size = 3000
@@ -429,7 +429,7 @@
         size = 100
     }
 
-    craftsmen = {
+    artisans = {
         culture = wendish
         religion = orthodox
         size = 1100
@@ -467,7 +467,7 @@
         size = 100
     }
 
-    craftsmen = {
+    artisans = {
         culture = pannonian
         religion = orthodox
         size = 300
@@ -517,7 +517,7 @@
         size = 100
     }
 
-    craftsmen = {
+    artisans = {
         culture = ashkenazi
         religion = jewish
         size = 200
@@ -678,7 +678,7 @@
         size = 2350
     }
 
-    craftsmen = {
+    artisans = {
         culture = wendish
         religion = orthodox
         size = 100
@@ -714,7 +714,7 @@
         size = 1025
     }
 
-    craftsmen = {
+    artisans = {
         culture = pannonian
         religion = orthodox
         size = 100
