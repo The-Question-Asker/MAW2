@@ -2025,57 +2025,60 @@ NWR_112 = { 2332 2331 2327 2324 }
 NWR_113 = { 2392 2390 2353 2396 }
 NWR_114 = { 2333 2334 2399 2131 }
 
+ENG_2132 = { 2132 2129 2130 } #South Atlantic Islands
 
 #### bwoken
 
-PEU_2300 = {  2300   } #Lima
+#PEU_2300 = {  2300  } #Lima #DONE
 
-BRZ_2461 = { 2461 2462 2459 } #Santa Catarina
+#BRZ_2461 = { 2461 2462 2459 } #Santa Catarina #DONE
 
-ENG_1979 = {   2243 2245 2246 1979 } #Guyana 
+#ENG_1979 = {   2243 2245 2246 1979 } #Guyana #DONE
 
 ### South America
 
 
 
-VNZ_2234 = { 2268  } #Zulia
+#VNZ_2234 = { 2268  } #Zulia 
 
-VNZ_2265 = {  2274 } #Miranda
+#VNZ_2265 = {  2274 } #Miranda 
 
-VNZ_2278 = { 2275 2276 2277  } #Bolivar
+#VNZ_2278 = { 2275 2276 2277  } #Bolivar 
 
-CLM_2251 = { 2251 } #Antioquia
+#CLM_2251 = { 2251 } #Antioquia 
 
-CLM_2262 = {  2260  } #Guaviare
+#CLM_2262 = {  2260  } #Guaviare 
 
-CLM_2247 = { 2247 } #Cundinamarca
+#CLM_2247 = { 2247 } #Cundinamarca 
 
-CLM_2259 = { } #Cauca
+#CLM_2259 = { } #Cauca
 
-ECU_2279 = { 2283 } #Ecuador
+#ECU_2279 = { 2283 } #Ecuador 
 
-PEU_2289 = { 2286 2287 2289 } #Pastaza
+#PEU_2289 = { 2286 2287 2289 } #Pastaza 
 
-PEU_2291 = { } #Cajamarca
+#PEU_2291 = { } #Cajamarca 
 
-#PEU_2297 = { 2301 } #Ica
+#PEU_2297 = { 2301 } #Ica 
 
 
-PEU_2303 = { 2304 2578 } #Arequipa
 
-BOL_2305 = { 2314 2312 } #Atacama
 
-BOL_2309 = { 2307 2308 2309 } #Antofagasta
+#PEU_2303 = { 2304 2578 } #Arequipa
 
-BOL_2317 = { 2317 2316 2318 } #Santa Cruz
+#BOL_2305 = { 2314 2312 } #Atacama
 
-BOL_2321 = { 2321 2320 2319 } #La Paz
+#BOL_2309 = { 2307 2308 2309 } #Antofagasta
 
-PRG_2338 = { 2338 2337 } #Alto Paraguay
+#BOL_2317 = { 2317 2316 2318 } #Santa Cruz
 
-PRG_2343 = {  2343 2341 2342 2340 } #Bajo Parguay
+#BOL_2321 = { 2321 2320 2319 } #La Paz
 
-URU_2344 = { 2344 } #Uruguay
+#PRG_2338 = { 2338 2337 } #Alto Paraguay
+
+#PRG_2343 = {  2343 2341 2342 2340 } #Bajo Parguay
+
+#URU_2344 = { 2344 } #Uruguay
 
 
 
@@ -2085,64 +2088,64 @@ URU_2344 = { 2344 } #Uruguay
 
 ### Brazil
 
-BRZ_2306 = {  2456 2453 } #São Paulo
+#BRZ_2306 = {  2456 2453 } #São Paulo
 
-BRZ_2401 = { 2402  2403  } #Amazonas
+#BRZ_2401 = { 2402  2403  } #Amazonas
 
-BRZ_2408 = {  2412 2413 2411  } #Pará
+#BRZ_2408 = {  2412 2413 2411  } #Pará
 
-BRZ_2410 = { 2429 2424 2430 } #Maranhão
+#BRZ_2410 = { 2429 2424 2430 } #Maranhão
 
-BRZ_2416 = {  } #Mato Grosso
+#BRZ_2416 = {  } #Mato Grosso
 
-BRZ_2421 = { 2423 } #Goiás
+#BRZ_2421 = { 2423 } #Goiás
 
-BRZ_2428 = { 2432 2428 2431 2435 2434 2433 } #Nordeste
+#BRZ_2428 = { 2432 2428 2431 2435 2434 2433 } #Nordeste
 
-BRZ_2439 = { 2436 2439 2437 2438 } #Bahia
+#BRZ_2439 = { 2436 2439 2437 2438 } #Bahia
 
-BRZ_2446 = { 2442 2445 2444 } #Minas Gerais
+#BRZ_2446 = { 2442 2445 2444 } #Minas Gerais
 
-BRZ_2447 = { } #Rio de Janeiro
+#BRZ_2447 = { } #Rio de Janeiro
 
 
 
-BRZ_2462 = { 2457 2458 2460 } #Paraná
 
-BRZ_2467 = { 2463  } #Rio Grande do Sul
+#BRZ_2462 = { 2457 2458 2460 } #Paraná
+
+#BRZ_2467 = { 2463  } #Rio Grande do Sul
 
 
 ### Argentina & Chile
 
-ENG_2132 = { 2132 2129 2130 } #South Atlantic Islands
 
-CHL_2322 = {  } #Santiago
+#CHL_2322 = {  } #Santiago
 
-CHL_2327 = { 2329  2328 } #Los Rios
+#CHL_2327 = { 2329  2328 } #Los Rios
 
-CHL_2332 = { 2335 } #Araucania
+#CHL_2332 = { 2335 } #Araucania
 
-ARG_2355 = { } #Buenos Aires
+#ARG_2363 = { 2362  } #Santa Fe
 
-ARG_2363 = { 2362  } #Santa Fe
+#ARG_2360 = {  } #Entre Rios
 
-ARG_2360 = {  } #Entre Rios
+#ARG_2368 = {   } #Jujuy
 
-ARG_2368 = {   } #Jujuy
+#ARG_2374 = {  } #Catamarca
 
-ARG_2374 = {  } #Catamarca
+#### DONE LINE
 
-ARG_2377 = { 2364 2366 2367 } #Chaco
+#ARG_2377 = { 2364 2366 2367 } #Chaco
 
-ARG_2384 = { 2384 2382 } #Córdoba de Argentina
+#ARG_2384 = { 2384 2382 } #Córdoba de Argentina
 
-ARG_2387 = { 2373 } #Tucumán
+#ARG_2387 = { 2373 } #Tucumán
 
-ARG_2391 = { 2391 2394 2397 } #Patagonia Septentrional
+#ARG_2391 = { 2391 2394 2397 } #Patagonia Septentrional
 
-ARG_2393 = { 2393 2395 2389 } #La Pampa
+#ARG_2393 = { 2393 2395 2389 } #La Pampa
 
-ARG_2398 = { 2398 2400 } #Patagonia Meridional
+#ARG_2398 = { 2398 2400 } #Patagonia Meridional
 
 ### Mexico
 
