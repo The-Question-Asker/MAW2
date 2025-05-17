@@ -1,4 +1,4 @@
-capital = 873
+capital = 271
 primary_culture = anglish
 religion = arian
 government = absolute_monarchy
