@@ -1,4 +1,4 @@
-capital = 873
+capital = 492
 primary_culture = galician
 religion = arian
 government = absolute_monarchy

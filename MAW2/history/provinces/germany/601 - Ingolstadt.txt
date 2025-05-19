@@ -1,5 +1,6 @@
-owner = KRJ
-controller = KRJ
-add_core = KRJ
+owner = SOR
+controller = SOR
+add_core = SOR
+add_core = WND
 trade_goods = grain
 life_rating = 40

@@ -1,5 +1,6 @@
 owner = FRK
 controller = FRK
 add_core = FRK
+add_core = LAA
 trade_goods = coal
 life_rating = 31

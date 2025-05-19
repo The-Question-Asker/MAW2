@@ -1,6 +1,7 @@
 owner = DYF
 controller = DYF
 add_core = DYF
+add_core = BRN
 trade_goods = coal
 life_rating = 35
 

@@ -1,6 +1,7 @@
 owner = GPD
 controller = GPD
 add_core = GPD
+add_core = PNN
 trade_goods = fruit
 life_rating = 35
 

@@ -1,4 +1,4 @@
-color = { 198 0 83 } 
+color = { 56 140 161 } 
 graphical_culture = EuropeanGC # inherit
 
 party = {

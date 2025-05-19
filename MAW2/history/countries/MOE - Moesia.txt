@@ -1,4 +1,4 @@
-capital = 873
+capital = 817
 primary_culture = greek
 religion = orthodox
 government = absolute_monarchy

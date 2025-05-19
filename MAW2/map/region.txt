@@ -1234,9 +1234,9 @@ TUR_890 = { 890 891 887 } #Van
 
 TUR_893 = { 893 889 899 892 2414 1813 } #Diyarbakir
 
-TUR_894 = { 894 896 898 900 895 } #Adana
+TUR_894 = { 894 896 898 895 } #Adana
 
-EGY_897 = { 897 904 905 903 902 } #Western Syria
+EGY_897 = { 902 897 904 905 903 900 } #Western Syria
 
 EGY_903 = { 901 906 907 } #Eastern Syria
 

@@ -1,6 +1,7 @@
 owner = MVA
 controller = MVA
 add_core = MVA
+add_core = PNN
 trade_goods = grain
 life_rating = 35
 

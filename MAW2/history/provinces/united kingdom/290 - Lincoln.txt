@@ -1,6 +1,7 @@
 owner = EBR
 controller = EBR
 add_core = EBR
+add_core = BRN
 trade_goods = iron
 life_rating = 35
 

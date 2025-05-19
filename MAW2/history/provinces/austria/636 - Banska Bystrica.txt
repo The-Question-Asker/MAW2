@@ -1,5 +1,6 @@
 owner = NTR
 controller = NTR
 add_core = NTR
+add_core = WND
 trade_goods = iron
 life_rating = 35

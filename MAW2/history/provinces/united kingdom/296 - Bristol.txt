@@ -1,6 +1,7 @@
 owner = AMA
 controller = AMA
 add_core = AMA
+add_core = BRN
 trade_goods = iron
 life_rating = 35
 

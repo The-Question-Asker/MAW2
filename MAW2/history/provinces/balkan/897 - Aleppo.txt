@@ -1,8 +1,7 @@
 owner = AEG
 controller = AEG
 add_core = AEG
-add_core = HTY
-add_core = SYR
+add_core = KSY
 trade_goods = grain
 life_rating = 35
 terrain = semidesert

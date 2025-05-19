@@ -1,6 +1,7 @@
 owner = VLT
 controller = VLT
 add_core = VLT
+add_core = PNN
 trade_goods = fruit
 life_rating = 35
 

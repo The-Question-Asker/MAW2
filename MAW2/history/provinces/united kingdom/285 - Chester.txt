@@ -1,6 +1,7 @@
 owner = BRC
 controller = BRC
 add_core = BRC
+add_core = BRN
 trade_goods = fish
 life_rating = 35
 

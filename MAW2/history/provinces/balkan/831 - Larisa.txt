@@ -1,5 +1,6 @@
 owner = AEG
 controller = AEG
 add_core = AEG
+add_core = HEL
 trade_goods = fruit
 life_rating = 35

@@ -1,6 +1,7 @@
 owner = VAS
 controller = VAS
 add_core = VAS
+add_core = NRB
 trade_goods = tobacco
 life_rating = 31
 

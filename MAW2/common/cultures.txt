@@ -221,7 +221,7 @@ east_latin = {
     }
 }
 
-north_latin = {
+north_latin_britain = {
     leader = european
     unit = EuropeanGC
 
@@ -240,6 +240,12 @@ north_latin = {
 							Gynes Tudor-Gynes Anglessy Carnyo, Cawdor Ffynone Powys Tredegare Vongam 
 							Penbras Penrith Prynd Prynda-Tudor Tuder-Glyne Ruthin }
     }
+    union = BRN
+}
+
+north_latin_ivernnia = {
+    leader = european
+    unit = EuropeanGC
 	
 	ivernach = {
 	  color = { 136 168 47 }
@@ -290,13 +296,7 @@ jugoslavs = {
 
 			last_names = {	}
     }
-	
-	zarubin = {
-	  color = { 235 219 157 }
-        	first_names = { }
 
-			last_names = {	}
-    }
 	
 	galatian = {
 	  color = { 252 57 3 }
@@ -309,22 +309,7 @@ jugoslavs = {
 
 zapadoslavs = {
     leader = european
-    unit = EuropeanGC
-
-	pannonian = {
-	  color = { 92 72 31 }
-        	first_names = { }
-
-			last_names = {	}
-    }
-	
-	wendish = {
-	  color = { 111 199 181 }
-        	first_names = { }
-
-			last_names = {	}
-    }	
-	
+    unit = EuropeanGC	
 	
 	polish = {
 	  color = { 199 56 98 } #148 77 98 #61 107 54
@@ -340,6 +325,28 @@ zapadoslavs = {
 			last_names = {	}
     }
 	
+}
+
+zapadoslav_pannonian = {
+
+	pannonian = {
+	  color = { 92 72 31 }
+        	first_names = { }
+
+			last_names = {	}
+    }
+    union = PNN	
+}
+
+zapadoslav_wendish = {
+	
+	wendish = {
+	  color = { 111 199 181 }
+        	first_names = { }
+
+			last_names = {	}
+    }	
+    union = WND
 }
 
 great_slavs = {

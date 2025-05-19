@@ -2,6 +2,7 @@ owner = WTL
 controller = WTL
 add_core = WTL
 add_core = DLM
+add_core = SCL
 trade_goods = fish
 life_rating = 35
 

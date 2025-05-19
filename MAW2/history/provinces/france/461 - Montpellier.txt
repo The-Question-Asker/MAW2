@@ -1,6 +1,7 @@
 owner = CTL
 controller = CTL
 add_core = CTL
+add_core = NRB
 trade_goods = cattle
 life_rating = 31
 naval_base = 1

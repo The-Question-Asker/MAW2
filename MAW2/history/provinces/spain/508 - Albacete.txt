@@ -1,6 +1,7 @@
 owner = HNU
 controller = HNU
 add_core = HNU
+add_core = HIS
 trade_goods = fruit
 life_rating = 35
 

@@ -2,6 +2,7 @@ owner = HNU
 controller = HNU
 add_core = HNU
 add_core = CTL
+add_core = HIS
 trade_goods = silk
 life_rating = 35
 

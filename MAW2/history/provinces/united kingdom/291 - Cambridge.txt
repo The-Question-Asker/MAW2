@@ -1,6 +1,7 @@
 owner = CAE
 controller = CAE
 add_core = CAE
+add_core = BRN
 trade_goods = grain
 life_rating = 35
 

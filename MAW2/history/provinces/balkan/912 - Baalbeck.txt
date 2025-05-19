@@ -1,6 +1,7 @@
 owner = AEG
 controller = AEG
 add_core = AEG
+add_core = KSY
 trade_goods = timber
 life_rating = 35
 

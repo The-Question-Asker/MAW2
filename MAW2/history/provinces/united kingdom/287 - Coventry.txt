@@ -1,6 +1,7 @@
 owner = WOR
 controller = WOR
 add_core = WOR
+add_core = BRN
 trade_goods = grain
 life_rating = 35
 

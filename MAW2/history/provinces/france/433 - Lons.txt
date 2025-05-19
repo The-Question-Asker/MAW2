@@ -1,5 +1,6 @@
 owner = FRK
 controller = FRK
 add_core = FRK
+add_core = NRB
 trade_goods = grain
 life_rating = 33

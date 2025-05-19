@@ -1,5 +1,6 @@
 owner = MER
 controller = MER
 add_core = MER
+add_core = BRN
 trade_goods = coal
 life_rating = 35

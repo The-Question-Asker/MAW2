@@ -1,5 +1,8 @@
 owner = CRP
 controller = CRP
 add_core = CRP
+add_core = NTR
+add_core = WND
+add_core = PNN
 trade_goods = grain
 life_rating = 35

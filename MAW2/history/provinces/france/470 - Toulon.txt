@@ -1,6 +1,7 @@
 owner = WTL
 controller = WTL
 add_core = WTL
+add_core = NRB
 trade_goods = silk
 life_rating = 32
 naval_base = 2

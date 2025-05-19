@@ -1,6 +1,7 @@
 owner = HLM
 controller = HLM
 add_core = HLM
+add_core = BRN
 trade_goods = fish
 life_rating = 40
 

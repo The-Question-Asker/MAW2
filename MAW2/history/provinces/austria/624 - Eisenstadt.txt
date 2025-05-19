@@ -1,6 +1,7 @@
-owner = WND
-controller = WND
+owner = KRJ
+controller = KRJ
+add_core = KRJ
 add_core = WND
 trade_goods = grain
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+

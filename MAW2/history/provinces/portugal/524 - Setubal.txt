@@ -1,5 +1,6 @@
 owner = HNU
 controller = HNU
 add_core = HNU
+add_core = HIS
 trade_goods = fish
 life_rating = 35
