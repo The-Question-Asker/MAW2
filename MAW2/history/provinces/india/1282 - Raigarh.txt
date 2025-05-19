@@ -1,8 +1,7 @@
-owner = NAG
-controller = NAG
+owner = CAM
+controller = CAM
 add_core = NAG
 add_core = BUN
-
 trade_goods = grain
 life_rating = 32
 

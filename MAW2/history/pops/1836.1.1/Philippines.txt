@@ -9,31 +9,31 @@
     }
 
     bureaucrats = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 400
     }
 
     clergymen = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 250
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 1050
     }
 
     soldiers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 100
     }
 
     aristocrats = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 1250
     }
@@ -51,13 +51,13 @@
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 10000
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 10000
     }
@@ -75,7 +75,7 @@
     }
 
     soldiers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 1000
     }
@@ -93,43 +93,43 @@
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 1200
     }
 
     farmers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 800
     }
 
     clergymen = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 75
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 1100
     }
 
     soldiers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 200
     }
 
     farmers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 14725
     }
 	
     farmers = {
-        culture = serican
+        culture = maxasekes
         religion = orthodox
         size = 3725
     }
@@ -137,25 +137,25 @@
 #Vigan (608000/152000 POPS)
 1456 = {
     aristocrats = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 1100
     }
 
     clergymen = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 625
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 7350
     }
 
     soldiers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 1500
     }
@@ -199,25 +199,25 @@
 #Legazpi (564000/141000 POPS)
 1457 = {
     aristocrats = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 1100
     }
 
     clergymen = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 625
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 6500
     }
 
     soldiers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 4350
     }
@@ -236,31 +236,31 @@
 
 
     clergymen = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 50
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 500
     }
 
     soldiers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 100
     }
 
     farmers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 8350
     }
 	
     farmers = {
-        culture = serican
+        culture = maxasekes
         religion = orthodox
         size = 2350
     }
@@ -268,37 +268,37 @@
 #Mindoro (224000/56000 POPS)
 1458 = {
     aristocrats = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 400
     }
 
     clergymen = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 175
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 2100
     }
 
     soldiers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 5450
     }
 
     farmers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 58875
     }
 	
     farmers = {
-        culture = serican
+        culture = maxasekes
         religion = orthodox
         size = 18875
     }
@@ -339,37 +339,37 @@
 #Palawan (80000/20000 POPS)
 1459 = {
     aristocrats = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 25
     }
 
     clergymen = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 25
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 200
     }
 
     soldiers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 50
     }
 
     farmers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 3700
     }
 	
     farmers = {
-        culture = serican
+        culture = maxasekes
         religion = orthodox
         size = 1700
     }
@@ -411,19 +411,19 @@
     }
 
     clergymen = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 75
     }
 
     artisans = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 450
     }
 
     soldiers = {
-        culture = serican
+        culture = maxasekes
         religion = manichaean
         size = 100
     }

@@ -426,7 +426,7 @@ colonial_greeks = {
     leader = european
     unit = EuropeanGC
 
-	serican = {
+	maxasekes = {
 	  color = { 250 246 190 }
         	first_names = {  }
 
