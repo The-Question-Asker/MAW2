@@ -100,55 +100,55 @@
 
     clergymen = {
         culture = sinhala
-        religion = protestant
+        religion = orthodox
         size = 25
     }
 
     artisans = {
         culture = sinhala
-        religion = protestant
+        religion = orthodox
         size = 750
     }
 
     soldiers = {
         culture = sinhala
-        religion = protestant
+        religion = orthodox
         size = 25
     }
 
     labourers = {
         culture = sinhala
-        religion = protestant
+        religion = orthodox
         size = 1200
     }
 
     aristocrats = {
-        culture = mashriqi
-        religion = animist
+        culture = tamil
+        religion = orthodox
         size = 25
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = animist
+        culture = tamil
+        religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
-        religion = animist
+        culture = tamil
+        religion = orthodox
         size = 1500
     }
 
     soldiers = {
-        culture = mashriqi
-        religion = animist
+        culture = tamil
+        religion = orthodox
         size = 25
     }
 
     labourers = {
-        culture = mashriqi
-        religion = animist
+        culture = tamil
+        religion = orthodox
         size = 3375
     }
 
@@ -183,38 +183,38 @@
     }
 
     aristocrats = {
-        culture = british
-        religion = protestant
+        culture = aegyptian
+        religion = orthodox
         size = 25
     }
 
     bureaucrats = {
-        culture = british
-        religion = protestant
+        culture = aegyptian
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
-        culture = british
-        religion = protestant
+        culture = aegyptian
+        religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = british
-        religion = protestant
+        culture = aegyptian
+        religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = aegyptian
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = british
-        religion = protestant
+        culture = aegyptian
+        religion = orthodox
         size = 675
     }
 }
@@ -376,25 +376,25 @@
 
     clergymen = {
         culture = sinhala
-        religion = protestant
+        religion = orthodox
         size = 25
     }
 
     artisans = {
         culture = sinhala
-        religion = protestant
+        religion = orthodox
         size = 250
     }
 
     soldiers = {
         culture = sinhala
-        religion = protestant
+        religion = orthodox
         size = 25
     }
 
     labourers = {
         culture = sinhala
-        religion = protestant
+        religion = orthodox
         size = 700
     }
 
@@ -447,31 +447,31 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = tamil
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = tamil
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
+        culture = tamil
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = tamil
         religion = animist
         size = 25
     }
 
     labourers = {
-        culture = mashriqi
+        culture = tamil
         religion = animist
         size = 2150
     }
