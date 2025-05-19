@@ -1,6 +1,6 @@
-owner = SRS
-controller = SRS
-add_core = SRS
+owner = NEK
+controller = NEK
+add_core = NEK
 add_core = PHL
 trade_goods = tobacco
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = AEG
-controller = AEG
+owner = WTL
+controller = WTL
 add_core = ASH
 trade_goods = cattle
 life_rating = 35

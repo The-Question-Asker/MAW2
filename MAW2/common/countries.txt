@@ -77,7 +77,7 @@ NRB        ="countries/Narbonensis.txt"
 NUM        ="countries/Numidia.txt"
 BRN        ="countries/Brutonia.txt"
 SOR        ="countries/Sorbia.txt"
-SRS        ="countries/Seres.txt"
+NEK        ="countries/Neokephali.txt"
 SEM        ="countries/Sarbanian Empire.txt"
 CRC        ="countries/Carcassonne.txt"
 
