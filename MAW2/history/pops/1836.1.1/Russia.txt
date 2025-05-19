@@ -6327,38 +6327,38 @@
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = tatar
+        religion = manichaean
         size = 999
     }
 
     aristocrats = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 36
     }
 
     clergymen = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 18
     }
 
     artisans = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 108
     }
 
     soldiers = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 27
     }
 
     farmers = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 1971
     }
 }
@@ -6398,55 +6398,55 @@
 
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 45
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 27
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 162
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 36
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3348
     }
 
     clergymen = {
         culture = yakut
-        religion = orthodox
+        religion = manichaean
         size = 18
     }
 
     artisans = {
         culture = yakut
-        religion = orthodox
+        religion = manichaean
         size = 90
     }
 
     soldiers = {
         culture = yakut
-        religion = orthodox
+        religion = manichaean
         size = 18
     }
 
     farmers = {
         culture = yakut
-        religion = orthodox
+        religion = manichaean
         size = 1690.2
     }
 
@@ -6484,55 +6484,55 @@
 
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 5.3999999999999995
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 18
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 9
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 324
     }
 
     clergymen = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 1.7999999999999998
     }
 
     artisans = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 3.5999999999999996
     }
 
     soldiers = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 3.5999999999999996
     }
 
     farmers = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 171
     }
 }
@@ -6557,26 +6557,26 @@
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = yakut
+        religion = manichaean
         size = 324
     }
 
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 5.3999999999999995
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 18
     }
 
@@ -6588,31 +6588,31 @@
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 324
     }
 
     clergymen = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 1.7999999999999998
     }
 
     artisans = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 3.5999999999999996
     }
 
     soldiers = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 3.5999999999999996
     }
 
     farmers = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 171
     }
 }
@@ -6637,62 +6637,62 @@
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = yakut
+        religion = manichaean
         size = 324
     }
 
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 9
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 10.799999999999999
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 27
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 7.199999999999999
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 486
     }
 
     clergymen = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 1.7999999999999998
     }
 
     artisans = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 3.5999999999999996
     }
 
     soldiers = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 3.5999999999999996
     }
 
     farmers = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 171
     }
 }
@@ -6700,32 +6700,38 @@
 2649 = {
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 5.3999999999999995
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 18
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 9
     }
 
     farmers = {
         culture = yakut
+        religion = manichaean
+        size = 200
+    }
+	
+    farmers = {
+        culture = yakut
         religion = animist
-        size = 324
+        size = 124
     }
 }
 #Pokrovsk (17000/4250 POPS)
@@ -6756,55 +6762,55 @@
 
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 16.2
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 18
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 45
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 9
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 811.8
     }
 
     clergymen = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 1.7999999999999998
     }
 
     artisans = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 9
     }
 
     soldiers = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 3.5999999999999996
     }
 
     farmers = {
         culture = yakut
-        religion = orthodox
+        religion = animist
         size = 255.6
     }
 }
@@ -6996,38 +7002,38 @@
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = tatar
+        religion = manichaean
         size = 1080
     }
 
     aristocrats = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 36
     }
 
     clergymen = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 18
     }
 
     artisans = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 108
     }
 
     soldiers = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 27
     }
 
     farmers = {
         culture = tatar
-        religion = animist
+        religion = manichaean
         size = 2160
     }
 }
@@ -7035,32 +7041,38 @@
 2653 = {
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     farmers = {
         culture = yakut
+        religion = manichaean
+        size = 52.8
+    }
+	
+    farmers = {
+        culture = yakut
         religion = animist
-        size = 82.8
+        size = 32.8
     }
 }
 #Udachniy (2000/500 POPS)
@@ -7091,31 +7103,31 @@
 
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 99
     }
 }
@@ -7251,159 +7263,183 @@
 2668 = {
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 7.199999999999999
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 7.199999999999999
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 18
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     farmers = {
         culture = yakut
+        religion = manichaean
+        size = 215
+    }
+
+    farmers = {
+        culture = yakut
         religion = animist
-        size = 315
+        size = 115
     }
 }
 #Ust Nera (2000/500 POPS)
 2642 = {
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 9
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     farmers = {
         culture = yakut
+        religion = manichaean
+        size = 102
+    }
+	
+    farmers = {
+        culture = yakut
         religion = animist
-        size = 162
+        size = 62
     }
 }
 #Honuu (1000/250 POPS)
 2643 = {
     aristocrats = {
         culture = yakut
-        religion = animist
-        size = 0.6.7999999999999998
+        religion = manichaean
+        size = 3
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
-        size = 1.7999999999999998
+        religion = manichaean
+        size = 1
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
-        size = 0.6.2
+        religion = manichaean
+        size = 4
     }
 
     farmers = {
         culture = yakut
+        religion = manichaean
+        size = 52
+    }
+	
+    farmers = {
+        culture = yakut
         religion = animist
-        size = 82.8
+        size = 32
     }
 }
 #Abiy (2000/500 POPS)
 2619 = {
     aristocrats = {
         culture = yakut
-        religion = animist
-        size = 3.5999999999999996
+        religion = manichaean
+        size = 3
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
-        size = 3.5999999999999996
+        religion = manichaean
+        size = 3
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 9
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
-        size = 1.7999999999999998
+        religion = manichaean
+        size = 4
     }
 
     farmers = {
         culture = yakut
+        religion = manichaean
+        size = 102
+    }
+	
+    farmers = {
+        culture = yakut
         religion = animist
-        size = 162
+        size = 62
     }
 }
 #Chokurdakh (1000/250 POPS)
 2665 = {
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 7.199999999999999
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 165.6
     }
 }
@@ -7413,81 +7449,81 @@
 2673 = {
     aristocrats = {
         culture = yakut
-        religion = animist
-        size = 0.6.7999999999999998
+        religion = manichaean
+        size = 3
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
-        size = 0.6.2
+        religion = manichaean
+        size = 6
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 79.2
     }
 
     bureaucrats = {
         culture = ruthenian
         religion = orthodox
-        size = 0.6
+        size = 6
     }
 
     clergymen = {
         culture = ruthenian
         religion = orthodox
-        size = 0.6.2
+        size = 6
     }
 
     farmers = {
         culture = ruthenian
         religion = orthodox
-        size = 2.4.2
+        size = 2
     }
 }
 #Bulun (1000/250 POPS)
 2667 = {
     aristocrats = {
         culture = yakut
-        religion = animist
-        size = 0.6.7999999999999998
+        religion = manichaean
+        size = 3
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 0.6.2
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 82.8
     }
 }
@@ -7569,32 +7605,38 @@
 2652 = {
     aristocrats = {
         culture = yakut
-        religion = animist
-        size = 0.6.7999999999999998
+        religion = manichaean
+        size = 5
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
-        size = 0.6.2
+        religion = manichaean
+        size = 6
     }
 
     farmers = {
         culture = yakut
+        religion = manichaean
+        size = 52.8
+    }
+	
+    farmers = {
+        culture = yakut
         religion = animist
-        size = 82.8
+        size = 32.8
     }
 }
 #Zhilinda (1000/250 POPS) => Barguzin
@@ -7713,7 +7755,7 @@
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 39.6
     }
 }
@@ -7859,31 +7901,31 @@
 
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 5.3999999999999995
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 9
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 18
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 720
     }
 }
@@ -7921,31 +7963,31 @@
 
     aristocrats = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     clergymen = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 3.5999999999999996
     }
 
     artisans = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 9
     }
 
     soldiers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 1.7999999999999998
     }
 
     farmers = {
         culture = yakut
-        religion = animist
+        religion = manichaean
         size = 162
     }
 }
