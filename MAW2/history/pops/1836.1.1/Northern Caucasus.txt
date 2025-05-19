@@ -460,27 +460,33 @@
 #Kizylyar (68000/17000 POPS)
 1057 = {
     aristocrats = {
-        culture = ruthenian
-        religion = orthodox
+        culture = chechen
+        religion = manichaean
         size = 125
     }
 
     clergymen = {
-        culture = ruthenian
-        religion = orthodox
+        culture = chechen
+        religion = manichaean
         size = 100
     }
 
     artisans = {
-        culture = ruthenian
-        religion = orthodox
+        culture = chechen
+        religion = manichaean
         size = 600
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = chechen
+        religion = manichaean
         size = 6175
+    }
+
+    farmers = {
+        culture = circassian
+        religion = manichaean
+        size = 2175
     }
 
     aristocrats = {

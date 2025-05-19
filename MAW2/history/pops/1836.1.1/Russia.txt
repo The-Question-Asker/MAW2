@@ -4835,32 +4835,32 @@
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = circassian
+        religion = manichaean
         size = 7200
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 9
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 126
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 9
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = manichaean
         size = 216
     }
 }

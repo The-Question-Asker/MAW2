@@ -2420,7 +2420,7 @@
 #Meiningen (208000/52000 POPS)
 563 = {
     aristocrats = {
-        culture = saxon
+        culture = wendish
         religion = orthodox
         size = 306
     }
@@ -2444,7 +2444,7 @@
     }
 
     artisans = {
-        culture = saxon
+        culture = wendish
         religion = orthodox
         size = 1560
     }
@@ -2456,9 +2456,15 @@
     }
 
     farmers = {
+        culture = wendish
+        religion = orthodox
+        size = 10410
+    }
+
+    farmers = {
         culture = saxon
         religion = orthodox
-        size = 28410
+        size = 18410
     }
 }
 #Hesse Region (1719600)
