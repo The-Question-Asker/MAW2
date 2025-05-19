@@ -1,6 +1,10 @@
-owner = SPA
-controller = SPA
+owner = SRS
+controller = SRS
+add_core = SRS
 add_core = PHL
 trade_goods = fish
 life_rating = 35
-colonial = 2
+fort = 1
+naval_base = 1
+
+

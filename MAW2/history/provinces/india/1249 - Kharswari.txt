@@ -1,6 +1,5 @@
-owner = BIH
-controller = BIH
-add_core = HND
+owner = SEM
+controller = SEM
 add_core = BIH
 trade_goods = coal
 life_rating = 28

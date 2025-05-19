@@ -1,6 +1,5 @@
-owner = MUG
-controller = MUG
-add_core = MUG
-add_core = HND
+owner = SEM
+controller = SEM
+add_core = SEM
 trade_goods = fruit
 life_rating = 32

@@ -1128,38 +1128,38 @@
 #Amritsar (2228000/557000 POPS)
 1233 = {
     aristocrats = {
-        culture = panjabi
-        religion = sikh
+        culture = pashtun
+        religion = manichaean
         size = 1100
     }
 
     clergymen = {
-        culture = panjabi
-        religion = sikh
+        culture = pashtun
+        religion = manichaean
         size = 800
     }
 
     artisans = {
-        culture = panjabi
-        religion = sikh
+        culture = pashtun
+        religion = manichaean
         size = 10000
     }
 
     artisans = {
         culture = panjabi
-        religion = sikh
+        religion = manichaean
         size = 3000
     }
 
     soldiers = {
-        culture = panjabi
-        religion = sikh
+        culture = pashtun
+        religion = manichaean
         size = 1100
     }
 
     farmers = {
-        culture = panjabi
-        religion = sikh
+        culture = pashtun
+        religion = manichaean
         size = 64200
     }
 
@@ -1219,8 +1219,14 @@
 
     farmers = {
         culture = panjabi
+        religion = sikh
+        size = 53750
+    }
+
+    farmers = {
+        culture = panjabi
         religion = hindu
-        size = 153750
+        size = 103750
     }
 }
 #Firuzapur (952000/238000 POPS)

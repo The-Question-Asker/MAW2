@@ -2,7 +2,7 @@ owner = PRS
 controller = PRS
 colonial = 2
 add_core = PNJ
-add_core = HND
+add_core = SEM
 trade_goods = wool
 life_rating = 32
 

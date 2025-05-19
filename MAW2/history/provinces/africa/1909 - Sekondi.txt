@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
+owner = AEG
+controller = AEG
 add_core = ASH
 trade_goods = cattle
 life_rating = 35

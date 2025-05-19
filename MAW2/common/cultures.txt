@@ -395,7 +395,40 @@ coptic = {
 
 	sahid = {
 	  color = { 156 102 2 }
-        	first_names = { }
+        	first_names = {  }
+
+			last_names = {	}
+    }
+	
+}
+
+colonial_franks = {
+    leader = european
+    unit = EuropeanGC
+
+	colonial_frank = {
+	  color = { 76 65 130 }
+        	first_names = {  }
+
+			last_names = {	}
+    }
+	
+	carcassonnais = {
+	  color = { 18 163 199 }
+        	first_names = {  }
+
+			last_names = {	}
+    }
+	
+}
+
+colonial_greeks = {
+    leader = european
+    unit = EuropeanGC
+
+	serican = {
+	  color = { 250 246 190 }
+        	first_names = {  }
 
 			last_names = {	}
     }

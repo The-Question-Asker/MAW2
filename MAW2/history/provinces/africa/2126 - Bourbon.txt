@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = AEG
+controller = AEG
 trade_goods = coffee
 life_rating = 35
 colonial = 2

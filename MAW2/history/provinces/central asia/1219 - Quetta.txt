@@ -2,6 +2,6 @@ owner = PRS
 controller = PRS
 add_core = KAL
 add_core = AFG
-add_core = HND
+add_core = SEM
 trade_goods = wool
 life_rating = 35
