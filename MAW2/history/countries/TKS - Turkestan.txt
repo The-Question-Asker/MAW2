@@ -5,7 +5,7 @@ culture = kirgiz
 culture = kazak
 culture = uighur
 culture = tajik
-religion = sunni
+religion = manichaean
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -48,4 +48,4 @@ upper_house = {
     socialist = 0
     communist = 0
 }
-set_country_flag = sunni_country
+set_country_flag = manichaean_country

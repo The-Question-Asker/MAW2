@@ -104285,38 +104285,16 @@
 
 # Cachoeira
 2403 = {
+    text_position = {
+        x = 938.950000
+        y = 1551.700000
+    }
+
+    text_rotation = 5.654758
+    text_scale = 1.499997
     unit = {
         x = 1818.000000
         y = 933.000000
-    }
-
-    text_position = {
-        x = 1818.500000
-        y = 920.700012
-    }
-
-    text_scale = 5.499997
-    building_construction = {
-        x = 1795.000000
-        y = 931.000000
-    }
-
-    military_construction = {
-        x = 1835.000000
-        y = 912.000000
-    }
-
-    factory = {
-        x = 1796.000000
-        y = 943.000000
-    }
-
-    building_position = {
-        fort = {
-            x = 1815.000000
-            y = 913.000000
-        }
-
     }
 
 }
