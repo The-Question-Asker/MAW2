@@ -1,7 +1,8 @@
-owner = AEG
-controller = AEG
+owner = HNU
+controller = HNU
 add_core = TMR
 trade_goods = fish
 life_rating = 35
 colonial = 2
+naval_base = 1
 terrain = hills

@@ -1,5 +1,5 @@
-owner = CAM
-controller = CAM
+owner = NAG
+controller = NAG
 add_core = NAG
 add_core = BUN
 trade_goods = grain
