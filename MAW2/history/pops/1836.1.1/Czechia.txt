@@ -443,7 +443,19 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 63825
+        size = 36825
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 10825
+    }
+
+    serfs = {
+        culture = polish
+        religion = orthodox
+        size = 20825
     }
 
     ######Jews

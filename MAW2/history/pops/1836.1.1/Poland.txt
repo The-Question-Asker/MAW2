@@ -467,7 +467,7 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 60780
+        size = 30780
     }
 
     clergymen = {
@@ -477,43 +477,43 @@
     }
 
     artisans = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 120
     }
 
     soldiers = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 60
     }
 
-    farmers = {
-        culture = polish
+    serfs = {
+        culture = saxon
         religion = orthodox
         size = 2205
     }
 
     clergymen = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 60
     }
 
     artisans = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 60
     }
 
-    farmers = {
-        culture = polish
+    serfs = {
+        culture = wendish
         religion = orthodox
         size = 2769
     }
@@ -539,7 +539,7 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 555
+        size = 35555
     }
 }
 #Oppeln (492000/123000 POPS)
@@ -696,8 +696,8 @@
         size = 60
     }
 
-    farmers = {
-        culture = polish
+    serfs = {
+        culture = saxon
         religion = orthodox
         size = 4545
     }
@@ -720,8 +720,8 @@
         size = 600
     }
 
-    farmers = {
-        culture = polish
+    serfs = {
+        culture = wendish
         religion = orthodox
         size = 10695
     }
@@ -747,7 +747,7 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 40605
+        size = 30605
     }
 
     clergymen = {
@@ -759,7 +759,7 @@
     artisans = {
         culture = wendish
         religion = orthodox
-        size = 300
+        size = 1300
     }
 
     soldiers = {
@@ -771,7 +771,7 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 5610
+        size = 15610
     }
 }
 #under the rule of Austria in 1836
@@ -1084,29 +1084,35 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 15570
+        size = 5570
     }
 
     clergymen = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 60
     }
 
     artisans = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 210
     }
 
     soldiers = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 60
     }
 
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 10575
+    }
+
     farmers = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 1575
     }

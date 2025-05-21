@@ -483,10 +483,22 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 48480
+        size = 20480
     }
 	
     farmers = {
+        culture = saxon
+        religion = orthodox
+        size = 4480
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 24480
+    }
+	
+    serfs = {
         culture = teutonic
         religion = orthodox
         size = 11880
@@ -1266,7 +1278,19 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 17835
+        size = 10000
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 6835
+    }
+	
+    serfs = {
+        culture = teutonic
+        religion = orthodox
+        size = 1000
     }
 }
 #Stralsund (157000/39250 POPS)
@@ -1406,37 +1430,37 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 33780
+        size = 20780
     }
 
     clergymen = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 60
     }
 
-    craftsmen = {
-        culture = polish
+    artisans = {
+        culture = saxon
         religion = orthodox
         size = 90
     }
 
     artisans = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 810
     }
 
     soldiers = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 60
     }
 
-    farmers = {
+    serfs = {
         culture = saxon
         religion = orthodox
-        size = 2040
+        size = 15040
     }
 
     ######Jews
@@ -1856,9 +1880,9 @@
     }
 
     artisans = {
-        culture = polish
+        culture = saxon
         religion = orthodox
-        size = 3000
+        size = 2000
     }
 
     soldiers = {
@@ -1870,31 +1894,31 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 55155
+        size = 37155
     }
 
     clergymen = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 60
     }
 
     artisans = {
-        culture = polish
+        culture = wendish
         religion = orthodox
-        size = 345
+        size = 1345
     }
 
     soldiers = {
-        culture = polish
+        culture = saxon
         religion = orthodox
         size = 60
     }
 
-    farmers = {
-        culture = polish
+    serfs = {
+        culture = saxon
         religion = orthodox
-        size = 6135
+        size = 24135
     }
 
     ######Jews
@@ -2085,7 +2109,19 @@
     labourers = {
         culture = polish
         religion = orthodox
-        size = 103578
+        size = 60578
+    }
+	
+    labourers = {
+        culture = wendish
+        religion = orthodox
+        size = 30578
+    }
+	
+    serfs = {
+        culture = wendish
+        religion = orthodox
+        size = 13578
     }
 
     aristocrats = {
@@ -2100,7 +2136,7 @@
         size = 60
     }
 
-    capitalists = {
+    artisans = {
         culture = saxon
         religion = orthodox
         size = 60
@@ -2112,7 +2148,7 @@
         size = 60
     }
 
-    craftsmen = {
+    artisans = {
         culture = saxon
         religion = orthodox
         size = 60
@@ -2130,13 +2166,13 @@
         size = 60
     }
 
-    labourers = {
+    serfs = {
         culture = saxon
         religion = orthodox
         size = 3282
     }
 
-    clerks = {
+    artisans = {
         culture = saxon
         religion = orthodox
         size = 60
@@ -2181,7 +2217,7 @@
         size = 81
     }
 
-    craftsmen = {
+    artisans = {
         culture = polish
         religion = orthodox
         size = 843
@@ -2202,7 +2238,25 @@
     labourers = {
         culture = polish
         religion = orthodox
-        size = 64536
+        size = 22536
+    }
+	
+    labourers = {
+        culture = wendish
+        religion = orthodox
+        size = 6536
+    }
+	
+    labourers = {
+        culture = saxon
+        religion = orthodox
+        size = 14536
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 32536
     }
 
     ######Jews
@@ -2272,13 +2326,13 @@
     labourers = {
         culture = wendish
         religion = orthodox
-        size = 36453
+        size = 26453
     }
 	
-    labourers = {
+    serfs = {
         culture = saxon
         religion = orthodox
-        size = 8253
+        size = 18253
     }
 }
 #Thuringia Region (865000)
@@ -2316,21 +2370,33 @@
     }
 
     soldiers = {
+        culture = saxon
+        religion = orthodox
+        size = 300
+    }
+	
+    soldiers = {
         culture = wendish
         religion = orthodox
-        size = 600
+        size = 300
     }
 
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 42375
+        size = 22375
     }
 	
     farmers = {
         culture = saxon
         religion = orthodox
         size = 8175
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 20175
     }
 
     ######Jews
@@ -4396,31 +4462,31 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 30870
+        size = 20870
     }
 
     clergymen = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 42
     }
 
     artisans = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 120
     }
 
     soldiers = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 30
     }
 
     farmers = {
-        culture = polish
+        culture = wendish
         religion = orthodox
-        size = 2208
+        size = 14208
     }
 }
 

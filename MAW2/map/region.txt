@@ -1058,7 +1058,7 @@ HAN_540 = { 539 540 543 542 541 535 } #East Friesland
 
 PRU_544 = { 544 545 547 548 } #Mecklenburg
 
-PRU_546 = { 546 679 680 692 } #Pomerania
+PRU_546 = { 546 679 680 692 690 691 } #Pomerania
 
 PRU_549 = { 549 550 551 552 681 } #Brandenburg
 
@@ -1090,11 +1090,11 @@ SWI_603 = { 603 606 611 2568 605 604 607 608 609 614 } #Switzerland
 
 PRU_682 = { 682 683 684 685 } #Silesia
 
-PRU_690 = { 690 691 694 693 } #Westpreußen
+#PRU_690 = {  } #Westpreußen 
 
-PRU_695 = { 695 696 697 698 } #Ostpreußen
+PRU_695 = { 695 697 698 } #Ostpreußen
 
-PRU_701 = { 701 699 700 } #Posen
+PRU_701 = { 701 699 700 710 717 712 } #Posen
 
 
 ### Austria
@@ -1311,9 +1311,9 @@ RUS_360 = { 360 361 362 363 364 365 } #Lithuania
 
 RUS_339 = { 339 984 995 988 2587 983 982 } #Karelia
 
-RUS_706 = { 706 708 709 710 717 712 } #Masovia
+RUS_706 = { 706 708 694 693 696 } #Masovia
 
-RUS_707 = { 936 707 719 937 } #Brêst
+RUS_707 = { 936 707 719 937 709 } #Brêst
 
 RUS_718 = { 718 941 942 } #Minsk
 
