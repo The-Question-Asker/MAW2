@@ -1,7 +1,7 @@
 capital = 1209
 primary_culture = pashtun
 culture = tajik
-religion = sunni
+religion = manichaean
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -46,7 +46,7 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
+set_country_flag = manichaean_country
 foreign_weapons = yes_foreign_weapons
 
 # Technologies

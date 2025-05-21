@@ -1,7 +1,7 @@
 capital = 1157
 primary_culture = bedouin
 culture = mashriqi
-religion = sunni
+religion = orthodox
 government = absolute_monarchy
 plurality = 0.1
 nationalvalue = nv_order
@@ -45,7 +45,7 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
+set_country_flag = orthodox_country
 
 # Technologies
 #Army - Army Doctrine
