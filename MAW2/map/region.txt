@@ -43,7 +43,7 @@ SWE_322 = { 322 324 326 325 } #Stockholm
 
 SWE_329 = { 329 328 327 323 330 } #Goteburg
 
-SWE_334 = { 334 332 331 333 335 } #Malmo
+SWE_334 = { 334 332 331 333 335 372 374 } #Malmo
 
 RUS_336 = { 336 337 338 342 } #Northern Finland
 
@@ -51,13 +51,13 @@ RUS_343 = { 343 344 341 340 } #Helsinki
 
 RUS_345 = { 345 346 347 348 } #Turku
 
-DEN_367 = { 367 366 368 2557 371 } #Jylland
+DEN_367 = { 367 366 368 2557 371 373 } #Jylland
 
-HOL_369 = { 369 530 529 533 370 528 } #Holstein
+HOL_369 = { 369 530 529 370 528 } #Holstein
 
 #SCH_370 = { } #Schleswig
 
-DEN_372 = { 372 373 374 } #Sjaelland
+#DEN_372 = {  } #Sjaelland
 
 
 ### Low Countries
@@ -1050,7 +1050,7 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 ### Germany & Switzerland
 
-HAN_528 = { 531 532 553 557 } #Lower Elbe
+HAN_528 = { 531 532 553 557 533 } #Lower Elbe
 
 HAN_534 = { 534 536 537 585 554 562 } #Hannover
 
