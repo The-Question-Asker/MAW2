@@ -1,6 +1,7 @@
 owner = RTH
 controller = RTH
 add_core = KPD
+add_core = LTT
 trade_goods = cattle
 life_rating = 40
 naval_base = 1
