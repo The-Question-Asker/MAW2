@@ -24873,30 +24873,30 @@
 
 # Erfurt
 554 = {
+    text_position = {
+        x = 2975.700000
+        y = 1654.500000
+    }
+
+    text_scale = 2.300000
     unit = {
         x = 2978.000000
         y = 1656.000000
     }
 
-    text_position = {
-        x = 2977.500000
-        y = 1653.400024
+    factory = {
+        x = 2970.899902
+        y = 1657.000000
     }
 
-    text_scale = 2.300000
     building_construction = {
         x = 2968.100098
         y = 1654.000000
     }
 
     military_construction = {
-        x = 2989.000000
-        y = 1655.000000
-    }
-
-    factory = {
-        x = 2970.899902
-        y = 1657.000000
+        x = 2978.950000
+        y = 1659.250000
     }
 
     building_position = {
@@ -24955,30 +24955,31 @@
 
 # Halle
 556 = {
+    text_position = {
+        x = 2998.720000
+        y = 1658.566667
+    }
+
+    text_rotation = 0.165972
+    text_scale = 2.300000
     unit = {
         x = 3003.000000
         y = 1663.000000
     }
 
-    text_position = {
-        x = 3002.100098
-        y = 1658.800049
+    factory = {
+        x = 2993.846667
+        y = 1654.486667
     }
 
-    text_scale = 2.300000
     building_construction = {
         x = 3012.100098
         y = 1662.300049
     }
 
     military_construction = {
-        x = 3001.899902
-        y = 1660.300049
-    }
-
-    factory = {
-        x = 2995.000000
-        y = 1658.000000
+        x = 2989.936667
+        y = 1659.360000
     }
 
     building_position = {

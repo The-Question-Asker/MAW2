@@ -62,15 +62,15 @@ DEN_372 = { 372 373 374 } #Sjaelland
 
 ### Low Countries
 
-NET_375 = { 375 376 377 } #Holland
+NET_375 = { 375 376 377 378 380 379 } #Holland
 
-NET_379 = { 379 378 380 381 } #Zeeland
+#NET_379 = {  } #Zeeland
 
-NET_385 = { 385 383 384 386 382 } #Friesland
+NET_385 = { 385 383 384 386 382 1743 } #Friesland
 
-BEL_387 = { 387 388 389 390 391 } #Flanders
+BEL_387 = { 387 388 389 390 393 394 } #Flanders
 
-BEL_394 = { 394 392 393 395 398 } #Wallonia
+BEL_394 = { 392 391 395 398 381 } #Wallonia
 
 
 ### Austria
@@ -987,9 +987,9 @@ FRA_400 = { 408 405 406 407 432 } #Champagne
 
 FRA_404 = { 399 400 401 404 } #Nord-Pas-De-Calais/Artois
 
-FRA_411 = { 411 413 414 } #Ardennes
+#FRA_411 = { } #Ardennes
 
-FRA_412 = { 412 409 410 } #Alsace-Lorraine
+FRA_412 = { 412 409 410 411 413 414 } #Alsace-Lorraine
 
 FRA_418 = { 418 415 416 417 419 } #Normandie
 
@@ -1052,9 +1052,9 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 HAN_528 = { 531 532 553 557 } #Lower Elbe
 
-HAN_534 = { 534 536 537 585 535 } #Hannover
+HAN_534 = { 534 536 537 585 554 562 } #Hannover
 
-HAN_540 = { 539 540 543 542 541 1743 } #East Friesland
+HAN_540 = { 539 540 543 542 541 535 } #East Friesland
 
 PRU_544 = { 544 545 547 548 } #Mecklenburg
 
@@ -1064,9 +1064,9 @@ PRU_549 = { 549 550 551 552 681 } #Brandenburg
 
 #PRU_553 = { } #Magdeburg
 
-PRU_554 = { 554 561 562 563 } #Thuringia
+PRU_554 = { 561 563 560 598 } #Thuringia
 
-SAX_558 = { 558 559 560 687 555 556 } #Saxony
+SAX_558 = { 558 559 687 555 556 } #Saxony
 
 HES_2560 = { 564 565 566 567 568 2560 } #Hessen
 
@@ -1078,13 +1078,13 @@ PRU_578 = { 578 579 2561 583 } #Eastern Rheinland
 
 PRU_581 = { 580 581 582 584 538 } #Westfalen
 
-BAD_586 = { 586 587 588 569 } #Baden
+BAD_586 = { 586 587 588 591 } #Baden
 
-WUR_589 = { 589 590 591 593 594 } #Wurttemburg
+WUR_589 = { 589 593 594 592 } #Wurttemburg
 
-BAV_595 = { 595 596 597 598 } #Franconia
+BAV_595 = { 595 596 597 569 590 } #Franconia
 
-BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
+BAV_599 = { 599 600 601 602 } #Upper Bavaria
 
 SWI_603 = { 603 606 611 2568 605 604 607 608 609 614 } #Switzerland
 

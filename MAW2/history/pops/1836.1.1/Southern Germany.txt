@@ -53,7 +53,7 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 175650
+        size = 105650
     }
 
     clergymen = {
@@ -72,6 +72,12 @@
         culture = wendish
         religion = orthodox
         size = 150
+    }
+
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 71475
     }
 
     farmers = {
@@ -217,7 +223,13 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 54725
+        size = 20725
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 34725
     }
 }
 

@@ -983,13 +983,13 @@
 #Chanakkale (132000/33000 POPS)
 865 = {
     aristocrats = {
-        culture = galatian
+        culture = greek
         religion = orthodox
         size = 700
     }
 
     clergymen = {
-        culture = galatian
+        culture = greek
         religion = orthodox
         size = 550
     }
@@ -1009,7 +1009,7 @@
     farmers = {
         culture = galatian
         religion = orthodox
-        size = 55200
+        size = 30200
     }
 
     soldiers = {
@@ -1033,7 +1033,7 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 5600
+        size = 30600
     }
 }
 #Karahisar Region (336000)
@@ -1445,7 +1445,13 @@
     aristocrats = {
         culture = galatian
         religion = orthodox
-        size = 1100
+        size = 600
+    }
+	
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 500
     }
 
     clergymen = {
@@ -1457,7 +1463,13 @@
     artisans = {
         culture = galatian
         religion = orthodox
-        size = 15000
+        size = 10000
+    }
+	
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 5000
     }
 
     soldiers = {
@@ -1469,7 +1481,7 @@
     farmers = {
         culture = galatian
         religion = orthodox
-        size = 92400
+        size = 60400
     }
 
     soldiers = {
@@ -1493,7 +1505,7 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 4900
+        size = 36900
     }
 }
 #Denizli (308000/77000 POPS)
@@ -1581,7 +1593,7 @@
     farmers = {
         culture = galatian
         religion = orthodox
-        size = 40350
+        size = 25350
     }
 
     soldiers = {
@@ -1605,7 +1617,7 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 3750
+        size = 18750
     }
 }
 #Karaman Region (820000)
