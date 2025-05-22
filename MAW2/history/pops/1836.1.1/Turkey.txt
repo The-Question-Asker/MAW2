@@ -1009,7 +1009,7 @@
     farmers = {
         culture = galatian
         religion = orthodox
-        size = 30200
+        size = 25200
     }
 
     soldiers = {
@@ -1033,7 +1033,7 @@
     farmers = {
         culture = greek
         religion = orthodox
-        size = 30600
+        size = 35600
     }
 }
 #Karahisar Region (336000)

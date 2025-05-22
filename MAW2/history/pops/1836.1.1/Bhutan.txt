@@ -4,79 +4,79 @@
 1329 = {
     aristocrats = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 575
     }
 
     bureaucrats = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 80
     }
 
     officers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 25
     }
 
     clergymen = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 300
     }
 
     artisans = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 1500
     }
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 1100
     }
 
     farmers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 24575
     }
 
     aristocrats = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 50
     }
 
     clergymen = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 75
     }
 
     artisans = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 200
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 25
     }
 
     serfs = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 3650
     }
 
     slaves = {
         culture = assamese
-        religion = hindu
+        religion = manichaean
         size = 7000
     }
 

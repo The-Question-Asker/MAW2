@@ -41,10 +41,16 @@
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 13580
+        size = 7580
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 6580
     }
 
-    farmers = {
+    serfs = {
         culture = laaglander
         religion = arian
         size = 1320
@@ -89,7 +95,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 23375
+        size = 15375
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 8075
     }
 
     ######Jews
@@ -117,7 +129,7 @@
         size = 100
     }
 
-    farmers = {
+    serfs = {
         culture = ashkenazi
         religion = jewish
         size = 100

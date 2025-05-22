@@ -1718,37 +1718,37 @@
 
     aristocrats = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 500
     }
 
     clergymen = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 500
     }
 
     artisans = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 2000
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 1100
     }
 
     farmers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 10000
     }
 
     farmers = {
         culture = nepali
-        religion = gelugpa
+        religion = manichaean
         size = 95000
     }
 }
@@ -2890,55 +2890,55 @@
 1252 = {
     aristocrats = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 6000
     }
 
     clergymen = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 6250
     }
 
     artisans = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 8000
     }
 
     farmers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 10000
     }
 
     artisans = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 2500
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 3000
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 3000
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 3000
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 3000
     }
 
@@ -2975,7 +2975,13 @@
     farmers = {
         culture = bengali
         religion = manichaean
-        size = 182500
+        size = 102500
+    }
+	
+    farmers = {
+        culture = bengali
+        religion = hindu
+        size = 82500
     }
 }
 #Bardwan (4456000/1114000 POPS)
@@ -8556,31 +8562,31 @@
 
     officers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 15
     }
 
     clergymen = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 20
     }
 
     artisans = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 100
     }
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 1100
     }
 
     farmers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 1095
     }
 
@@ -8592,7 +8598,7 @@
 
     farmers = {
         culture = asian_minor
-        religion = gelugpa
+        religion = manichaean
         size = 2000
     }
 

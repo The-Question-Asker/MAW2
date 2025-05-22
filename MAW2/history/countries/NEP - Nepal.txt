@@ -1,7 +1,7 @@
 capital = 1326
 primary_culture = nepali
 culture = tibetan
-religion = mahayana
+religion = manichaean
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = closed_borders
 
-set_country_flag = mahayana_country
+set_country_flag = manichaean_country
 
 ruling_party = NEP_conservative
 upper_house = {

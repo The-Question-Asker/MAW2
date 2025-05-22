@@ -32,16 +32,28 @@
         size = 1800
     }
 
-    farmers = {
+    serfs = {
         culture = ashkenazi
         religion = jewish
-        size = 1727.3999999999998
+        size = 1727
     }
     ########
     aristocrats = {
         culture = laaglander
         religion = orthodox
-        size = 846
+        size = 600
+    }
+	
+    aristocrats = {
+        culture = laaglander
+        religion = arian
+        size = 98
+    }
+	
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 200
     }
     officers = {
         culture = laaglander
@@ -56,16 +68,22 @@
     clergymen = {
         culture = laaglander
         religion = orthodox
-        size = 1043.3999999999998
+        size = 680
+    }
+    clergymen = {
+        culture = laaglander
+        religion = orthodox
+        size = 400
     }
     artisans = {
         culture = laaglander
         religion = orthodox
         size = 11280
     }
+
     artisans = {
         culture = laaglander
-        religion = orthodox
+        religion = arian
         size = 5640
     }
     artisans = {
@@ -86,9 +104,22 @@
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 22746.6
+        size = 12746
     }
-    farmers = {
+	
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 7046
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = arian
+        size = 3046
+    }
+	
+    serfs = {
         culture = saxon
         religion = orthodox
         size = 3546.6
@@ -105,6 +136,12 @@
         culture = laaglander
         religion = orthodox
         size = 423
+    }
+	
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 100
     }
     clergymen = {
         culture = laaglander
@@ -129,12 +166,24 @@
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 45120
+        size = 26120
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 19120
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 10000
     }
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 15862.199999999998
+        size = 5862
     }
     artisans = {
         culture = saxon
@@ -161,7 +210,7 @@
         size = 1200
     }
 
-    farmers = {
+    serfs = {
         culture = ashkenazi
         religion = jewish
         size = 654
@@ -171,14 +220,19 @@
 #Utrecht (152000/38000 POPS)
 377 = {
     aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 100
+    }
+    aristocrats = {
         culture = laaglander
         religion = orthodox
-        size = 169.2
+        size = 169
     }
     clergymen = {
         culture = laaglander
         religion = orthodox
-        size = 98.39999999999999
+        size = 98
     }
     artisans = {
         culture = laaglander
@@ -188,18 +242,24 @@
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 620.4
+        size = 620
     }
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 9031.8
+        size = 9031
     }
 	
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 6031.8
+        size = 8031
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 4031
     }
 }
 #Middelburg (170000/42500 POPS)
@@ -227,16 +287,22 @@
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 19909.2
+        size = 10909.2
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 9009
     }
     artisans = {
         culture = laaglander
         religion = orthodox
         size = 84.6
     }
-    farmers = {
+    serfs = {
         culture = laaglander
-        religion = orthodox
+        religion = arian
         size = 620.4
     }
 }
@@ -246,7 +312,7 @@
     aristocrats = {
         culture = laaglander
         religion = orthodox
-        size = 789.6
+        size = 289
     }
     officers = {
         culture = laaglander
@@ -256,17 +322,17 @@
     bureaucrats = {
         culture = laaglander
         religion = orthodox
-        size = 451.2
+        size = 451
     }
     clergymen = {
         culture = laaglander
         religion = orthodox
-        size = 451.2
+        size = 451
     }
     artisans = {
         culture = laaglander
         religion = orthodox
-        size = 1776.6
+        size = 1776
     }
     soldiers = {
         culture = laaglander
@@ -274,27 +340,32 @@
         size = 1692
     }
     soldiers = {
-        culture = laaglander
+        culture = saxon
         religion = orthodox
         size = 60
     }
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 10200
+    }
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 28200
+        size = 18200
     }
     clergymen = {
-        culture = laaglander
+        culture = saxon
         religion = orthodox
-        size = 64.2
+        size = 64
     }
     artisans = {
-        culture = laaglander
+        culture = saxon
         religion = orthodox
-        size = 84.6
+        size = 84
     }
-    farmers = {
-        culture = laaglander
+    serfs = {
+        culture = saxon
         religion = orthodox
         size = 1692
     }
@@ -324,7 +395,7 @@
         size = 123
     }
 
-    farmers = {
+    serfs = {
         culture = ashkenazi
         religion = jewish
         size = 120
@@ -341,7 +412,7 @@
     clergymen = {
         culture = laaglander
         religion = orthodox
-        size = 225.6
+        size = 225
     }
     artisans = {
         culture = laaglander
@@ -351,12 +422,18 @@
     soldiers = {
         culture = laaglander
         religion = orthodox
-        size = 620.4
+        size = 620
     }
     labourers = {
         culture = laaglander
         religion = orthodox
-        size = 19768.2
+        size = 9768
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 10068
     }
 }
 #Maastricht/Limburg (164200/41050 POPS)
@@ -427,10 +504,16 @@
         size = 540
     }
 
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 10610
+    }
+	
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 17610
+        size = 7610
     }
 
     aristocrats = {
@@ -462,11 +545,15 @@
         religion = orthodox
         size = 540
     }
-
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 10860
+        size = 2860
+    }
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 8860
     }
 }
 #Arnhem (412000/103000 POPS)
@@ -474,32 +561,37 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 479.4
+        size = 479
     }
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 338.4
+        size = 338
     }
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 3384
+        size = 584
     }
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 6288.599999999999
+        size = 6288
     }
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 789.6
+        size = 789
     }
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 54341.4
+        size = 20341
+    }
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 34341
     }
     clergymen = {
         culture = laaglander
@@ -511,10 +603,10 @@
         religion = orthodox
         size = 141
     }
-    farmers = {
+    serfs = {
         culture = laaglander
         religion = orthodox
-        size = 1804.8
+        size = 1804
     }
 
     ######Jews
@@ -536,7 +628,7 @@
         size = 60
     }
 
-    farmers = {
+    serfs = {
         culture = ashkenazi
         religion = jewish
         size = 63
@@ -549,22 +641,22 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 169.2
+        size = 169
     }
     officers = {
         culture = saxon
         religion = orthodox
-        size = 84.6
+        size = 84
     }
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 451.2
+        size = 451
     }
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 112.8
+        size = 112
     }
     artisans = {
         culture = saxon
@@ -576,20 +668,20 @@
         religion = orthodox
         size = 1692
     }
-    soldiers = {
+    serfs = {
         culture = saxon
-        religion = orthodox
+        religion = arian
         size = 564
     }
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 19993.8
+        size = 6393
     }
-    farmers = {
+    serfs = {
         culture = saxon
         religion = orthodox
-        size = 620.4
+        size = 14000
     }
     ######Jews
 
@@ -605,7 +697,7 @@
         size = 60
     }
 
-    farmers = {
+    serfs = {
         culture = ashkenazi
         religion = jewish
         size = 60
@@ -627,7 +719,7 @@
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 2199.6
+        size = 2199
     }
     soldiers = {
         culture = saxon
@@ -635,24 +727,29 @@
         size = 1692
     }
     soldiers = {
+        culture = laaglander
+        religion = orthodox
+        size = 56
+    }
+    serfs = {
         culture = saxon
         religion = orthodox
-        size = 56.4
+        size = 15011
     }
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 23011.2
+        size = 8011
     }
     artisans = {
         culture = laaglander
         religion = orthodox
-        size = 56.4
+        size = 56
     }
-    farmers = {
+    serfs = {
         culture = laaglander
         religion = orthodox
-        size = 507.59999999999996
+        size = 507
     }
 }
 #Leeuwarden (209200/52300 POPS)
@@ -660,12 +757,12 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 169.2
+        size = 169
     }
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 211.2
+        size = 211
     }
     artisans = {
         culture = saxon
@@ -675,12 +772,18 @@
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 1184.3999999999998
+        size = 1184
     }
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 24660.6
+        size = 10060
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 14660
     }
     ######Jews
     aristocrats = {
@@ -707,7 +810,7 @@
         size = 60
     }
 
-    farmers = {
+    serfs = {
         culture = ashkenazi
         religion = jewish
         size = 60
@@ -719,31 +822,36 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 84.6
+        size = 84
     }
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 56.4
+        size = 56
     }
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 620.4
+        size = 620
     }
     soldiers = {
         culture = saxon
         religion = orthodox
-        size = 620.4
+        size = 620
     }
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 9447
+        size = 7047
     }
-    farmers = {
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 2447
+    }
+    serfs = {
         culture = laaglander
         religion = orthodox
-        size = 620.4
+        size = 620
     }
 }

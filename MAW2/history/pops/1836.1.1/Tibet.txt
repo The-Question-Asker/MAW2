@@ -23,12 +23,18 @@
     clergymen = {
         culture = tibetan
         religion = gelugpa
-        size = 2150
+        size = 1850
+    }
+	
+    clergymen = {
+        culture = tibetan
+        religion = manichaean
+        size = 350
     }
 
     artisans = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 5400
     }
 
@@ -40,7 +46,7 @@
 
     farmers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 18560
     }
 
@@ -52,7 +58,7 @@
 
     artisans = {
         culture = beifaren
-        religion = animist
+        religion = gelugpa
         size = 750
     }
 
@@ -90,14 +96,20 @@
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 1400
     }
 
     farmers = {
         culture = tibetan
+        religion = manichaean
+        size = 8740
+    }
+	
+    farmers = {
+        culture = tibetan
         religion = gelugpa
-        size = 12740
+        size = 4740
     }
 
     clergymen = {
@@ -146,13 +158,13 @@
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 800
     }
 
     farmers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 7725
     }
 
@@ -202,14 +214,20 @@
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 1725
     }
 
     farmers = {
         culture = tibetan
+        religion = manichaean
+        size = 12655
+    }
+	
+    farmers = {
+        culture = tibetan
         religion = gelugpa
-        size = 15655
+        size = 3655
     }
 }
 #Changtang (76000/19000 POPS)
@@ -222,7 +240,7 @@
 
     aristocrats = {
         culture = beifaren
-        religion = manichaean
+        religion = gelugpa
         size = 400
     }
 
@@ -234,19 +252,19 @@
 
     artisans = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 950
     }
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 175
     }
 
     farmers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 1730
     }
 
@@ -260,31 +278,31 @@
 1592 = {
     aristocrats = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 500
     }
 
     clergymen = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 775
     }
 
     artisans = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 3800
     }
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 750
     }
 
     farmers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 29175
     }
 }
@@ -305,19 +323,31 @@
     artisans = {
         culture = tibetan
         religion = gelugpa
-        size = 6600
+        size = 5000
+    }
+	
+    artisans = {
+        culture = tibetan
+        religion = manichaean
+        size = 1600
     }
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 1325
     }
 
     farmers = {
         culture = tibetan
+        religion = manichaean
+        size = 9010
+    }
+	
+    farmers = {
+        culture = tibetan
         religion = gelugpa
-        size = 12010
+        size = 3010
     }
 
     aristocrats = {

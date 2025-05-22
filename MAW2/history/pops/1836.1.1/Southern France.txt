@@ -741,7 +741,12 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 50510
+        size = 15510
+    }
+    farmers = {
+        culture = frankish
+        religion = arian
+        size = 35510
     }
 }
 #Mont de Marsan (556000/139000 POPS)
@@ -776,11 +781,18 @@
         size = 70675
     }
 
-        farmers = {
+    farmers = {
         culture = narbonne
         religion = orthodox
-        size = 50975
+        size = 20975
     }
+	
+    farmers = {
+        culture = narbonne
+        religion = arian
+        size = 30975
+    }
+	
 }
 #Pau (676000/169000 POPS)
 460 = {

@@ -4,85 +4,85 @@
 1326 = {
     aristocrats = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 2000
     }
 
     bureaucrats = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 175
     }
 
     officers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 225
     }
 
     clergymen = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 1100
     }
 
     artisans = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 4050
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 3000
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 3000
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 86250
     }
 
     aristocrats = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 200
     }
 
     clergymen = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 100
     }
 
     artisans = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 475
     }
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 100
     }
 
     farmers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 10125
     }
 
@@ -126,61 +126,61 @@
 1327 = {
     aristocrats = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 900
     }
 
     clergymen = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 450
     }
 
     artisans = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 2300
     }
 
     soldiers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 1100
     }
 
     farmers = {
         culture = nepali
-        religion = hindu
+        religion = manichaean
         size = 49250
     }
 
     aristocrats = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 700
     }
 
     clergymen = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 375
     }
 
     artisans = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 1850
     }
 
     soldiers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 350
     }
 
     farmers = {
         culture = tibetan
-        religion = gelugpa
+        religion = manichaean
         size = 33725
     }
 

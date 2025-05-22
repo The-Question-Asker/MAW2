@@ -2,21 +2,39 @@
 #Lille (620000/155000 POPS)
 399 = {
     aristocrats = {
+        culture = laaglander
+        religion = orthodox
+        size = 600
+    }
+	
+    aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 840
+        size = 280
     }
 
     officers = {
         culture = laaglander
         religion = orthodox
-        size = 450
+        size = 400
+    }
+	
+    officers = {
+        culture = frankish
+        religion = orthodox
+        size = 50
     }
 
     bureaucrats = {
         culture = laaglander
         religion = orthodox
-        size = 1050
+        size = 750
+    }
+	
+    bureaucrats = {
+        culture = frankish
+        religion = orthodox
+        size = 350
     }
 
     clergymen = {
@@ -33,7 +51,7 @@
 
     artisans = {
         culture = laaglander
-        religion = orthodox
+        religion = arian
         size = 4200
     }
 
@@ -45,7 +63,7 @@
 
     soldiers = {
         culture = laaglander
-        religion = orthodox
+        religion = arian
         size = 1800
     }
 
@@ -56,21 +74,27 @@
     }
 
     soldiers = {
-        culture = laaglander
+        culture = frankish
         religion = orthodox
-        size = 1800
-    }
-
-    soldiers = {
-        culture = laaglander
-        religion = orthodox
-        size = 1800
+        size = 2400
     }
 
     labourers = {
         culture = laaglander
         religion = orthodox
-        size = 72300
+        size = 43800
+    }
+
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 33300
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = arian
+        size = 3300
     }
 }
 #Dunkirk (396000/99000 POPS)
@@ -123,10 +147,16 @@
         size = 600
     }
 
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 16130
+    }
+
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 38130
+        size = 22130
     }
 
     artisans = {
@@ -137,11 +167,11 @@
 
     soldiers = {
         culture = laaglander
-        religion = orthodox
+        religion = arian
         size = 180
     }
 
-    farmers = {
+    serfs = {
         culture = laaglander
         religion = orthodox
         size = 9000
@@ -176,13 +206,25 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 36120
+        size = 22120
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 14120
     }
 
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 18075
+        size = 6075
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 12075
     }
 }
 #Amiens (552000/138000 POPS)
@@ -220,13 +262,25 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 61725
+        size = 40725
+    }
+
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 23725
     }
 
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 7845
+        size = 1945
+    }
+
+    serfs = {
+        culture = laaglander
+        religion = orthodox
+        size = 6045
     }
 }
 #Beauvais (392000/98000 POPS)
@@ -264,10 +318,16 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 48270
+        size = 30000
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 18270
     }
 
-    farmers = {
+    serfs = {
         culture = laaglander
         religion = orthodox
         size = 5670
@@ -316,7 +376,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 72435
+        size = 30435
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 44435
     }
 }
 #Cambrai (280000/70000 POPS)
@@ -348,7 +414,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 38640
+        size = 18640
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 20640
     }
 }
 #Charleville (308000/77000 POPS)
@@ -374,13 +446,19 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 562.1999999999999
+        size = 562
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 53733.6
+        size = 23733
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 30733
     }
 
 }
@@ -426,7 +504,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 33540
+        size = 20540
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 13540
     }
 }
 #Chaumont (256000/64000 POPS)
@@ -458,7 +542,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 59250
+        size = 30250
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 29250
     }
 }
 #Chalons (348000/87000 POPS)
@@ -490,7 +580,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 47220
+        size = 20220
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 27220
     }
 
 }
@@ -500,7 +596,13 @@
     aristocrats = {
         culture = saxon
         religion = orthodox
-        size = 180
+        size = 100
+    }
+	
+    aristocrats = {
+        culture = frankish
+        religion = orthodox
+        size = 80
     }
 
     officers = {
@@ -512,19 +614,37 @@
     bureaucrats = {
         culture = saxon
         religion = orthodox
-        size = 150
+        size = 100
+    }
+	
+    bureaucrats = {
+        culture = frankish
+        religion = orthodox
+        size = 50
     }
 
     clergymen = {
         culture = saxon
         religion = orthodox
-        size = 225
+        size = 125
+    }
+	
+    clergymen = {
+        culture = frankish
+        religion = orthodox
+        size = 125
     }
 
     artisans = {
         culture = saxon
         religion = orthodox
-        size = 3300
+        size = 2300
+    }
+	
+    artisans = {
+        culture = frankish
+        religion = orthodox
+        size = 1300
     }
 
     soldiers = {
@@ -573,7 +693,19 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 29424
+        size = 12424
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 14424
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 23424
     }
 
     ######Jews
@@ -607,7 +739,7 @@
         size = 465
     }
 
-    farmers = {
+    serfs = {
         culture = ashkenazi
         religion = jewish
         size = 300
@@ -653,7 +785,7 @@
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 30897
+        size = 10897
     }
 }
 #Mulhausen (424000/106000 POPS)
@@ -715,7 +847,13 @@
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 24825
+        size = 10825
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 14825
     }
 
     ######Jews
@@ -772,7 +910,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 16560
+        size = 10560
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 6560
     }
 
 }
@@ -818,7 +962,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 44760
+        size = 14760
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 30760
     }
 
     bureaucrats = {
@@ -845,7 +995,7 @@
         size = 60
     }
 
-    farmers = {
+    serfs = {
         culture = saxon
         religion = orthodox
         size = 300
@@ -918,7 +1068,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 36495
+        size = 23895
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 13095
     }
 
     aristocrats = {
@@ -948,7 +1104,13 @@
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 3765
+        size = 1065
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 2765
     }
 
     ######Jews
@@ -1006,7 +1168,13 @@
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 16665
+        size = 9065
+    }
+	
+    serfs = {
+        culture = saxon
+        religion = orthodox
+        size = 8665
     }
 }
 #Verdun (320000/80000 POPS)
@@ -1032,13 +1200,19 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 450.59999999999996
+        size = 450
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 32951.4
+        size = 12951
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 20951
     }
 
     clergymen = {
@@ -1059,7 +1233,7 @@
         size = 60
     }
 
-    labourers = {
+    serfs = {
         culture = saxon
         religion = orthodox
         size = 840
@@ -1094,7 +1268,13 @@
     labourers = {
         culture = frankish
         religion = orthodox
-        size = 44670
+        size = 20670
+    }
+
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 24670
     }
 
     clergymen = {
@@ -1115,7 +1295,7 @@
         size = 60
     }
 
-    labourers = {
+    serfs = {
         culture = saxon
         religion = orthodox
         size = 420
@@ -1140,13 +1320,25 @@
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 990
+        size = 690
+    }
+	
+    bureaucrats = {
+        culture = frankish
+        religion = arian
+        size = 390
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 930
+        size = 630
+    }
+	
+    clergymen = {
+        culture = frankish
+        religion = arian
+        size = 330
     }
 
     artisans = {
@@ -1157,7 +1349,7 @@
 
     artisans = {
         culture = frankish
-        religion = orthodox
+        religion = arian
         size = 6000
     }
 
@@ -1170,13 +1362,31 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1200
+        size = 600
+    }
+	
+    soldiers = {
+        culture = frankish
+        religion = arian
+        size = 600
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 87930
+        size = 27030
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 45030
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = arian
+        size = 15830
     }
 }
 #Evreux (424000/106000 POPS)
@@ -1205,10 +1415,16 @@
         size = 660
     }
 
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 40650
+    }
+	
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 58650
+        size = 18650
     }
 }
 #Alencon (442000/110500 POPS)
@@ -1219,7 +1435,7 @@
         size = 660
     }
 
-    capitalists = {
+    aristocrats = {
         culture = frankish
         religion = orthodox
         size = 240
@@ -1237,7 +1453,7 @@
         size = 3060
     }
 
-    craftsmen = {
+    artisans = {
         culture = frankish
         religion = orthodox
         size = 1800
@@ -1249,10 +1465,16 @@
         size = 720
     }
 
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 40280
+    }
+	
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 59280
+        size = 19280
     }
 }
 #Caen (1088000/272000 POPS)
@@ -1260,25 +1482,37 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1590
+        size = 1400
+    }
+	
+    aristocrats = {
+        culture = frankish
+        religion = arian
+        size = 150
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 1530
+        size = 1300
+    }
+	
+    clergymen = {
+        culture = frankish
+        religion = arian
+        size = 230
     }
 
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 6000
+        size = 7000
     }
 
     artisans = {
         culture = frankish
-        religion = orthodox
-        size = 2100
+        religion = arian
+        size = 1100
     }
 
     soldiers = {
@@ -1290,7 +1524,19 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 90330
+        size = 40330
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 47330
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = arian
+        size = 3330
     }
 
 }
@@ -1372,7 +1618,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 66480
+        size = 30000
+    }
+	
+    farmers = {
+        culture = frankish
+        religion = orthodox
+        size = 36480
     }
 }
 #St Brieuc (604000/151000 POPS)
@@ -1396,10 +1648,10 @@
         size = 240
     }
 
-    farmers = {
+    serfs = {
         culture = frankish
         religion = orthodox
-        size = 3000
+        size = 45000
     }
 
     aristocrats = {
@@ -1429,7 +1681,7 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 80700
+        size = 35700
     }
 }
 #Vannes (436000/109000 POPS)
@@ -1482,10 +1734,16 @@
         size = 60
     }
 
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 30420
+    }
+	
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 54420
+        size = 24420
     }
 }
 #Nantes (476000/119000 POPS)
@@ -1523,13 +1781,13 @@
     labourers = {
         culture = frankish
         religion = orthodox
-        size = 12390
+        size = 10390
     }
 
-    labourers = {
+    serfs = {
         culture = frankish
         religion = orthodox
-        size = 12270
+        size = 14270
     }
 }
 #Rennes (548000/137000 POPS)
@@ -1570,10 +1828,16 @@
         size = 240
     }
 
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 45000
+    }
+	
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 60000
+        size = 15000
     }
 
 }
@@ -1583,40 +1847,64 @@
     aristocrats = {
         culture = frankish
         religion = orthodox
-        size = 1800
+        size = 1600
+    }
+	
+    aristocrats = {
+        culture = narbonne
+        religion = orthodox
+        size = 200
     }
 
     officers = {
         culture = frankish
         religion = orthodox
-        size = 480
+        size = 400
+    }
+	
+    officers = {
+        culture = narbonne
+        religion = orthodox
+        size = 80
     }
 
     bureaucrats = {
         culture = frankish
         religion = orthodox
-        size = 900
+        size = 700
+    }
+	
+    bureaucrats = {
+        culture = narbonne
+        religion = orthodox
+        size = 200
     }
 
     clergymen = {
         culture = frankish
         religion = orthodox
-        size = 2400
+        size = 2375
+    }
+	
+    clergymen = {
+        culture = narbonne
+        religion = orthodox
+        size = 25
     }
 
-    capitalists = {
-        culture = frankish
+    aristocrats = {
+        culture = narbonne
         religion = orthodox
         size = 120
     }
 
-    clerks = {
+    farmers = {
         culture = frankish
         religion = orthodox
-        size = 900
+        size = 99000
     }
 
-    craftsmen = {
+    artisans = {
         culture = frankish
         religion = orthodox
         size = 8100
@@ -1625,7 +1913,13 @@
     artisans = {
         culture = frankish
         religion = orthodox
-        size = 33240
+        size = 30240
+    }
+	
+    artisans = {
+        culture = narbonne
+        religion = orthodox
+        size = 3240
     }
 
     soldiers = {
@@ -1634,10 +1928,10 @@
         size = 2400
     }
 
-    farmers = {
+    serfs = {
         culture = frankish
         religion = orthodox
-        size = 133320
+        size = 34320
     }
 
     ####Jews
@@ -1648,7 +1942,7 @@
         size = 300
     }
 
-    capitalists = {
+    aristocrats = {
         culture = ashkenazi
         religion = jewish
         size = 120
@@ -1666,13 +1960,13 @@
         size = 60
     }
 
-    clerks = {
+    serfs = {
         culture = ashkenazi
         religion = jewish
         size = 840
     }
 
-    craftsmen = {
+    artisans = {
         culture = ashkenazi
         religion = jewish
         size = 1200
@@ -1725,7 +2019,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 47805
+        size = 64805
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 30805
     }
 }
 #Melun (328000/82000 POPS)
@@ -1754,10 +2054,16 @@
         size = 600
     }
 
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 18300
+    }
+	
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 54300
+        size = 36300
     }
 
 }
@@ -1800,10 +2106,16 @@
         size = 600
     }
 
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 15310
+    }
+	
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 50310
+        size = 35310
     }
 }
 #Auxerre (356000/89000 POPS)
@@ -1835,7 +2147,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 49740
+        size = 30740
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 19740
     }
 }
 #Moulins (596000/149000 POPS)
@@ -1896,10 +2214,22 @@
         size = 660
     }
 
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 20600
+    }
+	
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 75600
+        size = 40600
+    }
+	
+    serfs = {
+        culture = narbonne
+        religion = orthodox
+        size = 15600
     }
 
 }
@@ -1945,7 +2275,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 82230
+        size = 65230
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 25230
     }
 }
 #Lons (314000/78500 POPS)
@@ -1977,13 +2313,25 @@
     farmers = {
         culture = narbonne
         religion = orthodox
-        size = 25440
+        size = 8440
     }
 
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 20400
+        size = 15400
+    }
+	
+	serfs = {
+        culture = narbonne
+        religion = orthodox
+        size = 17440
+    }
+
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 5400
     }
 
 }
@@ -2037,6 +2385,12 @@
         religion = orthodox
         size = 46740
     }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 20740
+    }
 }
 #Laval (358000/89500 POPS)
 435 = {
@@ -2067,7 +2421,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 49650
+        size = 29650
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 10650
     }
 }
 #Le Mans (464000/116000 POPS)
@@ -2099,7 +2459,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 64260
+        size = 50260
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 14260
     }
 }
 #La Roche (344000/86000 POPS)
@@ -2131,7 +2497,13 @@
     labourers = {
         culture = frankish
         religion = orthodox
-        size = 47910
+        size = 30910
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 17910
     }
 
 }
@@ -2183,7 +2555,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 38010
+        size = 28010
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 10010
     }
 }
 #Bourges (264400/66100 POPS)
@@ -2215,7 +2593,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 34950
+        size = 20950
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 14950
     }
 }
 #Blois (243600/60900 POPS)
@@ -2244,10 +2628,16 @@
         size = 600
     }
 
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 12700
+    }
+	
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 32700
+        size = 22000
     }
 }
 #Tours (300000/75000 POPS)
@@ -2279,7 +2669,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 38880
+        size = 18880
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 10880
     }
 
 }
@@ -2325,7 +2721,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 62355
+        size = 42355
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 20355
     }
 }
 #Poitiers (288000/72000 POPS)
@@ -2357,7 +2759,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 38175
+        size = 30175
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 18175
     }
 }
 #Angouleme (364000/91000 POPS)
@@ -2386,16 +2794,28 @@
         size = 600
     }
 
-    farmers = {
+    serfs = {
         culture = narbonne
         religion = orthodox
-        size = 32100
+        size = 24100
     }
 	
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 20100
+        size = 6100
+    }
+	
+    farmers = {
+        culture = narbonne
+        religion = orthodox
+        size = 10100
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = orthodox
+        size = 14100
     }
 
 }
