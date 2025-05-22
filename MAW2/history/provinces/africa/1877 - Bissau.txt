@@ -1,6 +1,7 @@
 owner = AEG
 controller = AEG
 add_core = GBU
+naval_base = 1
 trade_goods = fish
 life_rating = 35
 colonial = 2

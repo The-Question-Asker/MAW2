@@ -288,31 +288,31 @@ army = {
     regiment = {
         name= "Infantry Brigade"
         type = infantry
-        home = 1751
+        home = 1750
     }
 	
     regiment = {
         name= "Infantry Brigade"
         type = infantry
-        home = 1751
+        home = 1750
     }
 	
     regiment = {
         name= "Infantry Brigade"
         type = infantry
-        home = 1751
+        home = 1750
     }
 	
     regiment = {
         name= "Infantry Brigade"
         type = infantry
-        home = 1751
+        home = 1750
     }
 	
     regiment = {
         name= "Infantry Brigade"
         type = infantry
-        home = 1751
+        home = 1750
     }
 	
     regiment = {
@@ -374,3 +374,130 @@ army = {
     }
 }
 
+army = {
+    name = "Islander Garrison"
+    location = 1403
+
+    regiment = {
+        name= "Levies"
+        type = irregular
+        home = 1403
+    }
+	
+    regiment = {
+        name= "Levies"
+        type = irregular
+        home = 1413
+    }
+	
+    regiment = {
+        name= "Levies"
+        type = irregular
+        home = 1414
+    }
+	
+    regiment = {
+        name= "Levies"
+        type = irregular
+        home = 1413
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1415
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1418
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1421
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1420
+    }
+
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1416
+    }
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 1417
+    }
+}
+
+army = {
+    name = "South India Garrison"
+    location = 1312
+
+    regiment = {
+        name= "Levies"
+        type = irregular
+        home = 1304
+    }
+	
+    regiment = {
+        name= "Levies"
+        type = irregular
+        home = 1304
+    }
+	
+    regiment = {
+        name= "Levies"
+        type = irregular
+        home = 1305
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 832
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 832
+    }
+	
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 827
+    }
+}
+
+army = {
+    name = "West Libyan Garrison"
+    location = 1877
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1877
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1792
+    }
+	
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 1887
+    }
+}

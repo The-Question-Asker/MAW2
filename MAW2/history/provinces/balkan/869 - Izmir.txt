@@ -3,6 +3,7 @@ controller = AEG
 add_core = AEG
 add_core = HEL
 add_core = ANT
+naval_base = 1
 trade_goods = sulphur
 life_rating = 35
 
