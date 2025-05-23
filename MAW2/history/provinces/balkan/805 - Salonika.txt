@@ -1,5 +1,6 @@
 owner = SCL
 controller = SCL
 add_core = SCL
+add_core = MOE
 trade_goods = cotton
 life_rating = 35
