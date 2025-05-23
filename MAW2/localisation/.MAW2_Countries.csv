@@ -1,6 +1,11 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-KRS;Königreich Sachsen;;;;;;;;;;;;;
-KRS_ADJ;Sächsisch;;;;;;;;;;;;;
+KRS;Saxony;;;;;;;;;;;;;
+KRS_democracy;Saxon Republic;;;;;;;;;;;;;
+KRS_absolute_monarchy;Kingdom of Saxony;;;;;;;;;;;;;
+KRS_bourgeois_dictatorship;Saxon Bund;;;;;;;;;;;;;
+KRS_proletarian_dictatorship;Saxon Socialist Republic;;;;;;;;;;;;;
+KRS_presidential_dictatorship;Saxon Empire;;;;;;;;;;;;;
+KRS_ADJ;Saxon;;;;;;;;;;;;;
 TEU;Teutonia;;;;;;;;;;;;;
 TEU_ADJ;Teutonic;;;;;;;;;;;;;
 RTH;Ruthenia;;;;;;;;;;;;;
