@@ -1,6 +1,5 @@
 owner = AEG
 controller = AEG
-add_core = AEG
 add_core = SUD
 trade_goods = cattle
 life_rating = 31
