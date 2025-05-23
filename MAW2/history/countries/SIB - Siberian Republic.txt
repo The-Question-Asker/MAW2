@@ -1,7 +1,7 @@
 capital = 1064
-primary_culture = russian
-culture = byelorussian
-culture = ukrainian
+primary_culture = ruthenian
+culture = byeloruthenian
+culture = temarundian
 culture = siberian
 religion = orthodox
 government = democracy
