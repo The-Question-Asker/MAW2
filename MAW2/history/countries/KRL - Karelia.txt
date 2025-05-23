@@ -1,7 +1,7 @@
 capital = 995
 primary_culture = finnish
 culture = ugrian
-culture = russian
+culture = ruthenian
 culture = sami
 religion = orthodox
 government = democracy
