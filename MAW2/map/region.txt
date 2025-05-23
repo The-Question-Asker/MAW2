@@ -1193,9 +1193,9 @@ TUR_805 = { 805 819 820 821 822 806 807 } #Macedonia
 
 #TUR_806 = { } #Northern Macedonia
 
-TUR_809 = { 815 817 808 816 } #Eastern Rumelia
+TUR_809 = { 815 817 808 816 809 } #Eastern Rumelia
 
-TUR_810 = { 809 810 811 812 813 814 } #Moesia
+TUR_810 = { 810 811 812 813 814 } #Moesia
 
 TUR_823 = { 823 829 830 } #Eastern Macedonia
 
