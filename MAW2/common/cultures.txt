@@ -294,7 +294,7 @@ hellenes = {
 							Patermouthios Phello Pigol Pijimi Sarjoun Sidhom Yeshak Yaraklas 
 							Cleomenes }
 
-			last_names = {	Ptolemy Pleistoneices Chrysermus  }
+			last_names = {	Ptolemy Pleistoneices Chrysermus Lagid }
     }
 
 }
