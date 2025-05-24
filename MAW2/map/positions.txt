@@ -28581,25 +28581,25 @@
 # Gyulafehervar
 655 = {
     text_position = {
-        x = 3171.377778
-        y = 1554.500000
+        x = 3166.750000
+        y = 1554.800000
     }
 
-    text_rotation = 6.283185
+    text_rotation = 0.326505
     text_scale = 2.200000
     unit = {
-        x = 3173.000000
-        y = 1558.000000
+        x = 3166.250000
+        y = 1556.600000
     }
 
     factory = {
-        x = 3177.000000
-        y = 1561.000000
+        x = 3170.350000
+        y = 1560.300000
     }
 
     building_construction = {
-        x = 3174.199951
-        y = 1553.000000
+        x = 3168.000000
+        y = 1552.850000
     }
 
     military_construction = {
@@ -28609,8 +28609,8 @@
 
     building_position = {
         fort = {
-            x = 3179.899902
-            y = 1547.900024
+            x = 3167.500000
+            y = 1550.900000
         }
 
     }
@@ -28662,26 +28662,16 @@
 
 # Nagyszeben
 657 = {
-    unit = {
-        x = 3192.000000
-        y = 1550.000000
-    }
-
     text_position = {
-        x = 3192.500000
-        y = 1547.400024
+        x = 3181.800000
+        y = 1549.450000
     }
 
     text_rotation = 6.283185
     text_scale = 2.200000
-    building_construction = {
-        x = 3182.000000
-        y = 1544.000000
-    }
-
-    military_construction = {
-        x = 3187.899902
-        y = 1547.400024
+    unit = {
+        x = 3181.600000
+        y = 1551.800000
     }
 
     factory = {
@@ -28689,10 +28679,20 @@
         y = 1551.000000
     }
 
+    building_construction = {
+        x = 3182.000000
+        y = 1544.000000
+    }
+
+    military_construction = {
+        x = 3177.500000
+        y = 1546.900000
+    }
+
     building_position = {
         fort = {
-            x = 3201.000000
-            y = 1548.599976
+            x = 3179.950000
+            y = 1556.550000
         }
 
     }
@@ -28754,20 +28754,25 @@
 # Brasso
 659 = {
     text_position = {
-        x = 3198.699951
-        y = 1542.500000
+        x = 3198.700000
+        y = 1544.700000
     }
 
     text_rotation = 6.283185
     text_scale = 2.400000
-    building_construction = {
-        x = 3204.699951
-        y = 1541.500000
+    unit = {
+        x = 3198.600000
+        y = 1547.450000
     }
 
     factory = {
         x = 3192.199951
         y = 1543.300049
+    }
+
+    building_construction = {
+        x = 3204.699951
+        y = 1541.500000
     }
 
     building_position = {

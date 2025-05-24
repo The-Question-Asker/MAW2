@@ -1,6 +1,6 @@
 owner = PRS
 controller = PRS
-colonial = 2
+add_core = PRS
 add_core = KHI
 add_core = BUK
 add_core = TKM
