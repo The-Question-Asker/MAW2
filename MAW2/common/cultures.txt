@@ -263,9 +263,19 @@ hellenes = {
 
 	greek = { #hellenic
 	  color = { 122 180 210 }
-        	first_names = { }
-
-			last_names = {	}
+         first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+         Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+         Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+         Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+         Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+         }
+	  
+         last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+         Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+         Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+         Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+         Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+         }
     }
 
 	levantine = {
@@ -277,9 +287,14 @@ hellenes = {
 	
 	aegyptian = {
 	  color = { 157 201 197 }
-        	first_names = { }
+        	first_names = { Abadir Atoum Panoute Papnoute Patermoute Shenoute Tanoute 
+							Amoun Atre Pamin Panine Phanoub Jamoul Senouti Phib Patapi 
+							Barsanouphios Ethom Herwoj Phnouti Shenouti Tepio Abashkhiron 
+							Girgis Harmine Joore Kollouthos Niran Pachomios Pakhom Pambo 
+							Patermouthios Phello Pigol Pijimi Sarjoun Sidhom Yeshak Yaraklas 
+							Cleomenes }
 
-			last_names = {	}
+			last_names = {	Ptolemy Pleistoneices Chrysermus  }
     }
 
 }
