@@ -450,6 +450,41 @@ colonial_greeks = {
 	
 }
 
+##### NEW WORLD CULTURES
+
+afro_diaspora = {
+    leader = european
+    unit = EuropeanGC
+	
+	afro_frankish = {
+	  color = { 21 35 64 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	frankish_creole = {
+	  color = { 92 118 173 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+}
+
+colonial_frankish_culture = {
+    leader = european
+    unit = EuropeanGC
+	
+	colonial_frankish = {
+	  color = { 18 52 115 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+}
+
+
+
 
 ###############################
 ########## VANILLA ############

@@ -96,7 +96,7 @@ PROV1760;Mothis;;;;;;;;;;;;;x
 PROV1761;Psoi;;;;;;;;;;;;;x
 PROV1772;Gurob;;;;;;;;;;;;;x
 PROV1755;Arsinoe;;;;;;;;;;;;;x
-EGY_1745;Aegyptus;;;;;;;;;;;;;x
+EGY_1745;Lower Aegyptus;;;;;;;;;;;;;x
 PROV1725;Carthage;;;;;;;;;;;;;x
 PROV888;Acilisene;;;;;;;;;;;;;x
 PROV887;Theodosiopolis;;;;;;;;;;;;;x
@@ -499,3 +499,7 @@ PROV549;Berlo;;;;;;;;;;;;x
 PRU_701;Kuyavia;;;;;;;;;;;;x
 AUS_625;Moravia;;;;;;;;;;;;x
 SAX_558;Lusatia;;;;;;;;;;;;x
+HAN_534;Saxony;;;;;;;;;;;;x
+EGY_1755;Sina;;;;;;;;;;;;x
+EGY_1762;Middle Aegyptus;;;;;;;;;;;;x
+EGY_1771;Upper Aegyptus;;;;;;;;;;;;x
