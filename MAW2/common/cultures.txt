@@ -483,7 +483,17 @@ colonial_frankish_culture = {
     }
 }
 
+colonial_saxon_culture = {
+    leader = european
+    unit = EuropeanGC
+	
+	colonial_saxon = {
+	  color = { 59 70 74 }
+        	first_names = { }
 
+			last_names = {  }
+    }
+}
 
 
 ###############################

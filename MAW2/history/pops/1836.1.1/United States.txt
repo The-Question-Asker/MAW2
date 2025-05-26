@@ -1,6 +1,3230 @@
+
+221 = {
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 277
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1572
+	}
+
+
+
+	slaves = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 750
+	}
+
+	clergymen = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 50
+	}
+
+	aristocrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 50
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 22143
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 752
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 50
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 501
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3510
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 902
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 35352
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 50
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9026
+	}
+
+}
+
+217 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 5757
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 92
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 443
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 452
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 30
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 301
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2110
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 542
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 21252
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 30
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 5426
+	}
+
+}
+
+227 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 5557
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 292
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 43
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 152
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 10
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 101
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 710
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 182
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 7152
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 10
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1826
+	}
+
+}
+
+224 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 5557
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 292
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 13
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 32
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 21
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 150
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 38
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1512
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 386
+	}
+
+}
+
+2627 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 6507
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 342
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 113
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 122
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 81
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 570
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 146
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 5742
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1466
+	}
+
+}
+
+237 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 2707
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 142
+	}
+
+	slaves = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 10
+	}
+
+	artisans = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 75
+	}
+
+	clergymen = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 5
+	}
+
+	aristocrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 5
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 1013
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 572
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 38
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 381
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2670
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 686
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 26892
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 38
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 6866
+	}
+
+}
+
+233 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 332
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 17
+	}
+
+	slaves = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 10
+	}
+
+	artisans = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 75
+	}
+
+	clergymen = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 5
+	}
+
+	aristocrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 5
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 4013
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 47
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 31
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 220
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 56
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2217
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 566
+	}
+
+}
+
+241 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1282
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 67
+	}
+
+	slaves = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 225
+	}
+
+	artisans = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 1687
+	}
+
+	clergymen = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 112
+	}
+
+	bureaucrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 112
+	}
+
+	aristocrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 112
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 9013
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 962
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 64
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 641
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4490
+	}
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4490
+	}
+
+	artisans = {
+		 culture = frankish_creole
+		 religion = orthodox
+		 size = 4490
+	}
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4490
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1154
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 40222
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 64
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 11546
+	}
+
+}
+
+232 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 2232
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 117
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 113
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 152
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 10
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 101
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 710
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 182
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 7152
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 10
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1826
+	}
+
+}
+
+245 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 5082
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 267
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 113
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 122
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 81
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 570
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 146
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 5742
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1466
+	}
+
+}
+
+242 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 157
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 892
+	}
+
+	slaves = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 125
+	}
+
+	artisans = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 937
+	}
+
+	clergymen = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 62
+	}
+
+	bureaucrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 62
+	}
+
+	aristocrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 62
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 7013
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 752
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 50
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 501
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3510
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 902
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 35352
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 50
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9026
+	}
+
+}
+
+244 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 307
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1742
+	}
+
+	slaves = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 10
+	}
+
+	artisans = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 75
+	}
+
+	clergymen = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 5
+	}
+
+	aristocrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 5
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 6013
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 302
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 20
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 201
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1410
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 362
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14202
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 20
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3626
+	}
+
+}
+
+248 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 157
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 892
+	}
+
+	slaves = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 750
+	}
+
+	clergymen = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 50
+	}
+
+	aristocrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 50
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 3013
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 737
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 49
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 491
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3440
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 884
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 34647
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 49
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8846
+	}
+
+}
+
+243 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 470
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 117
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1762
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 213
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 137
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 91
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 640
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 164
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 6447
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1646
+	}
+
+}
+
+77 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 2232
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 117
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 1013
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 287
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 19
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 191
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1340
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 344
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 13497
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 19
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3446
+	}
+
+}
+
+247 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 470
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 117
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1762
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 963
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 5
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 3771
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 96
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 374
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 53
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 5
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 80
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 17
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 11
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 80
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 20
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 807
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 206
+	}
+
+}
+
+66 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 470
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 117
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1762
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 1503
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 8
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 5886
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 150
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 584
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 83
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 8
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 125
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 313
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 47
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 31
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 220
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 56
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2217
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 566
+	}
+
+}
+
+67 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 270
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 67
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1012
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 1143
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 6
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 4476
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 114
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 444
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 63
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 6
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 95
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 11
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 52
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 13
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 525
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 134
+	}
+
+}
+
+69 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 210
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 52
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 787
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 783
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 4
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 3066
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 78
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 304
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 43
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 4
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 65
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 56
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 37
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 262
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 67
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2640
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 674
+	}
+
+}
+
+250 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 210
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 52
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 787
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 783
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 4
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 3066
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 78
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 304
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 43
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 4
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 65
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 713
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 101
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 6
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 67
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 472
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 121
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4755
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 6
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1214
+	}
+
+}
+
+249 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 247
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1402
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 603
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 3
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 2361
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 60
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 234
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 33
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 3
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 50
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 1713
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 146
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 97
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 682
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 175
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 6870
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1754
+	}
+
+}
+
+68 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 247
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1402
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 63
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 246
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 6
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 24
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 3
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 5
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 113
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 146
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 97
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 682
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 175
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 6870
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1754
+	}
+
+}
+
+61 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 210
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 52
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 787
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 1683
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 9
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 7591
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 168
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 654
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 93
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 9
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 140
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 71
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 47
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 332
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 85
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3345
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 854
+	}
+
+}
+
+48 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 210
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 52
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 787
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 603
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 3
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 2361
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 60
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 234
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 33
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 3
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 50
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 11
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 52
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 13
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 525
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 134
+	}
+
+}
+
+62 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 350
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 87
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1312
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 243
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 1
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 951
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 24
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 94
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 13
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 1
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 20
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 105
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 70
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 493
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 126
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4966
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1268
+	}
+
+}
+
+75 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 550
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 137
+	}
+
+	labourers = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 2062
+	}
+
+	serfs = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 63
+	}
+
+	officers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 246
+	}
+
+	soldiers = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 6
+	}
+
+	artisans = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 24
+	}
+
+	clergymen = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 3
+	}
+
+	bureaucrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_saxon
+		religion = orthodox
+		size = 5
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 15
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 10
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 73
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 18
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 736
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 188
+	}
+
+}
+
+71 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 712
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 37
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 413
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 180
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 120
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 843
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 216
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8491
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2168
+	}
+
+}
+
+72 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 712
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 37
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 1413
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 480
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 32
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 320
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2243
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 576
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 22591
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 32
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 5768
+	}
+
+}
+
+70 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 1662
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 87
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 1013
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 90
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 6
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 60
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 423
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 108
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4261
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 6
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1088
+	}
+
+}
+
+73 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 997
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 52
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 43
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 45
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 30
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 213
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 54
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2146
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 548
+	}
+
+}
+
+74 = {
+
+
+
+	serfs = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 2897
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = orthodox
+		size = 152
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 43
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 135
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 90
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 633
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 162
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 6376
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1628
+	}
+
+}
+
+
+
 223 = {
-
-
 
 	serfs = {
 		culture = native_american_minor
@@ -9517,80 +12741,80 @@
 }
 #became West Virginia in 1863
 #Wheeling (104000/26000 POPS)
-217 = {
-    aristocrats = {
-        culture = dixie
-        religion = protestant
-        size = 200
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = dixie
-        religion = protestant
-        size = 500
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = protestant
-        size = 1575
-    }
-
-    farmers = {
-        culture = dixie
-        religion = protestant
-        size = 9400
-    }
-
-    aristocrats = {
-        culture = dixie
-        religion = catholic
-        size = 50
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = dixie
-        religion = catholic
-        size = 200
-    }
-
-
-    farmers = {
-        culture = dixie
-        religion = catholic
-        size = 3625
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 11500
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = protestant
-        size = 250
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = protestant
-        size = 3500
-    }
-}
+#217 = {
+#    aristocrats = {
+#        culture = dixie
+#        religion = protestant
+#        size = 200
+#    }
+#
+#    clergymen = {
+#        culture = dixie
+#        religion = protestant
+#        size = 75
+#    }
+#
+#    artisans = {
+#        culture = dixie
+#        religion = protestant
+#        size = 500
+#    }
+#
+#    soldiers = {
+#        culture = dixie
+#        religion = protestant
+#        size = 1575
+#    }
+#
+#    farmers = {
+#        culture = dixie
+#        religion = protestant
+#        size = 9400
+#    }
+#
+#    aristocrats = {
+#        culture = dixie
+#        religion = catholic
+#        size = 50
+#    }
+#
+#    clergymen = {
+#        culture = dixie
+#        religion = catholic
+#        size = 75
+#    }
+#
+#    artisans = {
+#        culture = dixie
+#        religion = catholic
+#        size = 200
+#    }
+#
+#
+#    farmers = {
+#        culture = dixie
+#        religion = catholic
+#        size = 3625
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 11500
+#    }
+#
+#    farmers = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 250
+#    }
+#
+#    slaves = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 3500
+#    }
+#}
 #Huntington (100000/25000 POPS)
 218 = {
     aristocrats = {
@@ -9879,67 +13103,67 @@
 #    }
 #}
 #Hagerstown (56000/14000 POPS)
-221 = {
-    aristocrats = {
-        culture = dixie
-        religion = protestant
-        size = 150
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = dixie
-        religion = protestant
-        size = 325
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = protestant
-        size = 150
-    }
-
-    farmers = {
-        culture = dixie
-        religion = protestant
-        size = 5325
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 8000
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = protestant
-        size = 300
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = protestant
-        size = 1650
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = protestant
-        size = 1000
-    }
-}
+#221 = {
+#    aristocrats = {
+#        culture = dixie
+#        religion = protestant
+#        size = 150
+#    }
+#
+#    clergymen = {
+#        culture = dixie
+#        religion = protestant
+#        size = 50
+#    }
+#
+#    artisans = {
+#        culture = dixie
+#        religion = protestant
+#        size = 325
+#    }
+#
+#    soldiers = {
+#        culture = dixie
+#        religion = protestant
+#        size = 150
+#    }
+#
+#    farmers = {
+#        culture = dixie
+#        religion = protestant
+#        size = 5325
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 8000
+#    }
+#
+#    clergymen = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 50
+#    }
+#
+#    artisans = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 300
+#    }
+#
+#    farmers = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 1650
+#    }
+#
+#    slaves = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 1000
+#    }
+#}
 #Delaware Region (76000)
 #ruled by the USA
 #Dover (76000/19000 POPS)
@@ -10177,99 +13401,99 @@
 #    }
 #}
 #Coudersport - Formerly Fort Chimo (2400/600 POPS)
-2627 = {
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 500
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 14000
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = yankee
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = catholic
-        size = 55
-    }
-
-    farmers = {
-        culture = yankee
-        religion = catholic
-        size = 6225
-    }
-
-    clergymen = {
-        culture = irish
-        religion = catholic
-        size = 15
-    }
-
-    artisans = {
-        culture = irish
-        religion = catholic
-        size = 75
-    }
-
-    farmers = {
-        culture = irish
-        religion = catholic
-        size = 1000
-    }
-}
+#2627 = {
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 100
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 500
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 150
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 14000
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = catholic
+#        size = 25
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = catholic
+#        size = 200
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = catholic
+#        size = 55
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = catholic
+#        size = 6225
+#    }
+#
+#    clergymen = {
+#        culture = irish
+#        religion = catholic
+#        size = 15
+#    }
+#
+#    artisans = {
+#        culture = irish
+#        religion = catholic
+#        size = 75
+#    }
+#
+#    farmers = {
+#        culture = irish
+#        religion = catholic
+#        size = 1000
+#    }
+#}
 #Scranton (164000/41000 POPS)
-224 = {
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 300
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 2050
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 425
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 38225
-    }
-}
+#224 = {
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 300
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 2050
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 425
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 38225
+#    }
+#}
 #Williamsport (172000/43000 POPS)
 #225 = {
 #    clergymen = {
@@ -10323,91 +13547,91 @@
 #    }
 #}
 #Pittsburgh (332000/83000 POPS)
-227 = {
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 300
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 2250
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 400
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 37300
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = yankee
-        religion = catholic
-        size = 700
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = catholic
-        size = 120
-    }
-
-    farmers = {
-        culture = yankee
-        religion = catholic
-        size = 10500
-    }
-
-    clergymen = {
-        culture = irish
-        religion = catholic
-        size = 60
-    }
-
-    artisans = {
-        culture = irish
-        religion = catholic
-        size = 275
-    }
-
-    farmers = {
-        culture = irish
-        religion = catholic
-        size = 5525
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = protestant
-        size = 150
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = protestant
-        size = 2800
-    }
-}
+#227 = {
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 300
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 2250
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 400
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 37300
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = catholic
+#        size = 125
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = catholic
+#        size = 700
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = catholic
+#        size = 120
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = catholic
+#        size = 10500
+#    }
+#
+#    clergymen = {
+#        culture = irish
+#        religion = catholic
+#        size = 60
+#    }
+#
+#    artisans = {
+#        culture = irish
+#        religion = catholic
+#        size = 275
+#    }
+#
+#    farmers = {
+#        culture = irish
+#        religion = catholic
+#        size = 5525
+#    }
+#
+#    clergymen = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 50
+#    }
+#
+#    artisans = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 150
+#    }
+#
+#    farmers = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 2800
+#    }
+#}
 #Erie (108000/27000 POPS)
 228 = {
     clergymen = {
@@ -10613,153 +13837,153 @@
 #New York Region (2140000)
 #ruled by the USA
 #New York (440000/110000 POPS)
-232 = {
-    capitalists = {
-        culture = yankee
-        religion = protestant
-        size = 125
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 675
-    }
-
-    clerks = {
-        culture = yankee
-        religion = protestant
-        size = 125
-    }
-
-    craftsmen = {
-        culture = yankee
-        religion = protestant
-        size = 26500
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 10000
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 10000
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 10000
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 8375
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 2000
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 95125
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = yankee
-        religion = catholic
-        size = 4000
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = yankee
-        religion = catholic
-        size = 875
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = protestant
-        size = 4925
-    }
-
-    clergymen = {
-        culture = irish
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = irish
-        religion = catholic
-        size = 3950
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = yankee
-        religion = jewish
-        size = 490
-    }
-}
+#232 = {
+#    capitalists = {
+#        culture = yankee
+#        religion = protestant
+#        size = 125
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 675
+#    }
+#
+#    clerks = {
+#        culture = yankee
+#        religion = protestant
+#        size = 125
+#    }
+#
+#    craftsmen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 26500
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 10000
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 10000
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 10000
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 8375
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 2000
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 95125
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = catholic
+#        size = 75
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = catholic
+#        size = 4000
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = catholic
+#        size = 50
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = catholic
+#        size = 875
+#    }
+#
+#    clergymen = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 75
+#    }
+#
+#    artisans = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 4925
+#    }
+#
+#    clergymen = {
+#        culture = irish
+#        religion = catholic
+#        size = 50
+#    }
+#
+#    artisans = {
+#        culture = irish
+#        religion = catholic
+#        size = 3950
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = jewish
+#        size = 10
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = jewish
+#        size = 490
+#    }
+#}
 #Islip (100000/25000 POPS)
-233 = {
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 175
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 1250
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 250
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 23325
-    }
-}
+#233 = {
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 175
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 1250
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 250
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 23325
+#    }
+#}
 #Albany (332000/83000 POPS)
 #234 = {
 #    bureaucrats = {
@@ -10887,31 +14111,31 @@
     }
 }
 #Rochester (176000/44000 POPS)
-237 = {
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 325
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 2200
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 450
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 41025
-    }
-}
+#237 = {
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 325
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 2200
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 450
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 41025
+#    }
+#}
 #Syracuse (304000/76000 POPS)
 #238 = {
 #    clergymen = {
@@ -10993,373 +14217,373 @@
 #Connecticut Region (304000)
 #ruled by the USA
 #Hartford (304000/76000 POPS)
-241 = {
-    bureaucrats = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
-
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 75
-    }
-
-    capitalists = {
-        culture = yankee
-        religion = protestant
-        size = 15
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 550
-    }
-
-    clerks = {
-        culture = yankee
-        religion = protestant
-        size = 50
-    }
-
-    craftsmen = {
-        culture = yankee
-        religion = protestant
-        size = 550
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 3050
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 2000
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 66560
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = protestant
-        size = 500
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = protestant
-        size = 1475
-    }
-}
-#Rhode Island Region (104000)
-#ruled by the USA
-#Providence (104000/26000 POPS)
-242 = {
-    bureaucrats = {
-        culture = yankee
-        religion = protestant
-        size = 50
-    }
-
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 25
-    }
-
-    capitalists = {
-        culture = yankee
-        religion = protestant
-        size = 25
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 175
-    }
-
-    clerks = {
-        culture = yankee
-        religion = protestant
-        size = 75
-    }
-
-    craftsmen = {
-        culture = yankee
-        religion = protestant
-        size = 750
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 4175
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 250
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 19475
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = protestant
-        size = 500
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = protestant
-        size = 475
-    }
-}
-#Massachusetts Region (660000)
-#ruled by the USA
-#Boston (444000/111000 POPS)
-243 = {
-    bureaucrats = {
-        culture = yankee
-        religion = protestant
-        size = 300
-    }
-
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
-
-    capitalists = {
-        culture = yankee
-        religion = protestant
-        size = 350
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 675
-    }
-
-    clerks = {
-        culture = yankee
-        religion = protestant
-        size = 825
-    }
-
-    craftsmen = {
-        culture = yankee
-        religion = protestant
-        size = 16250
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 10000
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 10000
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 10000
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 10000
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 7925
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 2000
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 22145
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = catholic
-        size = 50
-    }
-
-    clerks = {
-        culture = yankee
-        religion = catholic
-        size = 50
-    }
-
-    craftsmen = {
-        culture = yankee
-        religion = catholic
-        size = 1100
-    }
-
-    artisans = {
-        culture = yankee
-        religion = catholic
-        size = 2950
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = catholic
-        size = 75
-    }
-
-    farmers = {
-        culture = yankee
-        religion = catholic
-        size = 2875
-    }
-
-    clergymen = {
-        culture = irish
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = irish
-        religion = catholic
-        size = 7000
-    }
-
-    farmers = {
-        culture = irish
-        religion = catholic
-        size = 925
-    }
-}
-#New Bedford (132000/33000 POPS)
-244 = {
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 225
-    }
-
-    clerks = {
-        culture = yankee
-        religion = protestant
-        size = 25
-    }
-
-    craftsmen = {
-        culture = yankee
-        religion = protestant
-        size = 300
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 1125
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 300
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 27025
-    }
-
-    clergymen = {
-        culture = irish
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = irish
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = irish
-        religion = catholic
-        size = 3950
-    }
-}
+#241 = {
+#    bureaucrats = {
+#        culture = yankee
+#        religion = protestant
+#        size = 150
+#    }
+#
+#    officers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 75
+#    }
+#
+#    capitalists = {
+#        culture = yankee
+#        religion = protestant
+#        size = 15
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 550
+#    }
+#
+#    clerks = {
+#        culture = yankee
+#        religion = protestant
+#        size = 50
+#    }
+#
+#    craftsmen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 550
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 3050
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 2000
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 66560
+#    }
+#
+#    clergymen = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 25
+#    }
+#
+#    artisans = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 500
+#    }
+#
+#    farmers = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 1475
+#    }
+#}
+##Rhode Island Region (104000)
+##ruled by the USA
+##Providence (104000/26000 POPS)
+#242 = {
+#    bureaucrats = {
+#        culture = yankee
+#        religion = protestant
+#        size = 50
+#    }
+#
+#    officers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 25
+#    }
+#
+#    capitalists = {
+#        culture = yankee
+#        religion = protestant
+#        size = 25
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 175
+#    }
+#
+#    clerks = {
+#        culture = yankee
+#        religion = protestant
+#        size = 75
+#    }
+#
+#    craftsmen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 750
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 4175
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 250
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 19475
+#    }
+#
+#    clergymen = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 25
+#    }
+#
+#    artisans = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 500
+#    }
+#
+#    farmers = {
+#        culture = afro_american
+#        religion = protestant
+#        size = 475
+#    }
+#}
+##Massachusetts Region (660000)
+##ruled by the USA
+##Boston (444000/111000 POPS)
+#243 = {
+#    bureaucrats = {
+#        culture = yankee
+#        religion = protestant
+#        size = 300
+#    }
+#
+#    officers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 150
+#    }
+#
+#    capitalists = {
+#        culture = yankee
+#        religion = protestant
+#        size = 350
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 675
+#    }
+#
+#    clerks = {
+#        culture = yankee
+#        religion = protestant
+#        size = 825
+#    }
+#
+#    craftsmen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 16250
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 10000
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 10000
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 10000
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 10000
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 7925
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 2000
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 22145
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = catholic
+#        size = 50
+#    }
+#
+#    clerks = {
+#        culture = yankee
+#        religion = catholic
+#        size = 50
+#    }
+#
+#    craftsmen = {
+#        culture = yankee
+#        religion = catholic
+#        size = 1100
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = catholic
+#        size = 2950
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = catholic
+#        size = 75
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = catholic
+#        size = 2875
+#    }
+#
+#    clergymen = {
+#        culture = irish
+#        religion = catholic
+#        size = 75
+#    }
+#
+#    artisans = {
+#        culture = irish
+#        religion = catholic
+#        size = 7000
+#    }
+#
+#    farmers = {
+#        culture = irish
+#        religion = catholic
+#        size = 925
+#    }
+#}
+##New Bedford (132000/33000 POPS)
+#244 = {
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 225
+#    }
+#
+#    clerks = {
+#        culture = yankee
+#        religion = protestant
+#        size = 25
+#    }
+#
+#    craftsmen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 300
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 1125
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 300
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 27025
+#    }
+#
+#    clergymen = {
+#        culture = irish
+#        religion = catholic
+#        size = 50
+#    }
+#
+#    artisans = {
+#        culture = irish
+#        religion = catholic
+#        size = 1100
+#    }
+#
+#    farmers = {
+#        culture = irish
+#        religion = catholic
+#        size = 3950
+#    }
+#}
 #Pittsfield (84000/21000 POPS)
-245 = {
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 1050
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 225
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 19575
-    }
-}
+#245 = {
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 150
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 1050
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 225
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 19575
+#    }
+#}
 #Vermont Region (284000)
 #ruled by the USA
 #Montpelier (284000/71000 POPS)
@@ -11427,210 +14651,210 @@
 #New Hampshire Region (276000)
 #ruled by the USA
 #Concord (POPS)
-247 = {
-    bureaucrats = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
-
-    capitalists = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
-
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 75
-    }
-
-    clerks = {
-        culture = yankee
-        religion = protestant
-        size = 25
-    }
-
-    craftsmen = {
-        culture = yankee
-        religion = protestant
-        size = 7000
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 1150
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 2925
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 2000
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 55700
-    }
-}
+#247 = {
+#    bureaucrats = {
+#        culture = yankee
+#        religion = protestant
+#        size = 150
+#    }
+#
+#    capitalists = {
+#        culture = yankee
+#        religion = protestant
+#        size = 100
+#    }
+#
+#    officers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 75
+#    }
+#
+#    clerks = {
+#        culture = yankee
+#        religion = protestant
+#        size = 25
+#    }
+#
+#    craftsmen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 7000
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 1150
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 2925
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 2000
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 55700
+#    }
+#}
 #Maine Region (432000)
 #ruled by the USA
 #Lewiston (240000/60000 POPS)
-248 = {
-    bureaucrats = {
-        culture = yankee
-        religion = protestant
-        size = 175
-    }
-
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 450
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 3000
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 600
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 55675
-    }
-}
+#248 = {
+#    bureaucrats = {
+#        culture = yankee
+#        religion = protestant
+#        size = 175
+#    }
+#
+#    officers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 100
+#    }
+#
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 450
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 3000
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 600
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 55675
+#    }
+#}
 #Bangor (156000/44000 POPS)
-249 = {
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 250
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 1900
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 375
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 35475
-    }
-
-    clergymen = {
-        culture = french_canadian
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = french_canadian
-        religion = catholic
-        size = 300
-    }
-
-    soldiers = {
-        culture = french_canadian
-        religion = catholic
-        size = 75
-    }
-
-    farmers = {
-        culture = french_canadian
-        religion = catholic
-        size = 5575
-    }
-}
-#ruled by the UK
-#Caribou (36000/9000 POPS)
-250 = {
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 250
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 4625
-    }
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 525
-    }
-
-    farmers = {
-        culture = french_canadian
-        religion = protestant
-        size = 2725
-    }
-
-}
-
+#249 = {
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 250
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 1900
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 375
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 35475
+#    }
+#
+#    clergymen = {
+#        culture = french_canadian
+#        religion = catholic
+#        size = 50
+#    }
+#
+#    artisans = {
+#        culture = french_canadian
+#        religion = catholic
+#        size = 300
+#    }
+#
+#    soldiers = {
+#        culture = french_canadian
+#        religion = catholic
+#        size = 75
+#    }
+#
+#    farmers = {
+#        culture = french_canadian
+#        religion = catholic
+#        size = 5575
+#    }
+#}
+##ruled by the UK
+##Caribou (36000/9000 POPS)
+#250 = {
+#    clergymen = {
+#        culture = yankee
+#        religion = protestant
+#        size = 75
+#    }
+#
+#    artisans = {
+#        culture = yankee
+#        religion = protestant
+#        size = 250
+#    }
+#
+#    soldiers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 50
+#    }
+#
+#    farmers = {
+#        culture = yankee
+#        religion = protestant
+#        size = 4625
+#    }
+#
+#    clergymen = {
+#        culture = anglo_canadian
+#        religion = protestant
+#        size = 50
+#    }
+#
+#    artisans = {
+#        culture = anglo_canadian
+#        religion = protestant
+#        size = 200
+#    }
+#
+#    soldiers = {
+#        culture = anglo_canadian
+#        religion = protestant
+#        size = 25
+#    }
+#
+#    farmers = {
+#        culture = anglo_canadian
+#        religion = protestant
+#        size = 525
+#    }
+#
+#    farmers = {
+#        culture = french_canadian
+#        religion = protestant
+#        size = 2725
+#    }
+#
+#}
+#
 #Cherskiy - Animas
 2662 = {
 
