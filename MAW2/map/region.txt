@@ -1107,11 +1107,11 @@ AUS_619 = { 619 620 621 622 624 616 617 633 } #Österreich
 
 AUS_623 = { 639 623 640 642 643 644 } #Transdanubia
 
-AUS_625 = { 625 626 631 } #Bohemia
+AUS_625 = { 625 626 627 628 629 630 } #Bohemia
 
-AUS_626 = { 627 628 629 630 } #Moravia/Sudetes
+#AUS_626 = {  } #Moravia/Sudetes
 
-AUS_627 = { 688 632 689 2584 } #Lower Silesia
+AUS_627 = { 688 632 689 2584 631 } #Lower Silesia
 
 AUS_633 = { 634 635 636 637 638 950 } #Slovakia
 

@@ -956,39 +956,39 @@
 #Troppau (104000/26000 POPS)
 688 = {
     bureaucrats = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 40
     }
 
     officers = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 450
     }
 
     soldiers = {
-        culture = polish
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     serfs = {
-        culture = polish
+        culture = wendish
         religion = orthodox
-        size = 5385
+        size = 10385
     }
 
     aristocrats = {
@@ -1030,7 +1030,7 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 17610
+        size = 12610
     }
 }
 #Teschen (116000/29000 POPS)

@@ -1,5 +1,6 @@
-owner = RTH
-controller = RTH
+owner = MOV
+controller = MOV
+add_core = MOV
 add_core = KPD
 add_core = WND
 trade_goods = coal

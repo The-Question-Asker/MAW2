@@ -1,6 +1,6 @@
 owner = CRA
 controller = CRA
 add_core = CRA
-trade_goods = timber
+trade_goods = coal
 life_rating = 35
 

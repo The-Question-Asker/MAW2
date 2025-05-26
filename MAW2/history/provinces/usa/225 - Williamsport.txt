@@ -1,6 +1,6 @@
 owner = AGU
 controller = AGU
 add_core = AGU
-trade_goods = coal
+trade_goods = iron
 life_rating = 35
 

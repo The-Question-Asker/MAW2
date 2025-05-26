@@ -1,6 +1,6 @@
 owner = LTH
 controller = LTH
 add_core = LTH
-trade_goods = grain
+trade_goods = iron
 life_rating = 35
 

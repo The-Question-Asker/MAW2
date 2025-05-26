@@ -1,6 +1,6 @@
 owner = STC
 controller = STC
 add_core = STC
-trade_goods = grain
+trade_goods = iron
 life_rating = 31
 

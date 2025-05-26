@@ -2,7 +2,7 @@ owner = WTL
 controller = WTL
 add_core = WTL
 colonial = 2
-trade_goods = iron
+trade_goods = cotton
 life_rating = 35
 
 

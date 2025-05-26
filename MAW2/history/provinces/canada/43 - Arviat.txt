@@ -1,5 +1,5 @@
 owner = PYR
 controller = PYR
 add_core = PYR
-trade_goods = cotton
+trade_goods = timber
 life_rating = 35
