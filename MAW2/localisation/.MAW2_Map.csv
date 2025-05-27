@@ -135,7 +135,7 @@ PROV1737;Antipyrgos;;;;;;;;;;;;;x
 PROV1736;Darnis;;;;;;;;;;;;;x
 PROV1735;Berenice;;;;;;;;;;;;;x
 PROV1734;Syrtis;;;;;;;;;;;;;x
-TUN_1726;Carthage;;;;;;;;;;;;;x
+TUN_1726;Africa;;;;;;;;;;;;;x #Carthage
 PROV1726;Utica;;;;;;;;;;;;;x
 PROV1728;Hadrumetum;;;;;;;;;;;;;x
 PROV1727;Capsa;;;;;;;;;;;;;x
@@ -169,7 +169,7 @@ POR_521;East Tarracon;;;;;;;;;;;;;x
 SPA_512;West Baetica;;;;;;;;;;;;;x
 SPA_513;East Baetica;;;;;;;;;;;;;x
 SPA_484;Lusitania Interior;;;;;;;;;;;;;x
-SPA_503;Cartagina;;;;;;;;;;;;;x
+SPA_503;Cartagena;;;;;;;;;;;;;x
 AUS_619;North Karantanija;;;;;;;;;;;;;x
 AUS_768;South Karantanija;;;;;;;;;;;;;x
 AUS_623;Pannonia;;;;;;;;;;;;;x
@@ -263,7 +263,7 @@ PROV2754;African Coast;;;;;;;;;;;;;x
 PROV2766;Gulf of Syrte;;;;;;;;;;;;;x
 PROV2767;Gulf of Cyrenaica;;;;;;;;;;;;;x
 PROV2773;Propontis;;;;;;;;;;;;;x
-PROV2508;New Naxos;;;;;;;;;;;;;x
+PROV2508;New Naxos;;;;;;;;;;;;;x ###### ABORIGINAL AUSTRALIA
 PROV2509;Te Tai Tokerau;;;;;;;;;;;;;x
 PROV2468;Kuring-Gai;;;;;;;;;;;;;x
 PROV2469;Worimi;;;;;;;;;;;;;x
@@ -503,3 +503,11 @@ HAN_534;Saxony;;;;;;;;;;;;x
 EGY_1755;Sina;;;;;;;;;;;;x
 EGY_1762;Middle Aegyptus;;;;;;;;;;;;x
 EGY_1771;Upper Aegyptus;;;;;;;;;;;;x
+north_america;North Columbia;;;;;;;;;;;;;
+south_america;South Columbia;;;;;;;;;;;;;
+africa;Libya;;;;;;;;;;;;;
+FRA_1700;Numidia;;;;;;;;;;;;;
+ALD_1704;East Mauretania;;;;;;;;;;;;;
+MOR_1686;West Mauretania;;;;;;;;;;;;;
+MOR_1688;Tingitana;;;;;;;;;;;;;
+MOR_1693;Wisimaria;;;;;;;;;;;;;

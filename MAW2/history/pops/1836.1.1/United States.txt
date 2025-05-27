@@ -6740,25 +6740,25 @@
 	artisans = {
 		culture = frankish_creole
 		religion = orthodox
-		size = 1140
+		size = 10140
 	}
 
 	clergymen = {
 		culture = frankish_creole
 		religion = orthodox
-		size = 76
+		size = 176
 	}
 
 	bureaucrats = {
 		culture = frankish_creole
 		religion = orthodox
-		size = 76
+		size = 176
 	}
 
 	aristocrats = {
 		culture = frankish_creole
 		religion = orthodox
-		size = 76
+		size = 576
 	}
 
 	slaves = {

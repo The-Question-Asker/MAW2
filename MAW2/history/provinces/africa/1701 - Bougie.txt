@@ -1,5 +1,6 @@
 owner = HNU
 controller = HNU
 add_core = HNU
+naval_base = 2
 trade_goods = grain
 life_rating = 35
