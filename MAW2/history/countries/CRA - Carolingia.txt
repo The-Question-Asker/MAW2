@@ -1,5 +1,5 @@
-capital = 20
-primary_culture = frankish
+capital = 55
+primary_culture = colonial_frankish
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0
