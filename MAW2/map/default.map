@@ -31,7 +31,7 @@ sea_starts = {
 	#2256
 }
 
-definitions = "../mod/MAW2/map/definition.csv"
+definitions = "../mod/MAW2/MAW2/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"

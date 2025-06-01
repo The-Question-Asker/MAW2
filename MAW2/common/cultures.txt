@@ -495,6 +495,114 @@ colonial_saxon_culture = {
     }
 }
 
+indigenous_peoples = {
+    leader = nativeamerican
+    unit = EuropeanGC
+	
+	iroquoian = {
+	  color = { 252 144 3 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	algonquian = {
+	  color = { 37 134 58 } 
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	siouan = {
+	  color = { 84 158 123 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	muskogean = {
+	  color = { 125 90 66 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	salishan = {
+	  color = { 145 18 9 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	athabaskan = {
+	  color = { 71 31 102 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	eskaleut = {
+	  color = { 188 197 214 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	caddoan = {
+	  color = { 183 204 100 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	penutian = {
+	  color = { 153 113 151 }
+        	first_names = { }
+
+			last_names = {  }
+    }	
+	
+	hokan = {
+	  color = { 84 122 158 }
+        	first_names = { }
+
+			last_names = {  }
+    }	
+	
+	keresan = {
+	  color = { 199 135 147 }
+        	first_names = { }
+
+			last_names = {  }
+    }	
+	
+	arawakan = {
+	  color = { 68 128 121 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	numic = { #uto
+	  color = { 191 140 29 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	aztlanic = { #aztecan
+	  color = { 156 68 119 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+#### SPECIFIC CULTURES
+
+
+
+}
+
 
 ###############################
 ########## VANILLA ############
