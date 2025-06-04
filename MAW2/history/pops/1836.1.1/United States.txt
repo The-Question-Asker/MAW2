@@ -16977,6 +16977,8 @@
         religion = animist
         size = 17450
     }
+	
+}
 
 #Roanoke (120000/30000 POPS)
 216 = {
