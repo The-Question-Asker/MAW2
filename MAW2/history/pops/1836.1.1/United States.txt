@@ -1,3 +1,115 @@
+
+32 = {
+
+
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 140
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 1099
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 98
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 14
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 21
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+}
+
+
+
 176 = {
 
 
