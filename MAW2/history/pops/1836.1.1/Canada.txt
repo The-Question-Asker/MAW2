@@ -226,38 +226,38 @@
 2595 = {
 
     aristocrats = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 2
     }
 
     aristocrats = {
         culture = algonquian
-        religion = protestant
+        religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
@@ -273,32 +273,32 @@
 #Vancouver (12000/3000 POPS)
 13 = {
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
     officers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 50
     }
 
@@ -313,38 +313,38 @@
 14 = {
 
     aristocrats = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
     aristocrats = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 50
     }
 
@@ -357,26 +357,26 @@
 #Prince Rupert (8000/2000 POPS)
 15 = {
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
@@ -390,26 +390,26 @@
 16 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
@@ -422,26 +422,26 @@
 #Atlin (4000/1000 POPS)
 17 = {
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
@@ -486,26 +486,26 @@
 #Prince George (8000/2000 POPS)
 19 = {
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -518,26 +518,26 @@
 #Kelowna (8000/2000 POPS)
 20 = {
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -551,26 +551,26 @@
 21 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -619,32 +619,32 @@
 22 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = animist
         size = 1000
     }
 
@@ -696,26 +696,26 @@
 24 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -727,7 +727,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = animist
         size = 1615
     }
 }
@@ -735,26 +735,26 @@
 25 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -774,32 +774,32 @@
 26 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = animist
         size = 580
     }
 
@@ -813,56 +813,56 @@
 27 = {
 
     aristocrats = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 2
     }
 
     aristocrats = {
         culture = metis
-        religion = catholic
+        religion = animist
         size = 5
     }
 
     aristocrats = {
         culture = algonquian
-        religion = catholic
+        religion = animist
         size = 20
     }
 
     aristocrats = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     officers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -874,7 +874,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = animist
         size = 185
     }
 }
@@ -882,32 +882,32 @@
 28 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
     farmers = {
         culture = algonquian
-        religion = catholic
+        religion = animist
         size = 1000
     }
 
@@ -950,136 +950,10 @@
         size = 715
     }
 }
-#Saskatchewan Region : 44000
-#uncolonized in 1836
-#Regina (12000/3000 POPS)
-30 = {
 
-    aristocrats = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 2
-    }
-
-    aristocrats = {
-        culture = metis
-        religion = catholic
-        size = 5
-    }
-
-    aristocrats = {
-        culture = algonquian
-        religion = catholic
-        size = 20
-    }
-
-    aristocrats = {
-        culture = native_american_minor
-        religion = catholic
-        size = 20
-    }
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    officers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 15
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 1950
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 1000
-    }
-}
 #Stanley (4000/1000 POPS)
 31 = {
     aristocrats = {
-        culture = native_american_minor
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = native_american_minor
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = native_american_minor
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 900
-    }
-}
-#Prince Albert (8000/2000 POPS)
-32 = {
-    clergymen = {
-        culture = metis
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = metis
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = metis
-        religion = catholic
-        size = 15
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 910
-    }
-
-    aristocrats = {
         culture = algonquian
         religion = animist
         size = 10
@@ -1108,195 +982,80 @@
         religion = animist
         size = 900
     }
+	
+    farmers = {
+        culture = siouan
+        religion = animist
+        size = 900
+    }
 }
+
 #Asquith (8000/2000 POPS)
 33 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 15
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = algonquian
+        culture = siouan
         religion = animist
-        size = 1000
-    }
-}
-#Saskatoon (8000/2000 POPS)
-34 = {
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 15
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = algonquian
+        culture = siouan
         religion = animist
-        size = 1000
-    }
-}
-#Maple algonquiank (4000/1000 POPS)
-35 = {
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 15
-    }
-
-    farmers = {
-        culture = native_american_minor
+        culture = siouan
         religion = animist
-        size = 950
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 655
-    }
-}
-#Manitoba Region : 52000
-#uncolonized in 1836
-#Winnipeg (12000/3000 POPS)
-36 = {
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = siouan
+        religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = siouan
         religion = animist
         size = 1000
     }
 
     farmers = {
-        culture = metis
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = metis
-        religion = protestant
+        culture = siouan
+        religion = animist
         size = 1000
     }
 }
+
+
+
 #Churchill (4000/1000 POPS)
 37 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
@@ -1312,280 +1071,34 @@
         size = 240
     }
 }
-#Indian Lakes (4000/1000 POPS)
-38 = {
-    aristocrats = {
-        culture = native_american_minor
-        religion = animist
-        size = 10
-    }
 
-    clergymen = {
-        culture = native_american_minor
-        religion = animist
-        size = 25
-    }
 
-    artisans = {
-        culture = native_american_minor
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 500
-    }
-
-    farmers = {
-        culture = eskaleut
-        religion = animist
-        size = 400
-    }
-}
-#Norway House (8000/2000 POPS)
-39 = {
-    aristocrats = {
-        culture = algonquian
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = algonquian
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = algonquian
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = algonquian
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = algonquian
-        religion = animist
-        size = 900
-    }
-
-    clergymen = {
-        culture = metis
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = metis
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = metis
-        religion = catholic
-        size = 15
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 910
-    }
-}
-#Dauphin (8000/2000 POPS)
-40 = {
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 15
-    }
-
-    farmers = {
-        culture = algonquian
-        religion = animist
-        size = 1000
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 1000
-    }
-}
-#Brandon (8000/2000 POPS)
-41 = {
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 15
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 1000
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 1000
-    }
-}
-#Pembina (8000/2000 POPS)
-42 = {
-
-    aristocrats = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 2
-    }
-
-    aristocrats = {
-        culture = metis
-        religion = catholic
-        size = 5
-    }
-
-    aristocrats = {
-        culture = algonquian
-        religion = catholic
-        size = 20
-    }
-
-    aristocrats = {
-        culture = native_american_minor
-        religion = catholic
-        size = 20
-    }
-
-    aristocrats = {
-        culture = eskaleut
-        religion = catholic
-        size = 20
-    }
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    officers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 15
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 1000
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 1000
-    }
-
-}
 #Ontario Region : 448000
 #uncolonized in 1836
 #Fort Severn (2800/700 POPS)
 47 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
@@ -1599,26 +1112,26 @@
 #48 = {
 #
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 3
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 3
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 3
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 10
 #    }
 #
@@ -1632,44 +1145,44 @@
 49 = {
 
     aristocrats = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 2
     }
 
     aristocrats = {
         culture = metis
-        religion = catholic
+        religion = animist
         size = 5
     }
 
     aristocrats = {
         culture = algonquian
-        religion = catholic
+        religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 2
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -1681,7 +1194,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = animist
         size = 1000
     }
 }
@@ -1689,26 +1202,26 @@
 #50 = {
 #
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 20
 #    }
 #
@@ -1728,26 +1241,26 @@
 #51 = {
 #
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 20
 #    }
 #
@@ -1767,26 +1280,26 @@
 #52 = {
 #
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 10
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 20
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
@@ -1799,26 +1312,26 @@
 #Barrie (4000/1000 POPS)
 #53 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 15
 #    }
 #
@@ -1833,26 +1346,26 @@
 2594 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 10
     }
 
@@ -1868,208 +1381,208 @@
 #Toronto (172000/43000 POPS)
 #46 = {
 #    aristocrats = {
-#        culture = french_canadian
-#        religion = catholic
-#        size = 30
-#    }
-#
-#    aristocrats = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 30
 #    }
 #
 #    aristocrats = {
 #        culture = native_american_minor
-#        religion = protestant
+#        religion = animist
+#        size = 30
+#    }
+#
+#    aristocrats = {
+#        culture = native_american_minor
+#        religion = animist
 #        size = 15
 #    }
 #
 #    aristocrats = {
 #        culture = algonquian
-#        religion = protestant
+#        religion = animist
 #        size = 15
 #    }
 #
 #    bureaucrats = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 250
 #    }
 #
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 250
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 2500
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1100
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 39000
 #    }
 #}
 #Windsor (36000/9000 POPS)
 #54 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 500
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    labourers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 8350
 #    }
 #}
 #Hamilton (68000/17000 POPS)
 #55 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1100
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 200
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 15700
 #    }
 #}
 #Kingston (72000/18000 POPS)
 #56 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 150
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1750
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 175
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 13925
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 25
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 250
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 25
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1700
 #    }
 #}
 ##Ottawa (44000/11000 POPS)
 #57 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 300
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 6550
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 200
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 3700
 #    }
 #
@@ -2113,44 +1626,44 @@
 2592 = {
 
     aristocrats = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     aristocrats = {
         culture = algonquian
-        religion = catholic
+        religion = animist
         size = 20
     }
 
     aristocrats = {
         culture = eskaleut
-        religion = catholic
+        religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -2234,26 +1747,26 @@
 2593 = {
 
     clergymen = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = french_canadian
-        religion = catholic
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -2273,74 +1786,74 @@
 #58 - Montreal (248000/62000 POPS)
 #58 = {
 #    aristocrats = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 30
 #    }
 #
 #    bureaucrats = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 200
 #    }
 #
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 125
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5000
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 250
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 13425
 #    }
 #
 #    aristocrats = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 30
 #    }
 #
 #    bureaucrats = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 500
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 6000
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 400
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 36000
 #    }
 #}
@@ -2377,26 +1890,26 @@
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 25
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1825
 #    }
 #}
@@ -2433,26 +1946,26 @@
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 25
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 10
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 915
 #    }
 #}
@@ -2489,154 +2002,154 @@
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 75
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 150
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 25
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 2750
 #    }
 #}
 ##Trois-Rivieres (68000/17000 POPS)
 #64 = {
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 175
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1100
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 150
 #    }
 #
 #    labourers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 15675
 #    }
 #}
 ##Quebec City (188000/47000 POPS)
 #65 = {
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 500
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 5000
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 500
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 41000
 #    }
 #}
 #Sherbrooke (68000/17000 POPS)
 #66 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 400
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 4450
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 250
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 700
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 150
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 10900
 #    }
 #}
 #Riviere du Loup (56000/14000 POPS)
 #67 = {
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 150
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 750
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 150
 #    }
 #
 #    labourers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 4500
 #    }
 #
@@ -2646,56 +2159,56 @@
 #Fredericton (84000/21000 POPS)
 #68 = {
 #    bureaucrats = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 75
 #    }
 #
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 275
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 750
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 150
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 17000
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 150
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 350
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 10650
 #    }
 #}
@@ -2703,35 +2216,35 @@
 #69 = {
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 491
 #    }
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 63
 #    }
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 30
 #
 #    }
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 4660
 #    }
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1053
 #
 #    }
 #    farmers = {
 #        culture = yankee
-#        religion = protestant
+#        religion = animist
 #        size = 2501
 #    }
 #
@@ -2741,26 +2254,26 @@
 #Prince Edward Island (32000/8000 POPS)
 #70 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1500
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 6350
 #    }
 #}
@@ -2769,102 +2282,102 @@
 ##Halifax (83000/20750 POPS)
 #71 = {
 #    bureaucrats = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 4000
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 200
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 14600
 #    }
 #
 #    labourers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1100
 #    }
 #
 #    labourers = {
 #        culture = afro_american
-#        religion = protestant
+#        religion = animist
 #        size = 750
 #    }
 #}
 ##Truro (44000/11000 POPS)
 #72 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 750
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 125
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 9075
 #    }
 #
 #    labourers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 1100
 #    }
 #}
 ##Cape Breton Island (20000/5000 POPS)
 #73 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 250
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 4650
 #    }
 #
@@ -2874,154 +2387,154 @@
 ##Saint John's (52000/13000 POPS)
 #74 = {
 #    aristocrats = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    bureaucrats = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 75
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 2000
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 2525
 #    }
 #
 #    aristocrats = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 100
 #    }
 #
 #    clergymen = {
 #        culture = irish
-#        religion = catholic
+#        religion = animist
 #        size = 100
 #    }
 #
 #    artisans = {
 #        culture = irish
-#        religion = catholic
+#        religion = animist
 #        size = 2000
 #    }
 #
 #    farmers = {
 #        culture = irish
-#        religion = catholic
+#        religion = animist
 #        size = 6900
 #    }
 #}
 #Millertown/Port-Aux-basques (24000/6000 POPS)
 #75 = {
 #    clergymen = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 75
 #    }
 #
 #    artisans = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 250
 #    }
 #
 #    soldiers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    farmers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 4425
 #    }
 #
 #    clergymen = {
 #        culture = irish
-#        religion = catholic
+#        religion = animist
 #        size = 100
 #    }
 #
 #    artisans = {
 #        culture = irish
-#        religion = catholic
+#        religion = animist
 #        size = 100
 #    }
 #
 #    farmers = {
 #        culture = irish
-#        religion = catholic
+#        religion = animist
 #        size = 800
 #    }
 #
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    artisans = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    soldiers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #
 #    farmers = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 50
 #    }
 #}
@@ -3029,26 +2542,26 @@
 76 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -3068,26 +2581,26 @@
 2625 = {
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = native_american_minor
+        religion = animist
         size = 15
     }
 
@@ -3102,32 +2615,32 @@
 #Saint Pierre (2000/500 POPS)
 #77 = {
 #    clergymen = {
-#        culture = french_canadian
-#        religion = catholic
+#        culture = native_american_minor
+#        religion = animist
 #        size = 4
 #    }
 #
 #    clergymen = {
 #        culture = french
-#        religion = catholic
+#        religion = animist
 #        size = 1
 #    }
 #
 #    artisans = {
 #        culture = basque
-#        religion = catholic
+#        religion = animist
 #        size = 45
 #    }
 #
 #    labourers = {
 #        culture = breton
-#        religion = catholic
+#        religion = animist
 #        size = 40
 #    }
 #
 #    labourers = {
-#        culture = anglo_canadian
-#        religion = protestant
+#        culture = native_american_minor
+#        religion = animist
 #        size = 10
 #    }
 #

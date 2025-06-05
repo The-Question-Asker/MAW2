@@ -1,16 +1,2830 @@
+176 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 10
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 2
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 37
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 240
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 1884
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 43
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 168
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 24
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 36
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 141
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 36
+	}
+
+}
+
+174 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 10
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 2
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 37
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 3
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 2355
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 53
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 210
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 3
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 45
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 141
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 36
+	}
+
+}
+
+130 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 400
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 100
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 1500
+	}
+
+	slaves = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 30
+	}
+
+	artisans = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 225
+	}
+
+	clergymen = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 15
+	}
+
+	bureaucrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 15
+	}
+
+	aristocrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 15
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 785
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 70
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 15
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 2075
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 600
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 40
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 400
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2800
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 720
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 28200
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 40
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 7200
+	}
+
+}
+
+127 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 240
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 60
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 900
+	}
+
+	slaves = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 750
+	}
+
+	clergymen = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 50
+	}
+
+	aristocrats = {
+		culture = frankish_creole
+		religion = orthodox
+		size = 50
+	}
+
+	officers = {
+		culture = siouan
+		religion = animist
+		size = 0
+	}
+
+	slaves = {
+		culture = siouan
+		religion = animist
+		size = 80
+	}
+
+	farmers = {
+		culture = siouan
+		religion = animist
+		size = 628
+	}
+
+	soldiers = {
+		culture = siouan
+		religion = animist
+		size = 14
+	}
+
+	artisans = {
+		culture = siouan
+		religion = animist
+		size = 56
+	}
+
+	clergymen = {
+		culture = siouan
+		religion = animist
+		size = 8
+	}
+
+	bureaucrats = {
+		culture = siouan
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = siouan
+		religion = animist
+		size = 12
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 5075
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1065
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 71
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 710
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4970
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1278
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 50055
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 71
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 12780
+	}
+
+}
+
+128 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 200
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 50
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 750
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 1570
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 36
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 140
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 30
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 575
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 300
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 20
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 200
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1400
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 360
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14100
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 20
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3600
+	}
+
+}
+
+129 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 20
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 5
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 75
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 280
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 2198
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 196
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 28
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 42
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 15
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 56
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 564
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 144
+	}
+
+}
+
+131 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 20
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 5
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 75
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 290
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 2276
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 52
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 203
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 29
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 43
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 15
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 141
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 36
+	}
+
+}
+
+126 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 34
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 8
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 127
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 290
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 2276
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 52
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 203
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 29
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 43
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 85
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 18
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 84
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 21
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 846
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 216
+	}
+
+}
+
+36 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 94
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 23
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 352
+	}
+
+	officers = {
+		culture = siouan
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = siouan
+		religion = animist
+		size = 190
+	}
+
+	farmers = {
+		culture = siouan
+		religion = animist
+		size = 1491
+	}
+
+	soldiers = {
+		culture = siouan
+		religion = animist
+		size = 34
+	}
+
+	artisans = {
+		culture = siouan
+		religion = animist
+		size = 133
+	}
+
+	clergymen = {
+		culture = siouan
+		religion = animist
+		size = 19
+	}
+
+	bureaucrats = {
+		culture = siouan
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = siouan
+		religion = animist
+		size = 28
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 785
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 70
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 15
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 85
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 18
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 84
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 21
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 846
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 216
+	}
+
+}
+
+42 = {
+
+
+
+	farmers = {
+		culture = siouan
+		religion = orthodox
+		size = 94
+	}
+
+	slaves = {
+		culture = siouan
+		religion = orthodox
+		size = 23
+	}
+
+	labourers = {
+		culture = siouan
+		religion = orthodox
+		size = 352
+	}
+
+	officers = {
+		culture = siouan
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = siouan
+		religion = animist
+		size = 240
+	}
+
+	farmers = {
+		culture = siouan
+		religion = animist
+		size = 1884
+	}
+
+	soldiers = {
+		culture = siouan
+		religion = animist
+		size = 43
+	}
+
+	artisans = {
+		culture = siouan
+		religion = animist
+		size = 168
+	}
+
+	clergymen = {
+		culture = siouan
+		religion = animist
+		size = 24
+	}
+
+	bureaucrats = {
+		culture = siouan
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = siouan
+		religion = animist
+		size = 36
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 0
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 60
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 471
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 42
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 6
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 9
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 85
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 56
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 564
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 144
+	}
+
+}
+
+41 = {
+
+
+
+	farmers = {
+		culture = siouan
+		religion = orthodox
+		size = 94
+	}
+
+	slaves = {
+		culture = siouan
+		religion = orthodox
+		size = 23
+	}
+
+	labourers = {
+		culture = siouan
+		religion = orthodox
+		size = 352
+	}
+
+	officers = {
+		culture = siouan
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = siouan
+		religion = animist
+		size = 240
+	}
+
+	farmers = {
+		culture = siouan
+		religion = animist
+		size = 1884
+	}
+
+	soldiers = {
+		culture = siouan
+		religion = animist
+		size = 43
+	}
+
+	artisans = {
+		culture = siouan
+		religion = animist
+		size = 168
+	}
+
+	clergymen = {
+		culture = siouan
+		religion = animist
+		size = 24
+	}
+
+	bureaucrats = {
+		culture = siouan
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = siouan
+		religion = animist
+		size = 36
+	}
+
+	slaves = {
+		culture = afro_frankish
+		religion = orthodox
+		size = 85
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 56
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 564
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 144
+	}
+
+}
+
+124 = {
+
+
+	officers = {
+		culture = siouan
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = siouan
+		religion = animist
+		size = 140
+	}
+
+	farmers = {
+		culture = siouan
+		religion = animist
+		size = 1099
+	}
+
+	soldiers = {
+		culture = siouan
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = siouan
+		religion = animist
+		size = 98
+	}
+
+	clergymen = {
+		culture = siouan
+		religion = animist
+		size = 14
+	}
+
+	bureaucrats = {
+		culture = siouan
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = siouan
+		religion = animist
+		size = 21
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 180
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 1413
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 32
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 126
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 18
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 27
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+}
+
+125 = {
+
+
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 210
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 1648
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 37
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 147
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 21
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 31
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+}
+
+40 = {
+
+
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 240
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 1884
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 43
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 168
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 24
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 36
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 15
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 155
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 39
+	}
+
+}
+
+39 = {
+
+
+
+	officers = {
+		culture = siouan
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = siouan
+		religion = animist
+		size = 140
+	}
+
+	farmers = {
+		culture = siouan
+		religion = animist
+		size = 1099
+	}
+
+	soldiers = {
+		culture = siouan
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = siouan
+		religion = animist
+		size = 98
+	}
+
+	clergymen = {
+		culture = siouan
+		religion = animist
+		size = 14
+	}
+
+	bureaucrats = {
+		culture = siouan
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = siouan
+		religion = animist
+		size = 21
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 140
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 1099
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 98
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 14
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 21
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 4
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 42
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 10
+	}
+
+}
+
+38 = {
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 294
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 73
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 1102
+	}
+
+	officers = {
+		culture = siouan
+		religion = animist
+		size = 0
+	}
+
+	slaves = {
+		culture = siouan
+		religion = animist
+		size = 20
+	}
+
+	farmers = {
+		culture = siouan
+		religion = animist
+		size = 157
+	}
+
+	soldiers = {
+		culture = siouan
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = siouan
+		religion = animist
+		size = 14
+	}
+
+	clergymen = {
+		culture = siouan
+		religion = animist
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = siouan
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = siouan
+		religion = animist
+		size = 3
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 0
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 40
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 314
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 28
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 4
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 6
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 120
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 80
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 564
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 145
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 5682
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1450
+	}
+
+}
+
+30 = {
+
+
+
+	farmers = {
+		culture = algonquian
+		religion = orthodox
+		size = 34
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = orthodox
+		size = 8
+	}
+
+	labourers = {
+		culture = algonquian
+		religion = orthodox
+		size = 127
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 240
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 1884
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 43
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 168
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 24
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 36
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 15
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 10
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 74
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 19
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 747
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 190
+	}
+
+}
+
+34 = {
+
+
+
+	officers = {
+		culture = siouan
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = siouan
+		religion = animist
+		size = 120
+	}
+
+	farmers = {
+		culture = siouan
+		religion = animist
+		size = 942
+	}
+
+	soldiers = {
+		culture = siouan
+		religion = animist
+		size = 21
+	}
+
+	artisans = {
+		culture = siouan
+		religion = animist
+		size = 84
+	}
+
+	clergymen = {
+		culture = siouan
+		religion = animist
+		size = 12
+	}
+
+	bureaucrats = {
+		culture = siouan
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = siouan
+		religion = animist
+		size = 18
+	}
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 140
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 1099
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 98
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 14
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 21
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1
+	}
+
+}
+
+2630 = {
+
+
+
+	officers = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = algonquian
+		religion = animist
+		size = 280
+	}
+
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 2198
+	}
+
+	soldiers = {
+		culture = algonquian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquian
+		religion = animist
+		size = 196
+	}
+
+	clergymen = {
+		culture = algonquian
+		religion = animist
+		size = 28
+	}
+
+	bureaucrats = {
+		culture = algonquian
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = algonquian
+		religion = animist
+		size = 42
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 31
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 21
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 147
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 37
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 1480
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 378
+	}
+
+}
+
+35 = {
+
+
+
+	officers = {
+		culture = siouan
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = siouan
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = siouan
+		religion = animist
+		size = 1962
+	}
+
+	soldiers = {
+		culture = siouan
+		religion = animist
+		size = 45
+	}
+
+	artisans = {
+		culture = siouan
+		religion = animist
+		size = 175
+	}
+
+	clergymen = {
+		culture = siouan
+		religion = animist
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = siouan
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = siouan
+		religion = animist
+		size = 37
+	}
+
+	aristocrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 46
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 31
+	}
+
+
+	artisans = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 217
+	}
+
+
+	soldiers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 55
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 2185
+	}
+
+
+	officers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	farmers = {
+		 culture = colonial_frankish
+		 religion = orthodox
+		 size = 558
+	}
+
+}
+
+
 
 135 = {
 
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 112
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 637
 	}
@@ -113,13 +2927,13 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 187
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1062
 	}
@@ -222,13 +3036,13 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 187
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1062
 	}
@@ -331,13 +3145,13 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 262
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1487
 	}
@@ -440,13 +3254,13 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 112
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 637
 	}
@@ -519,61 +3333,61 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 112
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 637
 	}
 
 	officers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 0
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 35
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 274
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 6
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 24
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 3
 	}
 
 	bureaucrats = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 0
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 5
 	}
@@ -646,61 +3460,61 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 112
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 637
 	}
 
 	officers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 7
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 735
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 5769
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 132
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 514
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 73
 	}
 
 	bureaucrats = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 7
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 110
 	}
@@ -767,61 +3581,61 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 112
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 637
 	}
 
 	officers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 6
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 635
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 4984
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 444
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 63
 	}
 
 	bureaucrats = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 6
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 95
 	}
@@ -888,61 +3702,61 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 37
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 212
 	}
 
 	officers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 4
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 435
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 3414
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 78
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 304
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 43
 	}
 
 	bureaucrats = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 4
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 65
 	}
@@ -1009,61 +3823,61 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 37
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 212
 	}
 
 	officers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 4
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 435
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 3414
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 78
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 304
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 43
 	}
 
 	bureaucrats = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 4
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 65
 	}
@@ -1130,61 +3944,67 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 97
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 552
 	}
 
 	officers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 6
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
 		size = 605
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = animist
-		size = 4749
+		size = 2749
+	}
+	
+	farmers = {
+		culture = algonquian
+		religion = animist
+		size = 2049
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 108
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 423
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 60
 	}
 
 	bureaucrats = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 6
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 90
 	}
@@ -1251,61 +4071,61 @@
 
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 157
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 892
 	}
 
 	officers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 4
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 405
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 3179
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 72
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 283
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 40
 	}
 
 	bureaucrats = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 4
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = animist
 		size = 60
 	}
@@ -1374,13 +4194,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 247
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 1402
 	}
@@ -1483,19 +4303,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 750
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 187
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 2812
 	}
@@ -1568,13 +4388,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 97
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 552
 	}
@@ -1677,13 +4497,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 2327
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 122
 	}
@@ -1786,13 +4606,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 712
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 37
 	}
@@ -1895,13 +4715,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 712
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 37
 	}
@@ -2004,19 +4824,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 750
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 187
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 2812
 	}
@@ -2083,13 +4903,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 67
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 382
 	}
@@ -2192,13 +5012,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 22
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 127
 	}
@@ -2301,13 +5121,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 157
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 892
 	}
@@ -2410,19 +5230,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 210
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 52
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 787
 	}
@@ -2786,13 +5606,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 52
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 297
 	}
@@ -2895,13 +5715,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 2662
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 87
 	}
@@ -2974,13 +5794,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 37
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 212
 	}
@@ -3083,13 +5903,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 37
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 212
 	}
@@ -3192,13 +6012,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 37
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 212
 	}
@@ -3495,13 +6315,13 @@
 221 = {
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 277
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1572
 	}
@@ -3606,13 +6426,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 5757
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 92
 	}
@@ -3685,13 +6505,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 5557
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 292
 	}
@@ -3764,13 +6584,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 5557
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 292
 	}
@@ -3843,13 +6663,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 6507
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 342
 	}
@@ -3922,13 +6742,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 2707
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 142
 	}
@@ -4031,13 +6851,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 332
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 17
 	}
@@ -4267,13 +7087,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 2232
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 117
 	}
@@ -4765,19 +7585,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 470
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 117
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1762
 	}
@@ -5056,19 +7876,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 470
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 117
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1762
 	}
@@ -5189,19 +8009,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 270
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 67
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1012
 	}
@@ -5316,19 +8136,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 210
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 52
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 787
 	}
@@ -5443,19 +8263,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 210
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 52
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 787
 	}
@@ -5576,13 +8396,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 247
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1402
 	}
@@ -5703,13 +8523,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 247
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1402
 	}
@@ -5830,19 +8650,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 210
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 52
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 787
 	}
@@ -5957,19 +8777,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 210
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 52
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 787
 	}
@@ -6084,19 +8904,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 350
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 87
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1312
 	}
@@ -6211,19 +9031,19 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 550
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 137
 	}
 
 	labourers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 2062
 	}
@@ -6338,13 +9158,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 712
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 37
 	}
@@ -6417,13 +9237,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 712
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 37
 	}
@@ -6496,13 +9316,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1662
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 87
 	}
@@ -6575,13 +9395,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 997
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 52
 	}
@@ -6654,13 +9474,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 2897
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 152
 	}
@@ -6733,13 +9553,13 @@
 223 = {
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 67
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 382
 	}
@@ -6860,13 +9680,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 517
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 2932
 	}
@@ -6969,49 +9789,49 @@
 
 
 	officers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 6
 	}
 
 	craftsmen = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1164
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 4515
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 116
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 451
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 64
 	}
 
 	bureaucrats = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 6
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 96
 	}
@@ -7114,13 +9934,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 127
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 722
 	}
@@ -7223,13 +10043,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 277
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 1572
 	}
@@ -7332,13 +10152,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 427
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 2422
 	}
@@ -7441,13 +10261,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 127
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 722
 	}
@@ -7580,13 +10400,13 @@
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 727
 	}
 
 	serfs = {
-		culture = native_american_minor
+		culture = algonquian
 		religion = orthodox
 		size = 4122
 	}
@@ -7659,13 +10479,13 @@
 
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 577
 	}
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 3272
 	}
@@ -7738,25 +10558,25 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 7457
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 392
 	}
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 5557
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 292
 	}
@@ -7883,13 +10703,13 @@
 	}
 
 	serfs = {
-		 culture = native_american_minor
+		 culture = iroquoian
 		 religion = orthodox
 		 size = 6066
 	}
 
 	serfs = {
-		 culture = native_american_minor
+		 culture = iroquoian
 		 religion = orthodox
 		 size = 6866
 	}
@@ -7901,13 +10721,13 @@
 
 
 	serfs = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 4607
 	}
 
 	slaves = {
-		culture = native_american_minor
+		culture = iroquoian
 		religion = orthodox
 		size = 242
 	}
@@ -11032,61 +13852,61 @@
 3 = {
 
     clergymen = {
-        culture = eskaleut
-        religion = orthodox
+        culture = algonquian
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = eskaleut
-        religion = orthodox
+        culture = algonquian
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = eskaleut
-        religion = orthodox
+        culture = algonquian
+        religion = animist
         size = 10
     }
 
     farmers = {
-        culture = eskaleut
-        religion = orthodox
+        culture = algonquian
+        religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = eskaleut
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = eskaleut
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = eskaleut
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = eskaleut
+        culture = algonquian
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = eskaleut
+        culture = algonquian
         religion = animist
-        size = 405
+        size = 1405
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = siouan
         religion = animist
         size = 100
     }
@@ -11095,20 +13915,20 @@
 4 = {
 
     clergymen = {
-        culture = eskaleut
-        religion = orthodox
+        culture = siouan
+        religion = animist
         size = 5
     }
 
     artisans = {
-        culture = eskaleut
-        religion = orthodox
+        culture = siouan
+        religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = eskaleut
-        religion = orthodox
+        culture = siouan
+        religion = animist
         size = 10
     }
 
@@ -11119,33 +13939,33 @@
     }
 
     clergymen = {
-        culture = eskaleut
+        culture = siouan
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = eskaleut
+        culture = siouan
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = eskaleut
+        culture = siouan
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = eskaleut
+        culture = algonquian
         religion = animist
-        size = 15
+        size = 115
     }
 
     farmers = {
-        culture = eskaleut
+        culture = siouan
         religion = animist
-        size = 380
+        size = 1380
     }
 }
 #Dutch Harbor/Unalaska (2000/500 POPS)
@@ -11220,15 +14040,7 @@
         size = 545
     }
 }
-#Cordova (1600/360 POPS)
-2630 = {
 
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 400
-    }
-}
 #Unalakeet (3000/750 POPS)
 2631 = {
 
@@ -12912,61 +15724,61 @@
 118 = {
 
     aristocrats = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 5
     }
 
     officers = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 20
     }
 
     farmers = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 30
     }
 
     soldiers = {
-        culture = dakota
+        culture = siouan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = dakota
+        culture = siouan
         religion = animist
         size = 900
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = siouan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = siouan
         religion = animist
         size = 900
     }
@@ -13102,37 +15914,37 @@
 #Dupree (8000/2000 POPS)
 121 = {
     clergymen = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 20
     }
 
     farmers = {
-        culture = yankee
+        culture = siouan
         religion = animist
         size = 30
     }
 
     soldiers = {
-        culture = dakota
+        culture = siouan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = dakota
+        culture = siouan
         religion = animist
         size = 1800
     }
@@ -13189,387 +16001,7 @@
     }
 }
 
-#Alliance (4000/1000 POPS)
-124 = {
 
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 20
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 30
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 900
-    }
-}
-#North Platte (8000/2000 POPS)
-125 = {
-
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 20
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 30
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 200
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 1800
-    }
-}
-#Kansas Region (24000)
-#"ruled" by the USA/de facto under Native Control
-#Topeka (8000/2000 POPS)
-126 = {
-
-    aristocrats = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    officers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 20
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 30
-    }
-
-    aristocrats = {
-        culture = native_american_minor
-        religion = animist
-        size = 100
-    }
-
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 150
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 1800
-    }
-}
-#Goodland (8000/2000 POPS)
-127 = {
-
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 20
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 30
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 200
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 1800
-    }
-}
-#Wichita (8000/2000 POPS)
-128 = {
-    aristocrats = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = native_american_minor
-        religion = animist
-        size = 10
-    }
-
-    artisans = {
-        culture = native_american_minor
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 360
-    }
-}
-#Oklahoma Region (32000)
-#"ruled" by the USA/de facto under Native Control
-#Oklahoma City (12000/3000 POPS)
-129 = {
-    aristocrats = {
-        culture = native_american_minor
-        religion = animist
-        size = 4
-    }
-
-    clergymen = {
-        culture = native_american_minor
-        religion = animist
-        size = 8
-    }
-
-    artisans = {
-        culture = native_american_minor
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 4
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 300
-    }
-}
-#Tahlequah (12000/3000 POPS)
-130 = {
-
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 50
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = animist
-        size = 1600
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 900
-    }
-}
-#Okmulgee (8000/2000 POPS)
-131 = {
-
-    aristocrats = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    officers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 50
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 50
-    }
-
-    aristocrats = {
-        culture = cherokee
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = animist
-        size = 800
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 50
-    }
-
-    aristocrats = {
-        culture = native_american_minor
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 1800
-    }
-}
 #Texas Region (67400)
 #ruled by Texas in 1836
 #Houston (16000/4000 POPS)
@@ -15330,89 +17762,7 @@
     }
 }
 
-#Grand Rapids (POPS)
-174 = {
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 100
-    }
 
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 5550
-    }
-}
-
-#Traverse City (POPS)
-176 = {
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 225
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 25
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 1850
-    }
-
-    aristocrats = {
-        culture = native_american_minor
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = native_american_minor
-        religion = animist
-        size = 125
-    }
-
-    artisans = {
-        culture = native_american_minor
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 900
-    }
-}
 #Marquette (POPS)
 177 = {
     clergymen = {
