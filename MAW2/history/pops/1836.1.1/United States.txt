@@ -1,4 +1,1465 @@
 
+196 = {
+
+
+
+	serfs = {
+		culture = muskogean
+		religion = orthodox
+		size = 255
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = orthodox
+		size = 1445
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 12485
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 120
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 80
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 561
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 144
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 5654
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1443
+	}
+
+}
+
+192 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 180
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 1413
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 32
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 126
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 18
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 27
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 4485
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 45
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 30
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 211
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 54
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2129
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 543
+	}
+
+}
+
+194 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 3
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 310
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 2433
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 55
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 217
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 31
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 3
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 46
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 185
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 18
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 85
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 21
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 860
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 219
+	}
+
+}
+
+188 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 210
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 1648
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 37
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 147
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 21
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 31
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 15
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 84
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 21
+	}
+
+}
+
+187 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 210
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 1648
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 37
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 147
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 21
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 31
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 715
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 31
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 21
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 148
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 38
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1494
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 381
+	}
+
+}
+
+190 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 1
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 110
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 863
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 19
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 77
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 11
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 16
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 15
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 84
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 21
+	}
+
+}
+
+140 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 210
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 1648
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 37
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 147
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 21
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 31
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 4015
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 136
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 91
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 638
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 164
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 6429
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1641
+	}
+
+}
+
+139 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 210
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 1648
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 37
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 147
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 21
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 31
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 9015
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 211
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 141
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 988
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 254
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 9954
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2541
+	}
+
+}
+
+141 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 210
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 1648
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 37
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 147
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 21
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 31
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 5015
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 46
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 31
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 218
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 56
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2199
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 561
+	}
+
+}
+
+2662 = {
+
+
+
+	officers = {
+		culture = caddoan
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = caddoan
+		religion = animist
+		size = 210
+	}
+
+	farmers = {
+		culture = caddoan
+		religion = animist
+		size = 1648
+	}
+
+	soldiers = {
+		culture = caddoan
+		religion = animist
+		size = 37
+	}
+
+	artisans = {
+		culture = caddoan
+		religion = animist
+		size = 147
+	}
+
+	clergymen = {
+		culture = caddoan
+		religion = animist
+		size = 21
+	}
+
+	bureaucrats = {
+		culture = caddoan
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = caddoan
+		religion = animist
+		size = 31
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 15
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 15
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 155
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 39
+	}
+
+}
+
+2148 = {
+
+
+
+	officers = {
+		culture = caddoan
+		religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = caddoan
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = caddoan
+		religion = animist
+		size = 1962
+	}
+
+	soldiers = {
+		culture = caddoan
+		religion = animist
+		size = 45
+	}
+
+	artisans = {
+		culture = caddoan
+		religion = animist
+		size = 175
+	}
+
+	clergymen = {
+		culture = caddoan
+		religion = animist
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = caddoan
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = caddoan
+		religion = animist
+		size = 37
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 115
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 5
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 36
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 366
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 93
+	}
+
+}
+
+193 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 0
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 392
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 9
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 35
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 7
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 8115
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 82
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 5
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 55
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 386
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 99
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 3891
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 5
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 993
+	}
+
+}
+
+189 = {
+
+
+
+	officers = {
+		culture = muskogean
+		religion = animist
+		size = 0
+	}
+
+	slaves = {
+		culture = muskogean
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = muskogean
+		religion = animist
+		size = 392
+	}
+
+	soldiers = {
+		culture = muskogean
+		religion = animist
+		size = 9
+	}
+
+	artisans = {
+		culture = muskogean
+		religion = animist
+		size = 35
+	}
+
+	clergymen = {
+		culture = muskogean
+		religion = animist
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = muskogean
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = muskogean
+		religion = animist
+		size = 7
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 14115
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 127
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 85
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 596
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 153
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 6006
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1533
+	}
+
+}
+
+
+
 210 = {
 
 
@@ -17401,7 +18862,7 @@
     farmers = {
         culture = siouan
         religion = animist
-        size = 900
+        size = 1900
     }
 }
 #Pueblo (4000/1000 POPS)
@@ -17433,7 +18894,7 @@
     farmers = {
         culture = siouan
         religion = animist
-        size = 900
+        size = 1900
     }
 }
 #Wyoming Region (28000)
@@ -18128,270 +19589,6 @@
     }
 }
 
-
-
-
-
-#Louisiana Region (280000)
-#ruled by USA in 1836
-#New Orleans (128000/32000 POPS)
-139 = {
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 225
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 125
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 650
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 1250
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 14250
-    }
-
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 200
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 200
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 4550
-    }
-
-    artisans = {
-        culture = dixie
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 650
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 3325
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 10000
-    }
-}
-#Baton Rouge (72000/18000 POPS)
-140 = {
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = dixie
-        religion = animist
-        size = 50
-    }
-
-    officers = {
-        culture = dixie
-        religion = animist
-        size = 45
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 175
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 1100
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 2330
-    }
-
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 125
-    }
-
-    bureaucrats = {
-        culture = dixie
-        religion = animist
-        size = 50
-    }
-
-    officers = {
-        culture = dixie
-        religion = animist
-        size = 30
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 150
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 3470
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 125
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 9875
-    }
-}
-#Lake Charles (36000/9000 POPS)
-141 = {
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 150
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 175
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 300
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 3225
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 4900
-    }
-}
 
 #Missouri Region (365000)
 #ruled by USA in 1836
@@ -19695,646 +20892,6 @@
     }
 }
 
-187 = {
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 75
-    }
 
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 250
-    }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 50
-    }
 
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 4625
-    }
-
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 275
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 550
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 1225
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 11850
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 350
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 7500
-    }
-}
-#Tennessee Region (772000)
-#ruled by the USA
-#Nashville (396000/99000 POPS)
-188 = {
-    bureaucrats = {
-        culture = yankee
-        religion = animist
-        size = 100
-    }
-
-    officers = {
-        culture = yankee
-        religion = animist
-        size = 50
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 275
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 1800
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 350
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 8525
-    }
-
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 950
-    }
-
-    bureaucrats = {
-        culture = dixie
-        religion = animist
-        size = 300
-    }
-
-    officers = {
-        culture = dixie
-        religion = animist
-        size = 150
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 500
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 3100
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 4000
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 64000
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 125
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 850
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 325
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 13700
-    }
-}
-#Memphis (128000/32000 POPS)
-189 = {
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 400
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 1475
-    }
-
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 450
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 150
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 800
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 1300
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 19300
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 350
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 7500
-    }
-}
-#Knoxville (116000/29000 POPS)
-190 = {
-    clergymen = {
-        culture = yankee
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = yankee
-        religion = animist
-        size = 350
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = yankee
-        religion = animist
-        size = 2525
-    }
-
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 275
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 475
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 1225
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 10950
-    }
-
-    clergymen = {
-        culture = irish
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = irish
-        religion = animist
-        size = 250
-    }
-
-    farmers = {
-        culture = irish
-        religion = animist
-        size = 4675
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 500
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 350
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 7075
-    }
-}
-
-#Mississippi Region (340000)
-#ruled by the USA
-#Jackson (164000/41000 POPS)
-192 = {
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 525
-    }
-
-    bureaucrats = {
-        culture = dixie
-        religion = animist
-        size = 125
-    }
-
-    officers = {
-        culture = dixie
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 175
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 1650
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 1400
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 19050
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 300
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 25
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 17650
-    }
-}
-#Vicksburg (100000/25000 POPS)
-193 = {
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 350
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 1100
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 1250
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 8325
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 250
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 25
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 13700
-    }
-}
-#Biloxi (76000/19000 POPS)
-194 = {
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 250
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 800
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 1100
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 6775
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 150
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 100
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 9800
-    }
-}
-
-#Tuscaloosa (168000/42000 POPS)
-196 = {
-    aristocrats = {
-        culture = dixie
-        religion = animist
-        size = 600
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = animist
-        size = 175
-    }
-
-    artisans = {
-        culture = dixie
-        religion = animist
-        size = 1100
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = animist
-        size = 1425
-    }
-
-    farmers = {
-        culture = dixie
-        religion = animist
-        size = 22800
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 575
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = animist
-        size = 50
-    }
-
-    slaves = {
-        culture = afro_american
-        religion = animist
-        size = 15300
-    }
-}
-
-
-
-
-
-
-
-#Cherskiy - Animas
-2662 = {
-
-    clergymen = {
-        culture = mexican
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 25
-    }
-
-    farmers = {
-        culture = mexican
-        religion = animist
-        size = 50
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = animist
-        size = 400
-    }
-}

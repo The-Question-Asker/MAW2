@@ -1,6 +1,6 @@
 owner = WTL
 controller = WTL
-add_core = WTL
+
 colonial = 2
 trade_goods = fruit
 life_rating = 35

@@ -1,6 +1,6 @@
 owner = WTL
 controller = WTL
-add_core = WTL
+add_core = POW
 colonial = 2
 trade_goods = tobacco
 life_rating = 35
