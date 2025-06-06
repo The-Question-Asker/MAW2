@@ -3,31 +3,31 @@
 #Whitehorse (4000/1000 POPS)
 6 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 900
     }
@@ -35,31 +35,31 @@
 #Dawson (4000/1000 POPS)
 7 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 30
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 1800
     }
@@ -115,31 +115,31 @@
 #Echo Bay (4000/1000 POPS)
 11 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 500
     }
@@ -154,31 +154,31 @@
 #Fort Resolution (2000/500 POPS)
 2596 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 450
     }
@@ -192,31 +192,31 @@
 #Fort Liard (1600/400 POPS)
 2598 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 35
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 70
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 20
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 1260
     }
@@ -226,37 +226,37 @@
 2595 = {
 
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 2
     }
 
     aristocrats = {
-        culture = algonquian
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
@@ -273,37 +273,37 @@
 #Vancouver (12000/3000 POPS)
 13 = {
     clergymen = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 10
     }
 
     officers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 2460
     }
@@ -422,31 +422,31 @@
 #Atlin (4000/1000 POPS)
 17 = {
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 1000
     }
@@ -454,31 +454,31 @@
 #Fort St John (2400/600 POPS)
 18 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 30
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 520
     }
@@ -486,33 +486,39 @@
 #Prince George (8000/2000 POPS)
 19 = {
     clergymen = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
-        size = 1950
+        size = 1000
+    }
+
+    farmers = {
+        culture = athabaskan
+        religion = animist
+        size = 950
     }
 }
 #Kelowna (8000/2000 POPS)
@@ -584,31 +590,31 @@
 #Fort Nelson (1600/400 POPS)
 2629 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 20
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 360
     }
@@ -619,33 +625,27 @@
 22 = {
 
     clergymen = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 15
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 1000
     }
 
     farmers = {
@@ -655,7 +655,7 @@
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 1950
     }
@@ -663,31 +663,31 @@
 #Athabaska Landing (4800/1200 POPS)
 23 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 60
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 1080
     }
@@ -735,172 +735,172 @@
 25 = {
 
     clergymen = {
-        culture = native_american_minor
+        culture = siouan
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = siouan
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = siouan
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = siouan
         religion = animist
-        size = 1500
+        size = 1000
     }
 
     farmers = {
         culture = algonquian
         religion = animist
-        size = 380
+        size = 880
     }
 }
 #Calgary (8000/2000 POPS)
 26 = {
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = metis
+        culture = algonquian
         religion = animist
-        size = 580
+        size = 780
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
-        size = 1030
+        size = 830
     }
 }
 #Edmonton - Denwood (8000/2000 POPS)
 27 = {
 
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 2
     }
 
     aristocrats = {
-        culture = metis
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     aristocrats = {
-        culture = algonquian
+        culture = athabaskan
         religion = animist
         size = 20
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     officers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
-        size = 710
+        size = 510
     }
 
     farmers = {
-        culture = metis
+        culture = algonquian
         religion = animist
-        size = 185
+        size = 485
     }
 }
 #Fort MacLeod (8000/2000 POPS)
 28 = {
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 15
     }
@@ -908,44 +908,44 @@
     farmers = {
         culture = algonquian
         religion = animist
-        size = 1000
+        size = 800
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
-        size = 665
+        size = 865
     }
 }
 
 #Fort Vermillion (3200/800 POPS)
 2597 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 20
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 40
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 715
     }
