@@ -469,6 +469,13 @@ afro_diaspora = {
 
 			last_names = {  }
     }
+	
+	afro_roman = {
+	  color = { 77 2 2 }
+        	first_names = {  }
+
+			last_names = { Aethiope }
+    }
 }
 
 colonial_frankish_culture = {
@@ -477,6 +484,18 @@ colonial_frankish_culture = {
 	
 	colonial_frankish = {
 	  color = { 18 52 115 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+}
+
+colonial_roman_culture = {
+    leader = european
+    unit = EuropeanGC
+	
+	colonial_roman = {
+	  color = { 163 104 153 }
         	first_names = { }
 
 			last_names = {  }
