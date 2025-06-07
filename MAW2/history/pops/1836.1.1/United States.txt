@@ -17691,31 +17691,31 @@
 #Seattle (12000/3000 POPS)
 78 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = salishan
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = salishan
         religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = salishan
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = salishan
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 3110
     }
@@ -17724,31 +17724,31 @@
 79 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = penutian
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = penutian
         religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = penutian
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = penutian
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = penutian
         religion = animist
         size = 1000
     }
@@ -17756,37 +17756,37 @@
 #Walla Walla (4000/1000 POPS)
 80 = {
     aristocrats = {
-        culture = yankee
+        culture = penutian
         religion = animist
         size = 5
     }
 
     officers = {
-        culture = yankee
+        culture = penutian
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = yankee
+        culture = penutian
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = yankee
+        culture = penutian
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = yankee
+        culture = penutian
         religion = animist
         size = 20
     }
 
     farmers = {
-        culture = yankee
+        culture = penutian
         religion = animist
         size = 30
     }
@@ -17794,19 +17794,19 @@
     aristocrats = {
         culture = native_american_minor
         religion = animist
-        size = 100
+        size = 10
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = penutian
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = penutian
         religion = animist
-        size = 900
+        size = 990
     }
 }
 #Oregon Region (20000)
@@ -17814,33 +17814,33 @@
 #Portland (12000/3000 POPS)
 81 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 175
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
-        size = 2700
+        size = 1500
     }
 
     farmers = {
-        culture = yankee
+        culture = penutian
         religion = animist
-        size = 100
+        size = 1300
     }
 }
 #Baker City (4000/1000 POPS)

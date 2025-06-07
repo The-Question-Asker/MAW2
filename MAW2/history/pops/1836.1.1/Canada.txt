@@ -313,110 +313,128 @@
 14 = {
 
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
-        size = 2130
+        size = 1130
+    }
+	
+    farmers = {
+        culture = athabaskan
+        religion = animist
+        size = 1000
     }
 }
 #Prince Rupert (8000/2000 POPS)
 15 = {
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
-        size = 3115
+        size = 1615
+    }
+	
+    farmers = {
+        culture = salishan
+        religion = animist
+        size = 1515
     }
 }
 #Glenora (4000/1000 POPS)
 16 = {
 
     clergymen = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = athabaskan
         religion = animist
-        size = 990
+        size = 690
+    }
+	
+    farmers = {
+        culture = salishan
+        religion = animist
+        size = 390
     }
 }
 #Atlin (4000/1000 POPS)
@@ -524,31 +542,31 @@
 #Kelowna (8000/2000 POPS)
 20 = {
     clergymen = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 1950
     }
@@ -557,31 +575,31 @@
 21 = {
 
     clergymen = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = salishan
         religion = animist
         size = 1950
     }

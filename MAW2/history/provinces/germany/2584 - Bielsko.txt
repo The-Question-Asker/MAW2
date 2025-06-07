@@ -1,6 +1,7 @@
 owner = RTH
 controller = RTH
 add_core = KPD
+add_core = MOV
 add_core = WND
 trade_goods = coal
 life_rating = 40
