@@ -375,19 +375,37 @@
     serfs = {
         culture = pannonian
         religion = orthodox
-        size = 32000
+        size = 10000
+    }
+	
+    serfs = {
+        culture = wendish
+        religion = orthodox
+        size = 29000
     }
 
     aristocrats = {
         culture = pannonian
         religion = orthodox
-        size = 2712
+        size = 1712
     }
 
     bureaucrats = {
         culture = pannonian
         religion = orthodox
-        size = 300
+        size = 200
+    }
+	
+    aristocrats = {
+        culture = wendish
+        religion = orthodox
+        size = 1000
+    }
+
+    bureaucrats = {
+        culture = wendish
+        religion = orthodox
+        size = 100
     }
 
     officers = {
@@ -408,16 +426,17 @@
         size = 1250
     }
 
+
     soldiers = {
         culture = pannonian
         religion = orthodox
         size = 190
     }
 
-    craftsmen = {
-        culture = pannonian
+    artisans = {
+        culture = wendish
         religion = orthodox
-        size = 100
+        size = 1000
     }
 
     farmers = {
@@ -447,7 +466,7 @@
     farmers = {
         culture = pannonian
         religion = orthodox
-        size = 17712
+        size = 3712
     }
 
     clergymen = {
@@ -507,7 +526,7 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 2650
+        size = 12650
     }
 }
 #Banska Bystrica (340000/85000 POPS)

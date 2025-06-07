@@ -12506,7 +12506,7 @@
 	serfs = {
 		culture = colonial_saxon
 		religion = orthodox
-		size = 243
+		size = 843
 	}
 
 	officers = {
@@ -12518,7 +12518,7 @@
 	farmers = {
 		culture = colonial_saxon
 		religion = orthodox
-		size = 951
+		size = 2951
 	}
 
 	soldiers = {
@@ -12589,7 +12589,7 @@
 	farmers = {
 		 culture = colonial_frankish
 		 religion = orthodox
-		 size = 4966
+		 size = 2966
 	}
 
 
