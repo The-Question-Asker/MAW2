@@ -32,7 +32,12 @@
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 81894
+        size = 31894
+    }
+    serfs = {
+        culture = sclavenian
+        religion = orthodox
+        size = 21894
     }
     clergymen = {
         culture = sclavenian
@@ -40,9 +45,14 @@
         size = 200
     }
     farmers = {
-        culture = sclavenian
+        culture = roman
         religion = orthodox
-        size = 8130
+        size = 20130
+    }
+    serfs = {
+        culture = roman
+        religion = orthodox
+        size = 18130
     }
 
     ######Jews
