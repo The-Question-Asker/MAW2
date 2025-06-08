@@ -9,7 +9,7 @@ From;To;Type;Through;Data;Comment
 #2237;2269;sea;2975;0;Strait of Trinidad
 2334;2335;sea;2992;0;Strait of Magellan
 2399;2400;sea;2992;0;Strait of Magellan
-77;74;sea;2944;0;Cabot Strait
+#77;74;sea;2944;0;Cabot Strait
 72;73;sea;2944;0;Nova Scotia to Cape Breton
 2237;2238;sea;2975;0;Trinidad-Tobago Strait
 2233;2409;sea;2975;0;Grenada-St. Vincent Strait
@@ -32,6 +32,7 @@ From;To;Type;Through;Data;Comment
 236;55;sea;3112;0;Great Lakes
 123;46;sea;2413;0;Great Lakes
 49;123;sea;2413;0;Great Lakes
+176;123;sea;3114;0;Great Lakes
 
 #
 # African Straits
@@ -45,10 +46,10 @@ From;To;Type;Through;Data;Comment
 #
 254;271;sea;2737;0;Irish Strait
 324;348;sea;2706;0;Aland Strait #Uppsala to Aland #these were in V1
-334;372;sea;2711;0;Öresund
-335;374;sea;2710;0;Bornholmsfärjan
+334;372;sea;2711;0; resund
+335;374;sea;2710;0;Bornholmsf rjan
 348;345;sea;2706;0;Aland Strait #Aland to Turku
-353;349;sea;2709;0;Öselsund
+353;349;sea;2709;0; selsund
 353;358;sea;2709;0;Strait of Riga
 372;373;sea;2711;0;Fyn-Sjaelland
 371;373;sea;2711;0;Fyn-Jylland
