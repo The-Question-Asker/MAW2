@@ -358,8 +358,8 @@ NWR_34;X;;;;;;;;;;;;;x
 NWR_35;X;;;;;;;;;;;;;x
 NWR_36;X;;;;;;;;;;;;;x
 NWR_37;X;;;;;;;;;;;;;x
-NWR_38;X;;;;;;;;;;;;;x
-NWR_39;X;;;;;;;;;;;;;x
+NWR_38;Lotharingie Occidentale;;;;;;;;;;;;;x
+NWR_39;Neu Grünwald;;;;;;;;;;;;;x
 NWR_40;X;;;;;;;;;;;;;x
 NWR_41;X;;;;;;;;;;;;;x
 NWR_42;X;;;;;;;;;;;;;x
@@ -384,11 +384,11 @@ NWR_60;X;;;;;;;;;;;;;x
 NWR_61;X;;;;;;;;;;;;;x
 NWR_62;X;;;;;;;;;;;;;x
 NWR_63;X;;;;;;;;;;;;;x
-NWR_64;X;;;;;;;;;;;;;x
-NWR_65;X;;;;;;;;;;;;;x
-NWR_66;X;;;;;;;;;;;;;x
-NWR_67;X;;;;;;;;;;;;;x
-NWR_68;X;;;;;;;;;;;;;x
+NWR_64;Lotharingie Orientale;;;;;;;;;;;;;x
+NWR_65;Bas Nuestria;;;;;;;;;;;;;x
+NWR_66;Haut Neustria;;;;;;;;;;;;;x
+NWR_67;Randulphia;;;;;;;;;;;;;x
+NWR_68;Terre de Marie;;;;;;;;;;;;;x
 NWR_69;X;;;;;;;;;;;;;x
 NWR_70;X;;;;;;;;;;;;;x
 NWR_71;X;;;;;;;;;;;;;x
@@ -513,3 +513,23 @@ MOR_1688;Tingitana;;;;;;;;;;;;;
 MOR_1693;Wisimaria;;;;;;;;;;;;;
 BAD_586;West Swabia;;;;;;;;;;;;;
 WUR_589;East Swabia;;;;;;;;;;;;;
+PROV250;Nouvelle Avoine;;;;;;;;;;;;;x
+PROV249;Deux Rivières;;;;;;;;;;;;;x
+PROV67;Meuxdorf;;;;;;;;;;;;;x
+PROV241;Le Marcq;;;;;;;;;;;;;x
+PROV233;Île Longue;;;;;;;;;;;;;x
+PROV232;Adrobourg;;;;;;;;;;;;;x
+PROV245;Boffles;;;;;;;;;;;;;x
+PROV242;Gluciterre;;;;;;;;;;;;;x
+PROV244;Cap D'Espadon;;;;;;;;;;;;;x
+PROV243;Meullerville;;;;;;;;;;;;;x
+PROV77;Pannaque;;;;;;;;;;;;;x
+PROV248;Algrande;;;;;;;;;;;;;x
+PROV247;Oberdorf;;;;;;;;;;;;;x
+PROV66;Neiderdorf;;;;;;;;;;;;;x
+PROV61;Schwabenville;;;;;;;;;;;;;x
+PROV48;Indienstalle;;;;;;;;;;;;;x
+PROV62;Port-aux-Saxons;;;;;;;;;;;;;x
+PROV75;Côte Grise;;;;;;;;;;;;;x
+PROV246;Vivemer;;;;;;;;;;;;;x
+PROV64;Ville du Roi;;;;;;;;;;;;;x
