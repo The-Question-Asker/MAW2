@@ -173,7 +173,7 @@ latins = {
 							Caesonius Caius Calpurnius Calvus Camillus Caracalla Cassian 
 							Cassianus Cassius Cato Celsus Cicero Claudius Cloelius Lucius 
 							Cornelius Crispinus Crispus Cyprianus Decimus Dioclletianus Drusus 
-							Duilius Egnatious ennius Fabianus Fabius Fabricius Faustinus Faustus 
+							Duilius Egnatious Ennius Fabianus Fabius Fabricius Faustinus Faustus 
 							Festus Flaminius Flavianus Flavius Florianus Gaius Hadrianus 
 							Horatius Iulius Januarius Julius Junius Laelius Longinus Lucilius 
 							Marcellinus Marcus Marinus Maximus Nero Naevius Octavianus Octavius 
@@ -397,7 +397,8 @@ mesopotamian = {
 
 	babylonian = {
 	  color = { 21 85 153 }
-        	first_names = { }
+        	first_names = { Achshiyarshu Bel-bullissu Dalilu-essu Enlil-nadin-apli Erra 
+							Hammurabi Huzalu Nabonidus Nusku Zanziru Zababa-eres }
 
 			last_names = {	}
     }
@@ -520,14 +521,20 @@ indigenous_peoples = {
 	
 	iroquoian = {
 	  color = { 252 144 3 }
-        	first_names = { }
+        	first_names = { Adekagagwaa Ahyouwaighs Akwiraron Akwirente Canaqueese Dadgayadoh Deganawida 
+							Deganawidah Donehogawa Genessee Gyantwachia Hasanoanda Kaintwakon Karonghyontye 
+							Ohserase Otetiani Sagoyewatha Rahrakwasere Tanacharison Tehwehron Thaonawyuthe 
+							Thayendanegea}
 
-			last_names = {  }
+			last_names = { Bear Beaver Heron Turtle Wolf Deer Hawk Eel Snipe Tortoise Eagle Wolf } #Historic Clans of the Haudenosaunee
     }
 	
 	algonquian = {
 	  color = { 37 134 58 } 
-        	first_names = { }
+        	first_names = { Aanakwadinini Aawohkitopi Abooksigun Abukcheech Achachak Ahanu Ahtunowhiho Akask Anang 
+							Annawan Aranck Asiniiwin Biyen Cheeseekau Chepi Chibenashi Chogan Hassun He'heeno Hobomock 
+							Huritt Iskotewapoy Iyannough Katao'pi Keme Kitchi Kon Mahigan Mahihikan Makwa Manabush Meegwun
+							Minninnewah Naawakamig Okeema Omaciw Petonowit }
 
 			last_names = {  }
     }
