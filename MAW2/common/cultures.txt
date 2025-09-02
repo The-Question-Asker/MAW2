@@ -93,9 +93,12 @@ north_germanic = {
 
 	norse = {
 	  color = { 50 70 128 }
-        	first_names = { }
+        	first_names = { Aghi Agmundr Agnarr Alfarr Algautr Anundr Arnsteinn Baggi Bjarni Gautstafr Geirmundr Halli
+							Brandr Brynjar Dagr Danr Eileifr Einarr Erlendr Gauti Gunnarr Gunni Hallr Hallsteinn Haraldr
+							Hildingr Hugleikr Jarl Karl Kolr Leifr Oddgeirr Oddvarr Ragnarr Sindri Snorri Stigr Tryggvi Vagn
+							Vragi Yngvarr }
 
-			last_names = {	}
+			last_names = { Agnarsson Ahlström Amundsen Arnesen Arvidsson Auden Baardsen Bakken Berg  }
     }
 	
 }
@@ -237,7 +240,7 @@ north_latin_britain = {
 
 			last_names = { 	Julia Favia Aternia Cassia Hostilia Tullia Gwinnius Hendwr Cemais Brunnian 
 							Deinius Gwyennius-Mathrafal Gwinnius-Hostilia Aberrius-Bergyus Cunnius Tudor 
-							Gynes Tudor-Gynes Anglessy Carnyo, Cawdor Ffynone Powys Tredegare Vongam 
+							Gynes Tudor-Gynes Anglessy Carnyo Cawdor Ffynone Powys Tredegare Vongam 
 							Penbras Penrith Prynd Prynda-Tudor Tuder-Glyne Ruthin }
     }
     union = BRN
