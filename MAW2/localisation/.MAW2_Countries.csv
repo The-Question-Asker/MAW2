@@ -10,9 +10,9 @@ TEU;Teutoland;;;;;;;;;;;;; #Teutonia
 TEU_ADJ;Teutonic;;;;;;;;;;;;;
 RTH;Ruthenia;;;;;;;;;;;;;
 RTH_democracy;Ruthenian Republic;;;;;;;;;;;;;
-RTH_absolute_monarchy;Ruthenian Czariate;;;;;;;;;;;;;
+RTH_absolute_monarchy;Ruthenian Empire;;;;;;;;;;;;;
 RTH_bourgeois_dictatorship;Ruthenian Federation;;;;;;;;;;;;;
-RTH_proletarian_dictatorship;Ruthenian Coviet Republic;;;;;;;;;;;;;
+RTH_proletarian_dictatorship;Ruthenian Soviet Republic;;;;;;;;;;;;;
 RTH_presidential_dictatorship;Interregnal Ruthenia;;;;;;;;;;;;;
 RTH_ADJ;Ruthenian;;;;;;;;;;;;;
 WTL;Witlia;;;;;;;;;;;;;
@@ -200,3 +200,5 @@ EUL_bourgeois_dictatorship;Confédération Lothairais;;;;;;;;;;;;;
 EUL_proletarian_dictatorship;Fédération Socialiste de Lothaire;;;;;;;;;;;;;
 EUL_presidential_dictatorship;Les États-Unis de Lothaire;;;;;;;;;;;;;
 EUL_ADJ;Lothairais;;;;;;;;;;;;;
+MIN;Great Ming;;;;;;;;;;;;;
+MIN_ADJ;Ming;;;;;;;;;;;;;
