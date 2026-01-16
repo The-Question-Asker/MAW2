@@ -1,6 +1,5 @@
-owner = BNG
-controller = BNG
-
+owner = SEM
+controller = SEM
 add_core = BNG
 trade_goods = dye
 life_rating = 32

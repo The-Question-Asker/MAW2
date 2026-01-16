@@ -1,5 +1,5 @@
-owner = MEW
-controller = MEW
+owner = SEM
+controller = SEM
 add_core = MEW
 
 trade_goods = opium

@@ -1,5 +1,5 @@
-owner = BER
-controller = BER
+owner = SEM
+controller = SEM
 add_core = BER
 
 trade_goods = tobacco

@@ -11,3 +11,34 @@ vassal = {
     start_date = 1816.1.1
     end_date = 1936.1.1
 }
+
+substate = {
+	first = MIN
+	second = YNN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = MIN
+	second = MGL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = MIN
+	second = TIB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = MIN
+	second = BRY
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = MIN
+	second = KOR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}

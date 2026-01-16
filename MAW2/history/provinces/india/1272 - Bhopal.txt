@@ -1,5 +1,5 @@
-owner = BHO
-controller = BHO
+owner = SEM
+controller = SEM
 add_core = BHO
 
 trade_goods = dye
