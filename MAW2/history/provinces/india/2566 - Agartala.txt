@@ -1,5 +1,5 @@
-owner = BNG
-controller = BNG
+owner = ASM
+controller = ASM
 
 add_core = ASM
 add_core = BNG

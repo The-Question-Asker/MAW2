@@ -1,5 +1,5 @@
-owner = KUT
-controller = KUT
+owner = SEM
+controller = SEM
 add_core = KUT
 
 trade_goods = cotton

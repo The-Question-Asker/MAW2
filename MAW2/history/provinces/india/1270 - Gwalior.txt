@@ -1,5 +1,5 @@
-owner = GWA
-controller = GWA
+owner = SEM
+controller = SEM
 add_core = GWA
 
 

@@ -1,5 +1,5 @@
-owner = MAH
-controller = MAH
+owner = SEM
+controller = SEM
 
 add_core = MAH
 trade_goods = grain
