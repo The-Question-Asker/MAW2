@@ -50,6 +50,12 @@
         size = 6600
     }
 
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 5000
+    }
+
     aristocrats = {
         culture = pannonian
         religion = orthodox
@@ -200,6 +206,12 @@
         culture = pannonian
         religion = orthodox
         size = 3000
+    }
+
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 7000
     }
 
     soldiers = {
@@ -385,11 +397,17 @@
         religion = orthodox
         size = 1100
     }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 1000
+    }
 
     farmers = {
         culture = pannonian
         religion = orthodox
-        size = 28670
+        size = 24670
     }
 
     clergymen = {
@@ -455,7 +473,7 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 18545
+        size = 3545
     }
 
     officers = {
@@ -485,7 +503,13 @@
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 7435
+        size = 8435
+    }
+	
+    serfs = {
+        culture = sclavenian
+        religion = orthodox
+        size = 18435
     }
 }
 #Dunautul Region (1892000)
@@ -550,6 +574,12 @@
         culture = pannonian
         religion = orthodox
         size = 60400
+    }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 8000
     }
 
     aristocrats = {
@@ -721,6 +751,12 @@
         religion = orthodox
         size = 100
     }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 800
+    }
 
     artisans = {
         culture = pannonian
@@ -879,6 +915,12 @@
         religion = orthodox
         size = 900
     }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 5000
+    }
 
     soldiers = {
         culture = pannonian
@@ -982,6 +1024,12 @@
         culture = pannonian
         religion = orthodox
         size = 150
+    }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 4000
     }
 
     serfs = {
@@ -1147,6 +1195,12 @@
         religion = orthodox
         size = 800
     }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 200
+    }
 }
 #Felvidek Region (320000) #see pannoniania.txt and Ukraine.txt for balance of Region
 #under the rule of Austria in 1836
@@ -1191,7 +1245,13 @@
     farmers = {
         culture = pannonian
         religion = orthodox
-        size = 36525
+        size = 30525
+    }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 10000
     }
 
     clergymen = {
@@ -1275,7 +1335,7 @@
     serfs = {
         culture = pannonian
         religion = orthodox
-        size = 6500
+        size = 5500
     }
 }
 #Partium Region (1112000) #See wendishia.txt for balance of region
@@ -1303,7 +1363,7 @@
     artisans = {
         culture = pannonian
         religion = orthodox
-        size = 3350
+        size = 2350
     }
 
     soldiers = {
@@ -1315,7 +1375,13 @@
     farmers = {
         culture = pannonian
         religion = orthodox
-        size = 18725
+        size = 8725
+    }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 20000
     }
 
     aristocrats = {
@@ -1345,7 +1411,7 @@
     serfs = {
         culture = pannonian
         religion = orthodox
-        size = 8975
+        size = 3975
     }
 
     clergymen = {
@@ -1438,6 +1504,12 @@
         culture = pannonian
         religion = orthodox
         size = 2500
+    }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 1000
     }
 
     clergymen = {
@@ -1548,6 +1620,12 @@
         culture = pannonian
         religion = orthodox
         size = 27375
+    }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 2000
     }
 
     aristocrats = {

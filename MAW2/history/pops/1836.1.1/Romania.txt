@@ -663,6 +663,12 @@
         religion = orthodox
         size = 250
     }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 3000
+    }
 
     serfs = {
         culture = pannonian
@@ -856,6 +862,12 @@
         culture = pannonian
         religion = orthodox
         size = 550
+    }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 5000
     }
 
     farmers = {
@@ -1099,6 +1111,12 @@
         religion = orthodox
         size = 100
     }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 1000
+    }
 
     soldiers = {
         culture = roman
@@ -1160,6 +1178,12 @@
         culture = pannonian
         religion = orthodox
         size = 350
+    }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 2000
     }
 
     farmers = {
@@ -1488,6 +1512,12 @@
         culture = vlach
         religion = orthodox
         size = 150
+    }
+	
+    slaves = {
+        culture = maharuli
+        religion = orthodox
+        size = 5000
     }
 
     artisans = {
