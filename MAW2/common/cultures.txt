@@ -346,6 +346,8 @@ zapadoslavs = {
 }
 
 zapadoslav_pannonian = {
+    leader = russian
+    unit = RussianGC
 
 	pannonian = {
 	  color = { 92 72 31 }
@@ -357,6 +359,8 @@ zapadoslav_pannonian = {
 }
 
 zapadoslav_wendish = {
+    leader = russian
+    unit = RussianGC
 	
 	wendish = {
 	  color = { 111 199 181 }
@@ -368,8 +372,8 @@ zapadoslav_wendish = {
 }
 
 great_slavs = {
-    leader = european
-    unit = EuropeanGC
+    leader = russian
+    unit = RussianGC
 
 	ruthenian = {
 	  color = { 9 115 80 }
@@ -393,6 +397,8 @@ great_slavs = {
     }
 	
 }
+
+#MISCELLANEOUS
 
 mesopotamian = {
     leader = european
@@ -452,6 +458,19 @@ colonial_greeks = {
 			last_names = {	}
     }
 	
+}
+
+avars = {
+    leader = russian
+    unit = RussianGC
+	
+        maharuli = { 
+            color = { 133 32 52 }
+            first_names = {  }
+
+            last_names = {  }
+            radicalism = 20
+        }
 }
 
 ##### NEW WORLD CULTURES
@@ -1568,6 +1587,7 @@ caucasian = {
             }
             radicalism = 20
         }
+	
     }
 
 arab = {
