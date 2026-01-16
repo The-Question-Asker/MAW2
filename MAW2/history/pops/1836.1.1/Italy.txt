@@ -41,7 +41,7 @@
     craftsmen = {
         culture = roman
         religion = orthodox
-        size = 3000
+        size = 45000
     }
 
     artisans = {
@@ -59,7 +59,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 199900
+        size = 153900
     }
 
     ######Jews

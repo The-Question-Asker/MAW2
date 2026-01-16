@@ -1,5 +1,8 @@
 owner = PRS
 controller = PRS
+add_core = ARM
+add_core = PNT
 add_core = GEO
+add_core = ANT
 trade_goods = fish
 life_rating = 35
