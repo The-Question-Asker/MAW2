@@ -1143,11 +1143,11 @@ AUS_768 = { 767 768 773 775 771 } #Slovenia
 
 #AUS_771 = {  } #Croatia
 
-AUS_777 = { 779 793 777 772 776 } #Slavonia
+AUS_777 = { 779 793 777 776 2538 791 792 } #Slavonia
 
 AUS_780 = { 780 781 782 774 2582 } #Dalmatia
 
-AUS_2538 = { 2538 791 792 } #Vojvodina
+#AUS_2538 = {  } #Vojvodina
 
 
 ### Italy
@@ -1181,15 +1181,15 @@ TUR_674 = { 674 675 818 } #Dobrudja
 
 MOL_676 = { 676 677 678 } #Bessarabia
 
-TUR_788 = { 783 789 788 786 785 784 2583 2569 } #Bosnia
+TUR_788 = { 783 789 788 785 784 2583 2569 772 } #Bosnia
 
 SER_794 = { 794 795 796 798 799 } #Northern Serbia
 
-MON_2582 = { 2577 802 804 787 797 } #Dardania
+MON_2582 = { 2577 802 804 787 797 786 } #Dardania
 
 #TUR_803 = {  } #Southern Serbia
 
-TUR_805 = { 805 819 820 821 822 806 807 } #Macedonia
+TUR_805 = { 805 819 820 821 822 806 807 823 829 } #Macedonia
 
 #TUR_806 = { } #Northern Macedonia
 
@@ -1197,7 +1197,7 @@ TUR_809 = { 815 817 808 816 809 } #Eastern Rumelia
 
 TUR_810 = { 810 811 812 813 814 } #Moesia
 
-TUR_823 = { 823 829 830 } #Eastern Macedonia
+#TUR_823 = { } #Eastern Macedonia
 
 GRE_826 = { 834 842 839 840 841 } #Peloponnese
 
@@ -1211,7 +1211,7 @@ TUR_853 = { 849 853 852 851 850 1780 803 800 } #Illyria
 
 TUR_855 = { 855 856 857 } #Cyprus
 
-TUR_860 = { 860 828 858 859 } #Thrace
+TUR_860 = { 860 828 858 859 830 } #Thrace
 
 
 ### Middle East
@@ -1222,17 +1222,17 @@ TUR_869 = { 869 870 871 872 } #Aydin
 
 TUR_873 = { 873 874 875 866 } #Konya
 
-TUR_876 = { 876 877 878 868 } #Ankara
+TUR_876 = { 876 877 878 868 879 } #Ankara
 
 TUR_880 = { 880 881 883 } #Kastamonu
 
-TUR_882 = { 882 884 879 888 } #Trabizond
+TUR_882 = { 882 884 1096 } #Trabizond
 
-TUR_885 = { 885 886 1096 } #Kars
+#TUR_885 = {  } #Kars
 
-TUR_890 = { 890 891 887 } #Van
+TUR_890 = { 890 891 887 888 } #Van
 
-TUR_893 = { 893 889 899 892 2414 1813 } #Diyarbakir
+TUR_893 = { 893 889 899 2414 1813 } #Diyarbakir
 
 TUR_894 = { 894 896 898 895 } #Adana
 
@@ -1248,13 +1248,13 @@ EGY_921 = { 917 921 920 919 918 916 } #Palestine
 
 #TUR_923 = { 923 924 925 928 } #Mosul
 
-TUR_931 = { 926 931 927 923 924 925 928 } #Baghdad
+TUR_931 = { 926 931 927 923 924 925 928 892 } #Baghdad
 
 TUR_935 = { 935 932 933 930 934 929 } #Basra
 
 RUS_1090 = { 1090 1093 1091 1092 1094 1095 } #Georgia
 
-RUS_1098 = { 1098 1099 1100 1101 } #Armenia
+RUS_1098 = { 1098 1099 1100 1101 885 886 } #Armenia
 
 RUS_1102 = { 1102 1105 1106 1104 1107 1103 } #Azerbaijan
 

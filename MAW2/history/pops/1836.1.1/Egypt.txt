@@ -3,19 +3,19 @@
 #Cairo (1004600/251150 POPS)
 1745 = {
     aristocrats = {
-        culture = circassian
+        culture = aegyptian
         religion = manichaean
         size = 1500
     }
 
     bureaucrats = {
-        culture = circassian
+        culture = aegyptian
         religion = manichaean
         size = 2900
     }
 
     officers = {
-        culture = circassian
+        culture = aegyptian
         religion = manichaean
         size = 900
     }
@@ -27,13 +27,19 @@
     }
 
     artisans = {
+        culture = aegyptian
+        religion = manichaean
+        size = 15000
+    }
+	
+    artisans = {
         culture = circassian
         religion = manichaean
-        size = 20000
+        size = 5000
     }
 
     soldiers = {
-        culture = circassian
+        culture = sahid
         religion = manichaean
         size = 2500
     }
@@ -137,7 +143,7 @@
     }
 
     artisans = {
-        culture = circassian
+        culture = aegyptian
         religion = manichaean
         size = 20000
     }
@@ -235,15 +241,15 @@
     }
 
     artisans = {
-        culture = circassian
+        culture = aegyptian
         religion = orthodox
-        size = 11150
+        size = 9150
     }
 
-    soldiers = {
+    artisans = {
         culture = circassian
         religion = orthodox
-        size = 150
+        size = 2150
     }
 
     aristocrats = {
@@ -303,13 +309,13 @@
     }
 
     artisans = {
-        culture = circassian
+        culture = aegyptian
         religion = orthodox
         size = 4800
     }
 
     soldiers = {
-        culture = circassian
+        culture = aegyptian
         religion = orthodox
         size = 100
     }
