@@ -1,0 +1,19 @@
+name = "The September War"
+
+1835.9.2 = {
+    add_attacker = RTH
+    add_defender = KPD
+
+    war_goal = {
+        casus_belli = civil_war
+        actor = RTH
+        receiver = KPD
+    }
+    war_goal = {
+        casus_belli = status_quo
+        actor = KPD
+        receiver = RTH
+    }
+
+}
+

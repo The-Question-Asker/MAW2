@@ -1,5 +1,5 @@
-owner = RTH
-controller = RTH
+owner = KPD
+controller = KPD
 add_core = KPD
 trade_goods = fruit
 life_rating = 35

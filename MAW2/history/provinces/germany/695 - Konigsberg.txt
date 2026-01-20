@@ -1,5 +1,5 @@
-owner = RTH
-controller = RTH
+owner = KPD
+controller = KPD
 add_core = KPD
 add_core = LTT
 trade_goods = cattle
