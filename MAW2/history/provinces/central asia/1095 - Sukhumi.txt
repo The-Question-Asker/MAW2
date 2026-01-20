@@ -1,6 +1,5 @@
 owner = PRS
 controller = PRS
-add_core = ABK
 add_core = CIR
 add_core = GEO
 trade_goods = grain
