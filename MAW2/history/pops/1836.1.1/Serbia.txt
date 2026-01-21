@@ -301,25 +301,25 @@
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 900
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 200
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 18750
     }

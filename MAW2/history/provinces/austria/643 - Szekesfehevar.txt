@@ -1,7 +1,7 @@
 owner = BLA
 controller = BLA
 add_core = BLA
-add_core = PNN
+add_core = WND
 trade_goods = grain
 life_rating = 35
 

@@ -3,7 +3,7 @@
 #Oradea (844000/211000 POPS) #part of Romania today
 647 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1250
     }
@@ -15,25 +15,25 @@
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 6500
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1350
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 71900
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 23000
     }
@@ -173,25 +173,25 @@
 #Szatmare (444000/111000 POPS) #part of Romania today
 651 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2500
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 550
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 47450
     }
@@ -315,25 +315,25 @@
 #Temesvar (940000/235000 POPS) #part of Romania today
 652 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 275
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1400
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 300
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 26025
     }
@@ -565,7 +565,7 @@
     }
 	
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 12600
     }
@@ -641,7 +641,7 @@
 #Cluj (156000/44000 POPS)
 654 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 225
     }
@@ -653,13 +653,13 @@
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1200
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 250
     }
@@ -671,13 +671,13 @@
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 20325
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2000
     }
@@ -847,19 +847,19 @@
 #Gyulafehervar/Alba Iulia (316000/79000 POPS)
 655 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 525
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2800
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 550
     }
@@ -871,13 +871,13 @@
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 25125
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 5000
     }
@@ -889,7 +889,7 @@
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 20000
     }
@@ -1011,31 +1011,31 @@
 #Deva (252000/63000 POPS)
 656 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 425
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2500
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 24575
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3000
     }
@@ -1157,7 +1157,7 @@
 #Nagyszeben/Sibiu (276000/69000 POPS)
 657 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 350
     }
@@ -1169,13 +1169,13 @@
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1800
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 350
     }
@@ -1187,7 +1187,7 @@
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 31500
     }
@@ -1327,25 +1327,25 @@
 #Brasso/Brasov (168000/42000 POPS)
 659 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 225
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1250
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 250
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 22275
     }
@@ -1473,25 +1473,25 @@
 #Udvarhely (228000/57000 POPS)
 660 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 400
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 7450
     }
@@ -1619,31 +1619,31 @@
 #Beszterce (300000/75000 POPS)
 661 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2500
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 29500
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 10000
     }
@@ -1765,25 +1765,25 @@
 #Targu Mures (344000/86000 POPS)
 2533 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 250
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1300
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 300
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 24150
     }

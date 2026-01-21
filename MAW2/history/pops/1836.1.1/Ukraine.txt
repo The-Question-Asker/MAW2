@@ -51,37 +51,37 @@
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 252
     }
 
     bureaucrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 10.799999999999999
     }
 
     officers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 21.599999999999998
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 36
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 108
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 36
     }
@@ -299,49 +299,49 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 306
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1656
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 324
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 30834
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 54
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 306
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 63
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 5697
     }
@@ -671,7 +671,7 @@
     }
 	
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1089
     }
@@ -763,7 +763,7 @@
     }
 	
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3609
     }
@@ -921,7 +921,7 @@
     }
 	
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1089
     }

@@ -1,5 +1,5 @@
 capital = 654
-primary_culture = pannonian
+primary_culture = wendish
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0

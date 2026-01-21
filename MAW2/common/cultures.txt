@@ -345,19 +345,6 @@ zapadoslavs = {
 	
 }
 
-zapadoslav_pannonian = {
-    leader = russian
-    unit = RussianGC
-
-	pannonian = {
-	  color = { 92 72 31 }
-        	first_names = { }
-
-			last_names = {	}
-    }
-    union = PNN	
-}
-
 zapadoslav_wendish = {
     leader = russian
     unit = RussianGC

@@ -448,39 +448,39 @@
     }
     #####
 
-    ####pannonians
+    ####wendishs
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 300
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 300
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
@@ -697,55 +697,55 @@
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 60
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1025
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2665
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 35
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1025
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1790
     }

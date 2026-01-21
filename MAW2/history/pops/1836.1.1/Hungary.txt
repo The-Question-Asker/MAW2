@@ -3,49 +3,49 @@
 #Sopron (100000/25000 POPS) #part of Hungary today
 623 = {
     aristocrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 125
     }
 
     bureaucrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 400
     }
 
     officers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     craftsmen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 1400
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 6600
     }
@@ -57,73 +57,73 @@
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 350
     }
 
     bureaucrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 125
     }
 
     officers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 125
     }
 
     craftsmen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1000
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1250
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 10125
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1200
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2740
     }
@@ -131,79 +131,79 @@
 #Zalaegerszeg (860000/215000 POPS) #part of Hungary today
 639 = {
     capitalists = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 25
     }
 
     aristocrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 450
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 300
     }
 
     bureaucrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 400
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 1500
     }
 
     craftsmen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 27350
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3750
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1250
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 5900
     }
 
     craftsmen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3000
     }
@@ -215,25 +215,25 @@
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3000
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3000
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100000
     }
@@ -245,31 +245,31 @@
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 650
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 225
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1750
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 300
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 29075
     }
@@ -363,37 +363,37 @@
 #Pecs (232000/58000 POPS)
 640 = {
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 650
     }
 
     bureaucrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     officers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 80
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 250
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1250
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
@@ -405,73 +405,73 @@
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 24670
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1050
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 4625
     }
 
     aristocrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 500
     }
 
     bureaucrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 75
     }
 
     officers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 3545
     }
@@ -517,21 +517,15 @@
 #Budapest (644000/161000 POPS)
 641 = {
     capitalists = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 25
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2750
-    }
-
-    bureaucrats = {
-        culture = pannonian
-        religion = orthodox
-        size = 600
     }
 
     bureaucrats = {
@@ -540,38 +534,44 @@
         size = 600
     }
 
+    bureaucrats = {
+        culture = sclavenian
+        religion = orthodox
+        size = 600
+    }
+
     officers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 325
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 825
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 9000
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2100
     }
 
     craftsmen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 60400
     }
@@ -583,31 +583,31 @@
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 450
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 7500
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2500
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size =  35050
     }
@@ -655,49 +655,49 @@
     }
 
     aristocrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 800
     }
 
     bureaucrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 500
     }
 
     officers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 175
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 250
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 7500
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 1275
     }
 
     craftsmen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 15400
     }
@@ -705,49 +705,49 @@
 #Gyor (384000/96000 POPS)
 642 = {
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2250
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 575
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2750
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3000
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     craftsmen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 45325
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
@@ -759,19 +759,19 @@
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 350
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 4525
     }
@@ -807,55 +807,55 @@
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 1800
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 275
     }
 
     craftsmen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1400
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 300
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 29925
     }
@@ -863,55 +863,55 @@
 #Szekesfehervar (364000/91000 POPS)
 643 = {
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2100
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 5000
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2250
     }
 
     craftsmen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size =  41000
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 500
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 900
     }
@@ -923,49 +923,49 @@
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 175
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 16275
     }
 
     aristocrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 275
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 250
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 1200
     }
 
     craftsmen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 275
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 23900
     }
@@ -973,55 +973,55 @@
 #Kaposvar (392000/98000 POPS)
 644 = {
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2000
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 750
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3700
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 66550
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 450
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 750
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 150
     }
@@ -1033,7 +1033,7 @@
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 13525
     }
@@ -1063,25 +1063,25 @@
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 350
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 6525
     }
@@ -1089,61 +1089,61 @@
 #Kecskemet (108000/27000 POPS)
 645 = {
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 400
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3200
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 9125
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 275
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3000
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 5550
     }
@@ -1173,25 +1173,25 @@
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 800
     }
@@ -1202,48 +1202,48 @@
         size = 200
     }
 }
-#Felvidek Region (320000) #see pannoniania.txt and Ukraine.txt for balance of Region
+#Felvidek Region (320000) #see wendishia.txt and Ukraine.txt for balance of Region
 #under the rule of Austria in 1836
 #Miskolc (320000/80000 POPS) #Part of Hungary Today
 646 = {
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1750
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 425
     }
 
     bureaucrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 700
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3750
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 450
     }
 
     craftsmen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 30525
     }
@@ -1255,25 +1255,25 @@
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 250
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2450
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 275
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 24125
     }
@@ -1309,71 +1309,71 @@
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     craftsmen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 5500
     }
 }
-#Partium Region (1112000) #See wendishia.txt for balance of region
+#Partium Region (1112000) #See sclaveniania.txt for balance of region
 #under the rule of Austria in 1836
 #Debrecen (156000/39000 POPS)
 648 = {
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 675
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 250
     }
 
     bureaucrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 500
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2350
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 8725
     }
@@ -1385,31 +1385,31 @@
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 300
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2500
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 125
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3975
     }
@@ -1439,25 +1439,25 @@
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 915
     }
@@ -1465,43 +1465,43 @@
 #Szeged (628000/157000 POPS)
 649 = {
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1500
     }
 
     bureaucrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 625
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2500
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 54375
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2500
     }
@@ -1513,25 +1513,25 @@
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 850
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 3900
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 900
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 80850
     }
@@ -1561,25 +1561,25 @@
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 5375
     }
@@ -1587,37 +1587,37 @@
 #Bekescsab (328000/82000 POPS)
 650 = {
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1100
     }
 
     bureaucrats = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 300
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 1900
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 325
     }
 
     serfs = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 27375
     }
@@ -1629,31 +1629,31 @@
     }
 
     aristocrats = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 950
     }
 
     clergymen = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 425
     }
 
     artisans = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 2250
     }
 
     soldiers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 450
     }
 
     farmers = {
-        culture = pannonian
+        culture = wendish
         religion = orthodox
         size = 42925
     }
@@ -1683,25 +1683,25 @@
     }
 
     clergymen = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = wendish
+        culture = sclavenian
         religion = orthodox
         size = 1675
     }

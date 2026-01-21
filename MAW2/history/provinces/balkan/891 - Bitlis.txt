@@ -1,6 +1,5 @@
 owner = PRS
 controller = PRS
-add_core = PRS
 add_core = ARM
 add_core = BTL
 add_core = KDS
