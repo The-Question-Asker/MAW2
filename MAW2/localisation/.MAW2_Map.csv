@@ -1,4 +1,5 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+PROV521;Lisboa;;;;;;;;;;;;;
 PROV926;Ctesiphon;;;;;;;;;;;;;
 TUR_935;Asoristan;;;;;;;;;;;;;
 TUR_805;Macedonia;;;;;;;;;;;;;
@@ -245,7 +246,27 @@ PROV304;Monapia;;;;;;;;;;;;;x
 PROV304;Monapia;;;;;;;;;;;;;x
 PROV304;Monapia;;;;;;;;;;;;;x
 PROV304;Monapia;;;;;;;;;;;;;x
+PROV523;Avrantes;;;;;;;;;;;;;x
+PROV524;Porta Santa Ubes;;;;;;;;;;;;;x
+PROV525;Leoviglian Ebora;;;;;;;;;;;;;x
+PROV526;Paca;;;;;;;;;;;;;x
+PROV527;Maria;;;;;;;;;;;;;x
+PROV65;Vitré;;;;;;;;;;;;;x
+PROV50;Boulaies;;;;;;;;;;;;;x
+PROV239;Petit Fresnay;;;;;;;;;;;;;x
+PROV57;Neuvéglise;;;;;;;;;;;;;x
+PROV58;Gué des Sauvages;;;;;;;;;;;;;x
+PROV58;Œil de Cochon;;;;;;;;;;;;;x
+PROV52;Magneton;;;;;;;;;;;;;x
+PROV56;Auxerrois;;;;;;;;;;;;;x
+PROV49;St. Aprusterre;;;;;;;;;;;;;x
+PROV2625;Fornelia;;;;;;;;;;;;;x
+#PROV9;Fornelia;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
+PROV3257;Lake Shipqu;;;;;;;;;;;;;x
+PROV3312;Lake Cataraqui;;;;;;;;;;;;;x
+PROV3252;Lac Nicolet;;;;;;;;;;;;;x
+PROV3253;Lac Wentaron;;;;;;;;;;;;;x
 PROV2722;Coast of Laagland;;;;;;;;;;;;;x
 PROV2724;Claudian Narrows;;;;;;;;;;;;;x
 PROV2725;Môr Udd;;;;;;;;;;;;;x
@@ -263,6 +284,16 @@ PROV2754;African Coast;;;;;;;;;;;;;x
 PROV2766;Gulf of Syrte;;;;;;;;;;;;;x
 PROV2767;Gulf of Cyrenaica;;;;;;;;;;;;;x
 PROV2773;Propontis;;;;;;;;;;;;;x
+PROV2953;Baie de Neustrie;;;;;;;;;;;;;x
+PROV2952;Baie d'Algrande;;;;;;;;;;;;;x
+PROV2945;Cap des Tempêtes;;;;;;;;;;;;;x
+PROV3022;Luitpolding Seamounts;;;;;;;;;;;;;x
+PROV2944;Mer de Marieterre;;;;;;;;;;;;;x
+PROV2943;Gulf of St. Martin;;;;;;;;;;;;;x
+PROV2946;Détroit de Guillard;;;;;;;;;;;;;x
+PROV2947;Baie Impériale;;;;;;;;;;;;;x
+PROV3239;Vivemer;;;;;;;;;;;;;x
+PROV3256;Lac Indian;;;;;;;;;;;;;x
 PROV2508;New Naxos;;;;;;;;;;;;;x ###### ABORIGINAL AUSTRALIA
 PROV2509;Te Tai Tokerau;;;;;;;;;;;;;x
 PROV2468;Kuring-Gai;;;;;;;;;;;;;x
@@ -360,7 +391,7 @@ NWR_36;X;;;;;;;;;;;;;x
 NWR_37;X;;;;;;;;;;;;;x
 NWR_38;Lotharingie Occidentale;;;;;;;;;;;;;x
 NWR_39;Neu Grünwald;;;;;;;;;;;;;x
-NWR_40;X;;;;;;;;;;;;;x
+NWR_40;Gespegter;;;;;;;;;;;;;x
 NWR_41;X;;;;;;;;;;;;;x
 NWR_42;X;;;;;;;;;;;;;x
 NWR_43;X;;;;;;;;;;;;;x
@@ -531,6 +562,6 @@ PROV61;Schwabenville;;;;;;;;;;;;;x
 PROV48;Indienstalle;;;;;;;;;;;;;x
 PROV62;Port-aux-Saxons;;;;;;;;;;;;;x
 PROV75;Côte Grise;;;;;;;;;;;;;x
-PROV246;Vivemer;;;;;;;;;;;;;x
+PROV246;Ter'vivemer;;;;;;;;;;;;;x
 PROV64;Ville du Roi;;;;;;;;;;;;;x
 RUS_1098;East Armenia;;;;;;;;;;;;;x
