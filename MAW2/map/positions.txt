@@ -20836,31 +20836,36 @@
 
 # Angouleme
 444 = {
+    text_position = {
+        x = 2809.250000
+        y = 1541.850000
+    }
+
+    text_scale = 1.200000
     unit = {
         x = 2810.000000
         y = 1542.000000
     }
 
-    text_position = {
-        x = 2810.000000
-        y = 1538.800049
-    }
-
-    text_scale = 2.200000
-    building_construction = {
-        x = 2816.000000
-        y = 1543.699951
-    }
-
     factory = {
-        x = 2802.000000
-        y = 1542.599976
+        x = 2811.250000
+        y = 1543.850000
+    }
+
+    building_construction = {
+        x = 2811.400000
+        y = 1537.650000
+    }
+
+    military_construction = {
+        x = 2810.250000
+        y = 1539.750000
     }
 
     building_position = {
         fort = {
-            x = 2811.000000
-            y = 1533.099976
+            x = 2804.300000
+            y = 1541.950000
         }
 
     }

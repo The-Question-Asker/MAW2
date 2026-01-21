@@ -1,7 +1,8 @@
-owner = FRK
-controller = FRK
+owner = AGU
+controller = AGU
 add_core = FRK
 add_core = NRB
+add_core = AGU
 trade_goods = cattle
 life_rating = 31
 
