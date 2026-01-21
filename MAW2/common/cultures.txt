@@ -645,17 +645,43 @@ indigenous_peoples = {
     }
 	
 	aztlanic = { #aztecan
-	  color = { 156 68 119 }
+	  color = { 168 45 60 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+
+	pakawan = { 
+	  color = { 166 99 23 }
         	first_names = { }
 
 			last_names = {  }
     }
 	
+	otomanguean = { 
+	  color = { 112 204 184 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	mayan = { 
+	  color = { 98 88 142 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	mesoamerican_minor = { 
+	  color = { 156 68 119 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+}
+	
 #### SPECIFIC CULTURES
 
-
-
-}
 
 
 ###############################
@@ -2369,143 +2395,143 @@ oceanic = {
     }
 }
 
-native_american = {
-    leader = nativeamerican
-    is_overseas = no
-    mayan = {
-        color = {98 88 142}
-        first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
-        Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto
-        Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
-
-        last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
-        Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
-        Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
-    }
-    nahua = {
-        color = {88 175 160}
-        first_names = { Antonio Carlos Diego Emiliano Emilio Felipe Fernando Francisco Gaspar Hernando
-        Hilario Ignacio Isaac Jacinto Jesús José Juan Julio Lorenzo Manuel
-        Marcial Mario Martín Natalio Oliverio Pedro Roberto Rodolfo Santiago Víctor }
-
-        last_names = { Ahuactzin Altamirano Atlanteco Badiano Bernardino Coaguila Coyotl Cuautlaxahue Gutiérrez Hernández
-        Huanitzin Itzel Ixtlilxochitl Jiménez Matlacuahuac Mayahuel Moxo Muñoz Nahui Ocelotl
-        Panecatl Tlaxca Tletla Tzehe Valeriano Xaxalpa Zicoténcatl Xochitl Zapata Zapotitla }
-    }
-    quechua = {
-        color = {178 141 85}
-        first_names = { Agustín Alejandro Antauro Antonio Basilio Daniel Diego Eugenio Facundo Felipe
-        Francisco Gustavo Hilario Inca Isaac "José María" Julio Lorenzo Manuel Marcos
-        Mariano Martín Nicolás Osvaldo René Roberto Simón Túpac Ulises Víctor }
-
-        last_names = { Arguedas Barrientos Cajahuanca Canchata Chambi Chihuán Cusurichi Espejo Frisancho Gamarra
-        Guaman Guayasamín Gutiérrez Heredia Humala Iturri Lazarte Ludueña Melgarejo Palacios
-        Patiño Quispe Rodríguez Roncaglia "Santa Cruz" Sosa Sumac Toledo Vargas Zapata }
-    }
-    guarani = {
-        color = {89 80 175}
-        first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
-        Félix Fernando Gregorio Jacinto Jesús José Juan Julio Luis Manuel
-        Marcos Máximo Narciso Pablo Pedro Rodrigo Roque Simón Teodoro Víctor }
-
-        last_names = { Abjaisu Álvarez Ayegua Camba Chuaie Correa Cunhagatú Díaz Fernández Galeano
-        Gómez González Guaracay Guaraní Guerrero Jopara López Mongelós Morla Ortíz
-        Paravé Picagua Riquelme Rivarola "Santa Cruz" Tarayú Torga Velázquez Yaguarete Yrahi }
-    }
-    aimara = {
-        color = {190 45 23}
-        first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
-        Felipe Francisco Gregorio Hugo José Juan "Juan José" Manuel Marcos Mario
-        Máximo Nicolás Osvaldo Ramón Roberto Santiago Túpac Vicente Víctor "Víctor Hugo" }
-
-        last_names = { Apaza Ayme Calisaya Cardenas Castilla Chino Choquehuanca Condori Corahua Cusicanqui
-        Hoffmann Huachua Huallpa Katari Larico Machaca Mamani Morales Paredes Peñaranda
-        Puma Quilca Quispe Rivera Sisa Tamayo Taquiri Torres Yllanes Yucra }
-    }
-    amazonian = {
-        color = {4 255 84}
-        first_names = { Aníbal Augusto Bento Bernardo César Daniel David Donato Duarte Ernesto
-        Estevão Fernando Francisco Gabriel Graciano Hugo João Julio Leopoldo Lucas
-        Miguel Nuno Óscar Rafael Roberto Sebastião Sergio Simão Vasco Zeferino }
-
-        last_names = { Arawá Arawak Bororo Garifuna Gê Guayaná Jeikó Kaingang Kalinago Kamakán
-        Karajá Kayapó Matsés Maxakalí Purí Timbira Xavante Xerente Xokieng Yanomamö }
-    }
-    patagonian = {
-        color = {88 99 133}
-        first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
-        Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
-        Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
-
-        last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
-        Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
-        Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
-    }
-    tupinamba = {
-        color = {43 212 67}
-        first_names = { Álvaro André Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
-        Gabriel Gaspar Gonçalo Gustavo Henrique João José Luís Manuel Inácio
-        Jordão Lúcio Mateus Nicolau Paulo Pedro Roque Sergio Tomás Vítor }
-
-        last_names = { Caetés Potiguara Tabajara Tamoios Temiminó Tupinambá Tupiniquim     }
-    }
-    metis = {
-        color = {15 68 192}
-        first_names = { Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel
-        }
-        last_names = { Riel Bruce Lépine Dumont Clarence Martin
-        }
-    }
-    dakota = {
-        color = {117 84 13}
-        first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
-        }
-        last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
-        }
-    }
-    cherokee = {
-        color = {136 114 173}
-        first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-    }
-    pueblo = {
-        color = {222 238 156}
-        first_names = { Cochise Mangas Loco Taza Nana chihuahua Geronimo Alchesay Naiche Victorio
-        }
-        last_names = { Arivaipa Cibecue Coyotero Jicarilla Llanero Mescalero Nateges Tonto
-        }
-    }
-    inuit = {
-        color = {210 243 242}
-        first_names = { Peter Ipeelee Jose Steve David Jack Goo Germaine James Pitseolak Kenojuak Ernie Caubvick
-        }
-        last_names = { Alakannuark Arreak Ashoona Enuaraq Evaloarjuk Ipeelee Irgittuq Keenainak Kunuk Kusugak Maksagak Nutarak Paniloo Piugattuk Pudluk Tiktaalaaq Ungallaq
-        }
-    }
-    cree = {
-        color = {127 244 100}
-        first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
-        }
-        last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
-        }
-    }
-    navajo = {
-        color = {83 111 191}
-        first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
-        }
-        last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge
-        }
-    }
-    native_american_minor = {
-        color = {128 55 98}
-        first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
-        }
-        last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
-        }
-    }
-}
+#native_american = {
+#    leader = nativeamerican
+#    is_overseas = no
+#    mayan = {
+#        color = {98 88 142}
+#        first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
+#        Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto
+#        Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
+#
+#        last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+#        Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+#        Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+#    }
+#    nahua = {
+#        color = {88 175 160}
+#        first_names = { Antonio Carlos Diego Emiliano Emilio Felipe Fernando Francisco Gaspar Hernando
+#        Hilario Ignacio Isaac Jacinto Jesús José Juan Julio Lorenzo Manuel
+#        Marcial Mario Martín Natalio Oliverio Pedro Roberto Rodolfo Santiago Víctor }
+#
+#        last_names = { Ahuactzin Altamirano Atlanteco Badiano Bernardino Coaguila Coyotl Cuautlaxahue Gutiérrez Hernández
+#        Huanitzin Itzel Ixtlilxochitl Jiménez Matlacuahuac Mayahuel Moxo Muñoz Nahui Ocelotl
+#        Panecatl Tlaxca Tletla Tzehe Valeriano Xaxalpa Zicoténcatl Xochitl Zapata Zapotitla }
+#    }
+#    quechua = {
+#        color = {178 141 85}
+#        first_names = { Agustín Alejandro Antauro Antonio Basilio Daniel Diego Eugenio Facundo Felipe
+#        Francisco Gustavo Hilario Inca Isaac "José María" Julio Lorenzo Manuel Marcos
+#        Mariano Martín Nicolás Osvaldo René Roberto Simón Túpac Ulises Víctor }
+#
+#        last_names = { Arguedas Barrientos Cajahuanca Canchata Chambi Chihuán Cusurichi Espejo Frisancho Gamarra
+#        Guaman Guayasamín Gutiérrez Heredia Humala Iturri Lazarte Ludueña Melgarejo Palacios
+#        Patiño Quispe Rodríguez Roncaglia "Santa Cruz" Sosa Sumac Toledo Vargas Zapata }
+#    }
+#    guarani = {
+#        color = {89 80 175}
+#        first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
+#        Félix Fernando Gregorio Jacinto Jesús José Juan Julio Luis Manuel
+#        Marcos Máximo Narciso Pablo Pedro Rodrigo Roque Simón Teodoro Víctor }
+#
+#        last_names = { Abjaisu Álvarez Ayegua Camba Chuaie Correa Cunhagatú Díaz Fernández Galeano
+#        Gómez González Guaracay Guaraní Guerrero Jopara López Mongelós Morla Ortíz
+#        Paravé Picagua Riquelme Rivarola "Santa Cruz" Tarayú Torga Velázquez Yaguarete Yrahi }
+#    }
+#    aimara = {
+#        color = {190 45 23}
+#        first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
+#        Felipe Francisco Gregorio Hugo José Juan "Juan José" Manuel Marcos Mario
+#        Máximo Nicolás Osvaldo Ramón Roberto Santiago Túpac Vicente Víctor "Víctor Hugo" }
+#
+#        last_names = { Apaza Ayme Calisaya Cardenas Castilla Chino Choquehuanca Condori Corahua Cusicanqui
+#        Hoffmann Huachua Huallpa Katari Larico Machaca Mamani Morales Paredes Peñaranda
+#        Puma Quilca Quispe Rivera Sisa Tamayo Taquiri Torres Yllanes Yucra }
+#    }
+#    amazonian = {
+#        color = {4 255 84}
+#        first_names = { Aníbal Augusto Bento Bernardo César Daniel David Donato Duarte Ernesto
+#        Estevão Fernando Francisco Gabriel Graciano Hugo João Julio Leopoldo Lucas
+#        Miguel Nuno Óscar Rafael Roberto Sebastião Sergio Simão Vasco Zeferino }
+#
+#        last_names = { Arawá Arawak Bororo Garifuna Gê Guayaná Jeikó Kaingang Kalinago Kamakán
+#        Karajá Kayapó Matsés Maxakalí Purí Timbira Xavante Xerente Xokieng Yanomamö }
+#    }
+#    patagonian = {
+#        color = {88 99 133}
+#        first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+#        Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+#        Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+#
+#        last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+#        Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+#        Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+#    }
+#    tupinamba = {
+#        color = {43 212 67}
+#        first_names = { Álvaro André Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
+#        Gabriel Gaspar Gonçalo Gustavo Henrique João José Luís Manuel Inácio
+#        Jordão Lúcio Mateus Nicolau Paulo Pedro Roque Sergio Tomás Vítor }
+#
+#        last_names = { Caetés Potiguara Tabajara Tamoios Temiminó Tupinambá Tupiniquim     }
+#    }
+#    metis = {
+#        color = {15 68 192}
+#        first_names = { Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel
+#        }
+#        last_names = { Riel Bruce Lépine Dumont Clarence Martin
+#        }
+#    }
+#    dakota = {
+#        color = {117 84 13}
+#        first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
+#        }
+#        last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
+#        }
+#    }
+#    cherokee = {
+#        color = {136 114 173}
+#        first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
+#        }
+#        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
+#        }
+#    }
+#    pueblo = {
+#        color = {222 238 156}
+#        first_names = { Cochise Mangas Loco Taza Nana chihuahua Geronimo Alchesay Naiche Victorio
+#        }
+#        last_names = { Arivaipa Cibecue Coyotero Jicarilla Llanero Mescalero Nateges Tonto
+#        }
+#    }
+#    inuit = {
+#        color = {210 243 242}
+#        first_names = { Peter Ipeelee Jose Steve David Jack Goo Germaine James Pitseolak Kenojuak Ernie Caubvick
+#        }
+#        last_names = { Alakannuark Arreak Ashoona Enuaraq Evaloarjuk Ipeelee Irgittuq Keenainak Kunuk Kusugak Maksagak Nutarak Paniloo Piugattuk Pudluk Tiktaalaaq Ungallaq
+#        }
+#    }
+#    cree = {
+#        color = {127 244 100}
+#        first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+#        }
+#        last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+#        }
+#    }
+#    navajo = {
+#        color = {83 111 191}
+#        first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+#        }
+#        last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge
+#        }
+#    }
+#    native_american_minor = {
+#        color = {128 55 98}
+#        first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+#        }
+#        last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+#        }
+#    }
+#}
 
 american_cultures = {
     leader = european

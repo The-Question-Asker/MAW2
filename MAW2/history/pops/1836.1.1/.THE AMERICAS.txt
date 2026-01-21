@@ -1096,13 +1096,13 @@
 49 = {
 
     aristocrats = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 2
     }
 
     aristocrats = {
-        culture = metis
+        culture = algonquian
         religion = animist
         size = 5
     }
@@ -1114,25 +1114,25 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 2
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = algonquian
         religion = animist
         size = 15
     }
@@ -1144,7 +1144,7 @@
     }
 
     farmers = {
-        culture = metis
+        culture = algonquian
         religion = animist
         size = 1000
     }
@@ -21859,6 +21859,12 @@
 		religion = animist
 		size = 1681
 	}
+	
+	farmers = {
+		culture = pakawan
+		religion = animist
+		size = 1081
+	}
 
 	soldiers = {
 		culture = athabaskan
@@ -23041,6 +23047,1987 @@
         religion = animist
         size = 900
     }
+}
+
+2147 = {
+
+
+
+	aristocrats = {
+		 culture = pakawan
+		 religion = animist
+		 size = 43
+	}
+
+
+	bureaucrats = {
+		 culture = pakawan
+		 religion = animist
+		 size = 2
+	}
+
+
+	clergymen = {
+		 culture = pakawan
+		 religion = animist
+		 size = 29
+	}
+
+
+	artisans = {
+		 culture = pakawan
+		 religion = animist
+		 size = 205
+	}
+
+
+	soldiers = {
+		 culture = pakawan
+		 religion = animist
+		 size = 52
+	}
+
+
+	farmers = {
+		 culture = pakawan
+		 religion = animist
+		 size = 2593
+	}
+
+
+	officers = {
+		 culture = pakawan
+		 religion = animist
+		 size = 2
+	}
+
+}
+
+2150 = {
+
+
+
+	serfs = {
+		culture = pakawan
+		religion = orthodox
+		size = 165
+	}
+
+	slaves = {
+		culture = pakawan
+		religion = orthodox
+		size = 935
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 4385
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 126
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 84
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 588
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 151
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 5922
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1512
+	}
+
+}
+
+2163 = {
+
+
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 165
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 935
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 6385
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 171
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 11
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 114
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 798
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 205
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8036
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 11
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2052
+	}
+
+}
+
+2149 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 1796
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 36
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 142
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 30
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 15
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 85
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 485
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 15
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 10
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 70
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 18
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 705
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 180
+	}
+
+}
+
+2159 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 1708
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 34
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 135
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 19
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 28
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 30
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 170
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 185
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 56
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 564
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 144
+	}
+
+}
+
+2160 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 115
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 9
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 1
+	}
+
+	serfs = {
+		culture = otomanguean
+		religion = orthodox
+		size = 330
+	}
+
+	slaves = {
+		culture = otomanguean
+		religion = orthodox
+		size = 1870
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 25
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 70
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 18
+	}
+
+}
+
+2155 = {
+
+
+
+	aristocrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 46
+	}
+
+
+	bureaucrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 31
+	}
+
+
+	artisans = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 219
+	}
+
+
+	soldiers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 56
+	}
+
+
+	farmers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 2770
+	}
+
+
+	officers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 3
+	}
+
+}
+
+2152 = {
+
+
+
+	aristocrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 45
+	}
+
+
+	bureaucrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 30
+	}
+
+
+	artisans = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 212
+	}
+
+
+	soldiers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 54
+	}
+
+
+	farmers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 2681
+	}
+
+
+	officers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 3
+	}
+
+}
+
+2154 = {
+
+
+
+	aristocrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 37
+	}
+
+
+	bureaucrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 2
+	}
+
+
+	clergymen = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 25
+	}
+
+
+	artisans = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 177
+	}
+
+
+	soldiers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 45
+	}
+
+
+	farmers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 2239
+	}
+
+
+	officers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 2
+	}
+
+}
+
+2145 = {
+
+
+
+	aristocrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 42
+	}
+
+
+	bureaucrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 2
+	}
+
+
+	clergymen = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 28
+	}
+
+
+	artisans = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 198
+	}
+
+
+	soldiers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 50
+	}
+
+
+	farmers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 2504
+	}
+
+
+	officers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 2
+	}
+
+}
+
+2143 = {
+
+
+
+	aristocrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 27
+	}
+
+
+	bureaucrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 18
+	}
+
+
+	artisans = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 128
+	}
+
+
+	soldiers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 32
+	}
+
+
+	farmers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 1619
+	}
+
+
+	officers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 1
+	}
+
+}
+
+2140 = {
+
+
+
+	aristocrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 18
+	}
+
+
+	bureaucrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 12
+	}
+
+
+	artisans = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 86
+	}
+
+
+	soldiers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 22
+	}
+
+
+	farmers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 1088
+	}
+
+
+	officers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 1
+	}
+
+}
+
+2137 = {
+
+
+
+	aristocrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 93
+	}
+
+
+	bureaucrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 6
+	}
+
+
+	clergymen = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 62
+	}
+
+
+	artisans = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 436
+	}
+
+
+	soldiers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 112
+	}
+
+
+	farmers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 5513
+	}
+
+
+	officers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 6
+	}
+
+}
+
+2142 = {
+
+
+
+	aristocrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 48
+	}
+
+
+	bureaucrats = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 32
+	}
+
+
+	artisans = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 226
+	}
+
+
+	soldiers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 58
+	}
+
+
+	farmers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 2858
+	}
+
+
+	officers = {
+		 culture = aztlanic
+		 religion = animist
+		 size = 3
+	}
+
+}
+
+2141 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 4628
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 94
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 366
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 52
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 5
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 78
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 330
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 1870
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 295
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 18
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 84
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 21
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 846
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 216
+	}
+
+}
+
+2157 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 6398
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 130
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 506
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 72
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 7
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 108
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 180
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 1020
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 395
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 25
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 17
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 119
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 30
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1198
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 306
+	}
+
+}
+
+2156 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 6398
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 130
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 506
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 72
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 7
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 108
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 30
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 170
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 95
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 10
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 49
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 493
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 126
+	}
+
+}
+
+2161 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 6
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 5513
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 112
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 436
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 62
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 6
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 93
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 30
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 170
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 95
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 10
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 49
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 493
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 126
+	}
+
+}
+
+2153 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 9053
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 184
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 716
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 102
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 10
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 153
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 90
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 510
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 195
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 13
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 9
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 63
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 16
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 634
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 162
+	}
+
+}
+
+2167 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 14
+	}
+
+	farmers = {
+		culture = otomanguean
+		religion = animist
+		size = 7593
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 5593
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 256
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 996
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 142
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 14
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 213
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 135
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 765
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 495
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 28
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 19
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 133
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 34
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1339
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 342
+	}
+
+}
+
+2158 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 1088
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 22
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 86
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 12
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 18
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 45
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 255
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 25
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 7
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 70
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 18
+	}
+
+}
+
+2151 = {
+
+
+
+	officers = {
+		culture = aztlanic
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = aztlanic
+		religion = animist
+		size = 1088
+	}
+
+	soldiers = {
+		culture = aztlanic
+		religion = animist
+		size = 22
+	}
+
+	artisans = {
+		culture = aztlanic
+		religion = animist
+		size = 86
+	}
+
+	clergymen = {
+		culture = aztlanic
+		religion = animist
+		size = 12
+	}
+
+	bureaucrats = {
+		culture = aztlanic
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = aztlanic
+		religion = animist
+		size = 18
+	}
+
+	serfs = {
+		culture = aztlanic
+		religion = orthodox
+		size = 135
+	}
+
+	slaves = {
+		culture = aztlanic
+		religion = orthodox
+		size = 765
+	}
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 325
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 18
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 84
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 21
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 846
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 1
+	}
+
+
+	serfs = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 216
+	}
+
 }
 
 
