@@ -2,6 +2,7 @@ country_event = {  #witlian self-gov
 	id = 50001 
 	title = "EVTNAME50001" 
 	desc = "EVTDESC50001"
+	picture = "independence_mov1"
 	
 	trigger = {
 		tag = WTL
@@ -12,11 +13,14 @@ country_event = {  #witlian self-gov
 			}
 		
 		}
+		NOT = {
+			has_global_flag = IT_RELEASED
+		}
 	
 	}
 	
 	mean_time_to_happen = {
-		months = 20
+		months = 15
 		
 		modifier = {
 			factor = 0.8
@@ -54,16 +58,115 @@ country_event = {  #witlian self-gov
 	option = {
 		name = "Worrying..."
 	
+		set_global_flag = IT_RELEASED
+	
 		random_list = {
 			
 			
 			25 = {
-			
+				
+				NWR_72 = {
+					add_core = RPM
+				}
+				NWR_71 = {
+					add_core = RPM
+				}
+				NWR_70 = {
+					add_core = RPM
+				}
+				NWR_69 = {
+					add_core = RPM
+				}
+				NWR_13 = {
+					add_core = RPM
+				}
+				
+				NWR_7 = {
+					add_core = CFL
+				}
+				NWR_8 = {
+					add_core = CFL
+				}
+				NWR_14 = {
+					add_core = CFL
+				}
+				NWR_16 = {
+					add_core = CFL
+				}
+				NWR_15 = {
+					add_core = CFL
+				}
+				NWR_25 = {
+					add_core = CFL
+				}
+				NWR_26 = {
+					add_core = CFL
+				}
+				NWR_27 = {
+					add_core = CFL
+				}
+				NWR_28 = {
+					add_core = CFL
+				}
+				NWR_29 = {
+					add_core = CFL
+				}
+				
+				release_vassal = RPM
+				
+				release_vassal = CFL
 			
 			}
 			
 			75 = {
 			
+				NWR_72 = {
+					add_core = CFL
+				}
+				NWR_71 = {
+					add_core = CFL
+				}
+				NWR_70 = {
+					add_core = CFL
+				}
+				NWR_69 = {
+					add_core = CFL
+				}
+				NWR_13 = {
+					add_core = CFL
+				}
+				NWR_7 = {
+					add_core = CFL
+				}
+				NWR_8 = {
+					add_core = CFL
+				}
+				NWR_14 = {
+					add_core = CFL
+				}
+				NWR_16 = {
+					add_core = CFL
+				}
+				NWR_15 = {
+					add_core = CFL
+				}
+				NWR_25 = {
+					add_core = CFL
+				}
+				NWR_26 = {
+					add_core = CFL
+				}
+				NWR_27 = {
+					add_core = CFL
+				}
+				NWR_28 = {
+					add_core = CFL
+				}
+				NWR_29 = {
+					add_core = CFL
+				}
+				
+				release_vassal = CFL
 			
 			}
 		
@@ -73,3 +176,102 @@ country_event = {  #witlian self-gov
 	
 	
 	}
+	
+country_event = {  #witlian ind_trig
+	id = 49999 
+	title = "EVTNAME49999" 
+	desc = "EVTDESC49999"
+	
+	trigger = {
+		OR = {
+			tag = RPM
+			tag = CFL
+			tag = PHO
+		}
+		WTL = {
+			is_our_vassal = THIS
+		}
+		war = no
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+		
+		modifier = {
+			factor = 0.3
+			OR = {
+				num_of_allies = 1
+			}
+		}
+		
+	
+	}
+	
+	option = {
+		name = "We will be free!"
+		
+		WTL = {
+			release_vassal = THIS
+			country_event = {
+				id = 49998
+				days = 30
+			}
+		}
+		
+		prestige = 10
+	}
+	
+	option = {
+		name = "Now is not the time..."
+		prestige = -10
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+country_event = {
+	id = 49998 
+	title = "EVTNAME49998" 
+	desc = "EVTDESC49998"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Restore order to these regions!"
+		FROM = {
+			
+				add_casus_belli = {
+					target = WTL
+					type = conquest_any
+					months = 12
+				}
+			}
+		WTL = {
+			war = {
+				target = FROM
+				attacker_goal = { casus_belli = conquest_any }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = yes
+			}
+		}
+		war_exhaustion = 35
+		prestige = 10
+	}
+	
+	option = {
+		name = "What worth are these provinces anyway?"
+		prestige = -40	
+		badboy = -2
+	}
+
+}
+
+
+	
+	

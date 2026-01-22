@@ -4,6 +4,7 @@
 REB     =     "countries/rebels.txt"
 
 ###MAW2
+
 KRS        ="countries/Konigreich Sachsen.txt" #Königreich Sachsen
 TEU        ="countries/Teutonia.txt"
 RTH        ="countries/Kingdom of Ruthenia.txt"
@@ -81,6 +82,8 @@ NEK        ="countries/Neokephali.txt"
 SEM        ="countries/Sarbanian Empire.txt"
 CRC        ="countries/Carcassonne.txt"
 MIN        ="countries/Ming Empire.txt"
+CFL		   ="countries/Confoederatio Lottaria.txt"
+RPM		   ="countries/Repubblica Marembetti.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"
