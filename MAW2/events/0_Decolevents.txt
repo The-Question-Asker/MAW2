@@ -55,57 +55,14 @@ country_event = {  #witlian self-gov
 		name = "Worrying..."
 	
 		random_list = {
-			25 = {
-				if = {
-					limit = {
-						THIS = {
-							AND = {
-								NOT = { exists =  }
-							}
-						}
-					}
-					THIS = { 
-						random_owned = {
-							limit = { has_province_modifier = bondsman_control }
-							add_core = D40
-						}
-					}
-					for15 = {
-						limit = {
-							THIS = {
-								any_owned_province = {
-									AND = {
-										has_province_modifier = bondsman_control
-										NOT = { is_core = D40 }
-										any_neighbor_province = { is_core = D40 }
-									}
-								}
-							}
-						}
-						THIS = {
-							any_owned = {
-								limit = { 
-									has_province_modifier = bondsman_control
-									any_neighbor_province = { is_core = D40 }
-								}
-								add_core = D40
-							}
-						}
-					
-					}
-					THIS = {
-						
-						
-					}
-				}
-			}
+			
 			
 			25 = {
 			
 			
 			}
 			
-			50 = {
+			75 = {
 			
 			
 			}
