@@ -331,18 +331,34 @@ PROV106;Shawnee;;;;;;;;;;;;;x
 PROV103;Sauk;;;;;;;;;;;;;x
 PROV120;Illinois;;;;;;;;;;;;;x
 PROV122;Pawnee;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV121;Fort Adolfing;;;;;;;;;;;;;x
+PROV118;Orbey;;;;;;;;;;;;;x
+PROV4;St. Saul;;;;;;;;;;;;;x
+PROV3;Grand Portage;;;;;;;;;;;;;x
+PROV2630;Péninsule Lerins;;;;;;;;;;;;;x
+PROV31;Oinges;;;;;;;;;;;;;x
+PROV35;St. Anthony;;;;;;;;;;;;;x
+PROV34;Guérande;;;;;;;;;;;;;x
+PROV30;Van Corbach's Land;;;;;;;;;;;;;x
+PROV38;Lacville;;;;;;;;;;;;;x
+PROV40;Port Louis;;;;;;;;;;;;;x
+PROV39;Nordbois;;;;;;;;;;;;;x
+PROV124;Port Bordeaux;;;;;;;;;;;;;x
+PROV125;Poste Lamballe;;;;;;;;;;;;;x
+PROV176;Plounévez;;;;;;;;;;;;;x
+PROV174;Comté Ojibwe;;;;;;;;;;;;;x
+PROV130;Fort Poitiers;;;;;;;;;;;;;x
+PROV131;Theophanu;;;;;;;;;;;;;x
+PROV129;Ramnulfide;;;;;;;;;;;;;x
+PROV126;Fort Riquet;;;;;;;;;;;;;x
+PROV128;Hugobourg;;;;;;;;;;;;;x
+PROV36;Pays Voyageur;;;;;;;;;;;;;x
+PROV42;Évreux;;;;;;;;;;;;;x
+PROV41;Fort Charlesbourg;;;;;;;;;;;;;x
+PROV47;Fort Metz;;;;;;;;;;;;;x
+PROV37;Fort Bazaine;;;;;;;;;;;;;x
+PROV2594;Post Talleyrand;;;;;;;;;;;;;x
+PROV27;St. Guysland;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
@@ -357,6 +373,19 @@ PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
+PROV2423;Sud Lac Clotilde;;;;;;;;;;;;;x 
+PROV3115;Nord Lac Clotilde;;;;;;;;;;;;;x 
+PROV3254;Lac Etoiles;;;;;;;;;;;;;x 
+PROV2412;Oest Lac Louis;;;;;;;;;;;;;x 
+PROV3116;Est Lac Louis;;;;;;;;;;;;;x 
+PROV3117;Lac Alimibeg;;;;;;;;;;;;;x 
+PROV3251;Lac des Bois;;;;;;;;;;;;;x 
+PROV3118;Lac Ouinipigon;;;;;;;;;;;;;x 
+PROV3264;Lac Dieu;;;;;;;;;;;;;x 
+PROV3272;Haecoligua;;;;;;;;;;;;;x 
+PROV3275;Lac Genevieve;;;;;;;;;;;;;x 
+PROV3274;Lac St. Louis;;;;;;;;;;;;;x 
+PROV3273;Qamani'tuaq;;;;;;;;;;;;;x 
 PROV2413;La Mer Douce;;;;;;;;;;;;;x 
 PROV3112;Lac Onter'yoe;;;;;;;;;;;;;x 
 PROV2936;Détroit Baleine;;;;;;;;;;;;;x 
@@ -469,7 +498,7 @@ PROV1153;Yathrib;;;;;;;;;;;;;x
 NWR_1;X;;;;;;;;;;;;;x
 NWR_2;X;;;;;;;;;;;;;x
 NWR_3;X;;;;;;;;;;;;;x
-NWR_4;X;;;;;;;;;;;;;x
+NWR_4;Luitpoldingter;;;;;;;;;;;;;x
 NWR_5;X;;;;;;;;;;;;;x
 NWR_6;X;;;;;;;;;;;;;x
 NWR_7;X;;;;;;;;;;;;;x
@@ -477,16 +506,16 @@ NWR_8;X;;;;;;;;;;;;;x
 NWR_9;X;;;;;;;;;;;;;x
 NWR_10;X;;;;;;;;;;;;;x
 NWR_11;X;;;;;;;;;;;;;x
-NWR_12;Pays Indien;;;;;;;;;;;;;x
+NWR_12;x;;;;;;;;;;;;;x
 NWR_13;X;;;;;;;;;;;;;x
 NWR_14;X;;;;;;;;;;;;;x
 NWR_15;X;;;;;;;;;;;;;x
 NWR_16;X;;;;;;;;;;;;;x
-NWR_17;X;;;;;;;;;;;;;x
-NWR_18;X;;;;;;;;;;;;;x
-NWR_19;X;;;;;;;;;;;;;x
-NWR_20;X;;;;;;;;;;;;;x
-NWR_21;X;;;;;;;;;;;;;x
+NWR_17;Pays Indien;;;;;;;;;;;;;x
+NWR_18;Grandes Plaines;;;;;;;;;;;;;x
+NWR_19;Grand Marais;;;;;;;;;;;;;x
+NWR_20;Clotildesland;;;;;;;;;;;;;x
+NWR_21;Pays Ojibwe;;;;;;;;;;;;;x
 NWR_22;Carolingie Royale;;;;;;;;;;;;;x
 NWR_23;Carolingie Territoriale;;;;;;;;;;;;;x
 NWR_24;Carolingie Provinciale;;;;;;;;;;;;;x
