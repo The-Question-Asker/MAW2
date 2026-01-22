@@ -265,7 +265,7 @@ PROV9;Nibelungter;;;;;;;;;;;;;x
 PROV2626;Terres du Prince Pépin;;;;;;;;;;;;;x
 PROV2593;Fort Laud;;;;;;;;;;;;;x
 PROV2592;Poste Froid;;;;;;;;;;;;;x
-PROV2695;Ultima-Thule;;;;;;;;;;;;;x
+PROV2595;Ultima-Thule;;;;;;;;;;;;;x
 PROV240;Rivière Pidgeon;;;;;;;;;;;;;x
 PROV234;Fort Germaine;;;;;;;;;;;;;x
 PROV238;Radissonville;;;;;;;;;;;;;x
@@ -296,6 +296,66 @@ PROV220;Anneville;;;;;;;;;;;;;x
 PROV60;Chalon-Arlay;;;;;;;;;;;;;x
 PROV212;Caracalla;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV218;Bois Indiens;;;;;;;;;;;;;x
+PROV183;Bosonia;;;;;;;;;;;;;x
+PROV184;Hughesbourge;;;;;;;;;;;;;x
+PROV134;Fort Sullie;;;;;;;;;;;;;x
+PROV135;Nouvellebourg;;;;;;;;;;;;;x
+PROV186;Monghelie;;;;;;;;;;;;;x
+PROV185;St. Omer;;;;;;;;;;;;;x
+PROV133;Jacpaysage;;;;;;;;;;;;;x
+PROV43;Ville Romaine;;;;;;;;;;;;;x
+PROV137;Henriville;;;;;;;;;;;;;x
+PROV138;Ville de la République;;;;;;;;;;;;;x
+PROV191;Cossé;;;;;;;;;;;;;x
+PROV55;Ouroux;;;;;;;;;;;;;x
+PROV46;Aubevoye;;;;;;;;;;;;;x
+PROV53;Nouvelles Bourges;;;;;;;;;;;;;x
+PROV54;Charlesville;;;;;;;;;;;;;x
+PROV173;Gué;;;;;;;;;;;;;x
+PROV175;Sauknah;;;;;;;;;;;;;x
+PROV123;Deux Forts;;;;;;;;;;;;;x
+PROV236;Lerdinghem;;;;;;;;;;;;;x
+PROV228;Fort Sangatte;;;;;;;;;;;;;x
+PROV178;Egmonte;;;;;;;;;;;;;x
+PROV180;Nouvelle Dunkerque;;;;;;;;;;;;;x
+PROV179;Bougainville;;;;;;;;;;;;;x
+PROV181;Lotairie;;;;;;;;;;;;;x
+PROV182;Boisaine;;;;;;;;;;;;;x
+PROV172;Grand Marais Noir;;;;;;;;;;;;;x
+PROV136;Mulhouse;;;;;;;;;;;;;x
+PROV171;St. Peter;;;;;;;;;;;;;x
+PROV169;Lance Sacrée;;;;;;;;;;;;;x
+PROV170;Cité des Anges;;;;;;;;;;;;;x
+PROV106;Shawnee;;;;;;;;;;;;;x
+PROV103;Sauk;;;;;;;;;;;;;x
+PROV120;Illinois;;;;;;;;;;;;;x
+PROV122;Pawnee;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
 PROV2413;La Mer Douce;;;;;;;;;;;;;x 
 PROV3112;Lac Onter'yoe;;;;;;;;;;;;;x 
@@ -313,7 +373,9 @@ PROV3262;Lac Charles;;;;;;;;;;;;;x
 PROV3263;Lac Qullinaaraaluk;;;;;;;;;;;;;x 
 PROV2954;Baie Checpikoque;;;;;;;;;;;;;x 
 PROV2424;Lag Teksocos;;;;;;;;;;;;;x 
-PROV2707;Gulf of Suomland;;;;;;;;;;;;;x 
+PROV3114;Lac Alexandrie;;;;;;;;;;;;;x 
+PROV3113;Lac 'Odchone;;;;;;;;;;;;;x 
+PROV2411;Lac St Catrine;;;;;;;;;;;;;x 
 PROV3260;Lac Trout;;;;;;;;;;;;;x
 PROV3257;Lac Shipqu;;;;;;;;;;;;;x
 PROV3312;Lac Cataraqui;;;;;;;;;;;;;x
@@ -415,7 +477,7 @@ NWR_8;X;;;;;;;;;;;;;x
 NWR_9;X;;;;;;;;;;;;;x
 NWR_10;X;;;;;;;;;;;;;x
 NWR_11;X;;;;;;;;;;;;;x
-NWR_12;X;;;;;;;;;;;;;x
+NWR_12;Pays Indien;;;;;;;;;;;;;x
 NWR_13;X;;;;;;;;;;;;;x
 NWR_14;X;;;;;;;;;;;;;x
 NWR_15;X;;;;;;;;;;;;;x
@@ -425,16 +487,16 @@ NWR_18;X;;;;;;;;;;;;;x
 NWR_19;X;;;;;;;;;;;;;x
 NWR_20;X;;;;;;;;;;;;;x
 NWR_21;X;;;;;;;;;;;;;x
-NWR_22;X;;;;;;;;;;;;;x
-NWR_23;X;;;;;;;;;;;;;x
-NWR_24;X;;;;;;;;;;;;;x
+NWR_22;Carolingie Royale;;;;;;;;;;;;;x
+NWR_23;Carolingie Territoriale;;;;;;;;;;;;;x
+NWR_24;Carolingie Provinciale;;;;;;;;;;;;;x
 NWR_25;X;;;;;;;;;;;;;x
 NWR_26;X;;;;;;;;;;;;;x
 NWR_27;X;;;;;;;;;;;;;x
 NWR_28;X;;;;;;;;;;;;;x
 NWR_29;X;;;;;;;;;;;;;x
-NWR_30;X;;;;;;;;;;;;;x
-NWR_31;X;;;;;;;;;;;;;x
+NWR_30;Pyrene;;;;;;;;;;;;;x
+NWR_31;Trans-Pyrenea;;;;;;;;;;;;;x
 NWR_32;Châtillon;;;;;;;;;;;;;x
 NWR_33;Powhatania;;;;;;;;;;;;;x
 NWR_34;Austravelle;;;;;;;;;;;;;x
