@@ -270,11 +270,30 @@ PROV240;Rivière Pidgeon;;;;;;;;;;;;;x
 PROV234;Fort Germaine;;;;;;;;;;;;;x
 PROV238;Radissonville;;;;;;;;;;;;;x
 PROV235;Cayuqa;;;;;;;;;;;;;x
-PROV231;Terres du prince Pépin;;;;;;;;;;;;;x
-PROV230;Terres du prince Pépin;;;;;;;;;;;;;x
-PROV226;Terres du prince Pépin;;;;;;;;;;;;;x
-PROV225;Terres du prince Pépin;;;;;;;;;;;;;x
-PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
+PROV231;Nouvelle Melun;;;;;;;;;;;;;x
+PROV230;Est Marcq;;;;;;;;;;;;;x
+PROV226;Dauphin;;;;;;;;;;;;;x
+PROV225;Nouvelle Pau;;;;;;;;;;;;;x
+PROV219;Nouvelle Hollande;;;;;;;;;;;;;x
+PROV222;Claudebourg;;;;;;;;;;;;;x
+PROV229;St. Anne;;;;;;;;;;;;;x
+PROV2149;Charbourg;;;;;;;;;;;;;x
+PROV223;Droit des Rois;;;;;;;;;;;;;x
+PROV237;De La Roche;;;;;;;;;;;;;x
+PROV224;St. Joseph;;;;;;;;;;;;;x
+PROV2627;Terrerouge;;;;;;;;;;;;;x
+PROV227;Duquesneville;;;;;;;;;;;;;x
+PROV217;Pontville;;;;;;;;;;;;;x
+PROV215;Chincandoe;;;;;;;;;;;;;x
+PROV221;Blancheville;;;;;;;;;;;;;x
+PROV207;Nouvel Espoir;;;;;;;;;;;;;x
+PROV208;Gontout;;;;;;;;;;;;;x
+PROV2556;Herbertville;;;;;;;;;;;;;x
+PROV221;Clementie;;;;;;;;;;;;;x
+PROV223;Droit des Rois;;;;;;;;;;;;;x
+PROV223;Droit des Rois;;;;;;;;;;;;;x
+PROV223;Droit des Rois;;;;;;;;;;;;;x
+PROV223;Droit des Rois;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
 PROV2413;La Mer Douce;;;;;;;;;;;;;x 
 PROV3112;Lac Onter'yoe;;;;;;;;;;;;;x 
@@ -414,12 +433,12 @@ NWR_28;X;;;;;;;;;;;;;x
 NWR_29;X;;;;;;;;;;;;;x
 NWR_30;X;;;;;;;;;;;;;x
 NWR_31;X;;;;;;;;;;;;;x
-NWR_32;X;;;;;;;;;;;;;x
+NWR_32;Châtillon;;;;;;;;;;;;;x
 NWR_33;X;;;;;;;;;;;;;x
-NWR_34;X;;;;;;;;;;;;;x
+NWR_34;Austravelle;;;;;;;;;;;;;x
 NWR_35;Comté d'Iriqois;;;;;;;;;;;;;x
-NWR_36;X;;;;;;;;;;;;;x
-NWR_37;X;;;;;;;;;;;;;x
+NWR_36;Comté Oestrasie;;;;;;;;;;;;;x
+NWR_37;Loiraise;;;;;;;;;;;;;x
 NWR_38;Lotharingie Occidentale;;;;;;;;;;;;;x
 NWR_39;Neu Grünwald;;;;;;;;;;;;;x
 NWR_40;Gespegter;;;;;;;;;;;;;x
