@@ -6,6 +6,13 @@ country_event = {  #witlian self-gov
 	
 	trigger = {
 		tag = WTL
+		OR = { 
+			owns = 197
+			owns = 204
+			owns = 145
+			owns = 206
+			owns = 139
+		}
 		capital_scope = {
 			NOT = {
 				continent = europe
@@ -81,9 +88,17 @@ country_event = {  #witlian self-gov
 					add_core = RPM
 				}
 				
-				NWR_7 = {
+				113 = {
 					add_core = CFL
 				}
+				
+				114 = {
+					add_core = CFL
+				}
+				111 = {
+					add_core = CFL
+				}
+				
 				NWR_8 = {
 					add_core = CFL
 				}
@@ -112,7 +127,90 @@ country_event = {  #witlian self-gov
 					add_core = CFL
 				}
 				
-				release_vassal = RPM
+				if = {
+					limit = {
+						THIS = {
+							owns = 92
+						}
+						
+					
+					}
+					
+					92 = {
+							add_core = PHO
+						}
+						21 = {
+							add_core = PHO
+						}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 93
+						}
+					
+					}
+					
+					NWR_5 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 5
+						}
+					
+					}
+					
+					NWR_1 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 15
+						}
+					
+					}
+					
+					NWR_6 = {
+						add_core = PHO
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							any_owned_province = {
+								is_core = RPM
+							
+							}
+						}
+					
+					}
+					THIS = {
+						release_vassal = RPM
+					}
+				
+				}
+				
+				
+				any_owned = {
+					limit = {
+						is_core = PHO
+					
+					}
+					secede_province = PHO
+				}
+						
 				
 				release_vassal = CFL
 			
@@ -135,7 +233,14 @@ country_event = {  #witlian self-gov
 				NWR_13 = {
 					add_core = CFL
 				}
-				NWR_7 = {
+				113 = {
+					add_core = CFL
+				}
+				
+				114 = {
+					add_core = CFL
+				}
+				111 = {
 					add_core = CFL
 				}
 				NWR_8 = {
@@ -166,6 +271,74 @@ country_event = {  #witlian self-gov
 					add_core = CFL
 				}
 				
+				if = {
+					limit = {
+						THIS = {
+							owns = 92
+						}
+						
+					
+					}
+					
+					92 = {
+							add_core = PHO
+						}
+						21 = {
+							add_core = PHO
+						}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 93
+						}
+					
+					}
+					
+					NWR_5 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 5
+						}
+					
+					}
+					
+					NWR_1 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 15
+						}
+					
+					}
+					
+					NWR_6 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				any_owned = {
+					limit = {
+						is_core = PHO
+					
+					}
+					secede_province = PHO
+				}
+				
 				release_vassal = CFL
 			
 			}
@@ -181,6 +354,7 @@ country_event = {  #witlian ind_trig
 	id = 49999 
 	title = "EVTNAME49999" 
 	desc = "EVTDESC49999"
+	picture = "independence_dec"
 	
 	trigger = {
 		OR = {
@@ -192,17 +366,29 @@ country_event = {  #witlian ind_trig
 			is_our_vassal = THIS
 		}
 		war = no
+		
 	
 	}
 	
 	mean_time_to_happen = {
-		months = 60
+		months = 70
 		
 		modifier = {
 			factor = 0.3
 			OR = {
-				num_of_allies = 1
+				num_of_allies = 2
 			}
+		}
+		
+		modifier = {
+			factor = 0.4
+			NOT = {
+				THIS = {
+					in_sphere = WTL
+				
+				}
+			}
+		
 		}
 		
 	
@@ -218,6 +404,37 @@ country_event = {  #witlian ind_trig
 				days = 30
 			}
 		}
+		ai_chance = {
+			factor = 99
+		
+		}
+		capital_scope = {
+			sub_unit = { 
+				type = frigate
+				value = current 
+			}
+		}
+		
+		capital_scope = {
+			sub_unit = { 
+				type = frigate
+				value = current 
+			}
+		}
+		
+		capital_scope = {
+			sub_unit = { 
+				type = frigate
+				value = current 
+			}
+		}
+		
+		capital_scope = {
+			sub_unit = { 
+				type = frigate
+				value = current 
+			}
+		}
 		
 		prestige = 10
 	}
@@ -225,6 +442,10 @@ country_event = {  #witlian ind_trig
 	option = {
 		name = "Now is not the time..."
 		prestige = -10
+		ai_chance = {
+			factor = 1
+		
+		}
 	}
 	
 	
@@ -239,6 +460,7 @@ country_event = {
 	id = 49998 
 	title = "EVTNAME49998" 
 	desc = "EVTDESC49998"
+	picture = "independence_dec"
 	
 	is_triggered_only = yes
 	
@@ -262,12 +484,91 @@ country_event = {
 		}
 		war_exhaustion = 35
 		prestige = 10
+		
+		ai_chance = {
+			factor = 75
+		
+		}
 	}
 	
 	option = {
 		name = "What worth are these provinces anyway?"
 		prestige = -40	
 		badboy = -2
+		
+		ai_chance = {
+			factor = 25
+		
+		}
+	}
+	
+	option = {
+		name = "The $FROMCOUNTRY_ADJ$ cause is just!"
+		
+		
+		
+		FROM = {
+			add_casus_belli = {
+				target = WTL
+				type = conquest_any
+				months = 12
+			}
+		}
+		WTL = {
+			war = {
+				target = FROM
+				attacker_goal = { casus_belli = conquest_any }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = yes
+			}
+			
+			war_exhaustion = 25
+			prestige = 10
+		}
+		
+		ai_chance = {
+			factor = 0
+		
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = CFL
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = CFL
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = PHO
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = PHO
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = RPM
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = RPM
+			}
+		}
+		
+		
+	
 	}
 
 }

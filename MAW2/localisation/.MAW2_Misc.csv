@@ -63,7 +63,7 @@ colonial_roman;Egripio;;;;;;;;;;;;;
 colonial_vandal;Igriare;;;;;;;;;;;;;
 colonial_african_mixed;Mskites;;;;;;;;;;;;;
 afro_african;Ilibes;;;;;;;;;;;;;
-colonial_new_african;Filkihamian;;;;;;;;;;;;;
+colonial_new_african;Nobafrican;;;;;;;;;;;;;
 afro_new_african;Filkihames;;;;;;;;;;;;;
 maharuli;Maharuli;;;;;;;;;;;;;
 pakawan;Pakawan;;;;;;;;;;;;;
@@ -76,3 +76,4 @@ NORMAL_WAR_CONQUEST_ANY_NAME_WTL_RPM;$ORDER$Marembettine War of Indpendence;x
 AGRESSION_WAR_CONQUEST_ANY_NAME_WTL_RPM;$ORDER$Marembettine War of Indpendence;x
 NORMAL_WAR_CONQUEST_ANY_NAME_WTL_PHO;$ORDER$Phosearan War of Indpendence;x
 AGRESSION_WAR_CONQUEST_ANY_NAME_WTL_PHO;$ORDER$Phosearan War of Indpendence;x
+if;If the following is true;;;;;;;;;;;;;
