@@ -493,6 +493,13 @@ afro_diaspora = {
 
 			last_names = {  }
     }
+	
+	afro_new_african = {
+	  color = { 26 26 26 } #idk what ciolour this is
+        	first_names = {  }
+
+			last_names = {  }
+    }
 }
 
 colonial_frankish_culture = {
@@ -523,8 +530,23 @@ colonial_african_culture = {
     leader = european
     unit = EuropeanGC
 	
-	colonial_african = {
+	colonial_vandal = {
 	  color = { 224 224 211 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	
+	colonial_african_mixed = {
+	  color = { 224 224 224 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	colonial_new_african = {
+	  color = { 224 224 256 }
         	first_names = { }
 
 			last_names = {  }

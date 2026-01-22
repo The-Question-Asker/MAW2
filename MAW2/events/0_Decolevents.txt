@@ -1,0 +1,118 @@
+country_event = {  #witlian self-gov
+	id = 50001 
+	title = "EVTNAME50001" 
+	desc = "EVTDESC50001"
+	
+	trigger = {
+		tag = WTL
+		capital_scope = {
+			NOT = {
+				continent = europe
+				controlled_by = THIS
+			}
+		
+		}
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 20
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 10
+		
+		}
+	
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 20
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 30
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 50
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			war_exhaustion = 50
+		
+		}
+	
+	
+	}
+	
+	option = {
+		name = "Worrying..."
+	
+		random_list = {
+			25 = {
+				if = {
+					limit = {
+						THIS = {
+							AND = {
+								NOT = { exists =  }
+							}
+						}
+					}
+					THIS = { 
+						random_owned = {
+							limit = { has_province_modifier = bondsman_control }
+							add_core = D40
+						}
+					}
+					for15 = {
+						limit = {
+							THIS = {
+								any_owned_province = {
+									AND = {
+										has_province_modifier = bondsman_control
+										NOT = { is_core = D40 }
+										any_neighbor_province = { is_core = D40 }
+									}
+								}
+							}
+						}
+						THIS = {
+							any_owned = {
+								limit = { 
+									has_province_modifier = bondsman_control
+									any_neighbor_province = { is_core = D40 }
+								}
+								add_core = D40
+							}
+						}
+					
+					}
+					THIS = {
+						
+						
+					}
+				}
+			}
+			
+			25 = {
+			
+			
+			}
+			
+			50 = {
+			
+			
+			}
+		
+		}
+	}
+	
+	
+	
+	}

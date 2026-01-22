@@ -1,4 +1,4 @@
-name = "Golgotha"
+name = "Golgotha Mod"
 path = "mod/MAW2"
 user_dir = "MAW2"
 replace_path = "history/provinces"
