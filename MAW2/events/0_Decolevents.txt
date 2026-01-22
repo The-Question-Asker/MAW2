@@ -391,6 +391,15 @@ country_event = {  #witlian ind_trig
 		
 		}
 		
+		modifier = {
+			factor = 6
+			tag = PHO
+			NOT = {
+				is_secondary_power = yes
+				is_greater_power = yes
+			}
+		}
+		
 	
 	}
 	
