@@ -256,15 +256,46 @@ PROV50;Boulaies;;;;;;;;;;;;;x
 PROV239;Petit Fresnay;;;;;;;;;;;;;x
 PROV57;Neuvéglise;;;;;;;;;;;;;x
 PROV58;Gué des Sauvages;;;;;;;;;;;;;x
-PROV58;Œil de Cochon;;;;;;;;;;;;;x
+PROV36;Œil de Cochon;;;;;;;;;;;;;x
 PROV52;Magneton;;;;;;;;;;;;;x
 PROV56;Auxerrois;;;;;;;;;;;;;x
 PROV49;St. Aprusterre;;;;;;;;;;;;;x
 PROV2625;Fornelia;;;;;;;;;;;;;x
-#PROV9;Fornelia;;;;;;;;;;;;;x
+PROV9;Nibelungter;;;;;;;;;;;;;x
+PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
+PROV2593;Fort Laud;;;;;;;;;;;;;x
+PROV2592;Poste Froid;;;;;;;;;;;;;x
+PROV2695;Ultima-Thule;;;;;;;;;;;;;x
+PROV240;Rivière Pidgeon;;;;;;;;;;;;;x
+PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
+PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
+PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
+PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
+PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
+PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
+PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
+PROV2626;Terres du prince Pépin;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
-PROV3257;Lake Shipqu;;;;;;;;;;;;;x
-PROV3312;Lake Cataraqui;;;;;;;;;;;;;x
+PROV2413;La Mer Douce;;;;;;;;;;;;;x 
+PROV3112;Lac Onter'yoe;;;;;;;;;;;;;x 
+PROV2936;Détroit Baleine;;;;;;;;;;;;;x 
+PROV2937;Baie Ferréol;;;;;;;;;;;;;x 
+PROV2938;Détroit Hospitus;;;;;;;;;;;;;x 
+PROV2942;Bassin Genebald;;;;;;;;;;;;;x 
+PROV2939;Baie St. Aprus;;;;;;;;;;;;;x 
+PROV2941;Est Baie Dufort;;;;;;;;;;;;;x 
+PROV2940;Ouest Baie Dufort;;;;;;;;;;;;;x 
+PROV2707;Gulf of Suomland;;;;;;;;;;;;;x 
+PROV2707;Gulf of Suomland;;;;;;;;;;;;;x 
+PROV2707;Gulf of Suomland;;;;;;;;;;;;;x 
+PROV2707;Gulf of Suomland;;;;;;;;;;;;;x 
+PROV2707;Gulf of Suomland;;;;;;;;;;;;;x 
+PROV2707;Gulf of Suomland;;;;;;;;;;;;;x 
+PROV2707;Gulf of Suomland;;;;;;;;;;;;;x 
+PROV2707;Gulf of Suomland;;;;;;;;;;;;;x 
+PROV3260;Lac Trout;;;;;;;;;;;;;x
+PROV3257;Lac Shipqu;;;;;;;;;;;;;x
+PROV3312;Lac Cataraqui;;;;;;;;;;;;;x
 PROV3252;Lac Nicolet;;;;;;;;;;;;;x
 PROV3253;Lac Wentaron;;;;;;;;;;;;;x
 PROV2722;Coast of Laagland;;;;;;;;;;;;;x
@@ -386,7 +417,7 @@ NWR_31;X;;;;;;;;;;;;;x
 NWR_32;X;;;;;;;;;;;;;x
 NWR_33;X;;;;;;;;;;;;;x
 NWR_34;X;;;;;;;;;;;;;x
-NWR_35;X;;;;;;;;;;;;;x
+NWR_35;Comté d'Iriqois;;;;;;;;;;;;;x
 NWR_36;X;;;;;;;;;;;;;x
 NWR_37;X;;;;;;;;;;;;;x
 NWR_38;Lotharingie Occidentale;;;;;;;;;;;;;x
