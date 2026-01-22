@@ -18,33 +18,45 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
 substate = {
 	first = MIN
 	second = MGL
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
 vassal = {
 	first = MIN
 	second = TIB
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
 vassal = {
 	first = MIN
 	second = BRY
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
 vassal = {
 	first = MIN
 	second = KOR
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
 vassal = {
 	first = MIN
 	second = DAI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = WTL
+	second = PHO
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
