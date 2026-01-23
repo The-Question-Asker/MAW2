@@ -582,6 +582,454 @@ country_event = {
 
 }
 
+##### HISPANIA-NUMIDIA ###
 
+
+country_event = {  #central lothaire self-gov
+	id = 49997 
+	title = "EVTNAME49997" 
+	desc = "EVTDESC49997"
+	#picture = "independence_mov1"
+	
+	trigger = {
+		tag = HNU
+		OR = { 
+			owns = 2172
+			owns = 2194
+			owns = 2264
+		}
+		capital_scope = {
+			NOT = {
+				continent = europe
+				controlled_by = THIS
+			}
+		
+		}
+		NOT = {
+			has_global_flag = CLT_RELEASED
+		}
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 15
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 10
+		
+		}
+	
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 20
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 30
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 50
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			war_exhaustion = 50
+		
+		}
+	
+	
+	}
+	
+	option = {
+		name = "Worrying..."
+	
+		set_global_flag = CLT_RELEASED
+	
+		random_list = {
+			
+			
+			98 = {
+				NWR_79 = {
+					add_core = ANK
+				}
+				NWR_78 = {
+					add_core = ANK
+				}
+				NWR_81 = {
+					add_core = ANK
+				}
+				NWR_80 = {
+					add_core = ANK
+				}
+			
+				random_list = {
+					50 = {
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_82
+										any_neighbor_province = { 
+											is_core = ISB
+										
+										}
+										NOT = {
+											is_core = ISB
+										}
+									}
+									add_core = ISB
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_82
+									NOT = {
+										is_core = ISB
+									}
+								}
+								add_core = ANK
+							}
+						
+						}
+						
+					
+					}
+					
+					50 = {
+						
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_82
+										any_neighbor_province = { 
+											is_core = ANK
+										
+										}
+										NOT = {
+											is_core = ANK
+										}
+									}
+									add_core = ANK
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_82
+									NOT = {
+										is_core = ANK
+									}
+								}
+								add_core = ISB
+							}
+						
+						}
+					
+					}
+				
+				}
+			
+			
+				NWR_90 = {
+					add_core = ISB
+				}
+				NWR_85 = {
+					add_core = ISB
+				}
+				NWR_84 = {
+					add_core = ISB
+				}
+				
+				random_list = {
+					50 = {
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_86
+										any_neighbor_province = { 
+											is_core = ISB
+										
+										}
+										NOT = {
+											is_core = ISB
+										}
+									}
+									add_core = ISB
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_86
+									NOT = {
+										is_core = ISB
+									}
+								}
+								add_core = NWM
+							}
+						
+						}
+						
+					
+					}
+					
+					50 = {
+						
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_86
+										any_neighbor_province = { 
+											is_core = NWM
+										
+										}
+										NOT = {
+											is_core = NWM
+										}
+									}
+									add_core = NWM
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_86
+									NOT = {
+										is_core = NWM
+									}
+								}
+								add_core = ISB
+							}
+						
+						}
+					
+					}
+				
+				}
+				
+				
+			
+				NWR_88 = {
+					add_core = NWM
+				}
+				NWR_87 = {
+					add_core = NWM
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2266
+						}
+					}
+					NWR_96 = {
+						add_core = NWM
+					}
+				}
+				
+				random_list = {
+					50 = {
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_89
+										any_neighbor_province = { 
+											is_core = ISB
+										
+										}
+										NOT = {
+											is_core = ISB
+										}
+									}
+									add_core = ISB
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_89
+									NOT = {
+										is_core = ISB
+									}
+								}
+								add_core = NWM
+							}
+						
+						}
+						
+					
+					}
+					
+					50 = {
+						set_global_flag = prio_nwm_amz
+						
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_89
+										any_neighbor_province = { 
+											is_core = NWM
+										
+										}
+										NOT = {
+											is_core = NWM
+										}
+									}
+									add_core = NWM
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_89
+									NOT = {
+										is_core = NWM
+									}
+								}
+								add_core = ISB
+							}
+						
+						}
+					
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2266
+						
+						}
+					
+					}
+					random_list = {
+						50 = {
+							for2 = {
+								THIS = {
+									random_owned = {
+										limit = {
+											region = NWR_97
+											any_neighbor_province = { 
+												is_core = ISB
+											
+											}
+											NOT = {
+												is_core = ISB
+											}
+										}
+										add_core = ISB
+									}
+								}
+							
+							}
+							THIS = {
+								any_owned = {
+									limit = {
+										region = NWR_97
+										NOT = {
+											is_core = ISB
+										}
+									}
+									add_core = NWM
+								}
+						
+							}
+							
+						
+						}
+						
+						50 = {
+							
+							for2 = {
+								THIS = {
+									random_owned = {
+										limit = {
+											region = NWR_97
+											any_neighbor_province = { 
+												is_core = NWM
+											
+											}
+											NOT = {
+												is_core = NWM
+											}
+										}
+										add_core = NWM
+									}
+								}
+							}
+							
+							THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_97
+									NOT = {
+										is_core = NWM
+									}
+								}
+								add_core = ISB
+							}
+						
+						}
+						
+						}
+					
+					}
+				}
+				
+				release_vassal = ISB
+				release_vassal = NWM
+				release_vassal = ANK
+				
+				
+				
+				
+				
+			}
+			
+			
+			1 = {
+				
+				
+			
+			}
+			
+			1 = {
+			
+				
+			
+			}
+		
+		}
+	}
+	
+	
+	
+	}
 	
 	

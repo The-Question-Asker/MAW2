@@ -84,6 +84,10 @@ CRC        ="countries/Carcassonne.txt"
 MIN        ="countries/Ming Empire.txt"
 CFL		   ="countries/Confoederatio Lottaria.txt"
 RPM		   ="countries/Repubblica Marembetti.txt"
+ANK		   ="countries/Anakauja.txt"
+ISB		   ="countries/Ispes Bon.txt"
+NWM		   ="countries/Nobvu Wismaria.txt"
+VDR		   ="countries/Vandalian Republic.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"
