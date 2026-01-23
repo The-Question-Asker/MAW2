@@ -417,32 +417,47 @@ country_event = {  #witlian ind_trig
 			factor = 99
 		
 		}
-		capital_scope = {
-			sub_unit = { 
-				type = frigate
-				value = current 
+		if = {
+			limit = {
+				THIS = {
+					capital_scope = {
+						is_coastal = yes
+					
+					}
+				}
+			
 			}
-		}
+			THIS = {
+				capital_scope = {
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				capital_scope = {
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				capital_scope = {
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				capital_scope = {
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+			
+			}
 		
-		capital_scope = {
-			sub_unit = { 
-				type = frigate
-				value = current 
-			}
-		}
-		
-		capital_scope = {
-			sub_unit = { 
-				type = frigate
-				value = current 
-			}
-		}
-		
-		capital_scope = {
-			sub_unit = { 
-				type = frigate
-				value = current 
-			}
 		}
 		
 		prestige = 10
@@ -1304,33 +1319,50 @@ country_event = {  #cent_lot ind_trig
 			factor = 99
 		
 		}
-		capital_scope = {
-			sub_unit = { 
-				type = frigate
-				value = current 
+		
+		if = {
+			limit = {
+				THIS = {
+					capital_scope = {
+						is_coastal = yes
+					
+					}
+				}
+			
 			}
+			THIS = {
+				capital_scope = {
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				capital_scope = {
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				capital_scope = {
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				capital_scope = {
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+			
+			}
+		
 		}
 		
-		capital_scope = {
-			sub_unit = { 
-				type = frigate
-				value = current 
-			}
-		}
-		
-		capital_scope = {
-			sub_unit = { 
-				type = frigate
-				value = current 
-			}
-		}
-		
-		capital_scope = {
-			sub_unit = { 
-				type = frigate
-				value = current 
-			}
-		}
 		
 		prestige = 10
 	}
