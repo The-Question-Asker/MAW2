@@ -1,7 +1,11 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-EVTNAME50001;Colonial Territories Organise Themselves!;;;;;;;;;;;;;
+EVTNAME50001;The Costa Negra Confrence of $YEAR$;;;;;;;;;;;;;
 EVTDESC50001;x;;;;;;;;;;;;;
 EVTNAME49999;Independence for $COUNTRY$?!;;;;;;;;;;;;;
 EVTDESC49999;x;;;;;;;;;;;;;
 EVTNAME49998;$FROMCOUNTRY$ Declares Independence!;;;;;;;;;;;;;
 EVTDESC49998;x;;;;;;;;;;;;;
+EVTNAME49997;The Tenostsktitlos Confrence of $YEAR$;;;;;;;;;;;;;
+EVTDESC49997;x;;;;;;;;;;;;;
+EVTNAME49996;Independence for $COUNTRY$?!;;;;;;;;;;;;;
+EVTDESC49996;x;;;;;;;;;;;;;
