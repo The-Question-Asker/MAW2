@@ -487,7 +487,7 @@ afro_diaspora = {
 			last_names = { Aethiope }
     }
 	
-	afro_african = {
+	afro_african = { #Afro vandalian
 	  color = { 26 26 1 }
         	first_names = {  }
 
@@ -495,7 +495,7 @@ afro_diaspora = {
     }
 	
 	afro_new_african = {
-	  color = { 26 26 26 } #idk what ciolour this is
+	  color = { 28 36 1 } 
         	first_names = {  }
 
 			last_names = {  }
@@ -538,15 +538,15 @@ colonial_african_culture = {
     }
 	
 	
-	colonial_african_mixed = {
-	  color = { 224 224 224 }
+	colonial_african_mixed = { #colonial vandal mixed
+	  color = { 181 181 107 }
         	first_names = { }
 
 			last_names = {  }
     }
 	
 	colonial_new_african = {
-	  color = { 224 224 256 }
+	  color = { 128 163 0 }
         	first_names = { }
 
 			last_names = {  }
