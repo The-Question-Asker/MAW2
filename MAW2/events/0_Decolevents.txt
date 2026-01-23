@@ -655,7 +655,7 @@ country_event = {  #central lothaire self-gov
 		random_list = {
 			
 			
-			98 = {
+			40 = {
 				NWR_79 = {
 					add_core = ANK
 				}
@@ -671,7 +671,7 @@ country_event = {  #central lothaire self-gov
 			
 				random_list = {
 					50 = {
-						for4 = {
+						for2 = {
 							THIS = {
 								random_owned = {
 									limit = {
@@ -707,7 +707,7 @@ country_event = {  #central lothaire self-gov
 					
 					50 = {
 						
-						for4 = {
+						for2 = {
 							THIS = {
 								random_owned = {
 									limit = {
@@ -1013,15 +1013,228 @@ country_event = {  #central lothaire self-gov
 			}
 			
 			
-			1 = {
+			40 = {
+				
+				NWR_79 = {
+					add_core = ANK
+				}
+				NWR_78 = {
+					add_core = ANK
+				}
+				NWR_81 = {
+					add_core = ANK
+				}
+				NWR_80 = {
+					add_core = ANK
+				}
+				
+				NWR_82 = {
+					add_core = ANK
+				}
+			
+			
+				NWR_90 = {
+					add_core = NWM
+				}
+				NWR_85 = {
+					add_core = ANK
+				}
+				NWR_84 = {
+					add_core = ANK
+				}
+				
+				random_list = {
+					50 = {
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_86
+										any_neighbor_province = { 
+											is_core = ANK
+										
+										}
+										NOT = {
+											is_core = ANK
+										}
+									}
+									add_core = ISB
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_86
+									NOT = {
+										is_core = ANK
+									}
+								}
+								add_core = NWM
+							}
+						
+						}
+						
+					
+					}
+					
+					50 = {
+						
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_86
+										any_neighbor_province = { 
+											is_core = NWM
+										
+										}
+										NOT = {
+											is_core = NWM
+										}
+									}
+									add_core = NWM
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_86
+									NOT = {
+										is_core = NWM
+									}
+								}
+								add_core = ANK
+							}
+						
+						}
+					
+					}
+				
+				}
 				
 				
+			
+				NWR_88 = {
+					add_core = NWM
+				}
+				NWR_87 = {
+					add_core = NWM
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2266
+						}
+					}
+					NWR_96 = {
+						add_core = NWM
+					}
+				}
+				
+				NWR_89 = {
+					add_core = NWM
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2266
+						
+						}
+					
+					}
+					NWR_97 = {
+						add_core = NWM
+					}
+				}
+				
+				#release_vassal = ISB
+				release_vassal = NWM
+				release_vassal = ANK
 			
 			}
 			
-			1 = {
+			20 = {
 			
+				NWR_79 = {
+					add_core = VDR
+				}
+				NWR_78 = {
+					add_core = VDR
+				}
+				NWR_81 = {
+					add_core = VDR
+				}
+				NWR_80 = {
+					add_core = VDR
+				}
 				
+				NWR_82 = {
+					add_core = VDR
+				}
+			
+			
+				NWR_90 = {
+					add_core = VDR
+				}
+				NWR_85 = {
+					add_core = VDR
+				}
+				NWR_84 = {
+					add_core = VDR
+				}
+				
+				NWR_86 = {
+					add_core = VDR
+				}
+				
+				
+				
+				
+			
+				NWR_88 = {
+					add_core = VDR
+				}
+				NWR_87 = {
+					add_core = VDR
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2266
+						}
+					}
+					NWR_96 = {
+						add_core = VDR
+					}
+				}
+				
+				NWR_89 = {
+					add_core = VDR
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2266
+						
+						}
+					
+					}
+					NWR_97 = {
+						add_core = VDR
+					}
+				}
+				
+				release_vassal = VDR
 			
 			}
 		
