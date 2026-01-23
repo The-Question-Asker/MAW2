@@ -365,7 +365,7 @@ country_event = {  #witlian ind_trig
 		WTL = {
 			is_our_vassal = THIS
 		}
-		war = no
+		#war = no
 		
 	
 	}
@@ -1245,4 +1245,239 @@ country_event = {  #central lothaire self-gov
 	
 	}
 	
+country_event = {  #cent_lot ind_trig
+	id = 49996 
+	title = "EVTNAME49996" 
+	desc = "EVTDESC49996"
+	picture = "independence_dec"
+	
+	trigger = {
+		OR = {
+			tag = VDR
+			tag = ISB
+			tag = NWM
+			tag = ANK
+		}
+		HNU = {
+			is_our_vassal = THIS
+		}
+		#war = no
+		
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 70
+		
+		modifier = {
+			factor = 0.3
+			OR = {
+				num_of_allies = 2
+			}
+		}
+		
+		modifier = {
+			factor = 0.4
+			NOT = {
+				THIS = {
+					in_sphere = HNU
+				
+				}
+			}
+		
+		}
+		
+	
+	}
+	
+	option = {
+		name = "We will be free!"
+		
+		HNU = {
+			release_vassal = THIS
+			country_event = {
+				id = 49995
+				days = 30
+			}
+		}
+		ai_chance = {
+			factor = 99
+		
+		}
+		capital_scope = {
+			sub_unit = { 
+				type = frigate
+				value = current 
+			}
+		}
+		
+		capital_scope = {
+			sub_unit = { 
+				type = frigate
+				value = current 
+			}
+		}
+		
+		capital_scope = {
+			sub_unit = { 
+				type = frigate
+				value = current 
+			}
+		}
+		
+		capital_scope = {
+			sub_unit = { 
+				type = frigate
+				value = current 
+			}
+		}
+		
+		prestige = 10
+	}
+	
+	option = {
+		name = "Now is not the time..."
+		prestige = -10
+		ai_chance = {
+			factor = 1
+		
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+country_event = {
+	id = 49995 
+	title = "EVTNAME49995" 
+	desc = "EVTDESC49995"
+	picture = "independence_dec"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Restore order to these regions!"
+		FROM = {
+			
+				add_casus_belli = {
+					target = HNU
+					type = conquest_any
+					months = 12
+				}
+			}
+		HNU = {
+			war = {
+				target = FROM
+				attacker_goal = { casus_belli = conquest_any }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = yes
+			}
+		}
+		war_exhaustion = 35
+		prestige = 10
+		
+		ai_chance = {
+			factor = 75
+		
+		}
+	}
+	
+	option = {
+		name = "What worth are these provinces anyway?"
+		prestige = -40	
+		badboy = -2
+		
+		ai_chance = {
+			factor = 25
+		
+		}
+	}
+	
+	option = {
+		name = "The $FROMCOUNTRY_ADJ$ cause is just!"
+		
+		
+		
+		FROM = {
+			add_casus_belli = {
+				target = HNU
+				type = conquest_any
+				months = 12
+			}
+		}
+		HNU = {
+			war = {
+				target = FROM
+				attacker_goal = { casus_belli = conquest_any }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = yes
+			}
+			
+			war_exhaustion = 25
+			prestige = 10
+		}
+		
+		ai_chance = {
+			factor = 0
+		
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = ANK
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = ANK
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = VDR
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = VDR
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = ISB
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = ISB
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = NWM
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = NWM
+			}
+		}
+		
+		
+	
+	}
+
+}
 	
