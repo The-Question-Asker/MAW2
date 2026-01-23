@@ -25078,107 +25078,107 @@
 
 	serfs = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 868
 	}
 
 	slaves = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 108
 	}
 
 	labourers = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 1193
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 9325
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6876
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 38
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 26931
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 687
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2674
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 382
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 38
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 573
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 178
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 18
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 178
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 2680
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 357
 	}
 
@@ -25232,114 +25232,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 2468
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 308
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 3393
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 14325
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 15876
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 88
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 62181
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1587
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6174
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 882
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 88
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1323
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 497
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 165
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 331
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 13922
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 994
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 662
 	}
 
@@ -25393,114 +25393,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 868
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 108
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 1193
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 4325
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 4356
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 24
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 17061
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 435
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1694
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 242
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 24
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 363
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 47
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 15
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 31
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 1322
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 94
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 62
 	}
 
@@ -25554,114 +25554,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 1268
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 158
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 1743
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 8325
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 9756
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 54
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 38211
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 975
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3794
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 542
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 54
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 813
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 107
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 35
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 71
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 3002
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 214
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 142
 	}
 
@@ -25715,114 +25715,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 468
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 58
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 643
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 2325
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6156
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 34
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 24111
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 615
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2394
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 342
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 34
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 513
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 32
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 10
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 21
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 902
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 64
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 42
 	}
 
@@ -25876,114 +25876,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 468
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 58
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 643
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 3325
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5076
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 28
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 19881
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 507
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1974
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 282
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 28
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 423
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 32
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 10
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 21
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 902
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 64
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 42
 	}
 
@@ -26037,114 +26037,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 428
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 53
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 588
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 1325
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1476
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 8
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5781
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 147
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 574
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 82
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 8
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 123
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 17
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 5
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 11
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 482
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 34
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 22
 	}
 
@@ -26198,114 +26198,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 108
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 13
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 148
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 12325
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1656
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 9
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6486
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 165
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 644
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 92
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 9
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 138
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 77
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 25
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 51
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 2162
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 154
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 102
 	}
 
@@ -26359,114 +26359,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 108
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 13
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 148
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 625
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1116
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 4371
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 111
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 434
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 62
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 93
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 32
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 10
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 21
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 902
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 64
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 42
 	}
 
@@ -26520,114 +26520,114 @@
 
 	serfs = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 828
 	}
 
 	slaves = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 103
 	}
 
 	labourers = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 1138
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 125
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 576
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2256
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 57
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 224
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 32
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 48
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 11
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 3
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 7
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 314
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 22
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 14
 	}
 
@@ -26681,114 +26681,114 @@
 
 	serfs = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 1428
 	}
 
 	slaves = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 103
 	}
 
 	labourers = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 1138
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 525
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 736
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2666
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 93
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 364
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 52
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 78
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 20
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 6
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 13
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 566
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 40
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 26
 	}
 
@@ -26842,114 +26842,114 @@
 
 	serfs = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 828
 	}
 
 	slaves = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 103
 	}
 
 	labourers = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 1138
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 3025
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2916
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 16
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 11421
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 291
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1134
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 162
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 16
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 243
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 50
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 16
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 33
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 1406
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 100
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 66
 	}
 
@@ -27005,114 +27005,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 428
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 53
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 588
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 7025
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 10116
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 56
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 39621
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1011
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3934
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 562
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 56
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 843
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 170
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 56
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 113
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 4766
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 340
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 226
 	}
 
@@ -27166,114 +27166,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 1928
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 153
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 2688
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 625
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1116
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3371
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 111
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 434
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 62
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 93
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 20
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 6
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 13
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 566
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 40
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 26
 	}
 
@@ -27327,114 +27327,114 @@
 
 	serfs = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 1228
 	}
 
 	slaves = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 153
 	}
 
 	labourers = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 1688
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 125
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 216
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 846
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 21
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 84
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 12
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 18
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 20
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 6
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 13
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 566
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 40
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 26
 	}
 
@@ -27488,114 +27488,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 2428
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 303
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 3338
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 225
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 936
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3666
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 93
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 364
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 52
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 78
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 20
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 6
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 13
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 566
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 40
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 26
 	}
 
@@ -27649,114 +27649,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 1388
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 173
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 1908
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 8225
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 576
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2256
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 57
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 224
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 32
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 48
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 32
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 10
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 21
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 902
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 64
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 42
 	}
 
@@ -27810,114 +27810,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 988
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 123
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 1358
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 10225
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1116
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 4371
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 111
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 434
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 62
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 6
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 93
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 44
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 14
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 29
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 1238
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 88
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 58
 	}
 
@@ -27971,114 +27971,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 588
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 73
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 808
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 7225
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 396
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1551
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 39
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 154
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 22
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 33
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 29
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 9
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 19
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 818
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 58
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 38
 	}
 
@@ -28132,114 +28132,114 @@
 
 	serfs = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 748
 	}
 
 	slaves = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 93
 	}
 
 	labourers = {
 		culture = aztlanic
-		religion = orthodox
+		religion = arian
 		size = 1028
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 225
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 396
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1551
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 39
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 154
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 22
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 33
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 5
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 1
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 3
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 146
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 10
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 6
 	}
 
@@ -28293,114 +28293,114 @@
 
 	serfs = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 3548
 	}
 
 	slaves = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 443
 	}
 
 	labourers = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 4878
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 125
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 936
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3666
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 93
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 364
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 52
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 78
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 2
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 0
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 1
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 62
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 4
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 2
 	}
 
@@ -28454,114 +28454,114 @@
 
 	serfs = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 2348
 	}
 
 	slaves = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 293
 	}
 
 	labourers = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 3228
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 225
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 396
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 1551
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 39
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 154
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 22
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 33
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 5
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 1
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 3
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 146
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 10
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 6
 	}
 
@@ -28615,114 +28615,114 @@
 
 	serfs = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 3148
 	}
 
 	slaves = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 393
 	}
 
 	labourers = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 4328
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 625
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 936
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3666
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 93
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 364
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 52
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 78
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 11
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 3
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 7
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 314
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 22
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 14
 	}
 
@@ -28776,114 +28776,114 @@
 
 	serfs = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 1948
 	}
 
 	slaves = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 243
 	}
 
 	labourers = {
 		culture = otomanguean
-		religion = orthodox
+		religion = arian
 		size = 2678
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 625
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 936
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3666
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 93
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 364
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 52
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 5
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 78
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 11
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 3
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 7
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 314
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 22
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 14
 	}
 
@@ -28937,114 +28937,114 @@
 
 	serfs = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 1148
 	}
 
 	slaves = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 143
 	}
 
 	labourers = {
 		culture = mesoamerican_minor
-		religion = orthodox
+		religion = arian
 		size = 1578
 	}
 
 	slaves = {
 		culture = afro_african
-		religion = orthodox
+		religion = arian
 		size = 325
 	}
 
 	serfs = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 576
 	}
 
 	officers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3
 	}
 
 	farmers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 2256
 	}
 
 	soldiers = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 57
 	}
 
 	artisans = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 224
 	}
 
 	clergymen = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 32
 	}
 
 	bureaucrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 3
 	}
 
 	aristocrats = {
 		culture = colonial_african_mixed
-		religion = orthodox
+		religion = arian
 		size = 48
 	}
 
 	aristocrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 11
 	}
 
 
 	bureaucrats = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 3
 	}
 
 
 	clergymen = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 7
 	}
 
 
 	artisans = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 314
 	}
 
 
 	soldiers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 22
 	}
 
 
 	officers = {
 		 culture = colonial_vandal
-		 religion = orthodox
+		 religion = arian
 		 size = 14
 	}
 
