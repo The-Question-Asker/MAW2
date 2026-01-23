@@ -488,7 +488,7 @@ afro_diaspora = {
     }
 	
 	afro_african = { #Afro vandalian
-	  color = { 26 26 1 }
+	  color = { 30 30 30 }
         	first_names = {  }
 
 			last_names = {  }
