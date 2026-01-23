@@ -460,6 +460,61 @@ country_event = {  #witlian ind_trig
 		
 		}
 		
+		if = {
+			limit = {
+				THIS = {
+					capital_scope = {
+						is_coastal = no
+					
+					}
+				}
+			
+			}
+			THIS = {
+				random_owned = {
+					limit = {
+						is_coastal = yes
+					}
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				random_owned = {
+					limit = {
+						is_coastal = yes
+					}
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				random_owned = {
+					limit = {
+						is_coastal = yes
+					}
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				random_owned = {
+					limit = {
+						is_coastal = yes
+					}
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+			
+			}
+		
+		}
+		
 		prestige = 10
 	}
 	
@@ -938,7 +993,7 @@ country_event = {  #central lothaire self-gov
 				if = {
 					limit = {
 						THIS = {
-							owns = 2266
+							owns = 2263
 						
 						}
 					
@@ -1022,7 +1077,117 @@ country_event = {  #central lothaire self-gov
 				release_vassal = ANK
 				
 				
+				NWR_79 = {
+					add_core = VDR
+				}
+				NWR_78 = {
+					add_core = VDR
+				}
+				NWR_81 = {
+					add_core = VDR
+				}
+				NWR_80 = {
+					add_core = VDR
+				}
 				
+				NWR_82 = {
+					add_core = VDR
+				}
+			
+			
+				NWR_90 = {
+					add_core = VDR
+				}
+				NWR_85 = {
+					add_core = VDR
+				}
+				NWR_84 = {
+					add_core = VDR
+				}
+				
+				NWR_86 = {
+					add_core = VDR
+				}
+				
+				
+				
+				
+			
+				NWR_88 = {
+					add_core = VDR
+				}
+				NWR_87 = {
+					add_core = VDR
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2266
+						}
+					}
+					NWR_96 = {
+						add_core = VDR
+					}
+				}
+				
+				NWR_89 = {
+					add_core = VDR
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2263
+						
+						}
+					
+					}
+					NWR_97 = {
+						add_core = VDR
+					}
+				}
+				
+				NWR_82 = {
+					add_core = ANK
+				}
+				
+				NWR_82 = {
+					add_core = ISB
+				}
+				
+				NWR_86 = {
+					add_core = NWM
+				}
+				
+				NWR_86 = {
+					add_core = ISB
+				}
+				
+				NWR_89 = {
+					add_core = NWM
+				}
+				
+				NWR_89 = {
+					add_core = ISB
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2263
+						
+						}
+					
+					}
+					NWR_97 = {
+						add_core = ISB
+					}
+					NWR_97 = {
+						add_core = NWM
+					}
+				}
 				
 				
 			}
@@ -1073,7 +1238,7 @@ country_event = {  #central lothaire self-gov
 											is_core = ANK
 										}
 									}
-									add_core = ISB
+									add_core = ANK
 								}
 							}
 						
@@ -1159,7 +1324,7 @@ country_event = {  #central lothaire self-gov
 				if = {
 					limit = {
 						THIS = {
-							owns = 2266
+							owns = 2263
 						
 						}
 					
@@ -1172,7 +1337,86 @@ country_event = {  #central lothaire self-gov
 				#release_vassal = ISB
 				release_vassal = NWM
 				release_vassal = ANK
+				
+				NWR_79 = {
+					add_core = VDR
+				}
+				NWR_78 = {
+					add_core = VDR
+				}
+				NWR_81 = {
+					add_core = VDR
+				}
+				NWR_80 = {
+					add_core = VDR
+				}
+				
+				NWR_82 = {
+					add_core = VDR
+				}
 			
+			
+				NWR_90 = {
+					add_core = VDR
+				}
+				NWR_85 = {
+					add_core = VDR
+				}
+				NWR_84 = {
+					add_core = VDR
+				}
+				
+				NWR_86 = {
+					add_core = VDR
+				}
+				
+				
+				
+				
+			
+				NWR_88 = {
+					add_core = VDR
+				}
+				NWR_87 = {
+					add_core = VDR
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2266
+						}
+					}
+					NWR_96 = {
+						add_core = VDR
+					}
+				}
+				
+				NWR_89 = {
+					add_core = VDR
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2263
+						
+						}
+					
+					}
+					NWR_97 = {
+						add_core = VDR
+					}
+				}
+				
+				NWR_86 = {
+					add_core = NWM
+				}
+				
+				NWR_86 = {
+					add_core = ANK
+				}
 			}
 			
 			20 = {
@@ -1239,7 +1483,7 @@ country_event = {  #central lothaire self-gov
 				if = {
 					limit = {
 						THIS = {
-							owns = 2266
+							owns = 2263
 						
 						}
 					
@@ -1353,6 +1597,61 @@ country_event = {  #cent_lot ind_trig
 				}
 				
 				capital_scope = {
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+			
+			}
+		
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					capital_scope = {
+						is_coastal = no
+					
+					}
+				}
+			
+			}
+			THIS = {
+				random_owned = {
+					limit = {
+						is_coastal = yes
+					}
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				random_owned = {
+					limit = {
+						is_coastal = yes
+					}
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				random_owned = {
+					limit = {
+						is_coastal = yes
+					}
+					sub_unit = { 
+						type = frigate
+						value = current 
+					}
+				}
+				
+				random_owned = {
+					limit = {
+						is_coastal = yes
+					}
 					sub_unit = { 
 						type = frigate
 						value = current 
