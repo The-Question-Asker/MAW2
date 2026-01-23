@@ -76,6 +76,14 @@ NORMAL_WAR_CONQUEST_ANY_NAME_WTL_RPM;$ORDER$Marembettine War of Indpendence;x
 AGRESSION_WAR_CONQUEST_ANY_NAME_WTL_RPM;$ORDER$Marembettine War of Indpendence;x
 NORMAL_WAR_CONQUEST_ANY_NAME_WTL_PHO;$ORDER$Phosearan War of Indpendence;x
 AGRESSION_WAR_CONQUEST_ANY_NAME_WTL_PHO;$ORDER$Phosearan War of Indpendence;x
+NORMAL_WAR_CONQUEST_ANY_NAME_HNU_VDR;$ORDER$Vandal War of Indpendence;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_HNU_VDR;$ORDER$Vandal War of Indpendence;x
+NORMAL_WAR_CONQUEST_ANY_NAME_HNU_ISB;$ORDER$Sperine War of Indpendence;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_HNU_ISB;$ORDER$Sperine War of Indpendence;x
+NORMAL_WAR_CONQUEST_ANY_NAME_HNU_ANK;$ORDER$Anakujan War of Indpendence;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_HNU_ANK;$ORDER$Anakujan War of Indpendence;x
+NORMAL_WAR_CONQUEST_ANY_NAME_HNU_NWM;$ORDER$Wismarian War of Indpendence;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_HNU_NWM;$ORDER$Wismarian War of Indpendence;x
 if;If the following is true;;;;;;;;;;;;;
 for4;For four;;;;;;;;;;;;;
 for2;two;;;;;;;;;;;;;
