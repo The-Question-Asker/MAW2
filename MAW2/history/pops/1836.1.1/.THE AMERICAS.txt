@@ -49647,49 +49647,49 @@
 	}
 
 	aristocrats = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 52
 	}
 
 
 	bureaucrats = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 3
 	}
 
 
 	clergymen = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 35
 	}
 
 
 	artisans = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 245
 	}
 
 
 	soldiers = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 63
 	}
 
 
 	farmers = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 3106
 	}
 
 
 	officers = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 3
 	}
@@ -49743,49 +49743,49 @@
 	}
 
 	aristocrats = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 43
 	}
 
 
 	bureaucrats = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 2
 	}
 
 
 	clergymen = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 29
 	}
 
 
 	artisans = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 203
 	}
 
 
 	soldiers = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 52
 	}
 
 
 	farmers = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 2575
 	}
 
 
 	officers = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 2
 	}
@@ -49839,49 +49839,49 @@
 	}
 
 	aristocrats = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 34
 	}
 
 
 	bureaucrats = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 2
 	}
 
 
 	clergymen = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 23
 	}
 
 
 	artisans = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 161
 	}
 
 
 	soldiers = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 41
 	}
 
 
 	farmers = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 2044
 	}
 
 
 	officers = {
-		 culture = cariban
+		 culture = carib
 		 religion = animist
 		 size = 2
 	}
