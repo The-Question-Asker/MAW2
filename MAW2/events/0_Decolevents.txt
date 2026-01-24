@@ -354,7 +354,7 @@ country_event = {  #witlian ind_trig
 	id = 49999 
 	title = "EVTNAME49999" 
 	desc = "EVTDESC49999"
-	picture = "independence_dec"
+	picture = "confedlot"
 	
 	trigger = {
 		OR = {
