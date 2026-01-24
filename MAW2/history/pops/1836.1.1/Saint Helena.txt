@@ -39,7 +39,7 @@
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = african
         religion = arian
         size = 500
     }
