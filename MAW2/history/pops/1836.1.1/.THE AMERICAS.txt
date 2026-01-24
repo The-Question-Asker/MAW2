@@ -42024,7 +42024,7 @@
 	soldiers = {
 		 culture = quechua
 		 religion = animist
-		 size = 461
+		 size = 3161
 	}
 
 
@@ -42216,7 +42216,7 @@
 	soldiers = {
 		 culture = quechua
 		 religion = animist
-		 size = 551
+		 size = 3551
 	}
 
 
@@ -42312,14 +42312,14 @@
 	soldiers = {
 		 culture = quechua
 		 religion = animist
-		 size = 929
+		 size = 6929
 	}
 
 
 	farmers = {
 		 culture = quechua
 		 religion = animist
-		 size = 45683
+		 size = 42683
 	}
 
 
@@ -42738,7 +42738,7 @@
 	soldiers = {
 		 culture = quechua
 		 religion = animist
-		 size = 479
+		 size = 3479
 	}
 
 
@@ -43297,7 +43297,13 @@
 	farmers = {
 		 culture = quechua
 		 religion = animist
-		 size = 8956
+		 size = 4956
+	}
+	
+	farmers = {
+		 culture = aymara
+		 religion = animist
+		 size = 6956
 	}
 
 
