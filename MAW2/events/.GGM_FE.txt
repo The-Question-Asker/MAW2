@@ -1,0 +1,93 @@
+#country_event = {
+#	id = 49994
+#	title = "EVTNAME49994" 
+#	desc = "EVTDESC49994"
+#	#picture = "confedlot"
+#	
+#	trigger = {
+#		has_country_flag = frankish_subject
+#		war_score = -10
+#		war = yes
+#		NOT = {
+#			has_country_flag = imperial_protection_event
+#		}
+#		NOT = {
+#			war_with = FRK
+#		
+#		}
+#		
+#	
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 3
+#	
+#	}
+#	
+#	option = {
+#		set_country_flag = imperial_protection_event
+#		name = "Inform the emperor of what has transpired"
+#		any_country = {
+#			limit = {
+#				has_country_flag = frankish_emperor
+#			
+#			}
+#			country_event = {
+#				id = 49993
+#				days = 3
+#			
+#			}
+#		
+#		}
+#	
+#	}
+#
+#
+#}
+#
+#country_event = {
+#	id = 49993
+#	title = "EVTNAME49993" 
+#	desc = "EVTDESC49993"
+#	#picture = "confedlot"
+#	
+#	is_triggered_only = yes
+#	
+#	option = {
+#		name = "The Imperial borders must be defended!"
+#		FROM = {
+#			create_alliance = FRK
+#		}
+#		any_country = {
+#			limit = {
+#				war_with = FROM
+#			}
+#			add_casus_belli = {
+#				target = FRK
+#				type = call_allies_cb
+#				months = 10
+#			}
+#			war = {
+#				target = FRK
+#				attacker_goal = { casus_belli = call_allies_cb }
+#				call_ally = yes
+#			}
+#		}
+#	
+#	}
+#	
+#	option = {
+#		name = "We cannot help $FROMCOUNTRY$ at the moment."
+#		prestige = -20
+#		diplomatic_influence = {
+#			who = FROM
+#			value = -100
+#		}
+#		relation = {
+#			who = FROM
+#			value = -200
+#		}
+#	}
+#
+#
+#}
