@@ -450,6 +450,12 @@ country_event = {  #witlian ind_trig
 		
 		}
 		
+		add_country_modifier = {
+			name = colonial_militias
+			duration = 365
+		
+		}
+		
 		if = {
 				limit = {
 					THIS = {
@@ -2017,6 +2023,11 @@ country_event = {  #cent_lot ind_trig
 		
 		}
 		
+		add_country_modifier = {
+			name = colonial_militias
+			duration = 365
+		
+		}
 		
 		if = {
 				limit = {
