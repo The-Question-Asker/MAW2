@@ -770,6 +770,13 @@ indigenous_peoples = {
 
 			last_names = {  }
     }
+	
+	araucanian = {
+	  color = { 123 186 171 }
+        	first_names = { }
+
+			last_names = {  }
+    }
 }
 	
 #### SPECIFIC CULTURES
