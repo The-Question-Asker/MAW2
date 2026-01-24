@@ -818,7 +818,7 @@ assimilation_chance =
     }
 
     modifier = {
-        factor = -1
+        factor = -3
         is_accepted_culture = yes
     }
 
@@ -829,7 +829,7 @@ assimilation_chance =
             has_country_flag = native_assimilation_enacted
         }
         OR = {
-            is_culture_group = native_american
+            is_culture_group = indigenous_peoples
             is_culture_group = oceanic
         }
         OR = {
@@ -846,7 +846,7 @@ assimilation_chance =
             NOT = { has_country_flag = native_assimilation_enacted }
         }
         OR = {
-            is_culture_group = native_american
+            is_culture_group = indigenous_peoples
             is_culture_group = oceanic
         }
         OR = {
@@ -859,7 +859,7 @@ assimilation_chance =
     modifier = {
         factor = -80
         country = { NOT = { has_country_flag = african_integration_policy } }
-        is_culture_group = african_diaspora_cultures
+        is_culture_group = afro_diaspora
         OR = {
             location = { continent = north_america }
             location = { continent = south_america }
@@ -871,7 +871,7 @@ assimilation_chance =
         country = { NOT = { has_country_flag = african_integration_policy } }
         location = { continent = africa }
         OR = {
-            is_culture_group = african_diaspora_cultures
+            is_culture_group = afro_diaspora
             is_culture_group = west_african
             is_culture_group = central_african
             is_culture_group = east_african
