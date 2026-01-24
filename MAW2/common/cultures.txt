@@ -777,6 +777,13 @@ indigenous_peoples = {
 
 			last_names = {  }
     }
+	
+	chon = {
+	  color = { 201 127 143 }
+        	first_names = { }
+
+			last_names = {  }
+    }
 }
 	
 #### SPECIFIC CULTURES
