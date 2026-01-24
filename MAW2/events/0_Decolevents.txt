@@ -392,6 +392,30 @@ country_event = {  #witlian ind_trig
 		}
 		
 		modifier = {
+			factor = 0.3
+			WTL = {
+				war = yes
+				capital_scope = {
+					NOT = {
+						continent = europe
+						controlled_by = THIS
+					}
+				
+				}
+			}
+		
+		}
+		
+		modifier = {
+			factor = 0.3
+			WTL = {
+				war = yes
+				war_exhaustion = 50
+			}
+		
+		}
+		
+		modifier = {
 			factor = 6
 			tag = PHO
 			NOT = {
@@ -1456,6 +1480,29 @@ country_event = {  #cent_lot ind_trig
 					in_sphere = HNU
 				
 				}
+			}
+		
+		}
+		modifier = {
+			factor = 0.3
+			HNU = {
+				war = yes
+				capital_scope = {
+					NOT = {
+						continent = europe
+						controlled_by = THIS
+					}
+				
+				}
+			}
+		
+		}
+		
+		modifier = {
+			factor = 0.3
+			HNU = {
+				war = yes
+				war_exhaustion = 50
 			}
 		
 		}
