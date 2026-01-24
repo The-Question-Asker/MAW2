@@ -41659,6 +41659,2166 @@
 
 }
 
+2292 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 4000
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 81
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 316
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 45
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 67
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 54
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 36
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 253
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 65
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 3203
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 3
+	}
+
+}
+
+2298 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 460
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 9
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 36
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 7
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 144
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 9
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 96
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 673
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 173
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 8513
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 9
+	}
+
+}
+
+2294 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 2230
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 45
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 176
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 37
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 234
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 15
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 156
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 1093
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 281
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 13823
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 15
+	}
+
+}
+
+2290 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 2230
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 45
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 176
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 37
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 384
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 25
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 256
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 1793
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 461
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 22673
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 25
+	}
+
+}
+
+2293 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 548
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 43
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 6
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 9
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 324
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 21
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 216
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 1513
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 389
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 19133
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 21
+	}
+
+}
+
+2296 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 1433
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 29
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 113
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 16
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 24
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 459
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 30
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 306
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 2143
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 551
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 27098
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 30
+	}
+
+}
+
+2302 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 3203
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 65
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 253
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 36
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 3
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 54
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 774
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 51
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 516
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 3613
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 929
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 45683
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 51
+	}
+
+}
+
+2295 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 548
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 43
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 6
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 9
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 159
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 10
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 106
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 743
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 191
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 9398
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 10
+	}
+
+}
+
+2297 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 548
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 43
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 6
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 9
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 114
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 7
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 76
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 533
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 137
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 6743
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 7
+	}
+
+}
+
+2299 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 548
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 43
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 6
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 9
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 264
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 17
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 176
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 1233
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 317
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 15593
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 17
+	}
+
+}
+
+2303 = {
+
+
+
+	officers = {
+		culture = aymara
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = aymara
+		religion = animist
+		size = 4973
+	}
+
+	soldiers = {
+		culture = aymara
+		religion = animist
+		size = 101
+	}
+
+	artisans = {
+		culture = aymara
+		religion = animist
+		size = 393
+	}
+
+	clergymen = {
+		culture = aymara
+		religion = animist
+		size = 56
+	}
+
+	bureaucrats = {
+		culture = aymara
+		religion = animist
+		size = 5
+	}
+
+	aristocrats = {
+		culture = aymara
+		religion = animist
+		size = 84
+	}
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 1433
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 29
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 113
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 16
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 24
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 399
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 26
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 266
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 1863
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 479
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 23558
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 26
+	}
+
+}
+
+2310 = {
+
+
+
+	officers = {
+		culture = aymara
+		religion = animist
+		size = 22
+	}
+
+	farmers = {
+		culture = aymara
+		religion = animist
+		size = 20018
+	}
+
+	soldiers = {
+		culture = aymara
+		religion = animist
+		size = 407
+	}
+
+	artisans = {
+		culture = aymara
+		religion = animist
+		size = 1583
+	}
+
+	clergymen = {
+		culture = aymara
+		religion = animist
+		size = 226
+	}
+
+	bureaucrats = {
+		culture = aymara
+		religion = animist
+		size = 22
+	}
+
+	aristocrats = {
+		culture = aymara
+		religion = animist
+		size = 339
+	}
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 1433
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 29
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 113
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 16
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 24
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 99
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 6
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 66
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 463
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 119
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 5858
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 6
+	}
+
+}
+
+2311 = {
+
+
+
+	officers = {
+		culture = aymara
+		religion = animist
+		size = 9
+	}
+
+	farmers = {
+		culture = aymara
+		religion = animist
+		size = 8513
+	}
+
+	soldiers = {
+		culture = aymara
+		religion = animist
+		size = 173
+	}
+
+	artisans = {
+		culture = aymara
+		religion = animist
+		size = 673
+	}
+
+	clergymen = {
+		culture = aymara
+		religion = animist
+		size = 96
+	}
+
+	bureaucrats = {
+		culture = aymara
+		religion = animist
+		size = 9
+	}
+
+	aristocrats = {
+		culture = aymara
+		religion = animist
+		size = 144
+	}
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 548
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 43
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 6
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 9
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 249
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 16
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 166
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 1163
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 299
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 14708
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 16
+	}
+
+}
+
+2305 = {
+
+
+
+	officers = {
+		culture = aymara
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = aymara
+		religion = animist
+		size = 1079
+	}
+
+	soldiers = {
+		culture = aymara
+		religion = animist
+		size = 21
+	}
+
+	artisans = {
+		culture = aymara
+		religion = animist
+		size = 85
+	}
+
+	clergymen = {
+		culture = aymara
+		religion = animist
+		size = 12
+	}
+
+	bureaucrats = {
+		culture = aymara
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = aymara
+		religion = animist
+		size = 18
+	}
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 902
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 71
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 15
+	}
+
+	officers = {
+		culture = aymara
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = aymara
+		religion = animist
+		size = 814
+	}
+
+	soldiers = {
+		culture = aymara
+		religion = animist
+		size = 16
+	}
+
+	artisans = {
+		culture = aymara
+		religion = animist
+		size = 64
+	}
+
+	clergymen = {
+		culture = aymara
+		religion = animist
+		size = 9
+	}
+
+	bureaucrats = {
+		culture = aymara
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = aymara
+		religion = animist
+		size = 13
+	}
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 902
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 71
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 15
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 1
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 8
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 2
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 106
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 0
+	}
+
+}
+
+2313 = {
+
+
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 151
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 10
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 101
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 708
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 182
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 8956
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 10
+	}
+
+}
+
+2315 = {
+
+
+
+	officers = {
+		culture = aymara
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = aymara
+		religion = animist
+		size = 1079
+	}
+
+	soldiers = {
+		culture = aymara
+		religion = animist
+		size = 21
+	}
+
+	artisans = {
+		culture = aymara
+		religion = animist
+		size = 85
+	}
+
+	clergymen = {
+		culture = aymara
+		religion = animist
+		size = 12
+	}
+
+	bureaucrats = {
+		culture = aymara
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = aymara
+		religion = animist
+		size = 18
+	}
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 699
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 14
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 55
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 7
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 11
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 181
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 12
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 121
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 848
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 218
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 10726
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 12
+	}
+
+}
+
+2371 = {
+
+
+
+	officers = {
+		culture = aymara
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = aymara
+		religion = animist
+		size = 194
+	}
+
+	soldiers = {
+		culture = aymara
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = aymara
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = aymara
+		religion = animist
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = aymara
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = aymara
+		religion = animist
+		size = 3
+	}
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 3354
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 68
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 265
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 37
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 3
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 56
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 121
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 8
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 81
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 568
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 146
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 7186
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 8
+	}
+
+}
+
+2370 = {
+
+
+
+	officers = {
+		culture = aymara
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = aymara
+		religion = animist
+		size = 194
+	}
+
+	soldiers = {
+		culture = aymara
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = aymara
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = aymara
+		religion = animist
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = aymara
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = aymara
+		religion = animist
+		size = 3
+	}
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 699
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 14
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 55
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 7
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 11
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 91
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 6
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 61
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 428
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 110
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 5416
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 6
+	}
+
+}
+
+2369 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 1584
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 32
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 17
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 26
+	}
+
+	aristocrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 121
+	}
+
+
+	bureaucrats = {
+		 culture = quechua
+		 religion = animist
+		 size = 8
+	}
+
+
+	clergymen = {
+		 culture = quechua
+		 religion = animist
+		 size = 81
+	}
+
+
+	artisans = {
+		 culture = quechua
+		 religion = animist
+		 size = 568
+	}
+
+
+	soldiers = {
+		 culture = quechua
+		 religion = animist
+		 size = 146
+	}
+
+
+	farmers = {
+		 culture = quechua
+		 religion = animist
+		 size = 7186
+	}
+
+
+	officers = {
+		 culture = quechua
+		 religion = animist
+		 size = 8
+	}
+
+}
+
 
 
 
