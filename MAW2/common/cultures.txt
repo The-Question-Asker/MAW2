@@ -500,6 +500,13 @@ afro_diaspora = {
 
 			last_names = {  }
     }
+	
+	afro_frankish_carrib = {
+	  color = { 26 48 56 } 
+        	first_names = {  }
+
+			last_names = {  }
+    }
 }
 
 colonial_frankish_culture = {
@@ -508,6 +515,13 @@ colonial_frankish_culture = {
 	
 	colonial_frankish = {
 	  color = { 18 52 115 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	amorican_frank = {
+	  color = { 99 148 166 }
         	first_names = { }
 
 			last_names = {  }
@@ -652,13 +666,6 @@ indigenous_peoples = {
 			last_names = {  }
     }	
 	
-	arawakan = {
-	  color = { 68 128 121 }
-        	first_names = { }
-
-			last_names = {  }
-    }
-	
 	numic = { #uto
 	  color = { 191 140 29 }
         	first_names = { }
@@ -707,6 +714,20 @@ indigenous_peoples = {
 
 			last_names = {  }
     } 
+	
+	tupi = {
+	  color = { 107 189 106 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	arawak = {
+	  color = { 13 81 145 }
+        	first_names = { }
+
+			last_names = {  }
+    }
 }
 	
 #### SPECIFIC CULTURES
