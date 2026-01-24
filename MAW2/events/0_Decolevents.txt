@@ -973,11 +973,6 @@ country_event = {
 					type = conquest_any
 					months = 12
 				}
-				
-				add_country_modifier = {
-					name = colonial_militias
-					duration = 365
-				}
 			}
 		WTL = {
 			war = {
@@ -1017,11 +1012,6 @@ country_event = {
 				target = WTL
 				type = conquest_any
 				months = 12
-				
-				add_country_modifier = {
-					name = colonial_militias
-					duration = 365
-				}
 			}
 		}
 		WTL = {
@@ -2028,8 +2018,6 @@ country_event = {  #cent_lot ind_trig
 		}
 		
 		
-		
-		
 		if = {
 				limit = {
 					THIS = {
@@ -2552,11 +2540,6 @@ country_event = {
 					type = conquest_any
 					months = 12
 				}
-				
-				add_country_modifier = {
-					name = colonial_militias
-					duration = 365
-				}
 			}
 		HNU = {
 			war = {
@@ -2596,11 +2579,6 @@ country_event = {
 				target = HNU
 				type = conquest_any
 				months = 12
-				
-				add_country_modifier = {
-					name = colonial_militias
-					duration = 365
-				}
 			}
 		}
 		HNU = {
