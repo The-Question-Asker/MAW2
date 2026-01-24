@@ -2,7 +2,7 @@ country_event = {  #witlian self-gov
 	id = 50001 
 	title = "EVTNAME50001" 
 	desc = "EVTDESC50001"
-	picture = "independence_mov1"
+	picture = "confedlot"
 	
 	trigger = {
 		tag = WTL
@@ -400,6 +400,14 @@ country_event = {  #witlian ind_trig
 			}
 		}
 		
+		modifier = {
+			factor = 0.2
+			any_neighbor_country = { 
+				war_with = WTL
+			}
+		
+		}
+		
 	
 	}
 	
@@ -417,103 +425,9 @@ country_event = {  #witlian ind_trig
 			factor = 99
 		
 		}
-		if = {
-			limit = {
-				THIS = {
-					capital_scope = {
-						is_coastal = yes
-					
-					}
-				}
-			
-			}
-			THIS = {
-				capital_scope = {
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				capital_scope = {
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				capital_scope = {
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				capital_scope = {
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-			
-			}
+	
 		
-		}
 		
-		if = {
-			limit = {
-				THIS = {
-					capital_scope = {
-						is_coastal = no
-					
-					}
-				}
-			
-			}
-			THIS = {
-				random_owned = {
-					limit = {
-						is_coastal = yes
-					}
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				random_owned = {
-					limit = {
-						is_coastal = yes
-					}
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				random_owned = {
-					limit = {
-						is_coastal = yes
-					}
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				random_owned = {
-					limit = {
-						is_coastal = yes
-					}
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-			
-			}
-		
-		}
 		
 		prestige = 10
 	}
@@ -659,7 +573,7 @@ country_event = {  #central lothaire self-gov
 	id = 49997 
 	title = "EVTNAME49997" 
 	desc = "EVTDESC49997"
-	#picture = "independence_mov1"
+	picture = "tenconf"
 	
 	trigger = {
 		tag = HNU
@@ -1546,6 +1460,15 @@ country_event = {  #cent_lot ind_trig
 		
 		}
 		
+		modifier = {
+			factor = 0.2
+			any_neighbor_country = { 
+				war_with = HNU
+			
+			}
+		
+		}
+		
 	
 	}
 	
@@ -1564,103 +1487,9 @@ country_event = {  #cent_lot ind_trig
 		
 		}
 		
-		if = {
-			limit = {
-				THIS = {
-					capital_scope = {
-						is_coastal = yes
-					
-					}
-				}
-			
-			}
-			THIS = {
-				capital_scope = {
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				capital_scope = {
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				capital_scope = {
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				capital_scope = {
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-			
-			}
 		
-		}
 		
-		if = {
-			limit = {
-				THIS = {
-					capital_scope = {
-						is_coastal = no
-					
-					}
-				}
-			
-			}
-			THIS = {
-				random_owned = {
-					limit = {
-						is_coastal = yes
-					}
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				random_owned = {
-					limit = {
-						is_coastal = yes
-					}
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				random_owned = {
-					limit = {
-						is_coastal = yes
-					}
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-				
-				random_owned = {
-					limit = {
-						is_coastal = yes
-					}
-					sub_unit = { 
-						type = frigate
-						value = current 
-					}
-				}
-			
-			}
 		
-		}
 		
 		
 		prestige = 10
@@ -1713,7 +1542,7 @@ country_event = {
 		prestige = 10
 		
 		ai_chance = {
-			factor = 75
+			factor = 90
 		
 		}
 	}
@@ -1724,7 +1553,7 @@ country_event = {
 		badboy = -2
 		
 		ai_chance = {
-			factor = 25
+			factor = 10
 		
 		}
 	}

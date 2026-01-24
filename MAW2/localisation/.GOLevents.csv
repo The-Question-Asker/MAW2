@@ -2,10 +2,10 @@ Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;P
 EVTNAME50001;The Costa Negra Confrence of $YEAR$;;;;;;;;;;;;;
 EVTDESC50001;x;;;;;;;;;;;;;
 EVTNAME49999;Independence for $COUNTRY$?!;;;;;;;;;;;;;
-EVTDESC49999;x;;;;;;;;;;;;;
+EVTDESC49999;;;;;;;;;;;;;;
 EVTNAME49998;$FROMCOUNTRY$ Declares Independence!;;;;;;;;;;;;;
-EVTDESC49998;x;;;;;;;;;;;;;
+EVTDESC49998;The traitorous dogs in $FROMCOUNTRY$, who, having some years ago organised for themselves a degree of autonomous self-government, have now had the audacity to declare their formal independence. Doubtless, this bold and illegal action has been spurred on by some impudent great power meddling in our colonial empire. The colonial department and the foreign office are eager to launch a military expedition across the seas to bring these colonial upstarts back into line, but the military and the navy question the feasibility of mobilising the country against these states. They suggest our populace will likely be slow to accept the burdens of such a large undertaking, and that the divergent cultures of our colonies and we would make occupation both unstable overseas and unpopular at home. Nonetheless, the nationalist press are cranking out reams of broadsheets demanding our national dignity be upheld, and certainly we would seem weak internationally to let go without a fight.;;;;;;;;;;;;;
 EVTNAME49997;The Tenostsktitlos Confrence of $YEAR$;;;;;;;;;;;;;
-EVTDESC49997;x;;;;;;;;;;;;;
+EVTDESC49997;The recent military defeats our country has suffered, and the broad restriction of our ability to project power civically and militarily has led to some worrying developments in the Viceroyalty of Vandalia. The Viceroyalty, settled in the early 1500s, was the earliest large European colony in the new world, and for many years was the jewel of our empire. The territory of the viceroyalty contracted somewhat in the late 1600s when the Amorican Company, chartered by the Frankish emperor, began picking off the various sugar colonies associated with the Viceroyalty, but it still remains a powerful and prosperous area, which makes the pronouncements of the so called "Conference of Tenostsktitlos" so troubling. A number of influential colonial landholders, military figures, clerics, and philosophers have apparently passed a number of resolutions forming a variety of nearly independent organs of self-government and military defence. This marks, everyone agrees, an alarming diminution of our power in this region.;;;;;;;;;;;;;
 EVTNAME49996;Independence for $COUNTRY$?!;;;;;;;;;;;;;
-EVTDESC49996;x;;;;;;;;;;;;;
+EVTDESC49996;AI ONLY;;;;;;;;;;;;;
