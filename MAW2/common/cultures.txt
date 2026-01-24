@@ -709,7 +709,7 @@ indigenous_peoples = {
     }
 	
 	chibchan = {
-	  color = { 222 192 42 }
+	  color = { 209 93 4 }
         	first_names = { }
 
 			last_names = {  }
