@@ -1,0 +1,52 @@
+political_decisions = {
+ 
+	contact_ambassadors = { ## for frankish subjects
+		#picture = force_publique
+        potential = {
+           ai = no
+		   has_country_flag = frankish_subject
+        }
+        allow = {
+            NOT = {
+				has_country_flag = cont_imp_amb
+			}
+        }
+        effect = {
+            THIS = {
+				set_country_flag = cont_imp_amb
+				country_event = {
+					id = #####
+					days = 30
+				
+				}
+			
+			}
+        }
+    }
+	
+	address_imperial_diet = { ## for frankish emperor
+		#picture = force_publique
+        potential = {
+           ai = no
+		   has_country_flag = frankish_emperor
+        }
+        allow = {
+            NOT = {
+				has_country_flag = diet_in_session
+				has_country_flag = addressing_diet
+			}
+        }
+        effect = {
+			set_country_flag = addressing_diet
+            THIS = {
+				country_event = {
+					id = #####
+					days = 30
+				
+				}
+			
+			}
+        }
+    }
+	
+}
