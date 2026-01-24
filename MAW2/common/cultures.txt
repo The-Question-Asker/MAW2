@@ -495,7 +495,7 @@ afro_diaspora = {
     }
 	
 	afro_new_african = {
-	  color = { 28 36 1 } 
+	  color = { 28 36 60 } 
         	first_names = {  }
 
 			last_names = {  }
