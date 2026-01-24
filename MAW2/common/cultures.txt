@@ -728,6 +728,48 @@ indigenous_peoples = {
 
 			last_names = {  }
     }
+	
+	tapuia = { #tupi term - largely the Je people
+	  color = { 199 119 176 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	quechua = {
+	  color = { 237 199 9 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	aymara = {
+	  color = { 125 39 42 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	amazonian_minor = {
+	  color = { 132 148 123 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	andean_minor = {
+	  color = { 40 18 82 }
+        	first_names = { }
+
+			last_names = {  }
+    }
+	
+	carib = {
+	  color = { 255 248 107 }
+        	first_names = { }
+
+			last_names = {  }
+    }
 }
 	
 #### SPECIFIC CULTURES

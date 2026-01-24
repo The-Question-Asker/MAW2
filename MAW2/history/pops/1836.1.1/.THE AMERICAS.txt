@@ -36513,6 +36513,5152 @@
 
 }
 
+2253 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 1177
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 23
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 93
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 13
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 19
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 468
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 58
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 643
+	}
+
+	officers = {
+		culture = chibchan
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = animist
+		size = 823
+	}
+
+	soldiers = {
+		culture = chibchan
+		religion = animist
+		size = 16
+	}
+
+	artisans = {
+		culture = chibchan
+		religion = animist
+		size = 65
+	}
+
+	clergymen = {
+		culture = chibchan
+		religion = animist
+		size = 9
+	}
+
+	bureaucrats = {
+		culture = chibchan
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = chibchan
+		religion = animist
+		size = 13
+	}
+
+	serfs = {
+		culture = chibchan
+		religion = arian
+		size = 188
+	}
+
+	slaves = {
+		culture = chibchan
+		religion = arian
+		size = 23
+	}
+
+	labourers = {
+		culture = chibchan
+		religion = arian
+		size = 258
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 525
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 180
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 705
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 18
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 70
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 15
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 84
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 6
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 4
+	}
+
+}
+
+2254 = {
+
+
+
+	officers = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 380
+	}
+
+	soldiers = {
+		culture = carib
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 30
+	}
+
+	clergymen = {
+		culture = carib
+		religion = animist
+		size = 4
+	}
+
+	bureaucrats = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = carib
+		religion = animist
+		size = 6
+	}
+
+	serfs = {
+		culture = carib
+		religion = arian
+		size = 148
+	}
+
+	slaves = {
+		culture = carib
+		religion = arian
+		size = 18
+	}
+
+	labourers = {
+		culture = carib
+		religion = arian
+		size = 203
+	}
+
+	officers = {
+		culture = chibchan
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = animist
+		size = 911
+	}
+
+	soldiers = {
+		culture = chibchan
+		religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = chibchan
+		religion = animist
+		size = 72
+	}
+
+	clergymen = {
+		culture = chibchan
+		religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = chibchan
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = chibchan
+		religion = animist
+		size = 15
+	}
+
+	serfs = {
+		culture = chibchan
+		religion = arian
+		size = 228
+	}
+
+	slaves = {
+		culture = chibchan
+		religion = arian
+		size = 28
+	}
+
+	labourers = {
+		culture = chibchan
+		religion = arian
+		size = 313
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 525
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 576
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2256
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 57
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 224
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 32
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 48
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 9
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 6
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 252
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 18
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 12
+	}
+
+}
+
+2252 = {
+
+
+
+	officers = {
+		culture = carib
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 1177
+	}
+
+	soldiers = {
+		culture = carib
+		religion = animist
+		size = 23
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 93
+	}
+
+	clergymen = {
+		culture = carib
+		religion = animist
+		size = 13
+	}
+
+	bureaucrats = {
+		culture = carib
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = carib
+		religion = animist
+		size = 19
+	}
+
+	serfs = {
+		culture = carib
+		religion = arian
+		size = 548
+	}
+
+	slaves = {
+		culture = carib
+		religion = arian
+		size = 68
+	}
+
+	labourers = {
+		culture = carib
+		religion = arian
+		size = 753
+	}
+
+	officers = {
+		culture = chibchan
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = animist
+		size = 1265
+	}
+
+	soldiers = {
+		culture = chibchan
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = chibchan
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = chibchan
+		religion = animist
+		size = 14
+	}
+
+	bureaucrats = {
+		culture = chibchan
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = chibchan
+		religion = animist
+		size = 21
+	}
+
+	serfs = {
+		culture = chibchan
+		religion = arian
+		size = 508
+	}
+
+	slaves = {
+		culture = chibchan
+		religion = arian
+		size = 63
+	}
+
+	labourers = {
+		culture = chibchan
+		religion = arian
+		size = 698
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 25
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 396
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1551
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 39
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 154
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 22
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 33
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 84
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 6
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 4
+	}
+
+}
+
+2255 = {
+
+
+
+	officers = {
+		culture = arawak
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 292
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 23
+	}
+
+	clergymen = {
+		culture = arawak
+		religion = animist
+		size = 3
+	}
+
+	bureaucrats = {
+		culture = arawak
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = arawak
+		religion = animist
+		size = 4
+	}
+
+	serfs = {
+		culture = arawak
+		religion = arian
+		size = 268
+	}
+
+	slaves = {
+		culture = arawak
+		religion = arian
+		size = 33
+	}
+
+	labourers = {
+		culture = arawak
+		religion = arian
+		size = 368
+	}
+
+	officers = {
+		culture = chibchan
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = animist
+		size = 469
+	}
+
+	soldiers = {
+		culture = chibchan
+		religion = animist
+		size = 9
+	}
+
+	artisans = {
+		culture = chibchan
+		religion = animist
+		size = 37
+	}
+
+	clergymen = {
+		culture = chibchan
+		religion = animist
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = chibchan
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = chibchan
+		religion = animist
+		size = 7
+	}
+
+	serfs = {
+		culture = chibchan
+		religion = arian
+		size = 948
+	}
+
+	slaves = {
+		culture = chibchan
+		religion = arian
+		size = 118
+	}
+
+	labourers = {
+		culture = chibchan
+		religion = arian
+		size = 1303
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 425
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 756
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 4
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2961
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 75
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 294
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 42
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 4
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 63
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 9
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 6
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 252
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 18
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 12
+	}
+
+}
+
+2270 = {
+
+
+
+	officers = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 469
+	}
+
+	soldiers = {
+		culture = carib
+		religion = animist
+		size = 9
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 37
+	}
+
+	clergymen = {
+		culture = carib
+		religion = animist
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = carib
+		religion = animist
+		size = 7
+	}
+
+	serfs = {
+		culture = carib
+		religion = arian
+		size = 668
+	}
+
+	slaves = {
+		culture = carib
+		religion = arian
+		size = 83
+	}
+
+	labourers = {
+		culture = carib
+		religion = arian
+		size = 918
+	}
+
+	officers = {
+		culture = chibchan
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = animist
+		size = 88
+	}
+
+	soldiers = {
+		culture = chibchan
+		religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = chibchan
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = chibchan
+		religion = animist
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = chibchan
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = chibchan
+		religion = animist
+		size = 1
+	}
+
+	serfs = {
+		culture = chibchan
+		religion = arian
+		size = 188
+	}
+
+	slaves = {
+		culture = chibchan
+		religion = arian
+		size = 23
+	}
+
+	labourers = {
+		culture = chibchan
+		religion = arian
+		size = 258
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 2425
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2556
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 10011
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 255
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 994
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 142
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 213
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 21
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 7
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 14
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 588
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 42
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 28
+	}
+
+}
+
+2271 = {
+
+
+
+	officers = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 557
+	}
+
+	soldiers = {
+		culture = carib
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 44
+	}
+
+	clergymen = {
+		culture = carib
+		religion = animist
+		size = 6
+	}
+
+	bureaucrats = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = carib
+		religion = animist
+		size = 9
+	}
+
+	serfs = {
+		culture = carib
+		religion = arian
+		size = 108
+	}
+
+	slaves = {
+		culture = carib
+		religion = arian
+		size = 13
+	}
+
+	labourers = {
+		culture = carib
+		religion = arian
+		size = 148
+	}
+
+	officers = {
+		culture = chibchan
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = animist
+		size = 2743
+	}
+
+	soldiers = {
+		culture = chibchan
+		religion = animist
+		size = 55
+	}
+
+	artisans = {
+		culture = chibchan
+		religion = animist
+		size = 217
+	}
+
+	clergymen = {
+		culture = chibchan
+		religion = animist
+		size = 31
+	}
+
+	bureaucrats = {
+		culture = chibchan
+		religion = animist
+		size = 3
+	}
+
+	aristocrats = {
+		culture = chibchan
+		religion = animist
+		size = 46
+	}
+
+	serfs = {
+		culture = chibchan
+		religion = arian
+		size = 588
+	}
+
+	slaves = {
+		culture = chibchan
+		religion = arian
+		size = 73
+	}
+
+	labourers = {
+		culture = chibchan
+		religion = arian
+		size = 808
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 25
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 216
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 846
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 21
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 84
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 12
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 18
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 84
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 6
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 4
+	}
+
+}
+
+2273 = {
+
+
+
+	officers = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 557
+	}
+
+	soldiers = {
+		culture = carib
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 44
+	}
+
+	clergymen = {
+		culture = carib
+		religion = animist
+		size = 6
+	}
+
+	bureaucrats = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = carib
+		religion = animist
+		size = 9
+	}
+
+	serfs = {
+		culture = carib
+		religion = arian
+		size = 828
+	}
+
+	slaves = {
+		culture = carib
+		religion = arian
+		size = 103
+	}
+
+	labourers = {
+		culture = carib
+		religion = arian
+		size = 1138
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 325
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 360
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1410
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 36
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 140
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 30
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 109
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 7
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 5
+	}
+
+}
+
+2272 = {
+
+
+
+	officers = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 26
+	}
+
+	soldiers = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	bureaucrats = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	serfs = {
+		culture = carib
+		religion = arian
+		size = 148
+	}
+
+	slaves = {
+		culture = carib
+		religion = arian
+		size = 18
+	}
+
+	labourers = {
+		culture = carib
+		religion = arian
+		size = 203
+	}
+
+	officers = {
+		culture = arawak
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 88
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = arawak
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	serfs = {
+		culture = arawak
+		religion = arian
+		size = 1388
+	}
+
+	slaves = {
+		culture = arawak
+		religion = arian
+		size = 173
+	}
+
+	labourers = {
+		culture = arawak
+		religion = arian
+		size = 1908
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 2325
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2520
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 9870
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 251
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 980
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 140
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 210
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 30
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 10
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 20
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 865
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 61
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 41
+	}
+
+}
+
+2264 = {
+
+
+
+	officers = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 26
+	}
+
+	soldiers = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	bureaucrats = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	serfs = {
+		culture = carib
+		religion = arian
+		size = 1228
+	}
+
+	slaves = {
+		culture = carib
+		religion = arian
+		size = 153
+	}
+
+	labourers = {
+		culture = carib
+		religion = arian
+		size = 1688
+	}
+
+	officers = {
+		culture = arawak
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 88
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = arawak
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	serfs = {
+		culture = arawak
+		religion = arian
+		size = 588
+	}
+
+	slaves = {
+		culture = arawak
+		religion = arian
+		size = 73
+	}
+
+	labourers = {
+		culture = arawak
+		religion = arian
+		size = 808
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 10325
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 6282
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 34
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 24604
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 628
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2443
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 349
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 34
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 523
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 90
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 30
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 60
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2545
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 181
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 121
+	}
+
+}
+
+2267 = {
+
+
+
+	officers = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 115
+	}
+
+	soldiers = {
+		culture = carib
+		religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = carib
+		religion = animist
+		size = 9
+	}
+
+	clergymen = {
+		culture = carib
+		religion = animist
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = carib
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = carib
+		religion = animist
+		size = 1
+	}
+
+	serfs = {
+		culture = carib
+		religion = arian
+		size = 148
+	}
+
+	slaves = {
+		culture = carib
+		religion = arian
+		size = 18
+	}
+
+	labourers = {
+		culture = carib
+		religion = arian
+		size = 203
+	}
+
+	officers = {
+		culture = arawak
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 88
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = arawak
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	serfs = {
+		culture = arawak
+		religion = arian
+		size = 188
+	}
+
+	slaves = {
+		culture = arawak
+		religion = arian
+		size = 23
+	}
+
+	labourers = {
+		culture = arawak
+		religion = arian
+		size = 258
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 4325
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2682
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 10504
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 268
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1043
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 149
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 223
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 27
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 9
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 18
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 781
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 55
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 37
+	}
+
+}
+
+2269 = {
+
+
+
+	officers = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 885
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 70
+	}
+
+	clergymen = {
+		culture = arawak
+		religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = arawak
+		religion = animist
+		size = 15
+	}
+
+	serfs = {
+		culture = arawak
+		religion = arian
+		size = 1628
+	}
+
+	slaves = {
+		culture = arawak
+		religion = arian
+		size = 203
+	}
+
+	labourers = {
+		culture = arawak
+		religion = arian
+		size = 2238
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 325
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 522
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2044
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 52
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 203
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 29
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 43
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 109
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 7
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 5
+	}
+
+}
+
+2265 = {
+
+
+
+	officers = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 885
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 70
+	}
+
+	clergymen = {
+		culture = arawak
+		religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = arawak
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = arawak
+		religion = animist
+		size = 15
+	}
+
+	serfs = {
+		culture = arawak
+		religion = arian
+		size = 828
+	}
+
+	slaves = {
+		culture = arawak
+		religion = arian
+		size = 103
+	}
+
+	labourers = {
+		culture = arawak
+		religion = arian
+		size = 1138
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 2325
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1242
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 6
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 4864
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 124
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 483
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 69
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 6
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 103
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 18
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 6
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 12
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 529
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 37
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 25
+	}
+
+}
+
+2249 = {
+
+
+
+	officers = {
+		culture = arawak
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 1770
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 36
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 140
+	}
+
+	clergymen = {
+		culture = arawak
+		religion = animist
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = arawak
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = arawak
+		religion = animist
+		size = 30
+	}
+
+	serfs = {
+		culture = arawak
+		religion = arian
+		size = 428
+	}
+
+	slaves = {
+		culture = arawak
+		religion = arian
+		size = 53
+	}
+
+	labourers = {
+		culture = arawak
+		religion = arian
+		size = 588
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 525
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 522
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2044
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 52
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 203
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 29
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 43
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 109
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 7
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 5
+	}
+
+}
+
+2262 = {
+
+
+
+	officers = {
+		culture = arawak
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = arawak
+		religion = animist
+		size = 2832
+	}
+
+	soldiers = {
+		culture = arawak
+		religion = animist
+		size = 57
+	}
+
+	artisans = {
+		culture = arawak
+		religion = animist
+		size = 224
+	}
+
+	clergymen = {
+		culture = arawak
+		religion = animist
+		size = 32
+	}
+
+	bureaucrats = {
+		culture = arawak
+		religion = animist
+		size = 3
+	}
+
+	aristocrats = {
+		culture = arawak
+		religion = animist
+		size = 48
+	}
+
+	serfs = {
+		culture = arawak
+		religion = arian
+		size = 268
+	}
+
+	slaves = {
+		culture = arawak
+		religion = arian
+		size = 33
+	}
+
+	labourers = {
+		culture = arawak
+		religion = arian
+		size = 368
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 225
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 342
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1339
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 34
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 133
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 19
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 28
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 25
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+}
+
+2250 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 3655
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 74
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 289
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 41
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 61
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 148
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 18
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 203
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 25
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 90
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 352
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 9
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 35
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 7
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 42
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+}
+
+2256 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 6
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 5425
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 110
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 429
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 61
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 6
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 91
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 148
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 18
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 203
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 25
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 72
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 282
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 7
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 28
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 4
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 6
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 42
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+}
+
+2248 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 6310
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 128
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 499
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 71
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 7
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 106
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 148
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 18
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 203
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 25
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 90
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 352
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 9
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 35
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 7
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 42
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+}
+
+2257 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 3655
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 74
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 289
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 41
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 61
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 148
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 18
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 203
+	}
+
+	officers = {
+		culture = quechua
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 442
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = animist
+		size = 9
+	}
+
+	artisans = {
+		culture = quechua
+		religion = animist
+		size = 35
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = animist
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = animist
+		size = 7
+	}
+
+	serfs = {
+		culture = quechua
+		religion = arian
+		size = 28
+	}
+
+	slaves = {
+		culture = quechua
+		religion = arian
+		size = 3
+	}
+
+	labourers = {
+		culture = quechua
+		religion = arian
+		size = 38
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 25
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 36
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 141
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 42
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+}
+
+2259 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 2770
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 56
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 219
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 31
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 3
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 46
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 148
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 18
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 203
+	}
+
+	officers = {
+		culture = quechua
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 885
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = quechua
+		religion = animist
+		size = 70
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = animist
+		size = 15
+	}
+
+	serfs = {
+		culture = quechua
+		religion = arian
+		size = 28
+	}
+
+	slaves = {
+		culture = quechua
+		religion = arian
+		size = 3
+	}
+
+	labourers = {
+		culture = quechua
+		religion = arian
+		size = 38
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 15
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 18
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 70
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 7
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 33
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+}
+
+2258 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 1885
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 38
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 149
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 21
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 31
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 548
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 68
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 753
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 415
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 108
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 423
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 10
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 42
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 6
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 9
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 4
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 117
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 8
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 5
+	}
+
+}
+
+2281 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 4540
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 92
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 359
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 51
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 5
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 76
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 948
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 118
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 1303
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 1015
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 648
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2538
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 64
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 252
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 36
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 54
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 13
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 4
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 8
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 369
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 26
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 17
+	}
+
+}
+
+2279 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 1885
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 38
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 149
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 21
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 2
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 31
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 548
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 68
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 753
+	}
+
+	officers = {
+		culture = quechua
+		religion = animist
+		size = 12
+	}
+
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 10620
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = animist
+		size = 215
+	}
+
+	artisans = {
+		culture = quechua
+		religion = animist
+		size = 840
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = animist
+		size = 120
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = animist
+		size = 12
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = animist
+		size = 180
+	}
+
+	serfs = {
+		culture = quechua
+		religion = arian
+		size = 3628
+	}
+
+	slaves = {
+		culture = quechua
+		religion = arian
+		size = 453
+	}
+
+	labourers = {
+		culture = quechua
+		religion = arian
+		size = 4988
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 1015
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 648
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2538
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 64
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 252
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 36
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 54
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 13
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 4
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 8
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 369
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 26
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 17
+	}
+
+}
+
+2284 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 3655
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 74
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 289
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 41
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 61
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 948
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 118
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 1303
+	}
+
+	officers = {
+		culture = quechua
+		religion = animist
+		size = 6
+	}
+
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 5310
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = animist
+		size = 107
+	}
+
+	artisans = {
+		culture = quechua
+		religion = animist
+		size = 420
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = animist
+		size = 60
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = animist
+		size = 6
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = animist
+		size = 90
+	}
+
+	serfs = {
+		culture = quechua
+		religion = arian
+		size = 1228
+	}
+
+	slaves = {
+		culture = quechua
+		religion = arian
+		size = 153
+	}
+
+	labourers = {
+		culture = quechua
+		religion = arian
+		size = 1688
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 115
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 180
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 705
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 18
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 70
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 15
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 7
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 4
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 201
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 14
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 9
+	}
+
+}
+
+2280 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 1000
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 79
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 11
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 1
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 16
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 68
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 8
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 93
+	}
+
+	officers = {
+		culture = quechua
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 2655
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = animist
+		size = 53
+	}
+
+	artisans = {
+		culture = quechua
+		religion = animist
+		size = 210
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = animist
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = animist
+		size = 3
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = animist
+		size = 45
+	}
+
+	serfs = {
+		culture = quechua
+		religion = arian
+		size = 188
+	}
+
+	slaves = {
+		culture = quechua
+		religion = arian
+		size = 23
+	}
+
+	labourers = {
+		culture = quechua
+		religion = arian
+		size = 258
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 15
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 36
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 141
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 33
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+}
+
+2282 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 6310
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 128
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 499
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 71
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 7
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 106
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 68
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 8
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 93
+	}
+
+	officers = {
+		culture = quechua
+		religion = animist
+		size = 6
+	}
+
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 5310
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = animist
+		size = 107
+	}
+
+	artisans = {
+		culture = quechua
+		religion = animist
+		size = 420
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = animist
+		size = 60
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = animist
+		size = 6
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = animist
+		size = 90
+	}
+
+	serfs = {
+		culture = quechua
+		religion = arian
+		size = 188
+	}
+
+	slaves = {
+		culture = quechua
+		religion = arian
+		size = 23
+	}
+
+	labourers = {
+		culture = quechua
+		religion = arian
+		size = 258
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 15
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 36
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 141
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 33
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 2
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 1
+	}
+
+}
+
+2291 = {
+
+
+
+	officers = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	farmers = {
+		culture = andean_minor
+		religion = animist
+		size = 3655
+	}
+
+	soldiers = {
+		culture = andean_minor
+		religion = animist
+		size = 74
+	}
+
+	artisans = {
+		culture = andean_minor
+		religion = animist
+		size = 289
+	}
+
+	clergymen = {
+		culture = andean_minor
+		religion = animist
+		size = 41
+	}
+
+	bureaucrats = {
+		culture = andean_minor
+		religion = animist
+		size = 4
+	}
+
+	aristocrats = {
+		culture = andean_minor
+		religion = animist
+		size = 61
+	}
+
+	serfs = {
+		culture = andean_minor
+		religion = arian
+		size = 4
+	}
+
+	slaves = {
+		culture = andean_minor
+		religion = arian
+		size = 0
+	}
+
+	labourers = {
+		culture = andean_minor
+		religion = arian
+		size = 5
+	}
+
+	officers = {
+		culture = quechua
+		religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 177
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = quechua
+		religion = animist
+		size = 14
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = animist
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = animist
+		size = 0
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = animist
+		size = 3
+	}
+
+	serfs = {
+		culture = quechua
+		religion = arian
+		size = 4
+	}
+
+	slaves = {
+		culture = quechua
+		religion = arian
+		size = 0
+	}
+
+	labourers = {
+		culture = quechua
+		religion = arian
+		size = 5
+	}
+
+	slaves = {
+		culture = afro_african
+		religion = arian
+		size = 5
+	}
+
+	serfs = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 3
+	}
+
+	officers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 14
+	}
+
+	soldiers = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	artisans = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	bureaucrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_african_mixed
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	artisans = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 3
+	}
+
+
+	soldiers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+
+	officers = {
+		 culture = colonial_vandal
+		 religion = arian
+		 size = 0
+	}
+
+}
+
 
 
 
