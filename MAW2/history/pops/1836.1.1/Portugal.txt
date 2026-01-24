@@ -414,31 +414,31 @@
 #Madeira (104000/26000 POPS)
 2135 = {
     aristocrats = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 250
     }
 
     clergymen = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 175
     }
 
     artisans = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 1500
     }
 
     soldiers = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 250
     }
 
     farmers = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 23825
     }
