@@ -700,6 +700,13 @@ indigenous_peoples = {
 
 			last_names = {  }
     }
+	
+	chibchan = {
+	  color = { 222 192 42 }
+        	first_names = { }
+
+			last_names = {  }
+    } 
 }
 	
 #### SPECIFIC CULTURES
