@@ -36393,6 +36393,126 @@
 
 }
 
+2217 = {
+
+
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 12054
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 12
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 8
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 56
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 708
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+}
+
+2220 = {
+
+
+
+	slaves = {
+		culture = afro_roman
+		religion = orthodox
+		size = 2054
+	}
+
+	aristocrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 14
+	}
+
+
+	soldiers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 3
+	}
+
+
+	farmers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 177
+	}
+
+
+	officers = {
+		 culture = colonial_roman
+		 religion = orthodox
+		 size = 0
+	}
+
+}
+
 
 
 
