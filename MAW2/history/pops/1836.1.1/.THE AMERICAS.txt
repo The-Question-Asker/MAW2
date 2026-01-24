@@ -43825,6 +43825,894 @@
 
 }
 
+2443 = {
+
+
+
+	slaves = {
+		culture = afro_new_african
+		religion = arian
+		size = 5054
+	}
+
+	slaves = {
+		culture = tupi
+		religion = arian
+		size = 22054
+	}
+
+	officers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 32
+	}
+
+	soldiers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 48
+	}
+
+	artisans = {
+		culture = colonial_new_african
+		religion = arian
+		size = 675
+	}
+
+	clergymen = {
+		culture = colonial_new_african
+		religion = arian
+		size = 16
+	}
+
+	bureaucrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 8
+	}
+
+	aristocrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 24
+	}
+
+	aristocrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 48
+	}
+
+
+	bureaucrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 3
+	}
+
+
+	clergymen = {
+		 culture = tupi
+		 religion = arian
+		 size = 32
+	}
+
+
+	artisans = {
+		 culture = tupi
+		 religion = arian
+		 size = 224
+	}
+
+
+	soldiers = {
+		 culture = tupi
+		 religion = arian
+		 size = 57
+	}
+
+
+	farmers = {
+		 culture = tupi
+		 religion = arian
+		 size = 2832
+	}
+
+
+	officers = {
+		 culture = tupi
+		 religion = arian
+		 size = 3
+	}
+
+}
+
+2440 = {
+
+
+
+	slaves = {
+		culture = tupi
+		religion = arian
+		size = 3054
+	}
+
+	officers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 0
+	}
+
+	soldiers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 0
+	}
+
+	artisans = {
+		culture = colonial_new_african
+		religion = arian
+		size = 8
+	}
+
+	clergymen = {
+		culture = colonial_new_african
+		religion = arian
+		size = 0
+	}
+
+	bureaucrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = tupi
+		 religion = arian
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = tupi
+		 religion = arian
+		 size = 14
+	}
+
+
+	soldiers = {
+		 culture = tupi
+		 religion = arian
+		 size = 3
+	}
+
+
+	farmers = {
+		 culture = tupi
+		 religion = arian
+		 size = 177
+	}
+
+
+	officers = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+}
+
+2426 = {
+
+
+
+	slaves = {
+		culture = tupi
+		religion = arian
+		size = 13054
+	}
+
+	officers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 8
+	}
+
+	soldiers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 12
+	}
+
+	artisans = {
+		culture = colonial_new_african
+		religion = arian
+		size = 176
+	}
+
+	clergymen = {
+		culture = colonial_new_african
+		religion = arian
+		size = 4
+	}
+
+	bureaucrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 2
+	}
+
+	aristocrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 6
+	}
+
+	aristocrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 15
+	}
+
+
+	bureaucrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = tupi
+		 religion = arian
+		 size = 10
+	}
+
+
+	artisans = {
+		 culture = tupi
+		 religion = arian
+		 size = 70
+	}
+
+
+	soldiers = {
+		 culture = tupi
+		 religion = arian
+		 size = 18
+	}
+
+
+	farmers = {
+		 culture = tupi
+		 religion = arian
+		 size = 885
+	}
+
+
+	officers = {
+		 culture = tupi
+		 religion = arian
+		 size = 1
+	}
+
+}
+
+2449 = {
+
+
+
+	slaves = {
+		culture = afro_new_african
+		religion = arian
+		size = 2154
+	}
+
+	slaves = {
+		culture = tupi
+		religion = arian
+		size = 23054
+	}
+
+	officers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 288
+	}
+
+	soldiers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 432
+	}
+
+	artisans = {
+		culture = colonial_new_african
+		religion = arian
+		size = 6056
+	}
+
+	clergymen = {
+		culture = colonial_new_african
+		religion = arian
+		size = 144
+	}
+
+	bureaucrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 72
+	}
+
+	aristocrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 216
+	}
+
+	aristocrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 19
+	}
+
+
+	bureaucrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 1
+	}
+
+
+	clergymen = {
+		 culture = tupi
+		 religion = arian
+		 size = 13
+	}
+
+
+	artisans = {
+		 culture = tupi
+		 religion = arian
+		 size = 91
+	}
+
+
+	soldiers = {
+		 culture = tupi
+		 religion = arian
+		 size = 23
+	}
+
+
+	farmers = {
+		 culture = tupi
+		 religion = arian
+		 size = 1150
+	}
+
+
+	officers = {
+		 culture = tupi
+		 religion = arian
+		 size = 1
+	}
+
+}
+
+2448 = {
+
+
+
+	slaves = {
+		culture = afro_new_african
+		religion = arian
+		size = 154
+	}
+
+	slaves = {
+		culture = tupi
+		religion = arian
+		size = 9054
+	}
+
+	officers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 8
+	}
+
+	soldiers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 12
+	}
+
+	artisans = {
+		culture = colonial_new_african
+		religion = arian
+		size = 176
+	}
+
+	clergymen = {
+		culture = colonial_new_african
+		religion = arian
+		size = 4
+	}
+
+	bureaucrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 2
+	}
+
+	aristocrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 6
+	}
+
+	aristocrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 10
+	}
+
+
+	bureaucrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = tupi
+		 religion = arian
+		 size = 7
+	}
+
+
+	artisans = {
+		 culture = tupi
+		 religion = arian
+		 size = 49
+	}
+
+
+	soldiers = {
+		 culture = tupi
+		 religion = arian
+		 size = 12
+	}
+
+
+	farmers = {
+		 culture = tupi
+		 religion = arian
+		 size = 619
+	}
+
+
+	officers = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+}
+
+2447 = {
+
+
+
+	slaves = {
+		culture = afro_new_african
+		religion = arian
+		size = 1154
+	}
+
+	slaves = {
+		culture = tupi
+		religion = arian
+		size = 25054
+	}
+
+	officers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 88
+	}
+
+	soldiers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 132
+	}
+
+	artisans = {
+		culture = colonial_new_african
+		religion = arian
+		size = 1856
+	}
+
+	clergymen = {
+		culture = colonial_new_african
+		religion = arian
+		size = 44
+	}
+
+	bureaucrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 22
+	}
+
+	aristocrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 66
+	}
+
+	aristocrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 40
+	}
+
+
+	bureaucrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 2
+	}
+
+
+	clergymen = {
+		 culture = tupi
+		 religion = arian
+		 size = 27
+	}
+
+
+	artisans = {
+		 culture = tupi
+		 religion = arian
+		 size = 189
+	}
+
+
+	soldiers = {
+		 culture = tupi
+		 religion = arian
+		 size = 48
+	}
+
+
+	farmers = {
+		 culture = tupi
+		 religion = arian
+		 size = 2389
+	}
+
+
+	officers = {
+		 culture = tupi
+		 religion = arian
+		 size = 2
+	}
+
+}
+
+2450 = {
+
+
+
+	slaves = {
+		culture = tupi
+		religion = arian
+		size = 5054
+	}
+
+	officers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 4
+	}
+
+	soldiers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 6
+	}
+
+	artisans = {
+		culture = colonial_new_african
+		religion = arian
+		size = 92
+	}
+
+	clergymen = {
+		culture = colonial_new_african
+		religion = arian
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 1
+	}
+
+	aristocrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 3
+	}
+
+	aristocrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 10
+	}
+
+
+	bureaucrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = tupi
+		 religion = arian
+		 size = 7
+	}
+
+
+	artisans = {
+		 culture = tupi
+		 religion = arian
+		 size = 49
+	}
+
+
+	soldiers = {
+		 culture = tupi
+		 religion = arian
+		 size = 12
+	}
+
+
+	farmers = {
+		 culture = tupi
+		 religion = arian
+		 size = 619
+	}
+
+
+	officers = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+}
+
+2446 = {
+
+
+
+	slaves = {
+		culture = tupi
+		religion = arian
+		size = 4554
+	}
+
+	officers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 2
+	}
+
+	soldiers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 4
+	}
+
+	artisans = {
+		culture = colonial_new_african
+		religion = arian
+		size = 58
+	}
+
+	clergymen = {
+		culture = colonial_new_african
+		religion = arian
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 0
+	}
+
+	aristocrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 2
+	}
+
+	aristocrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 6
+	}
+
+
+	bureaucrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = tupi
+		 religion = arian
+		 size = 4
+	}
+
+
+	artisans = {
+		 culture = tupi
+		 religion = arian
+		 size = 28
+	}
+
+
+	soldiers = {
+		 culture = tupi
+		 religion = arian
+		 size = 7
+	}
+
+
+	farmers = {
+		 culture = tupi
+		 religion = arian
+		 size = 354
+	}
+
+
+	officers = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+}
+
+2441 = {
+
+
+
+	slaves = {
+		culture = tupi
+		religion = arian
+		size = 3554
+	}
+
+	officers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 4
+	}
+
+	soldiers = {
+		culture = colonial_new_african
+		religion = arian
+		size = 6
+	}
+
+	artisans = {
+		culture = colonial_new_african
+		religion = arian
+		size = 84
+	}
+
+	clergymen = {
+		culture = colonial_new_african
+		religion = arian
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 1
+	}
+
+	aristocrats = {
+		culture = colonial_new_african
+		religion = arian
+		size = 3
+	}
+
+	aristocrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 3
+	}
+
+
+	bureaucrats = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+
+	clergymen = {
+		 culture = tupi
+		 religion = arian
+		 size = 2
+	}
+
+
+	artisans = {
+		 culture = tupi
+		 religion = arian
+		 size = 14
+	}
+
+
+	soldiers = {
+		 culture = tupi
+		 religion = arian
+		 size = 3
+	}
+
+
+	farmers = {
+		 culture = tupi
+		 religion = arian
+		 size = 177
+	}
+
+
+	officers = {
+		 culture = tupi
+		 religion = arian
+		 size = 0
+	}
+
+}
+
 
 
 

@@ -1,5 +1,6 @@
 owner = TBJ
 controller = TBJ
 add_core = TBJ
+terrain = steppe
 trade_goods = cattle
 life_rating = 35
