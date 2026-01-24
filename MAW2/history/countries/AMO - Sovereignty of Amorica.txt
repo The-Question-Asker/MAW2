@@ -1,5 +1,5 @@
 capital = 45
-primary_culture = frankish 
+primary_culture = amorican_frank 
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0
