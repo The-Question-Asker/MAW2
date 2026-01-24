@@ -2103,43 +2103,43 @@
 #Canary Islands (208000/52000 POPS)
 2136 = {
     aristocrats = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 825
     }
 
     officers = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 50
     }
 
     bureaucrats = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 75
     }
 
     clergymen = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 525
     }
 
     artisans = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 3000
     }
 
     soldiers = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 500
     }
 
     farmers = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 47025
     }

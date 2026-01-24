@@ -3,19 +3,19 @@
 #Cape Verde (76000/19000 POPS)
 1876 = {
     aristocrats = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 100
     }
 
     officers = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 100
     }
 
     clergymen = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 100
     }
@@ -27,43 +27,43 @@
     }
 
     soldiers = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 100
     }
 
     farmers = {
-        culture = hispanic
+        culture = african
         religion = arian
         size = 100
     }
 
     clergymen = {
-        culture = kreol
+        culture = african
         religion = arian
         size = 150
     }
 
     artisans = {
-        culture = kreol
+        culture = african
         religion = arian
         size = 700
     }
 
     soldiers = {
-        culture = kreol
+        culture = african
         religion = arian
         size = 150
     }
 
     farmers = {
-        culture = kreol
+        culture = african
         religion = arian
         size = 13500
     }
 
     slaves = {
-        culture = kreol
+        culture = wolof
         religion = arian
         size = 4000
     }
