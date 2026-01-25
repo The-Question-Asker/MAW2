@@ -1735,6 +1735,401 @@ take_from_sphere = {
     }
 }
 
+
+free_peoples_imperial = {
+    sprite_index = 19
+    is_triggered_only = yes
+	months = 24
+    #constructing_cb = no
+    crisis = no
+
+    badboy_factor = 0
+    prestige_factor = 1
+    peace_cost_factor = 1
+    penalty_factor = 0
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 1
+    break_truce_militancy_factor = 1
+    truce_months = 48
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    can_use = {
+        OR = {
+            NOT = { has_country_modifier = war_focus }
+            THIS = {
+                NOT = {
+                    has_country_flag = exclusive_acquire_all_cores_CB
+                    has_country_flag = exclusive_humiliate_CB
+                    has_country_flag = exclusive_liberate_country_CB
+                    has_country_flag = exclusive_make_puppet_CB
+                }
+            }
+        }
+        OR = {
+            AND = {
+                THIS = { total_amount_of_ships = 5 }
+                any_owned_province = { port = yes }
+            }
+            neighbour = THIS
+            war_with = THIS
+            any_neighbor_country = { OR = { vassal_of = THIS substate_of = THIS in_sphere = THIS } }
+        }
+        NOT = { is_our_vassal = THIS }
+        is_vassal = no
+        number_of_states = 2
+        OR = {
+            war_with = THIS
+            THIS = {
+                NOT = { has_country_modifier = neutrality_modifier }
+                military_score = 1
+            }
+        }
+        NOT = { has_country_modifier = neutrality_modifier }
+        OR = {
+            war_with = THIS
+            THIS = { NOT = { has_country_modifier = no_more_war } }
+            FROM = { involved_in_crisis = yes }
+        }
+        OR = {
+            THIS = { government = fascist_dictatorship }
+            THIS = { government = proletarian_dictatorship }
+            THIS = { civilized = no }
+            war_with = THIS
+            NOT = { relation = { who = THIS value = 0 } }
+            FROM = { involved_in_crisis = yes }
+            THIS = { ai = no }
+        }
+        OR = {
+            NOT = { has_country_flag = dismantle_declared }
+            THIS = { NOT = { has_country_flag = in_great_war } }
+            FROM = { involved_in_crisis = yes }
+            THIS = { ai = no }
+        }
+		THIS = {
+			has_country_flag = frankish_emperor
+		}
+		
+    }
+
+    # THIS - us
+    # FROM - country scope is possible match?
+    # war target country of goal is scope
+    allowed_countries = {
+		OR = {
+			has_country_flag = occupying_imperial_land
+			AND = {
+				any_owned_province = {
+					is_core = FROM
+					FROM = {
+						has_country_flag = frankish_subject
+					}
+				}
+			}
+		}
+		
+		FROM = {
+			has_country_flag = frankish_subject
+		}
+	
+        FROM = {
+            OR = {
+                NOT = { has_country_flag = unreleasable_country }
+                exists = yes
+            }
+        }
+        NOT = {
+            FROM = { war_with = THIS }
+            FROM = { is_substate = yes }
+        }
+        NOT = {
+            tag = FROM
+            FROM = { tag = THIS }
+            FROM = { tag = MTC }
+            FROM = { tag = ETH }
+            this_culture_union = FROM
+            AND = {
+                FROM = { tag = ETH }
+                ETH = { exists = no }
+            }
+            AND = {
+                FROM = { tag = BOL }
+                exists = PBC
+            }
+        }
+        FROM = {
+            OR = {
+                exists = yes
+                is_cultural_union = no
+                involved_in_crisis = yes
+            }
+        }
+        OR = {
+            FROM = { civilized = yes }
+            THIS = { civilized = no }
+            FROM = { involved_in_crisis = yes }
+            THIS = { ai = no }
+        }
+        OR = {
+            THIS = { ai = no }
+            FROM = { NOT = { any_core = { owned_by = THIS } } }
+            FROM = { involved_in_crisis = yes }
+        }
+        OR = {
+            FROM = { exists = no }
+            FROM = { alliance_with = THIS }
+            FROM = { in_sphere = THIS }
+            FROM = { relation = { who = THIS value = 100 } }
+            FROM = { involved_in_crisis = yes }
+            AND = {
+                tag = EGY
+                THIS = { has_country_flag = oriental_crisis_support_OE }
+                FROM = { tag = TUR }
+            }
+            THIS = { ai = no }
+        }
+        any_owned_province = {
+            is_core = FROM
+            NOT = { is_core = THIS }
+        }
+        OR = {
+            THIS = { ai = no }
+            FROM = { exists = yes }
+            FROM = { involved_in_crisis = yes }
+            FROM = {
+                exists = no
+                NOT = {
+                    tag = CAT
+                    tag = BSQ
+                    tag = UKR
+                    tag = KDS
+                    tag = IRQ
+                    tag = GEO
+                }
+            }
+            AND = {
+                owns = 498
+                FROM = { tag = CAT }
+            }
+            AND = {
+                owns = 492
+                FROM = { tag = BSQ }
+            }
+            AND = {
+                owns = 958
+                FROM = { tag = UKR }
+            }
+            AND = {
+                owns = 893
+                FROM = { tag = KDS }
+            }
+            AND = {
+                owns = 926
+                FROM = { tag = IRQ }
+            }
+            AND = {
+                owns = 1095
+                FROM = { tag = GEO }
+            }
+        }
+    }
+
+    # THIS - us
+    # FROM - country scope is possible match?
+    # war target country of goal's state
+    allowed_states = {
+        OR = {
+            AND = {
+                THIS = { ai = no }
+                any_owned_province = { is_core = FROM }
+            }
+            AND = {
+                FROM = { exists = yes }
+                any_owned_province = { is_core = FROM }
+            }
+            AND = {
+                FROM = { involved_in_crisis = yes }
+                any_owned_province = { is_core = FROM }
+            }
+            AND = {
+                FROM = { exists = no }
+                THIS = { civilized = no }
+                any_owned_province = {
+                    is_core = FROM
+                    OR = {
+                        any_neighbor_province = { owned_by = THIS }
+                        controlled_by = THIS
+                    }
+                }
+            }
+            AND = {
+                FROM = { exists = no }
+                THIS = { civilized = yes }
+                FROM = { NOT = { is_culture_group = THIS } }
+                any_owned_province = {
+                    is_core = FROM
+                    OR = {
+                        any_neighbor_province = { owned_by = THIS }
+                        any_neighbor_province = {
+                            owner = {
+                                OR = {
+                                    in_sphere = THIS
+                                    alliance_with = THIS
+                                }
+                            }
+                        }
+                        controlled_by = THIS
+                    }
+                }
+            }
+            AND = {
+                FROM = { exists = no }
+                THIS = { civilized = yes }
+                THIS = { capital_scope = { continent = europe } }
+                any_owned_province = {
+                    continent = europe
+                    is_core = FROM
+                }
+            }
+            AND = {
+                FROM = { exists = no }
+                THIS = { civilized = yes }
+                THIS = { capital_scope = { continent = north_america } }
+                any_owned_province = {
+                    OR = {
+                        continent = north_america
+                        continent = south_america
+                    }
+                    is_core = FROM
+                }
+            }
+            AND = {
+                FROM = { exists = no }
+                THIS = { civilized = yes }
+                THIS = { capital_scope = { continent = south_america } }
+                any_owned_province = {
+                    OR = {
+                        continent = north_america
+                        continent = south_america
+                    }
+                    is_core = FROM
+                }
+            }
+            AND = {
+                FROM = { exists = no }
+                THIS = { civilized = yes }
+                THIS = { capital_scope = { continent = asia } }
+                any_owned_province = {
+                    continent = asia
+                    is_core = FROM
+                }
+            }
+            AND = {
+                FROM = { exists = no }
+                THIS = { civilized = yes }
+                FROM = { is_culture_group = THIS }
+                any_owned_province = { is_core = FROM }
+            }
+        }
+        OR = {
+            THIS = { ai = no }
+            FROM = { exists = yes }
+            FROM = { involved_in_crisis = yes }
+            FROM = {
+                exists = no
+                NOT = {
+                    tag = POL
+                    tag = HUN
+                    tag = BOH
+                    tag = ALB
+                    tag = LIT
+                    tag = BOS
+                    tag = CRO
+                    tag = BUL
+                    tag = SIE
+                    tag = LUX
+                }
+            }
+            AND = {
+                any_owned_province = {
+                    OR = {
+                        region = PRU_701
+                        region = RUS_706
+                        region = RUS_715
+                        region = AUS_702
+                    }
+                }
+                FROM = { tag = POL }
+            }
+            AND = {
+                any_owned_province = {
+                    OR = {
+                        region = AUS_641
+                        region = AUS_623
+                    }
+                }
+                FROM = { tag = HUN }
+            }
+            AND = {
+                any_owned_province = { region = AUS_771 }
+                FROM = { tag = CRO }
+            }
+            AND = {
+                any_owned_province = { region = TUR_810 }
+                FROM = { tag = BUL }
+            }
+            AND = {
+                any_owned_province = { region = AUS_625 }
+                FROM = { tag = BOH }
+            }
+            AND = {
+                any_owned_province = { region = TUR_853 }
+                FROM = { tag = ALB }
+            }
+            AND = {
+                any_owned_province = { region = TUR_788 }
+                FROM = { tag = BOS }
+            }
+            AND = {
+                any_owned_province = { region = RUS_360 }
+                FROM = { tag = LIT }
+            }
+            AND = {
+                any_owned_province = { region = AUS_657 }
+                FROM = { tag = SIE }
+            }
+            AND = {
+                any_owned_province = { province_id = 397 }
+                FROM = { tag = LUX }
+            }
+        }
+    }
+
+    po_transfer_provinces = yes
+
+    war_name = WAR_FREE_NAME
+
+    on_add = {
+        random_owned = {
+            limit = { owner = { ai = no } }
+            owner = { add_country_modifier = { name = disable_conquest_cb duration = -1 } }
+        }
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.25
+        }
+    }
+
+    on_po_accepted = {
+        THIS = { remove_country_modifier = disable_conquest_cb }
+        country_event =    2651    # Territorial Loss event
+    }
+}
+
 #Free Peoples CB's
 free_peoples = {
     sprite_index = 9
