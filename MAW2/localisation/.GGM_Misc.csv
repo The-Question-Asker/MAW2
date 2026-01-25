@@ -104,11 +104,11 @@ NORMAL_WAR_FREE_IMPERIAL_NAME;$ORDER$$FIRST$ Imperial Intervention for $COUNTRY_
 NORMAL_WAR_FREE_IMPERIAL_NAME_FRK_WTL;$FIRST$ Powhatan War;;;;;;;;;;;;;
 AGRESSION_WAR_LIBERATE_IMPERIAL_NAME;$ORDER$$FIRST$ Imperial Intervention in $STATE$;;;;;;;;;;;;;
 AGRESSION_WAR_FREE_IMPERIAL_NAME;$ORDER$$FIRST$ Imperial Intervention for $STATE$;;;;;;;;;;;;;
-free_peoples_imperial;Imperial Intervention;;;;;;;;;;;;;
-free_peoples_imperial_short;$THIRD$ acquires $STATE$;;;;;;;;;;;;;
-free_peoples_imperial_setup;Return $STATE$ to the empire and to $THIRD$ from $RECIPIENT$;;;;;;;;;;;;;
+free_peoples_imperial;Imperial Intervention;;;;;;;;x;;;;
+free_peoples_imperial_short;$THIRD$ acquires $STATE$;;;;;;;;x;;;;
+free_peoples_imperial_setup;Return $STATE$ to the empire and to $THIRD$ from $RECIPIENT$;;;;;;;;x;;;;
 free_peoples_imperial_desc;Liberate a §territory§W and restore the imperial borders.;;;;;;;;;;;;;
-liberate_country_imperial;Imperial Restoration;
+liberate_country_imperial;Imperial Restoration;;;;;;;;x;;;;
 liberate_country_imperial_desc;Liberate an §Yentire state§W and restore the imperial borders.;;;;;;;;;;;;;
 liberate_country_imperial_short;$THIRD$ acquires $STATE$;;;;;;;;;;;;;
 liberate_country_setup;Return $STATE$ to the empire and to $THIRD$ from $RECIPIENT$;;;;;;;;;;;;;
