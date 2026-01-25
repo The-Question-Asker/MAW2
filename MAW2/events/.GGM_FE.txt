@@ -29,8 +29,8 @@ country_event = {
 				
 				}
 				NOT = {
-					has_country_flag = frankish_subject
-					
+					#has_country_flag = frankish_subject
+					has_country_flag = frankish_emperor
 				}
 			
 			}
