@@ -1,0 +1,16 @@
+1801.3.12 = {
+    add_attacker = FRK
+    add_defender = WTL
+
+    war_goal = {
+        casus_belli = free_peoples_imperial
+        actor = FRK
+        receiver = WTL
+    }
+
+}
+
+1807.5.1 = {
+    rem_attacker = FRK
+    rem_defender = WTL
+}

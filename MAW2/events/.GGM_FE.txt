@@ -42,31 +42,9 @@ country_event = {
 				months = 24
 			}
 		}
-		any_country = {
-			has_country_flag = frankish_emperor
-			country_event = {
-				id = 49993
-				days = 15
-			
-			}
-		}
 	}
 
 
 }
 
-country_event = {
-	id = 49993
-	title = "EVTNAME49993" 
-	desc = "EVTDESC49993"
-	#picture = "confedlot"
-	
-	is_triggered_only = yes
-	
-	option = {
-		name = "Understood"
-	
-	}
 
-
-}
