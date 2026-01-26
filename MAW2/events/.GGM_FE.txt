@@ -47,4 +47,36 @@ country_event = {
 
 }
 
+country_event = {
+	id = 49993
+	title = "EVTNAME49993" 
+	desc = "EVTDESC49993"
+	#picture = "confedlot"
+	
+	is_triggered_only
+	
+	option = {
+		name = "placeholder"
+		clr_country_flag = cont_imp_amb
+	}
+
+
+}
+
+country_event = {
+	id = 49992
+	title = "EVTNAME49992" 
+	desc = "EVTDESC49992"
+	#picture = "confedlot"
+	
+	is_triggered_only
+	
+	option = {
+		name = "placeholder"
+		clr_country_flag = addressing_diet
+	}
+
+
+}
+
 
