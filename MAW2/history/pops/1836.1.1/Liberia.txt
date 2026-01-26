@@ -3,44 +3,20 @@
 #Monrovia (252000/63000 POPS)
 1887 = {
     aristocrats = {
-        culture = afro_american
-        religion = protestant
-        size = 500
-    }
-
-    officers = {
-        culture = afro_american
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = protestant
-        size = 1010
+        culture = aegyptian
+        religion = orthodox
+        size = 20
     }
 
     artisans = {
-        culture = afro_american
-        religion = protestant
+        culture = aegyptian
+        religion = orthodox
         size = 300
-    }
-
-    soldiers = {
-        culture = afro_american
-        religion = protestant
-        size = 1100
     }
 
     farmers = {
         culture = kru
-        religion = protestant
+        religion = orthodox
         size = 2775
     }
 
@@ -137,20 +113,20 @@
 #Harper (204000/51000 POPS)
 1888 = {
     aristocrats = {
-        culture = afro_american
-        religion = protestant
+        culture = aegyptian
+        religion = orthodox
         size = 750
     }
 
     clergymen = {
-        culture = afro_american
-        religion = protestant
+        culture = aegyptian
+        religion = orthodox
         size = 375
     }
 
     artisans = {
         culture = kru
-        religion = protestant
+        religion = orthodox
         size = 1900
     }
 
@@ -168,7 +144,7 @@
 
     aristocrats = {
         culture = western_nigritic
-        religion = protestant
+        religion = orthodox
         size = 250
     }
 
@@ -330,13 +306,13 @@
     }
 
     clergymen = {
-        culture = afro_american
+        culture = aegyptian
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = afro_american
+        culture = aegyptian
         religion = animist
         size = 1150
     }
@@ -354,25 +330,25 @@
     }
 
     aristocrats = {
-        culture = afro_american
+        culture = aegyptian
         religion = animist
         size = 350
     }
 
     clergymen = {
-        culture = afro_american
+        culture = aegyptian
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = afro_american
+        culture = aegyptian
         religion = animist
         size = 950
     }
 
     soldiers = {
-        culture = afro_american
+        culture = aegyptian
         religion = animist
         size = 200
     }

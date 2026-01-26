@@ -4,67 +4,67 @@
 658 = {
     aristocrats = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     bureaucrats = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     officers = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 525
     }
 
     soldiers = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 587
     }
 
     farmers = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 9412
     }
 
     clergymen = {
         culture = polynesian
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = polynesian
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = polynesian
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = polynesian
-        religion = catholic
+        religion = animist
         size = 1000
     }
 
@@ -92,29 +92,6 @@
         size = 11312
     }
 
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
 }
 #uncolonized in 1836
 #Midway + Wake (60/15 POPS)
@@ -552,41 +529,41 @@
         size = 1350
     }
 }
-#Pitcairn Islands (160/40 POPS) #british trade post - proclaimed colony 1838
+#Pitcairn Islands (160/40 POPS) #polynesian trade post - proclaimed colony 1838
 2552 = {
     aristocrats = {
-        culture = british
-        religion = protestant
+        culture = polynesian
+        religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = british
-        religion = protestant
+        culture = polynesian
+        religion = animist
         size = 2
     }
 
     artisans = {
-        culture = british
-        religion = protestant
+        culture = polynesian
+        religion = animist
         size = 2
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = polynesian
+        religion = animist
         size = 2
     }
 
     farmers = {
-        culture = british
-        religion = protestant
+        culture = polynesian
+        religion = animist
         size = 10
     }
 
     farmers = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 10
     }
 }

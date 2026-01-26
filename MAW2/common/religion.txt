@@ -89,6 +89,11 @@ pagan = {
         color = { 0.0 0.0 0.0 } #0.5 0.0 0.0 
         pagan = yes
     }
+	
+    huacan = { 
+        icon = 1
+        color = { 1.0 1.0 0.0  }
+    }
 }
 
 #Vanilla

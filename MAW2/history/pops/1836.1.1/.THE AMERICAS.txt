@@ -39796,43 +39796,43 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3655
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 74
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 289
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 41
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 61
 	}
 
@@ -39856,37 +39856,37 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 442
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 35
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 5
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
@@ -40017,43 +40017,43 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2770
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 56
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 219
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 31
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 46
 	}
 
@@ -40077,43 +40077,43 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 885
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 18
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 70
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 10
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 15
 	}
 
@@ -40238,43 +40238,43 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1885
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 38
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 149
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 21
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 31
 	}
 
@@ -40399,19 +40399,19 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 5
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4540
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 92
 	}
 
@@ -40423,19 +40423,19 @@
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 51
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 5
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 76
 	}
 
@@ -40560,43 +40560,43 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1885
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 38
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 149
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 21
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 31
 	}
 
@@ -40620,43 +40620,43 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 12
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 10620
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 215
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 840
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 120
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 12
 	}
 
 	aristocrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 180
 	}
 
@@ -40781,43 +40781,43 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3655
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 74
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 289
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 41
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 61
 	}
 
@@ -40841,43 +40841,43 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 5310
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 107
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 420
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 60
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	aristocrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 90
 	}
 
@@ -41002,43 +41002,43 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1000
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 20
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 79
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 11
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 16
 	}
 
@@ -41062,43 +41062,43 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 2655
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 53
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 210
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 30
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	aristocrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 45
 	}
 
@@ -41223,43 +41223,43 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 7
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 6310
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 128
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 499
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 71
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 7
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 106
 	}
 
@@ -41283,43 +41283,43 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 5310
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 107
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 420
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 60
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	aristocrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 90
 	}
 
@@ -41444,43 +41444,43 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3655
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 74
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 289
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 41
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 61
 	}
 
@@ -41504,43 +41504,43 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 177
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 14
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
@@ -41665,91 +41665,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4000
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 81
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 316
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 45
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 4
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 67
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 54
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 3
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 36
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 253
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 65
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 3203
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 3
 	}
 
@@ -41761,91 +41761,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 460
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 36
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 5
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 7
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 144
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 9
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 96
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 673
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 173
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 8513
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 9
 	}
 
@@ -41857,91 +41857,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2230
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 45
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 176
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 37
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 234
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 15
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 156
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 1093
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 281
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 13823
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 15
 	}
 
@@ -41953,91 +41953,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2230
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 45
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 176
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 37
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 384
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 25
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 256
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 1793
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 3161
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 22673
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 25
 	}
 
@@ -42049,91 +42049,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 548
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 11
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 43
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 324
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 21
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 216
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 1513
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 389
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 19133
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 21
 	}
 
@@ -42145,91 +42145,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1433
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 29
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 113
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 16
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 24
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 459
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 30
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 306
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 2143
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 3551
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 27098
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 30
 	}
 
@@ -42241,91 +42241,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3203
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 65
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 253
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 36
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 54
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 774
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 51
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 516
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 3613
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 6929
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 42683
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 51
 	}
 
@@ -42337,91 +42337,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 548
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 11
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 43
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 159
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 10
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 106
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 743
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 191
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 9398
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 10
 	}
 
@@ -42433,91 +42433,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 548
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 11
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 43
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 114
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 7
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 76
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 533
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 137
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 6743
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 7
 	}
 
@@ -42529,91 +42529,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 548
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 11
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 43
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 264
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 17
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 176
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 1233
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 317
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 15593
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 17
 	}
 
@@ -42625,133 +42625,133 @@
 
 	officers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 5
 	}
 
 	farmers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 4973
 	}
 
 	soldiers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 101
 	}
 
 	artisans = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 393
 	}
 
 	clergymen = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 56
 	}
 
 	bureaucrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 5
 	}
 
 	aristocrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 84
 	}
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1433
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 29
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 113
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 16
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 24
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 399
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 26
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 266
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 1863
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 3479
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 23558
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 26
 	}
 
@@ -42763,133 +42763,133 @@
 
 	officers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 22
 	}
 
 	farmers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 20018
 	}
 
 	soldiers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 407
 	}
 
 	artisans = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 1583
 	}
 
 	clergymen = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 226
 	}
 
 	bureaucrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 22
 	}
 
 	aristocrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 339
 	}
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1433
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 29
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 113
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 16
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 24
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 99
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 6
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 66
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 463
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 119
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 5858
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 6
 	}
 
@@ -42901,133 +42901,133 @@
 
 	officers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	farmers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 8513
 	}
 
 	soldiers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 173
 	}
 
 	artisans = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 673
 	}
 
 	clergymen = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 96
 	}
 
 	bureaucrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	aristocrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 144
 	}
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 548
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 11
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 43
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 249
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 16
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 166
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 1163
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 299
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 14708
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 16
 	}
 
@@ -43039,217 +43039,217 @@
 
 	officers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 1079
 	}
 
 	soldiers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 21
 	}
 
 	artisans = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 85
 	}
 
 	clergymen = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 12
 	}
 
 	bureaucrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 18
 	}
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 902
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 18
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 71
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 10
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 15
 	}
 
 	officers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 814
 	}
 
 	soldiers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 16
 	}
 
 	artisans = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 64
 	}
 
 	clergymen = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
 	bureaucrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 13
 	}
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 902
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 18
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 71
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 10
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 15
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 1
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 0
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 1
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 8
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 2
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 106
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 0
 	}
 
@@ -43261,55 +43261,55 @@
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 151
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 10
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 101
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 708
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 182
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 4956
 	}
 	
 	farmers = {
 		 culture = aymara
-		 religion = animist
+		 religion = huacan
 		 size = 6956
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 10
 	}
 
@@ -43321,133 +43321,133 @@
 
 	officers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 1079
 	}
 
 	soldiers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 21
 	}
 
 	artisans = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 85
 	}
 
 	clergymen = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 12
 	}
 
 	bureaucrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 18
 	}
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 699
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 14
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 55
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 7
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 11
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 181
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 12
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 121
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 848
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 218
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 10726
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 12
 	}
 
@@ -43459,133 +43459,133 @@
 
 	officers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 194
 	}
 
 	soldiers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	artisans = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 15
 	}
 
 	clergymen = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	bureaucrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3354
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 68
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 265
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 37
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 56
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 121
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 8
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 81
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 568
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 146
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 7186
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 8
 	}
 
@@ -43597,133 +43597,133 @@
 
 	officers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 194
 	}
 
 	soldiers = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	artisans = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 15
 	}
 
 	clergymen = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	bureaucrats = {
 		culture = aymara
-		religion = animist
-		size = 0
+		religion = huacan
+		size = 1
 	}
 
 	aristocrats = {
 		culture = aymara
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 699
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 14
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 55
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 7
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 11
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 91
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 6
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 61
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 428
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 110
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 5416
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 6
 	}
 
@@ -43735,91 +43735,91 @@
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1584
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 32
 	}
 
 	artisans = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 125
 	}
 
 	clergymen = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 17
 	}
 
 	bureaucrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 26
 	}
 
 	aristocrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 121
 	}
 
 
 	bureaucrats = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 8
 	}
 
 
 	clergymen = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 81
 	}
 
 
 	artisans = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 568
 	}
 
 
 	soldiers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 146
 	}
 
 
 	farmers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 7186
 	}
 
 
 	officers = {
 		 culture = quechua
-		 religion = animist
+		 religion = huacan
 		 size = 8
 	}
 
@@ -49010,43 +49010,43 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 539
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 10
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 42
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 9
 	}
 
@@ -49167,43 +49167,43 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 1424
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 28
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 112
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 16
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 1
 	}
 
 	aristocrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 24
 	}
 
@@ -49324,61 +49324,61 @@
 
 	officers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	farmers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 274
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 5
 	}
 
 	artisans = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 21
 	}
 
 	clergymen = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 3
 	}
 
 	bureaucrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 0
 	}
 
 	aristocrats = {
 		culture = quechua
-		religion = animist
+		religion = huacan
 		size = 4
 	}
 
 	officers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2
 	}
 
 	farmers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 2221
 	}
 
 	soldiers = {
 		culture = andean_minor
-		religion = animist
+		religion = huacan
 		size = 45
 	}
 

@@ -72,8 +72,8 @@
     }
 
     aristocrats = {
-        culture = british
-        religion = protestant
+        culture = malay
+        religion = mahayana
         size = 50
     }
 

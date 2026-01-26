@@ -76,25 +76,25 @@
 
     clergymen = {
         culture = sinhala
-        religion = catholic
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sinhala
-        religion = catholic
+        religion = orthodox
         size = 500
     }
 
     soldiers = {
         culture = sinhala
-        religion = catholic
+        religion = orthodox
         size = 50
     }
 
     labourers = {
         culture = sinhala
-        religion = catholic
+        religion = orthodox
         size = 6400
     }
 
@@ -400,25 +400,25 @@
 
     clergymen = {
         culture = sinhala
-        religion = catholic
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = sinhala
-        religion = catholic
+        religion = orthodox
         size = 500
     }
 
     soldiers = {
         culture = sinhala
-        religion = catholic
+        religion = orthodox
         size = 25
     }
 
     labourers = {
         culture = sinhala
-        religion = catholic
+        religion = orthodox
         size = 1475
     }
 

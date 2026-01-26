@@ -3464,7 +3464,7 @@
 
     farmers = {
         culture = zhuang
-        religion = protestant
+        religion = mahayana
         size = 10000
     }
 
@@ -3518,7 +3518,7 @@
 
     farmers = {
         culture = yue
-        religion = protestant
+        religion = mahayana
         size = 1000
     }
 
@@ -3554,7 +3554,7 @@
 
     farmers = {
         culture = miao
-        religion = protestant
+        religion = mahayana
         size = 1000
     }
 }
@@ -6609,7 +6609,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mahayana
         size = 5000
     }
 
@@ -6675,7 +6675,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mahayana
         size = 2000
     }
 
@@ -6871,7 +6871,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mahayana
         size = 5000
     }
 
@@ -6907,7 +6907,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mahayana
         size = 1000
     }
 }
@@ -6945,7 +6945,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mahayana
         size = 500
     }
 }
@@ -7464,7 +7464,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mahayana
         size = 1000
     }
 
@@ -7512,7 +7512,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mahayana
         size = 1000
     }
 }
@@ -12225,7 +12225,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mahayana
         size = 200
     }
 }
@@ -12263,7 +12263,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mahayana
         size = 500
     }
 
@@ -12299,7 +12299,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mahayana
         size = 100
     }
 }
@@ -12459,7 +12459,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mahayana
         size = 500
     }
 
@@ -12495,7 +12495,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mahayana
         size = 500
     }
 
@@ -12570,7 +12570,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mahayana
         size = 3000
     }
 
