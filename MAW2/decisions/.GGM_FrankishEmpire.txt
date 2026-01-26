@@ -40,7 +40,7 @@ political_decisions = {
 			set_country_flag = addressing_diet
             THIS = {
 				country_event = {
-					id = #####
+					id = 49992
 					days = 30
 				
 				}
@@ -49,7 +49,7 @@ political_decisions = {
         }
     }
 	
-	join_empire = { ## for frankish emperor
+	join_empire = {
 		#picture = force_publique
         potential = {
             ai = no
@@ -58,6 +58,7 @@ political_decisions = {
 				has_country_flag = requested_to_join_empire }
 			OR = {
 				tag = AGD
+				tag = VAS
 				AND = {
 					OR = {
 						primary_culture = frankish
@@ -79,6 +80,7 @@ political_decisions = {
 			}
 			is_secondary_power = no
 			is_greater_power = no
+			war = no
         }
         effect = {
 			set_country_flag = requested_to_join_empire
@@ -90,6 +92,23 @@ political_decisions = {
 				}
 			
 			}
+        }
+    }
+	
+	leave_empire = { 
+		#picture = force_publique
+        potential = {
+            ai = no
+			has_country_flag = frankish_subject
+			is_greater_power = yes
+			
+        }
+        allow = {
+            war_with = FRK
+        }
+        effect = {
+			clr_country_flag = frankish_subject
+			prestige = 20
         }
     }
 	

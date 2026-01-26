@@ -94,17 +94,11 @@ country_event = {
 			set_country_flag = frankish_subject
 		}
 		
-		if = {
-			limit = {
-				FROM = {
-					tag = AGD
-				}
-			}
-			random_country = {
-				limit = {
-					ai = yes
-				}
-				country_event = 49998
+		FROM = {
+			country_event = {
+				id = 49989
+				days = 5
+			
 			}
 		
 		}
@@ -151,8 +145,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "We will be safer in the empire."
-		prestige = -5
+		name = "Salve Caesar Francorum! Vivat Imperium Francorum!"
 	}
 	
 
@@ -165,25 +158,230 @@ country_event = {
 	desc = "EVTDESC49988"
 	#picture = "confedlot"
 	
+	trigger = {
+		ai = yes
+		NOT = { 
+			has_country_flag = frankish_subject 
+			has_country_flag = requested_to_join_empire }
+		OR = {
+			tag = AGD
+			tag = VAS
+			AND = {
+				OR = {
+					primary_culture = frankish
+					primary_culture = narbonne
+					primary_culture = colonial_frankish
+				}
+				NOT = {
+					tag = FRK
+					tag = NRB
+				}
+				
+			}
+		}
+		is_secondary_power = no
+		is_greater_power = no
+		war = no
+	}
+	
+	mean_time_to_happen = {
+		months = 400
+		
+		modifier = {
+			factor = 1.1
+			relation = { 
+				who = FRK 
+				value = -100 
+			}
+		}
+		
+		modifier = {
+			factor = 0.9
+			relation = { 
+				who = FRK 
+				value = 100 
+			}
+		}
+		
+		modifier = {
+			factor = 1.1
+			relation = { 
+				who = FRK 
+				value = -200 
+			}
+		}
+		
+		modifier = {
+			factor = 0.9
+			relation = { 
+				who = FRK 
+				value = 200 
+			}
+		}
+		
+		modifier = {
+			factor = 0.9
+			has_recently_lost_war = yes
+		}
+		
+		modifier = {
+			factor = 0.9
+			has_unclaimed_cores = yes
+		}
+		
+		modifier = {
+			factor = 0.9
+			in_sphere = FRK
+		}
+		
+		modifier = {
+			factor = 0.9
+			is_disarmed = yes
+		}
+		
+		modifier = {
+			factor = 0.9
+			any_neighbor_country = {
+				is_greater_power = yes
+			}
+		}
+		
+		modifier = {
+			factor = 0.9
+			any_neighbor_country = {
+				is_secondary_power = yes
+				relation = { 
+					who = THIS 
+					value = -100 
+				}
+			}
+		}
+		modifier = {
+			factor = 0.9
+			any_neighbor_country = {
+				brigades_compare = 1.2
+			}
+		}
+		
+		modifier = {
+			factor = 1.1
+			any_neighbor_country = {
+				brigades_compare = 0.8
+			}
+		}
+	
+	}
+	
+	option = {
+		name = "AI_ONLY"
+		set_country_flag = requested_to_join_empire
+			FRK = {
+				country_event = {
+					id = 49991
+					days = 5
+				
+				}
+			
+			}
+		
+	}
+
+
+}
+
+country_event = {
+	id = 49987
+	title = "EVTNAME49987" 
+	desc = "EVTDESC49987"
+	#picture = "confedlot"
+	
+	trigger = {
+		ai = yes
+		has_country_flag = frankish_subject
+		is_greater_power = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 100
+		
+	
+		
+		modifier = {
+			factor = 0.9
+			relation = { 
+				who = FRK 
+				value = -100 
+			}
+		}
+		
+
+		
+		modifier = {
+			factor = 1.1
+			has_recently_lost_war = yes
+		}
+		
+		
+		
+		modifier = {
+			factor = 1.1
+			any_neighbor_country = {
+				is_greater_power = yes
+			}
+		}
+		
+		modifier = {
+			factor = 1.1
+			any_neighbor_country = {
+				is_secondary_power = yes
+				relation = { 
+					who = THIS 
+					value = -100 
+				}
+			}
+		}
+		modifier = {
+			factor = 1.1
+			any_neighbor_country = {
+				brigades_compare = 1.2
+			}
+		}
+		
+		modifier = {
+			factor = 0.8
+			any_neighbor_country = {
+				brigades_compare = 0.8
+			}
+		}
+	
+	}
+	
+	option = {
+		name = "AI_ONLY"
+		clr_country_flag = frankish_subject
+		
+	}
+
+
+}
+
+country_event = {
+	id = 49986
+	title = "EVTNAME49986" 
+	desc = "EVTDESC49986"
+	#picture = "confedlot"
+	
 	is_triggered_only = yes
 	
 	option = {
-		name = "PLACEHOLDER"
-		3243 = {
-			secede_province = THIS 
-		}
-		mem30 = {
-			state_scope = {
-				change_region_name = "Angland"
-			}
-		}
-		3243 = {
-			secede_province = --- 
-		}
+		name = "We are better off without them."
+		prestige = -10
 	}
 	
 
 
 }
+
+
 
 
