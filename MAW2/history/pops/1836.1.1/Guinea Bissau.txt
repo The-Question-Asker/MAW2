@@ -1,65 +1,65 @@
 #Casamance Region (108000) #see Senegal.txt and Guinea.txt for balance of region
-#Uncolonized in 1836/Portuguese trade post
+#Uncolonized in 1836/aegyptian trade post
 #Bissau (32000/8000 POPS)
 1877 = {
 
     clergymen = {
-        culture = portuguese
-        religion = catholic
+        culture = aegyptian
+        religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = portuguese
-        religion = catholic
+        culture = aegyptian
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = portuguese
-        religion = catholic
+        culture = aegyptian
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = portuguese
-        religion = catholic
+        culture = aegyptian
+        religion = orthodox
         size = 100
     }
 
     aristocrats = {
         culture = western_nigritic
-        religion = catholic
+        religion = orthodox
         size = 100
     }
 
     officers = {
         culture = western_nigritic
-        religion = catholic
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = western_nigritic
-        religion = catholic
+        religion = orthodox
         size = 100
     }
 
     artisans = {
         culture = western_nigritic
-        religion = catholic
+        religion = orthodox
         size = 375
     }
 
     soldiers = {
         culture = western_nigritic
-        religion = catholic
+        religion = orthodox
         size = 100
     }
 
     farmers = {
         culture = western_nigritic
-        religion = catholic
+        religion = orthodox
         size = 5300
     }
 

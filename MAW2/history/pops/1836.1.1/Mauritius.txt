@@ -3,94 +3,94 @@
 #Mauritius (98000/24500 POPS)
 2125 = {
     bureaucrats = {
-        culture = british
-        religion = protestant
+        culture = hispanic
+        religion = orthodox
         size = 20
     }
 
     clergymen = {
-        culture = british
-        religion = protestant
+        culture = hispanic
+        religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = british
-        religion = protestant
+        culture = hispanic
+        religion = orthodox
         size = 130
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = hispanic
+        religion = orthodox
         size = 25
     }
 
     aristocrats = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 50
     }
 
     bureaucrats = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 30
     }
 
     artisans = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 180
     }
 
     clergymen = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 20
     }
 
     soldiers = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 20
     }
 
     farmers = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = kreol
-        religion = protestant
+        culture = african
+        religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = kreol
-        religion = protestant
+        culture = african
+        religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = kreol
-        religion = protestant
+        culture = african
+        religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = kreol
-        religion = catholic
-        size = 22375
+        culture = african
+        religion = orthodox
+        size = 5375
     }
 }
-#Diego Garcia (700/175 POPS) #remains under British Rule
+#Diego Garcia (700/175 POPS) #remains under hispanic Rule
 2128 = {
     farmers = {
-        culture = kreol
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 175
     }
 

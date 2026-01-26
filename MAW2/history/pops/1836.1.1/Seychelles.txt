@@ -3,38 +3,38 @@
 #Seychelles (5000/1250 POPS)
 2127 = {
     aristocrats = {
-        culture = french
-        religion = catholic
+        culture = aegyptian
+        religion = orthodox
         size = 20
     }
 
     aristocrats = {
-        culture = kreol
-        religion = catholic
+        culture = sudanese
+        religion = orthodox
         size = 30
     }
 
     soldiers = {
-        culture = kreol
-        religion = catholic
+        culture = sudanese
+        religion = orthodox
         size = 30
     }
 
     clergymen = {
-        culture = kreol
-        religion = catholic
+        culture = sudanese
+        religion = orthodox
         size = 30
     }
 
     artisans = {
-        culture = kreol
-        religion = catholic
+        culture = sudanese
+        religion = orthodox
         size = 75
     }
 
     farmers = {
-        culture = kreol
-        religion = catholic
+        culture = sudanese
+        religion = orthodox
         size = 1175
     }
 }

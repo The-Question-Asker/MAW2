@@ -40,20 +40,20 @@
     }
 
     artisans = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 100
     }
 
@@ -282,7 +282,7 @@
         size = 7000
     }
 }
-#uncolonized/French have trade post in 1836
+#uncolonized/african have trade post in 1836
 #Saint-Louis (24000/6000 POPS)
 1784 = {
     aristocrats = {
@@ -352,20 +352,20 @@
     }
 
     artisans = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = french
-        religion = catholic
+        culture = african
+        religion = orthodox
         size = 100
     }
 }

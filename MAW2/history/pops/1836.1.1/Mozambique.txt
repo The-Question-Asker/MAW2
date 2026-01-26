@@ -295,35 +295,6 @@
 #Ruled (loosely) by Portugal in 1836)
 #Sena (176000/43000 POPS)
 2053 = {
-    aristocrats = {
-        culture = portuguese
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = portuguese
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = portuguese
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = portuguese
-        religion = catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = portuguese
-        religion = catholic
-        size = 1000
-    }
 
     aristocrats = {
         culture = shona
@@ -423,35 +394,6 @@
 }
 #Quelimane (84000/21000 POPS)
 2059 = {
-    aristocrats = {
-        culture = portuguese
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = portuguese
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = portuguese
-        religion = catholic
-        size = 125
-    }
-
-    soldiers = {
-        culture = portuguese
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = portuguese
-        religion = catholic
-        size = 200
-    }
 
     aristocrats = {
         culture = sena
@@ -955,35 +897,6 @@
 #Ruled by Portugal 1836
 #Mocambique (88000/22000 POPS)
 2060 = {
-    aristocrats = {
-        culture = portuguese
-        religion = catholic
-        size = 275
-    }
-
-    clergymen = {
-        culture = portuguese
-        religion = catholic
-        size = 50
-    }
-
-    bureaucrats = {
-        culture = portuguese
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = portuguese
-        religion = catholic
-        size = 600
-    }
-
-    soldiers = {
-        culture = portuguese
-        religion = catholic
-        size = 50
-    }
 
     aristocrats = {
         culture = makua
