@@ -1,7 +1,7 @@
 capital = 2302
 primary_culture = quechua
-religion = animist
-government = absolute_monarchy
+religion = huacan
+government = theocracy
 plurality = 5.0
 nationalvalue = nv_autocracy
 literacy = 0.07

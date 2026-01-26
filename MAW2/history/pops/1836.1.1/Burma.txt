@@ -1032,7 +1032,7 @@
 
     farmers = {
         culture = karen
-        religion = protestant
+        religion = theravada
         size = 300
     }
 
@@ -1097,8 +1097,8 @@
     }
 
     bureaucrats = {
-        culture = british
-        religion = protestant
+        culture = burmese
+        religion = theravada
         size = 25
     }
 }
@@ -1136,7 +1136,7 @@
 
     farmers = {
         culture = karen
-        religion = protestant
+        religion = theravada
         size = 300
     }
 
@@ -1212,8 +1212,8 @@
 #Sittwe (176000/44000 POPS)
 1345 = {
     bureaucrats = {
-        culture = british
-        religion = protestant
+        culture = burmese
+        religion = theravada
         size = 10
     }
 

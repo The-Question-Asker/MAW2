@@ -3609,25 +3609,25 @@
     }
 
     bureaucrats = {
-        culture = portuguese
+        culture = aegyptian
         religion = orthodox
         size = 5
     }
 
     artisans = {
-        culture = portuguese
+        culture = aegyptian
         religion = orthodox
         size = 10
     }
 
     clergymen = {
-        culture = portuguese
+        culture = aegyptian
         religion = orthodox
         size = 10
     }
 
     soldiers = {
-        culture = portuguese
+        culture = aegyptian
         religion = orthodox
         size = 25
     }

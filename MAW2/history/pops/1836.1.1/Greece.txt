@@ -898,22 +898,6 @@
     }
     ########
 
-    ######British #250 soldiers + 157 civilians
-
-    soldiers = {
-        culture = british
-        religion = manichaean
-        size = 500
-    }
-
-    clergymen = {
-        culture = british
-        religion = manichaean
-        size = 314
-    }
-
-    ########
-
 }
 #Zante (76000/19000 POPS)
 827 = {
@@ -979,18 +963,6 @@
     }
     ########
 
-    ######British #250 soldiers + 100 civilians
-    soldiers = {
-        culture = british
-        religion = manichaean
-        size = 500
-    }
-
-    clergymen = {
-        culture = british
-        religion = manichaean
-        size = 300
-    }
 
     ########
 }

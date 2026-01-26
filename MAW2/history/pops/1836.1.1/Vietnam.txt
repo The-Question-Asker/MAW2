@@ -100,19 +100,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 175
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 3500
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 20325
     }
 }
@@ -186,19 +186,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 100
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 700
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 13200
     }
 }
@@ -242,19 +242,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 75
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 300
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 5625
     }
 
@@ -328,19 +328,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 75
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 300
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 5625
     }
 
@@ -414,19 +414,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 350
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 6600
     }
 
@@ -488,19 +488,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 550
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 10400
     }
 }
@@ -558,19 +558,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 225
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 1025
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 29750
     }
 
@@ -626,19 +626,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 400
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 7550
     }
 }
@@ -682,19 +682,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 200
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 3750
     }
 
@@ -786,19 +786,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 100
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 200
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 3750
     }
 }
@@ -954,19 +954,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 125
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 1100
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 18875
     }
 }
@@ -1004,19 +1004,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 250
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = mahayana
         size = 4700
     }
 

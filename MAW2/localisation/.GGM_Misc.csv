@@ -113,3 +113,4 @@ liberate_country_imperial;Imperial Restoration;;;;;;;;x;;;;
 liberate_country_imperial_desc;Liberate an §Yentire state§W and restore the imperial borders.;;;;;;;;;;;;;
 liberate_country_imperial_short;$THIRD$ acquires $STATE$;;;;;;;;;;;;;
 liberate_country_imperial_setup;Return $STATE$ to the empire and to $THIRD$ from $RECIPIENT$;;;;;;;;;;;;;
+huacan;Huacan;;;;;;;;;;;;;
