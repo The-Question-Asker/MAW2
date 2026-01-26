@@ -49,4 +49,48 @@ political_decisions = {
         }
     }
 	
+	join_empire = { ## for frankish emperor
+		#picture = force_publique
+        potential = {
+            ai = no
+			NOT = { 
+				has_country_flag = frankish_subject 
+				has_country_flag = requested_to_join_empire }
+			OR = {
+				tag = AGD
+				AND = {
+					OR = {
+						primary_culture = frankish
+						primary_culture = narbonne
+						primary_culture = colonial_frankish
+					}
+					NOT = {
+						tag = FRK
+						tag = NRB
+					}
+					
+				}
+			}
+        }
+        allow = {
+            relation = { 
+				who = FRK 
+				value = 100 
+			}
+			is_secondary_power = no
+			is_greater_power = no
+        }
+        effect = {
+			set_country_flag = requested_to_join_empire
+			FRK = {
+				country_event = {
+					id = 49991
+					days = 5
+				
+				}
+			
+			}
+        }
+    }
+	
 }

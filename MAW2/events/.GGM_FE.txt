@@ -53,7 +53,7 @@ country_event = {
 	desc = "EVTDESC49993"
 	#picture = "confedlot"
 	
-	is_triggered_only
+	is_triggered_only = yes
 	
 	option = {
 		name = "placeholder"
@@ -69,12 +69,119 @@ country_event = {
 	desc = "EVTDESC49992"
 	#picture = "confedlot"
 	
-	is_triggered_only
+	is_triggered_only = yes
 	
 	option = {
 		name = "placeholder"
 		clr_country_flag = addressing_diet
 	}
+
+
+}
+
+country_event = {
+	id = 49991
+	title = "EVTNAME49991" 
+	desc = "EVTDESC49991"
+	#picture = "confedlot"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "placeholder"
+		
+		FROM = {
+			set_country_flag = frankish_subject
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = AGD
+				}
+			}
+			random_country = {
+				limit = {
+					ai = yes
+				}
+				country_event = 49998
+			}
+		
+		}
+	}
+	
+	option = {
+		name = "No, the $FROMCOUNTRY_AJD$ have no place in the empire."
+		
+		FROM = {
+			country_event = {
+				id = 49990
+				days = 5
+			
+			}
+		}
+	}
+
+}
+
+country_event = {
+	id = 49990
+	title = "EVTNAME49990" 
+	desc = "EVTDESC49990"
+	#picture = "confedlot"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "What a shame..."
+		prestige = -10
+
+	}
+	
+
+
+}
+
+country_event = {
+	id = 49989
+	title = "EVTNAME49989" 
+	desc = "EVTDESC49989"
+	#picture = "confedlot"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "We will be safer in the empire."
+		prestige = -5
+	}
+	
+
+
+}
+
+country_event = {
+	id = 49988
+	title = "EVTNAME49988" 
+	desc = "EVTDESC49988"
+	#picture = "confedlot"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "PLACEHOLDER"
+		3243 = {
+			secede_province = THIS 
+		}
+		mem30 = {
+			state_scope = {
+				change_region_name = "Angland"
+			}
+		}
+		3243 = {
+			secede_province = --- 
+		}
+	}
+	
 
 
 }
