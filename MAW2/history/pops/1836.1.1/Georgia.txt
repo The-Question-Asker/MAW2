@@ -3,25 +3,25 @@
 #Tblisi (232000/58000 POPS) #circassian-manichaean = Ossetian
 1090 = {
     bureaucrats = {
-        culture = russian
+        culture = ruthenian
         religion = manichaean
         size = 200
     }
 
     clergymen = {
-        culture = russian
+        culture = ruthenian
         religion = manichaean
         size = 50
     }
 
     artisans = {
-        culture = russian
+        culture = ruthenian
         religion = manichaean
         size = 50
     }
 
     soldiers = {
-        culture = russian
+        culture = ruthenian
         religion = manichaean
         size = 500
     }
@@ -511,7 +511,7 @@
     }
 
     soldiers = {
-        culture = russian
+        culture = ruthenian
         religion = manichaean
         size = 200
     }

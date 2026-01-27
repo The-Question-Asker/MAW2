@@ -56,11 +56,7 @@
         size = 7000
     }
 
-    slaves = {
-        culture = russian
-        religion = orthodox
-        size = 3000
-    }
+ 
 }
 #Nukus (180000/45000 POPS) #now part of Uzbekistan
 1192 = {
@@ -136,11 +132,7 @@
         size = 4000
     }
 
-    slaves = {
-        culture = russian
-        religion = orthodox
-        size = 2100
-    }
+
 
     aristocrats = {
         culture = turkmen
@@ -388,11 +380,7 @@
         size = 8000
     }
 
-    slaves = {
-        culture = russian
-        religion = orthodox
-        size = 5000
-    }
+ 
 }
 #under the rule of Bukhara in 1836
 #Bukhara (868000/217000 POPS)

@@ -3161,25 +3161,25 @@
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 18
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 54
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 9
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 639
     }
@@ -3229,25 +3229,25 @@
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 54
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 639
     }
@@ -3405,25 +3405,25 @@
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 54
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 639
     }
@@ -3481,25 +3481,25 @@
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 18
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 54
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 9
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 639
     }
@@ -3671,79 +3671,79 @@
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 486
     }
 
     bureaucrats = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 108
     }
 
     officers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 72
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 270
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 2160
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 270
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 12744
     }
 
     serfs = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 10800
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 180
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 99
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 1026
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 126
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 11169
     }
@@ -3811,25 +3811,25 @@
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 18
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 9
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 657
     }
@@ -3897,37 +3897,37 @@
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 432
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 270
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 1368
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 270
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 14220
     }
 
     serfs = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 10800
     }
@@ -3957,31 +3957,31 @@
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 81
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 45
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 270
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 54
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 4950
     }
@@ -4019,61 +4019,61 @@
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 54
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 27
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 144
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 2619
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 27
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 27
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 90
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 18
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 1638
     }
@@ -4111,31 +4111,31 @@
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 54
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 27
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 144
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 2619
     }
@@ -4219,25 +4219,25 @@
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 90
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 45
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 1980
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 45
     }
@@ -4335,25 +4335,25 @@
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 180
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 513
     }
@@ -4497,25 +4497,25 @@
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 18
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 810
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 18
     }
@@ -4671,73 +4671,73 @@
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 630
     }
 
     officers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 36
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 270
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 1440
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 288
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 3816
     }
 
     aristocrats = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 90
     }
 
     officers = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 9
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 45
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 270
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 54
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = orthodox
         size = 2772
     }
@@ -4968,7 +4968,7 @@
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 3114
         militancy = 3
@@ -5106,25 +5106,25 @@
     }
 
     clergymen = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 18
     }
 
     artisans = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 54
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 9
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 990
     }
@@ -5232,13 +5232,13 @@
     }
 
     soldiers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 9
     }
 
     farmers = {
-        culture = tatar
+        culture = ruthenian
         religion = manichaean
         size = 495
     }
