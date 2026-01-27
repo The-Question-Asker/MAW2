@@ -126,7 +126,7 @@ west_germanic = {
 							Ulf Ulferth Wæbheard Uhtred Wynstan Wynræd Winenoth 
 							Wulflaf Wynhelm Wihtmund Wiglaf Raginmund Fredegear }
 
-			last_names = { "af Ræchwine" Bolger }
+			last_names = { "af Wealda" Bolger }
 	}
 	
 	laaglander = {
@@ -148,9 +148,22 @@ latins = {
 
 	hispanic = {
 	  color = { 255 201 64 }
-        	first_names = { }
+        	first_names = {
+				Abelardo Adolfo Alonso Turismundo Eurico Teudiselo Tuedismondo
+				Conrado Ernesto Francisco Hernando Carlitos Paco Ramon Rodolfo Alvaro
+				Ronaldo "Don Rodolfo" Franco Ataulfo Filadelfo "Don Alfonso" Teodoredeo
+				Hermenegildo Theodoric Ramiro Ferdinand Ildefonso Totila Ferdonando
+				Wallia Alarico Gesaleico Amalarico Teudis Agioa Antagildo Leoviglio
+				Recaredo Witerico Gundemaro Sisebuto Chindavinto Ervigio Rodrigo Teodorico Karlo Don
+				Luivo Ludowigo Agila Thuedigilo 
+			}
 
-			last_names = {	}
+			last_names = {	
+				Bermudez Guerra Guerrero Suevos Alvarez Mendez
+				Parra "de Rosas" Ramos Ortiz Oribe Blanco Serrano Ruiz "el Alto" Guzman
+				Sosa Cervantes Echigues Guicoi Ufes Belfaguer Gundisalvus Rodriguez
+				Alonso Serrano Morales Moreno Garcia Ruigomes Grelle Alves Vela Velgila
+			}
     }
 	
 	galician = {
@@ -189,9 +202,19 @@ latins = {
 	
 	african = {
 	  color = { 235 219 157 }
-        	first_names = { }
+        	first_names = { Ablarde Adolfo Alono Trismundo Irike Tudiseke Todismondo
+				Konrado Ernesto Franzisko Ernando Karlo Pako Ramon Rodolfo Albaro
+				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
+				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
+				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Loviglo
+				Recaredo Witerico Gundemaro Sisebuto Kindavinto Ervigo Rodrigo Todorico Karlo Luivo
+				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
+				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lovmondo Lovfodo Bados Badofrodo
+				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
+				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto
+				}
 
-			last_names = {	}
+			last_names = { Rikesis Turis Tedokis Wultis Skarilis Mundis Vandalireges Runis Fredis }
     }
 	
 	narbonne = {
@@ -546,7 +569,17 @@ colonial_african_culture = {
 	
 	colonial_vandal = {
 	  color = { 224 224 211 }
-        	first_names = { }
+        	first_names = { Ablarde Adolfo Alono Trismundo Irike Tudiseke Todismondo
+				Konrado Ernesto Franzisko Ernando Karlo Pako Ramon Rodolfo Albaro
+				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
+				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
+				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Loviglo
+				Recaredo Witerico Gundemaro Sisebuto Kindavinto Ervigo Rodrigo Todorico Karlo Luivo
+				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
+				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lovmondo Lovfodo Bados Badofrodo
+				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
+				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto
+				}
 
 			last_names = {  }
     }
@@ -554,14 +587,37 @@ colonial_african_culture = {
 	
 	colonial_african_mixed = { #colonial vandal mixed
 	  color = { 181 181 107 }
-        	first_names = { }
+        	first_names = { Ablarde Adolfo Alono Trismundo Irike Tudiseke Todismondo
+				Konrado Ernesto Franzisko Ernando Karlo Pako Ramon Rodolfo Albaro
+				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
+				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
+				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Loviglo
+				Recaredo Witerico Gundemaro Sisebuto Kindavinto Ervigo Rodrigo Todorico Karlo Luivo
+				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
+				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lovmondo Lovfrodo Bados Badofrodo
+				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
+				Tseksto Julo Clado Aplo Atlo Ijarbo Moctezuma Madero Ulises Arturo Roberto
+				Chotolek Quetzal 
+				}
 
-			last_names = {  }
+			last_names = { Font "Garkia Madero" Maples Ksotil Agriko Quim Kotal Akre Moreno Kuarjis 
+				Filla Zapoteki Zapotis 
+
+			}
     }
 	
 	colonial_new_african = {
 	  color = { 128 163 0 }
-        	first_names = { }
+        	first_names = { Ablarde Adolfo Alono Trismundo Irike Tudiseke Todismondo
+				Konrado Ernesto Franzisko Ernando Karlo Pako Ramon Rodolfo Albaro
+				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
+				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
+				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Loviglo
+				Recaredo Witerico Gundemaro Sisebuto Kindavinto Ervigo Rodrigo Todorico Karlo Luivo
+				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
+				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lovmondo Lovfodo Bados Badofrodo
+				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
+				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto }
 
 			last_names = {  }
     }

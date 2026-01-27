@@ -2734,6 +2734,7 @@ country_event = {  #hnu_colonial_congress_pres
 		government = democracy
 		political_reform = landed_voting
 		set_country_flag = republican_constitution
+		election = yes
 		
 		scaled_consciousness = {
 			ideology = liberal
