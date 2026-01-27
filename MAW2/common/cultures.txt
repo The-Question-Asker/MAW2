@@ -921,7 +921,7 @@ jewish_cultures = {
 	}
 	
 	ysraelite = {
-		color = {20 20 20}
+		color = {230 210 240}
 		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe
 			Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
         }

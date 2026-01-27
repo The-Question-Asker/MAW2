@@ -8439,67 +8439,67 @@
         size = 82.8
     }
 }
-#Novo Mariinsk (2000/500 POPS) #inuit = chukchi   }
+#Novo Mariinsk (2000/500 POPS) #eskaleut = chukchi   }
 2637 = {
     aristocrats = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 3.3999999999999995
     }
 
     clergymen = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 5.3999999999999995
     }
 
     artisans = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 12.6
     }
 
     soldiers = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 3.5999999999999996.6
     }
 
     farmers = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 244.79999999999998
     }
 }
 
-#Pevek (600/150 POPS) #inuit = chukchi  }
+#Pevek (600/150 POPS) #eskaleut = chukchi  }
 2666 = {
     aristocrats = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 0.6.2
     }
 
     clergymen = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 0.6.7999999999999998
     }
 
     artisans = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 1.2.4
     }
 
     soldiers = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 0.6.2
     }
 
     farmers = {
-        culture = inuit
+        culture = eskaleut
         religion = animist
         size = 48.6
     }
