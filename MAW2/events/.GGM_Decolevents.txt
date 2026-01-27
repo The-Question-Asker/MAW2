@@ -473,7 +473,50 @@ country_event = {  #witlian ind_trig
 		
 		}
 		
+		if = {
+			limit = {
+				THIS = {
+					tag = RPM
+				}
+			
+			}
+			THIS = {
+				government = democracy
+			
+			}
 		
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = CFL
+				}
+			
+			}
+			THIS = {
+				random_list = {
+					50 = {
+						government = prussian_constitutionalism
+					
+					}
+					
+					25 = {
+						government = presidential_dictatorship
+						political_reform = none_voting
+					
+					}
+					
+					25 = {
+						government = democracy
+					
+					}
+				
+				}
+			
+			}
+		
+		}
 	
 		
 		
@@ -633,7 +676,7 @@ country_event = {  #central lothaire self-gov
 		}
 		capital_scope = {
 			NOT = {
-				continent = europe
+				continent = africa
 				controlled_by = THIS
 			}
 		
@@ -1520,7 +1563,7 @@ country_event = {  #cent_lot ind_trig
 				war = yes
 				capital_scope = {
 					NOT = {
-						continent = europe
+						continent = africa
 						controlled_by = THIS
 					}
 				
@@ -1568,6 +1611,20 @@ country_event = {  #cent_lot ind_trig
 		add_country_modifier = {
 			name = colonial_militias
 			duration = 365
+		
+		}
+		
+		random_list = {
+			50 = {
+				government = democracy
+			
+			}
+			
+			50 = {
+				government = presidential_dictatorship
+				political_reform = none_voting
+			
+			}
 		
 		}
 		
@@ -1796,7 +1853,7 @@ country_event = {
 
 }
 	
-country_event = {  #central lothaire self-gov
+country_event = {  #antipodea self-gov
 	id = 49985 
 	title = "EVTNAME49985" 
 	desc = "EVTDESC49985"
@@ -1812,7 +1869,7 @@ country_event = {  #central lothaire self-gov
 		}
 		capital_scope = {
 			NOT = {
-				continent = europe
+				continent = africa
 				controlled_by = THIS
 			}
 		
@@ -1867,7 +1924,7 @@ country_event = {  #central lothaire self-gov
 		random_list = {
 			
 			
-			98 = {
+			40 = {
 				
 				
 				
@@ -2313,32 +2370,314 @@ country_event = {  #central lothaire self-gov
 				NWR_107 = {
 					add_core = RGT
 				}
-				NWR_112 = {
-					add_core = AGS
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+
+					}
+					NWR_112 = {
+						add_core = AGS
+					}
+					NWR_112 = {
+						add_core = NBS
+					}
 				}
-				NWR_112 = {
-					add_core = NBS
-				}
-				NWR_113 = {
-					add_core = AGS
-				}
-				NWR_113 = {
-					add_core = NBM
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+
+					}
+					NWR_113 = {
+						add_core = AGS
+					}
+					NWR_113 = {
+						add_core = NBM
+					}
+					
 				}
 				
 				
+				
+				
+				
+				NWR_106 = {
+					add_core = NBA
+				}
+				
+				NWR_110 = {
+					add_core = NBA
+				}
+				
+				NWR_107 = {
+					add_core = NBA
+				}
+				
+				NWR_112 = {
+					add_core = NBA
+				}
+				
+				NWR_113 = {
+					add_core = NBA
+				}
+				
+				NWR_108 = {
+					add_core = NBA
+				}
+				
+				NWR_102 = {
+					add_core = NBA
+				}
+				NWR_103 = {
+					add_core = NBA
+				}
+				NWR_101 = {
+					add_core = NBA
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2408
+						}
+					
+					}
+					NWR_99 = {
+						add_core = NBA
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2417
+						}
+					
+					}
+					NWR_98 = {
+						add_core = NBA
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2377
+						}
+					
+					}
+					NWR_100 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+
+					}
+					NWR_112 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+					}
+	
+					NWR_113 = {
+						add_core = NBA
+					}
+						
+					
+				
+				}
+				
+				NWR_109 = {
+					add_core = NBA
+				}
+				
+				NWR_111 = {
+					add_core = NBA
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2333
+						}
+					
+					}
+					2333 = {
+						add_core = NBA
+					}
+					2399 = {
+						add_core = NBA
+					}
+					2334 = {
+						add_core = NBA
+					}
+				
+				}
 				
 				
 			}
 			
-			
-			1 = {
+			30 = {
 				
 				
 			}
 			
-			1 = {
+			20 = {
+				
+				
+			}
 			
+			10 = {
+				
+				NWR_106 = {
+					add_core = NBA
+				}
+				
+				NWR_110 = {
+					add_core = NBA
+				}
+				
+				NWR_107 = {
+					add_core = NBA
+				}
+				
+				NWR_109 = {
+					add_core = NBA
+				}
+				
+				NWR_111 = {
+					add_core = NBA
+				}
+				
+				NWR_112 = {
+					add_core = NBA
+				}
+				
+				NWR_113 = {
+					add_core = NBA
+				}
+				
+				NWR_108 = {
+					add_core = NBA
+				}
+				
+				NWR_102 = {
+					add_core = NBA
+				}
+				NWR_103 = {
+					add_core = NBA
+				}
+				NWR_101 = {
+					add_core = NBA
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2408
+						}
+					
+					}
+					NWR_99 = {
+						add_core = NBA
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2417
+						}
+					
+					}
+					NWR_98 = {
+						add_core = NBA
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2377
+						}
+					
+					}
+					NWR_100 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+
+					}
+					NWR_112 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+					}
+	
+					NWR_113 = {
+						add_core = NBA
+					}
+						
+					
+				
+				}
+				
+
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2333
+						}
+					
+					}
+					2333 = {
+						add_core = NBA
+					}
+					2399 = {
+						add_core = NBA
+					}
+					2334 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				release_vassal = NBA
 
 			
 			}
@@ -2349,3 +2688,491 @@ country_event = {  #central lothaire self-gov
 	
 	
 	}
+	
+country_event = {  #hnu_colonial_congress_pres
+	id = 49984 
+	title = "EVTNAME49984" 
+	desc = "EVTDESC49984"
+	picture = "independence_dec"
+	
+	trigger = {
+		OR = {
+			tag = VDR
+			tag = ISB
+			tag = NWM
+			tag = ANK
+			tag = RGT
+			tag = NBM
+			tag = AGS
+			tag = HNU
+			tag = NBS
+			tag = NSA
+		}
+		NOT = {
+			OR = {
+				has_country_flag = republican_constitution
+				has_country_flag = dictatorial_constitution
+				has_country_flag = monarchist_constitution
+			}
+			has_country_modifier = colonial_militias
+		}
+		war = no
+		government = presidential_dictatorship 
+		
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		
+		
+	
+	}
+	
+	option = {
+		name = "Adopt the Kortes as a Parliament."
+		government = democracy
+		political_reform = landed_voting
+		set_country_flag = republican_constitution
+		
+		scaled_consciousness = {
+			ideology = liberal
+			factor = 2
+		
+		}
+		scaled_militancy = {
+			ideology = liberal
+			factor = -2
+		}
+		
+		scaled_consciousness = {
+			ideology = conservative
+			factor = 1
+		
+		}
+		scaled_militancy = {
+			ideology = conservative
+			factor = -1
+		}
+		
+		scaled_consciousness = {
+			ideology = reactionary
+			factor = 3
+		
+		}
+		scaled_militancy = {
+			ideology = reactionary
+			factor = 3
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_autocracy
+				
+			} 
+			
+		
+		}
+	}
+	
+	option = {
+		name = "Civilianise in name only."
+		set_country_flag = dictatorial_constitution
+		scaled_consciousness = {
+			ideology = liberal
+			factor = 2
+		
+		}
+		scaled_militancy = {
+			ideology = liberal
+			factor = 2
+		}
+		
+		scaled_consciousness = {
+			ideology = conservative
+			factor = -1
+		
+		}
+		scaled_militancy = {
+			ideology = conservative
+			factor = -1
+		}
+		
+		scaled_consciousness = {
+			ideology = reactionary
+			factor = 2
+		
+		}
+		scaled_militancy = {
+			ideology = reactionary
+			factor = 2
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_liberty
+				
+			} 
+		}
+	}
+	
+	option = {
+		name = "Our great commander shall rule as an emperor in the new world."
+		set_country_flag = monarchist_constitution
+		set_country_flag = new_world_empire
+	
+		government = absolute_monarchy
+	
+		scaled_consciousness = {
+			ideology = liberal
+			factor = 3
+		
+		}
+		scaled_militancy = {
+			ideology = liberal
+			factor = 3
+		}
+		
+		scaled_consciousness = {
+			ideology = conservative
+			factor = 1
+		
+		}
+		
+		scaled_consciousness = {
+			ideology = reactionary
+			factor = -2
+		
+		}
+		scaled_militancy = {
+			ideology = reactionary
+			factor = -2
+		}
+		
+		prestige = 10
+		plurality = 2
+		
+		ai_chance = {
+			factor = 1
+			
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_liberty
+				
+			} 
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_equality
+				
+			} 
+		}
+	}
+	
+	option = {
+		name = "We must invite a prince of the old world to rule our state."
+		set_country_flag = monarchist_constitution
+	
+		government = absolute_monarchy
+	
+		scaled_consciousness = {
+			ideology = liberal
+			factor = 3
+		
+		}
+		scaled_militancy = {
+			ideology = liberal
+			factor = 3
+		}
+		
+		scaled_consciousness = {
+			ideology = conservative
+			factor = 1
+		
+		}
+		
+		scaled_consciousness = {
+			ideology = reactionary
+			factor = -2
+		
+		}
+		scaled_militancy = {
+			ideology = reactionary
+			factor = -2
+		}
+		
+		random_country = {
+			limit = {
+				capital_scope = {
+					continent = europe
+				
+				}
+				OR = {
+					government = hms_government
+					government = absolute_monarchy
+					government = prussian_constitutionalism
+				}
+			
+			}
+			relation = {
+				who = THIS
+				value = 200
+			}
+			diplomatic_influence = {
+				who = THIS
+				value = 100
+			}
+		
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_liberty
+				
+			} 
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_equality
+				
+			} 
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+country_event = {  #hnu_colonial_congress_dem
+	id = 49983 
+	title = "EVTNAME49983" 
+	desc = "EVTDESC49983"
+	picture = "independence_dec"
+	
+	trigger = {
+		OR = {
+			tag = VDR
+			tag = ISB
+			tag = NWM
+			tag = ANK
+			tag = RGT
+			tag = NBM
+			tag = AGS
+			tag = HNU
+			tag = NBS
+			tag = NSA
+		}
+		NOT = {
+			OR = {
+				has_country_flag = republican_constitution
+				has_country_flag = dictatorial_constitution
+				has_country_flag = monarchist_constitution
+			}
+			has_country_modifier = colonial_militias
+		}
+		war = no
+		government = democracy
+		
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		
+		
+	
+	}
+	
+	option = {
+		name = "We must secure our liberty!"
+		set_country_flag = republican_constitution
+		political_reform = wealth_weighted_voting
+		
+		scaled_consciousness = {
+			ideology = liberal
+			factor = 2
+		
+		}
+		scaled_militancy = {
+			ideology = liberal
+			factor = -2
+		}
+		
+		scaled_consciousness = {
+			ideology = conservative
+			factor = 1
+		
+		}
+		scaled_militancy = {
+			ideology = conservative
+			factor = 1
+		}
+		
+		scaled_consciousness = {
+			ideology = reactionary
+			factor = 3
+		
+		}
+		scaled_militancy = {
+			ideology = reactionary
+			factor = 3
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_autocracy
+				
+			} 
+			
+		
+		}
+	}
+	
+	option = {
+		name = "We must ensure a powerful presidency to keep order."
+		government = presidential_dictatorship
+		political_reform = none_voting
+		
+		scaled_consciousness = {
+			ideology = liberal
+			factor = 4
+		
+		}
+		scaled_militancy = {
+			ideology = liberal
+			factor = 4
+		}
+		
+		scaled_consciousness = {
+			ideology = conservative
+			factor = -1
+		
+		}
+		scaled_militancy = {
+			ideology = conservative
+			factor = -1
+		}
+		
+		scaled_consciousness = {
+			ideology = reactionary
+			factor = -1
+		
+		}
+		scaled_militancy = {
+			ideology = reactionary
+			factor = -1
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_liberty
+				
+			} 
+		}
+	}
+	
+	
+	option = {
+		name = "A figurehead prince of the old dynasties will preserve democracy."
+		set_country_flag = monarchist_constitution
+	
+		government = hms_government
+	
+		scaled_consciousness = {
+			ideology = liberal
+			factor = 3
+		
+		}
+		scaled_militancy = {
+			ideology = liberal
+			factor = 3
+		}
+		
+		scaled_consciousness = {
+			ideology = conservative
+			factor = 1
+		
+		}
+		
+		scaled_consciousness = {
+			ideology = reactionary
+			factor = -2
+		
+		}
+		scaled_militancy = {
+			ideology = reactionary
+			factor = -2
+		}
+		
+		random_country = {
+			limit = {
+				capital_scope = {
+					continent = europe
+				
+				}
+				OR = {
+					government = hms_government
+					government = absolute_monarchy
+					government = prussian_constitutionalism
+				}
+			
+			}
+			relation = {
+				who = THIS
+				value = 200
+			}
+			diplomatic_influence = {
+				who = THIS
+				value = 100
+			}
+		
+		}
+		
+		ai_chance = {
+			factor = 0.25
+			
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_liberty
+				
+			} 
+			
+			Modifier = { 
+				factor = 0.25
+				ruling_party_ideology = nv_equality
+				
+			} 
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+}

@@ -296,7 +296,7 @@ PROV220;Anneville;;;;;;;;;;;;;x
 PROV60;Chalon-Arlay;;;;;;;;;;;;;x
 PROV212;Ville du Prince;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV218;Bois Indiens;;;;;;;;;;;;;x
+PROV218;Bois Cathais;;;;;;;;;;;;;x
 PROV183;Gasparde;;;;;;;;;;;;;x
 PROV184;Fermedevieux;;;;;;;;;;;;;x
 PROV134;Fort Sullie;;;;;;;;;;;;;x
@@ -361,12 +361,12 @@ PROV2594;Post Talleyrand;;;;;;;;;;;;;x
 PROV27;St. Guysland;;;;;;;;;;;;;x
 PROV127;Port Challons;;;;;;;;;;;;;x
 PROV145;Nuvo Ostia;;;;;;;;;;;;;x
-PROV204;Quintacampa;;;;;;;;;;;;;x
+PROV204;Quinticampa;;;;;;;;;;;;;x
 PROV197;Nuvo Genoua;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV210;Reposdeham;;;;;;;;;;;;;x
+PROV205;Citmouline;;;;;;;;;;;;;x
+PROV209;Ophilé;;;;;;;;;;;;;x
+PROV216;La Vache;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
 PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
@@ -436,7 +436,7 @@ PROV2943;Gulf of St. Martin;;;;;;;;;;;;;x
 PROV2946;Détroit de Guillard;;;;;;;;;;;;;x
 PROV2947;Baie Impériale;;;;;;;;;;;;;x
 PROV3239;Vivemer;;;;;;;;;;;;;x
-PROV3256;Lac Indian;;;;;;;;;;;;;x
+PROV3256;Lac Cathais;;;;;;;;;;;;;x
 PROV2508;New Naxos;;;;;;;;;;;;;x ###### ABORIGINAL AUSTRALIA
 PROV2509;Te Tai Tokerau;;;;;;;;;;;;;x
 PROV2468;Kuring-Gai;;;;;;;;;;;;;x
@@ -511,7 +511,7 @@ NWR_13;X;;;;;;;;;;;;;x
 NWR_14;X;;;;;;;;;;;;;x
 NWR_15;X;;;;;;;;;;;;;x
 NWR_16;X;;;;;;;;;;;;;x
-NWR_17;Pays Indien;;;;;;;;;;;;;x
+NWR_17;Pays Cathais;;;;;;;;;;;;;x
 NWR_18;Grandes Plaines;;;;;;;;;;;;;x
 NWR_19;Grand Marais;;;;;;;;;;;;;x
 NWR_20;Clotildesland;;;;;;;;;;;;;x
@@ -523,7 +523,7 @@ NWR_25;X;;;;;;;;;;;;;x
 NWR_26;Costa Negra;;;;;;;;;;;;;x
 NWR_27;Nuvo Campanua;;;;;;;;;;;;;x
 NWR_28;X;;;;;;;;;;;;;x
-NWR_29;X;;;;;;;;;;;;;x
+NWR_29;Paysfeuilles;;;;;;;;;;;;;x
 NWR_30;Pyrene;;;;;;;;;;;;;x
 NWR_31;Trans-Pyrenea;;;;;;;;;;;;;x
 NWR_32;Châtillon;;;;;;;;;;;;;x
@@ -702,7 +702,7 @@ PROV248;Algrande;;;;;;;;;;;;;x
 PROV247;Oberdorf;;;;;;;;;;;;;x
 PROV66;Neiderdorf;;;;;;;;;;;;;x
 PROV61;Schwabenville;;;;;;;;;;;;;x
-PROV48;Indienstalle;;;;;;;;;;;;;x
+PROV48;Cathaystalle;;;;;;;;;;;;;x
 PROV62;Port-aux-Saxons;;;;;;;;;;;;;x
 PROV75;Côte Grise;;;;;;;;;;;;;x
 PROV246;Ter'vivemer;;;;;;;;;;;;;x
