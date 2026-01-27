@@ -158,11 +158,6 @@
         size = 42650
     }
 
-    slaves = {
-        culture = azerbaijani
-        religion = orthodox
-        size = 1000
-    }
 }
 #Arbil (104000/26000 POPS)
 924 = {
@@ -467,7 +462,7 @@
     }
 
     farmers = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 15050
     }
@@ -611,13 +606,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 200
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 21850
     }

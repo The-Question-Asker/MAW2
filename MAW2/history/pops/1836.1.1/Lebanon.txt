@@ -259,13 +259,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 200
     }
 
     artisans = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 6980
     }
@@ -431,13 +431,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 200
     }
 
     artisans = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 1180
     }

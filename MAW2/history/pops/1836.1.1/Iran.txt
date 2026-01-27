@@ -94,13 +94,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 10
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 490
     }
@@ -812,13 +812,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 5
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 245
     }
@@ -1100,13 +1100,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 10
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 490
     }
@@ -1162,13 +1162,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 10
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 490
     }
@@ -1392,13 +1392,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 10
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 490
     }
@@ -1493,7 +1493,7 @@
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 200
     }
@@ -1511,13 +1511,13 @@
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 175
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 25
     }
@@ -1555,13 +1555,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 5
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 245
     }
@@ -1655,13 +1655,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 5
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 245
     }
@@ -1851,13 +1851,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 50
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 700
     }
@@ -1907,7 +1907,7 @@
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 200
     }
@@ -2547,13 +2547,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 5
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 245
     }

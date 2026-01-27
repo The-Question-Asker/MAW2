@@ -907,6 +907,30 @@ jewish_cultures = {
         Sassoon Sebag
         }
     }
+	
+	yahudim = {
+		color = {50 60 60}
+		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe
+			Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
+        }
+
+        last_names = { 
+			Shirazi Khanom "ben David" Ofir Amanat
+        }
+	
+	}
+	
+	ysraelite = {
+		color = {20 20 20}
+		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe
+			Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
+        }
+
+        last_names = { 
+			Shirazi Khanom "ben David" Ofir Amanat
+        }
+	
+	}
 }
 
 beneluxian = {

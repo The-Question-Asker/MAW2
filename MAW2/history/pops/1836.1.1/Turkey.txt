@@ -2750,25 +2750,25 @@
 
     ######Jews
     soldiers = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 200
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 200
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 1550
     }
 
     farmers = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 1000
     }

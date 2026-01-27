@@ -500,13 +500,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 50
     }
 
     artisans = {
-        culture = sephardic
+        culture = yahudim
         religion = jewish
         size = 1950
     }

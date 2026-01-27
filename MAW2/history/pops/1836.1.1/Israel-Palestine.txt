@@ -87,19 +87,19 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 50
     }
 
     artisans = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 1850
     }
@@ -175,19 +175,19 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 300
     }
 
     artisans = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 3750
     }
 
     farmers = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 16350
     }
@@ -317,19 +317,19 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 50
     }
 
     artisans = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 600
     }
 
     farmers = {
-        culture = sephardic
+        culture = ysraelite
         religion = jewish
         size = 3350
     }
