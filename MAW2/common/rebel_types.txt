@@ -306,6 +306,120 @@ reactionary_rebels = {
         prestige_factor = -0.25
         plurality = -25
         country_event = 800050
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					has_global_flag = IT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = WTL
+					OR = {
+						tag = RPM
+						tag = CFL
+						tag = PHO
+					
+					}
+				}
+				country_event = {
+					id = 49999 
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					has_global_flag = CLT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = HNU
+					OR = {
+						tag = VDR
+						tag = ISB
+						tag = NWM
+						tag = ANK
+						tag = RGT
+						tag = NBM
+						tag = AGS
+						tag = HNU
+						tag = NBS
+						tag = NSA
+					
+					}
+				}
+				country_event = {
+					id = 49996
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = CLT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49997
+					days = 15
+				}
+			
+			}
+		}
+		
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = NFA_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49985
+					days = 15
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					NOT = {
+						has_global_flag = IT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 50001
+					days = 15
+				}
+			
+			}
+		}
+		
+		
     }
 }
 
@@ -597,6 +711,119 @@ fascist_rebels = {
         prestige_factor = -0.25
         plurality = -25
         country_event = 800051
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					has_global_flag = IT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = WTL
+					OR = {
+						tag = RPM
+						tag = CFL
+						tag = PHO
+					
+					}
+				}
+				country_event = {
+					id = 49999 
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					has_global_flag = CLT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = HNU
+					OR = {
+						tag = VDR
+						tag = ISB
+						tag = NWM
+						tag = ANK
+						tag = RGT
+						tag = NBM
+						tag = AGS
+						tag = HNU
+						tag = NBS
+						tag = NSA
+					
+					}
+				}
+				country_event = {
+					id = 49996
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = CLT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49997
+					days = 15
+				}
+			
+			}
+		}
+		
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = NFA_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49985
+					days = 15
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					NOT = {
+						has_global_flag = IT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 50001
+					days = 15
+				}
+			
+			}
+		}
+		
     }
 }
 
@@ -884,6 +1111,119 @@ communist_rebels = {
         prestige_factor = -0.25
         plurality = -25
         country_event = 800052
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					has_global_flag = IT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = WTL
+					OR = {
+						tag = RPM
+						tag = CFL
+						tag = PHO
+					
+					}
+				}
+				country_event = {
+					id = 49999 
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					has_global_flag = CLT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = HNU
+					OR = {
+						tag = VDR
+						tag = ISB
+						tag = NWM
+						tag = ANK
+						tag = RGT
+						tag = NBM
+						tag = AGS
+						tag = HNU
+						tag = NBS
+						tag = NSA
+					
+					}
+				}
+				country_event = {
+					id = 49996
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = CLT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49997
+					days = 15
+				}
+			
+			}
+		}
+		
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = NFA_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49985
+					days = 15
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					NOT = {
+						has_global_flag = IT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 50001
+					days = 15
+				}
+			
+			}
+		}
+		
     }
 }
 
@@ -1197,6 +1537,118 @@ anarcho_liberal_rebels = {
         prestige_factor = -0.25
         plurality = -25
         country_event = 800053
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					has_global_flag = IT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = WTL
+					OR = {
+						tag = RPM
+						tag = CFL
+						tag = PHO
+					
+					}
+				}
+				country_event = {
+					id = 49999 
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					has_global_flag = CLT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = HNU
+					OR = {
+						tag = VDR
+						tag = ISB
+						tag = NWM
+						tag = ANK
+						tag = RGT
+						tag = NBM
+						tag = AGS
+						tag = HNU
+						tag = NBS
+						tag = NSA
+					
+					}
+				}
+				country_event = {
+					id = 49996
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = CLT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49997
+					days = 15
+				}
+			
+			}
+		}
+		
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = NFA_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49985
+					days = 15
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					NOT = {
+						has_global_flag = IT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 50001
+					days = 15
+				}
+			
+			}
+		}
     }
 }
 
@@ -3882,6 +4334,118 @@ liberal_rebels = {
             limit = { owner = { tag = URU } }
             owner = { set_country_flag = colorado_rule clr_country_flag = blanco_rule }
         }
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					has_global_flag = IT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = WTL
+					OR = {
+						tag = RPM
+						tag = CFL
+						tag = PHO
+					
+					}
+				}
+				country_event = {
+					id = 49999 
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					has_global_flag = CLT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = HNU
+					OR = {
+						tag = VDR
+						tag = ISB
+						tag = NWM
+						tag = ANK
+						tag = RGT
+						tag = NBM
+						tag = AGS
+						tag = HNU
+						tag = NBS
+						tag = NSA
+					
+					}
+				}
+				country_event = {
+					id = 49996
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = CLT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49997
+					days = 15
+				}
+			
+			}
+		}
+		
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = NFA_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49985
+					days = 15
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					NOT = {
+						has_global_flag = IT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 50001
+					days = 15
+				}
+			
+			}
+		}
     }
 }
 
@@ -4869,6 +5433,118 @@ socialist_rebels = {
         prestige_factor = -0.3
         plurality = -10
         country_event = 810056
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					has_global_flag = IT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = WTL
+					OR = {
+						tag = RPM
+						tag = CFL
+						tag = PHO
+					
+					}
+				}
+				country_event = {
+					id = 49999 
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					has_global_flag = CLT_RELEASED
+				}
+			}
+			any_country = {
+				limit = {
+					is_our_vassal = HNU
+					OR = {
+						tag = VDR
+						tag = ISB
+						tag = NWM
+						tag = ANK
+						tag = RGT
+						tag = NBM
+						tag = AGS
+						tag = HNU
+						tag = NBS
+						tag = NSA
+					
+					}
+				}
+				country_event = {
+					id = 49996
+					days = 10
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = CLT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49997
+					days = 15
+				}
+			
+			}
+		}
+		
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = HNU
+					NOT = {
+						has_global_flag = NFA_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 49985
+					days = 15
+				}
+			
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					tag = WTL
+					NOT = {
+						has_global_flag = IT_RELEASED
+					}
+				}
+			}
+			THIS = {
+				country_event = {
+					id = 50001
+					days = 15
+				}
+			
+			}
+		}
     }
 }
 
