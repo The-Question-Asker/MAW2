@@ -1,5 +1,5 @@
-capital = 2525  
-primary_culture = colonial_african
+capital = 2325  
+primary_culture = colonial_new_african
 #culture = colonial_african_mixed
 religion = arian
 government = presidential_dictatorship

@@ -123,9 +123,26 @@ country_event = {  #witlian self-gov
 				NWR_28 = {
 					add_core = CFL
 				}
-				NWR_29 = {
+				206 = {
 					add_core = CFL
 				}
+				76 = {
+					add_core = CFL
+				}
+				216 = {
+					add_core = CFL
+				}
+				209 = {
+					add_core = CFL
+				}
+				205 = {
+					add_core = CFL
+				}
+				210 = {
+					add_core = CFL
+				}
+				
+				
 				
 				if = {
 					limit = {
@@ -1462,6 +1479,12 @@ country_event = {  #cent_lot ind_trig
 			tag = ISB
 			tag = NWM
 			tag = ANK
+			tag = RGT
+			tag = NBM
+			tag = AGS
+			tag = HNU
+			tag = NBS
+			tag = NSA
 		}
 		HNU = {
 			is_our_vassal = THIS
@@ -1662,6 +1685,78 @@ country_event = {
 		if = {
 			limit = {
 				FROM = {
+					tag = NBS
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = NBS
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = NBM
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = NBM
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = HNU
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = HNU
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = AGS
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = AGS
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = NSA
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = NSA
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
+					tag = RGT
+				}
+			
+			}
+			THIS = {
+				change_tag_no_core_switch = RGT
+			}
+		}
+		
+		if = {
+			limit = {
+				FROM = {
 					tag = VDR
 				}
 			
@@ -1701,3 +1796,556 @@ country_event = {
 
 }
 	
+country_event = {  #central lothaire self-gov
+	id = 49985 
+	title = "EVTNAME49985" 
+	desc = "EVTDESC49985"
+	picture = "tenconf"
+	
+	trigger = {
+		tag = HNU
+		OR = { 
+			owns = 2359
+			owns = 2455
+			owns = 2361
+			owns = 2525
+		}
+		capital_scope = {
+			NOT = {
+				continent = europe
+				controlled_by = THIS
+			}
+		
+		}
+		NOT = {
+			has_global_flag = NFA_RELEASED
+		}
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 15
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 10
+		
+		}
+	
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 20
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 30
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 50
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			war_exhaustion = 50
+		
+		}
+	
+	
+	}
+	
+	option = {
+		name = "Worrying..."
+	
+		set_global_flag = NFA_RELEASED
+	
+		random_list = {
+			
+			
+			98 = {
+				
+				
+				
+				NWR_106 = {
+					add_core = RGT
+				}
+				
+				NWR_108 = {
+					add_core = NBM
+				}
+				
+				NWR_102 = {
+					add_core = HRU
+				}
+				NWR_103 = {
+					add_core = HRU
+				}
+				NWR_101 = {
+					add_core = HRU
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2408
+						}
+					
+					}
+					NWR_99 = {
+						add_core = HRU
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2417
+						}
+					
+					}
+					NWR_98 = {
+						add_core = HRU
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2377
+						}
+					
+					}
+					NWR_100 = {
+						add_core = HRU
+					}
+				
+				}
+				
+				NWR_109 = {
+					add_core = AGS
+				}
+				
+				NWR_111 = {
+					add_core = NBS
+				}
+				
+				random_list = {
+					50 = {
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_110
+										any_neighbor_province = { 
+											is_core = AGS
+										
+										}
+										NOT = {
+											is_core = AGS
+										}
+									}
+									add_core = AGS
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_110
+									NOT = {
+										is_core = AGS
+									}
+								}
+								add_core = NBS
+							}
+						
+						}
+						
+					
+					}
+					
+					50 = {
+						
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_110
+										any_neighbor_province = { 
+											is_core = NBS
+										
+										}
+										NOT = {
+											is_core = NBS
+										}
+									}
+									add_core = NBS
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_110
+									NOT = {
+										is_core = NBS
+									}
+								}
+								add_core = AGS
+							}
+						
+						}
+					
+					}
+				
+				}
+				
+				random_list = {
+					34 = {
+						for2 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = HNU
+										
+										}
+										NOT = {
+											is_core = HNU
+										}
+									}
+									add_core = HNU
+								}
+							}
+						
+						}
+						for2 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = RGT
+										
+										}
+										NOT = {
+											is_core = RGT
+											is_core = HNU
+										}
+									}
+									add_core = RGT
+								}
+							}
+						
+						}
+						
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_107
+									NOT = {
+										is_core = RGT
+										is_core = HNU
+									}
+								}
+								add_core = AGS
+							}
+						
+						}
+						
+					
+					}
+					
+					33 = {
+						
+						for2 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = AGS
+										
+										}
+										NOT = {
+											is_core = AGS
+										}
+									}
+									add_core = AGS
+								}
+							}
+						
+						}
+						for2 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = HNU
+										
+										}
+										NOT = {
+											is_core = AGS
+											is_core = HNU
+										}
+									}
+									add_core = HNU
+								}
+							}
+						
+						}
+						
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_107
+									NOT = {
+										is_core = AGS
+										is_core = HNU
+									}
+								}
+								add_core = RGT
+							}
+						
+						}
+					
+					}
+					
+					33 = {
+						
+						for2 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = RGT
+										
+										}
+										NOT = {
+											is_core = RGT
+										}
+									}
+									add_core = RGT
+								}
+							}
+						
+						}
+						for2 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = HNU
+										
+										}
+										NOT = {
+											is_core = RGT
+											is_core = HNU
+										}
+									}
+									add_core = HNU
+								}
+							}
+						
+						}
+						
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_107
+									NOT = {
+										is_core = RGT
+										is_core = HNU
+									}
+								}
+								add_core = AGS
+							}
+						
+						}
+					
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+						2387 = {
+							is_core = AGS
+						}
+
+					}
+					NWR_112 = {
+						add_core = AGS
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+						2324 = {
+							NOT = {
+								is_core = AGS
+							}
+						}
+					
+					}
+					NWR_112 = {
+						add_core = NBS
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+						2324 = {
+							is_core = AGS
+						}
+					}
+	
+					NWR_113 = {
+						add_core = AGS
+					}
+						
+					
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+						2324 = {
+							NOT = {
+								is_core = AGS
+							}
+						}
+					}
+	
+					NWR_113 = {
+						add_core = NBM
+					}
+						
+					
+				
+				}
+				
+				if = {
+					limit = {
+						2396 = {
+							is_core = AGS
+						
+						}
+					
+					}
+					2333 = {
+						add_core = AGS
+					}
+					2399 = {
+						add_core = AGS
+					}
+					2334 = {
+						add_core = AGS
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						2396 = {
+							NOT = { is_core = AGS }
+						
+						}
+					
+					}
+					2333 = {
+						add_core = NBS
+					}
+					2399 = {
+						add_core = NBM
+					}
+					2334 = {
+						add_core = NBM
+					}
+				
+				}
+				
+				
+				
+				
+				release_vassal = RGT
+				release_vassal = NBM
+				release_vassal = HRU
+				release_vassal = AGS
+				release_vassal = NBS
+				
+				NWR_110 = {
+					add_core = AGS
+				}
+				NWR_110 = {
+					add_core = NBS
+				}
+				NWR_107 = {
+					add_core = AGS
+				}
+				NWR_107 = {
+					add_core = HNU
+				}
+				NWR_107 = {
+					add_core = RGT
+				}
+				NWR_112 = {
+					add_core = AGS
+				}
+				NWR_112 = {
+					add_core = NBS
+				}
+				NWR_113 = {
+					add_core = AGS
+				}
+				NWR_113 = {
+					add_core = NBM
+				}
+				
+				
+				
+				
+			}
+			
+			
+			1 = {
+				
+				
+			}
+			
+			1 = {
+			
+
+			
+			}
+		
+		}
+	}
+	
+	
+	
+	}
