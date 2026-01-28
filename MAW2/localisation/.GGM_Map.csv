@@ -281,7 +281,7 @@ PROV2146;Charbourg;;;;;;;;;;;;;x
 PROV223;Nouvelle Hérusalyem;;;;;;;;;;;;;x
 PROV237;De La Roche;;;;;;;;;;;;;x
 PROV224;St. Joseph;;;;;;;;;;;;;x
-PROV2627;Mont Rogue;;;;;;;;;;;;;x
+PROV2627;Mont Rouge;;;;;;;;;;;;;x
 PROV227;Duquesneville;;;;;;;;;;;;;x
 PROV217;Mont Cartier;;;;;;;;;;;;;x
 PROV215;Chincandoe;;;;;;;;;;;;;x
@@ -370,8 +370,8 @@ PROV216;La Vache;;;;;;;;;;;;;x
 PROV2249;Porto Negro;;;;;;;;;;;;;x
 PROV2248;Kampos;;;;;;;;;;;;;x
 PROV1876;Kapu Antipoda;;;;;;;;;;;;;x
-PROV2130;Insula Regis;;;;;;;;;;;;;x
-PROV2129;Hg. Augustine;;;;;;;;;;;;;x
+PROV2130;Insula Rikes;;;;;;;;;;;;;x
+PROV2129;St. Ulfilas;;;;;;;;;;;;;x
 PROV2132;St. Aksentis;;;;;;;;;;;;;x
 PROV2136;Insulas Kanaros;;;;;;;;;;;;;x
 PROV2134;Insulas Akiptre;;;;;;;;;;;;;x
@@ -385,6 +385,9 @@ PROV1894;Colona Basama;;;;;;;;;;;;;x
 PROV2135;Lekmanu;;;;;;;;;;;;;x
 PROV517;Porto Irkulas;;;;;;;;;;;;;x
 PROV2131;Nobva Britana and St. Linus;;;;;;;;;;;;;x
+PROV854;Melites;;;;;;;;;;;;;x
+PROV1498;Aeomonos;;;;;;;;;;;;;x
+PROV2647;Urbe Okuse;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
 PROV2423;Sud Lac Clotilde;;;;;;;;;;;;;x 
 PROV3115;Nord Lac Clotilde;;;;;;;;;;;;;x 
@@ -457,18 +460,30 @@ PROV3298;Lakuno Kane;;;;;;;;;;;;;x
 PROV2924;Mare Kanaros;;;;;;;;;;;;;x
 PROV2925;Coast of Wismaria;;;;;;;;;;;;;x
 PROV3032;Cape Antipodes Approach;;;;;;;;;;;;;x
-PROV3027;Cape Antipodes Basin;;;;;;;;;;;;;x
+PROV3207;Cape Antipodes Basin;;;;;;;;;;;;;x
 PROV3031;Dog Island Approach;;;;;;;;;;;;;x
 PROV3020;Sea of the Acriptines;;;;;;;;;;;;;x
 PROV2745;Gulf of Sitania;;;;;;;;;;;;;x
 PROV2746;Portas Irkulas;;;;;;;;;;;;;x
-PROV3053;West Regis Sea;;;;;;;;;;;;;x
-PROV3054;East Regis Sea;;;;;;;;;;;;;x
+PROV3053;West Rikes Sea;;;;;;;;;;;;;x
+PROV3054;East Rikes Sea;;;;;;;;;;;;;x
 PROV3058;Coast of St. Aksentis;;;;;;;;;;;;;x
-PROV3203;Coast of St. Augustine;;;;;;;;;;;;;x
+PROV3203;Coast of St. Ulfilas;;;;;;;;;;;;;x
 PROV3047;Linean Sea;;;;;;;;;;;;;x
 PROV3048;Litu Britana;;;;;;;;;;;;;x
 PROV3200;Coast of St. Linus;;;;;;;;;;;;;x
+PROV2747;Coast of Martana;;;;;;;;;;;;;x
+PROV2758;Kapu Ermemes;;;;;;;;;;;;;x
+PROV2755;Coast of Ippo;;;;;;;;;;;;;x
+PROV2759;Melites Channel;;;;;;;;;;;;;x
+PROV2776;Maeotic Lake;;;;;;;;;;;;;x
+PROV2777;East Euxine;;;;;;;;;;;;;x
+PROV2774;Gulf of Pomorie;;;;;;;;;;;;;x
+PROV2744;Sea of Sitana;;;;;;;;;;;;;x
+PROV3019;Hispanic Shelf;;;;;;;;;;;;;x
+PROV2923;Coast of Zenagia;;;;;;;;;;;;;x
+PROV3027;Current of the Dog;;;;;;;;;;;;;x
+PROV3279;Attea Lemne;;;;;;;;;;;;;x
 PROV2508;New Naxos;;;;;;;;;;;;;x ###### ABORIGINAL AUSTRALIA
 PROV2509;Te Tai Tokerau;;;;;;;;;;;;;x
 PROV2468;Kuring-Gai;;;;;;;;;;;;;x

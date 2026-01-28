@@ -214,7 +214,10 @@ latins = {
 				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto
 				}
 
-			last_names = { Rikesis Turis Tedokis Wultis Skarilis Mundis Vandalireges Runis Fredis }
+			last_names = { "de Ippo" "de Roma" "de Kasas" "de Utika" "de Jula" "de Belano" "de Mare"
+				"de Witlu"
+
+			}
     }
 	
 	narbonne = {

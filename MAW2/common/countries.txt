@@ -91,7 +91,7 @@ VDR		   ="countries/Vandalian Republic.txt"
 RGT		   ="countries/Regstere.txt"
 NBM		   ="countries/Nobvas Martana.txt"
 HRU		   ="countries/Huneru.txt"
-AGS		   ="countries/Augustina.txt"
+AGS		   ="countries/Ulfilas.txt"
 NBS		   ="countries/Nobva Batika.txt"
 NBA		   ="countries/Nobva Afrika.txt"
 

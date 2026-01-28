@@ -874,31 +874,31 @@
 #Port Arthur (80000/15000 POPS)
 1481 = {
     aristocrats = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 250
     }
 
     clergymen = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 150
     }
 
     artisans = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 750
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 150
     }
 
     farmers = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 13700
     }
@@ -13163,61 +13163,61 @@
     }
 
     aristocrats = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 5000
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 10250
     }
 
     officers = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 3500
     }
 
     clergymen = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 500
     }
 
     artisans = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 11000
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 3000
     }
 
     farmers = {
-        culture = manchu
+        culture = beifaren
         religion = mahayana
         size = 10750
     }
