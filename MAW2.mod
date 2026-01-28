@@ -1,5 +1,5 @@
 name = "Golgotha Mod"
-path = "mod/MAW2"
-user_dir = "MAW2"
+path = "mod/GGM"
+user_dir = "GGM"
 replace_path = "history/provinces"
 replace_path = "history/wars"

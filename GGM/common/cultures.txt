@@ -2071,7 +2071,7 @@ central_asian = {
     }
 
     siberian = {
-        color = {40 240 240}
+        color = {193 167 199}
         first_names = {
                Aleksandr Diniyar Mirsayet Sihabetdin Gabdull Afanasiy Viktor Grigory
         }
