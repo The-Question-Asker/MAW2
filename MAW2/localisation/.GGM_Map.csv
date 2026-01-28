@@ -98,7 +98,7 @@ PROV1761;Psoi;;;;;;;;;;;;;x
 PROV1772;Gurob;;;;;;;;;;;;;x
 PROV1755;Arsinoe;;;;;;;;;;;;;x
 EGY_1745;Lower Aegyptus;;;;;;;;;;;;;x
-PROV1725;Carthage;;;;;;;;;;;;;x
+PROV1725;Kartage;;;;;;;;;;;;;x
 PROV888;Acilisene;;;;;;;;;;;;;x
 PROV887;Theodosiopolis;;;;;;;;;;;;;x
 PROV891;Baghaghésh;;;;;;;;;;;;;x
@@ -138,30 +138,30 @@ PROV1735;Berenice;;;;;;;;;;;;;x
 PROV1734;Syrtis;;;;;;;;;;;;;x
 TUN_1726;Africa;;;;;;;;;;;;;x #Carthage
 PROV1726;Utica;;;;;;;;;;;;;x
-PROV1728;Hadrumetum;;;;;;;;;;;;;x
-PROV1727;Capsa;;;;;;;;;;;;;x
-PROV1730;Gigthis;;;;;;;;;;;;;x
+PROV1728;Adrumeto;;;;;;;;;;;;;x
+PROV1727;Kapaa;;;;;;;;;;;;;x
+PROV1730;Igtis;;;;;;;;;;;;;x
 PROV1686;Tingis;;;;;;;;;;;;;x
 PROV2590;Septem;;;;;;;;;;;;;x
 PROV1687;Tamuda;;;;;;;;;;;;;x
-PROV1688;Acrath;;;;;;;;;;;;;x
-PROV1689;Rusaddir;;;;;;;;;;;;;x
-PROV1709;Hippo Regius;;;;;;;;;;;;;x
-PROV1701;Saldae;;;;;;;;;;;;;x
-PROV1700;Icosium;;;;;;;;;;;;;x
-PROV1706;Cartenae;;;;;;;;;;;;;x
-PROV1704;Portus Magnus;;;;;;;;;;;;;x
+PROV1688;Akrate;;;;;;;;;;;;;x
+PROV1689;Rusadi;;;;;;;;;;;;;x
+PROV1709;Ippo Rego;;;;;;;;;;;;;x
+PROV1701;Saldi;;;;;;;;;;;;;x
+PROV1700;Ikosu;;;;;;;;;;;;;x
+PROV1706;Kartena;;;;;;;;;;;;;x
+PROV1704;Porto Magno;;;;;;;;;;;;;x
 PROV1705;Siga;;;;;;;;;;;;;x
-PROV1708;Cirta;;;;;;;;;;;;;x
-PROV1710;Vescera;;;;;;;;;;;;;x
+PROV1708;Kirta;;;;;;;;;;;;;x
+PROV1710;Beskera;;;;;;;;;;;;;x
 PROV1702;Setifis;;;;;;;;;;;;;x
 PROV1713;Djeifa;;;;;;;;;;;;;x
 PROV1707;Altava;;;;;;;;;;;;;x
 PROV1685;Sala;;;;;;;;;;;;;x
-PROV1682;Volubilis;;;;;;;;;;;;;x
-PROV1731;Thrasamundus;;;;;;;;;;;;;x #Leptis Magna
-PROV1733;Thubactis;;;;;;;;;;;;;x
-PROV1732;Tentheos;;;;;;;;;;;;;x
+PROV1682;Bolublis;;;;;;;;;;;;;x
+PROV1731;Trasamundu;;;;;;;;;;;;;x #Leptis Magna
+PROV1733;Traktis;;;;;;;;;;;;;x
+PROV1732;Tentho;;;;;;;;;;;;;x
 SPA_477;Cantabria;;;;;;;;;;;;;x
 POR_525;Sitana Mins;;;;;;;;;;;;;x
 SPA_492;West Tarracon;;;;;;;;;;;;;x
@@ -367,11 +367,21 @@ PROV210;Reposdeham;;;;;;;;;;;;;x
 PROV205;Citmouline;;;;;;;;;;;;;x
 PROV209;Ophilé;;;;;;;;;;;;;x
 PROV216;La Vache;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
-PROV2172;Tenostsktitlos;;;;;;;;;;;;;x
+PROV2249;Porto Negro;;;;;;;;;;;;;x
+PROV2248;Kampos;;;;;;;;;;;;;x
+PROV1876;Kapu Antipoda;;;;;;;;;;;;;x
+PROV2130;Insula Regis;;;;;;;;;;;;;x
+PROV2129;Hg. Augustine;;;;;;;;;;;;;x
+PROV2132;St. Aksentis;;;;;;;;;;;;;x
+PROV2136;Insulas Kanaros;;;;;;;;;;;;;x
+PROV2134;Insulas Akiptre;;;;;;;;;;;;;x
+PROV1784;Kartage Ultima;;;;;;;;;;;;;x
+PROV1783;Domo Serbenis;;;;;;;;;;;;;x
+PROV1785;Bankulo;;;;;;;;;;;;;x
+PROV1999;Urbe St. Saul;;;;;;;;;;;;;x
+PROV2003;Mirekis Kikongo;;;;;;;;;;;;;x
+PROV2003;Namibe;;;;;;;;;;;;;x
+PROV1894;Colona Basama;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
 PROV2423;Sud Lac Clotilde;;;;;;;;;;;;;x 
 PROV3115;Nord Lac Clotilde;;;;;;;;;;;;;x 
@@ -437,6 +447,22 @@ PROV2946;Détroit de Guillard;;;;;;;;;;;;;x
 PROV2947;Baie Impériale;;;;;;;;;;;;;x
 PROV3239;Vivemer;;;;;;;;;;;;;x
 PROV3256;Lac Cathais;;;;;;;;;;;;;x
+PROV3296;Lakuno Magno;;;;;;;;;;;;;x
+PROV3297;Lakuno Mino;;;;;;;;;;;;;x
+PROV3298;Lakuno Luto;;;;;;;;;;;;;x
+PROV3298;Lakuno Kane;;;;;;;;;;;;;x
+PROV2924;Mare Kanaros;;;;;;;;;;;;;x
+PROV2925;Coast of Wismaria;;;;;;;;;;;;;x
+PROV3032;Cape Antipodes Approach;;;;;;;;;;;;;x
+PROV3027;Cape Antipodes Basin;;;;;;;;;;;;;x
+PROV3031;Dog Island Approach;;;;;;;;;;;;;x
+PROV3020;Sea of the Acriptines;;;;;;;;;;;;;x
+PROV2745;Gulf of Sitania;;;;;;;;;;;;;x
+PROV2746;Portas Irkulas;;;;;;;;;;;;;x
+PROV3053;West Regis Sea;;;;;;;;;;;;;x
+PROV3054;East Regis Sea;;;;;;;;;;;;;x
+PROV3058;Coast of St. Aksentis;;;;;;;;;;;;;x
+PROV3203;Coast of St. Augustine;;;;;;;;;;;;;x
 PROV2508;New Naxos;;;;;;;;;;;;;x ###### ABORIGINAL AUSTRALIA
 PROV2509;Te Tai Tokerau;;;;;;;;;;;;;x
 PROV2468;Kuring-Gai;;;;;;;;;;;;;x
@@ -598,8 +624,8 @@ NWR_100;X;;;;;;;;;;;;;x
 NWR_101;X;;;;;;;;;;;;;x
 NWR_102;X;;;;;;;;;;;;;x
 NWR_103;X;;;;;;;;;;;;;x
-NWR_104;X;;;;;;;;;;;;;x
-NWR_105;X;;;;;;;;;;;;;x
+NWR_104;Tabajara;;;;;;;;;;;;;x
+NWR_105;Tupiniquim;;;;;;;;;;;;;x
 NWR_106;X;;;;;;;;;;;;;x
 NWR_107;X;;;;;;;;;;;;;x
 NWR_108;X;;;;;;;;;;;;;x
@@ -680,7 +706,7 @@ EGY_1771;Upper Aegyptus;;;;;;;;;;;;x
 north_america;Lothaire;;;;;;;;;;;;;
 south_america;Antipoedea;;;;;;;;;;;;;
 africa;Libya;;;;;;;;;;;;;
-FRA_1700;Numidia;;;;;;;;;;;;;
+FRA_1700;Numida;;;;;;;;;;;;;
 ALD_1704;East Martana;;;;;;;;;;;;;
 MOR_1686;West Martana;;;;;;;;;;;;;
 MOR_1688;Tingitana;;;;;;;;;;;;;
