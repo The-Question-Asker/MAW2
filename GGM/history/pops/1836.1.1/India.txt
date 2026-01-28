@@ -6977,31 +6977,31 @@
 #1303 - Goa (235000/58750 POPS)
 1303 = {
     aristocrats = {
-        culture = witlian
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     bureaucrats = {
-        culture = witlian
+        culture = roman
         religion = orthodox
         size = 25
     }
 
     clergymen = {
-        culture = witlian
+        culture = roman
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = witlian
+        culture = roman
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = witlian
+        culture = roman
         religion = orthodox
         size = 25
     }
