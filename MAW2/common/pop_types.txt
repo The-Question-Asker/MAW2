@@ -761,7 +761,6 @@ assimilation_chance =
         factor = -1
         OR = {
             has_pop_religion = yazidi
-            has_pop_religion = druze
             has_pop_religion = jewish
         }
         not = { religion = this }
@@ -901,7 +900,6 @@ conversion_chance =
             AND = {
                 OR = {
                     has_pop_religion = yazidi
-                    has_pop_religion = druze
                 }
                 location = { continent = oceania }
             }
@@ -913,31 +911,40 @@ conversion_chance =
         country = { civilized = no }
     }
 
-    modifier = {
-        factor = -1
-        country = { has_country_flag = umar_pact }
-        NOT = {
-            has_pop_religion = animist
-            has_pop_religion = shiite
-            has_pop_religion = sunni
-            has_pop_religion = ibadi
-        }
-    }
 
-    modifier = {
+    modifier = { 
         factor = -0.95
         OR = {
             has_pop_religion = jewish
-            has_pop_religion = mormon
-            has_pop_religion = shiite
-            has_pop_religion = sunni
-            has_pop_religion = ibadi
             AND = {
                 has_pop_religion = shinto
                 has_culture_core = yes
             }
         }
     }
+	
+	 modifier = { #mildly zealous
+        factor = -0.6
+        OR = {
+            has_pop_religion = arian
+            has_pop_religion = orthodox
+        }
+    }
+	
+	modifier = {
+		factor = 0.2 #highly syncretic
+		OR = {
+			has_pop_religion = orthodox
+			has_pop_religion = arian
+			has_pop_religion = mahayana
+			has_pop_religion = theravada
+			has_pop_religion = shinto
+		}
+		country = {
+			has_country_flag = manichaean_country
+		}
+	
+	}
 
     modifier = {
         factor = 0.8
