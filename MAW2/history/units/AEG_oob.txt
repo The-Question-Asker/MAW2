@@ -1,4 +1,69 @@
 
+# Diplomacy
+
+NEK = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+# Leaders
+
+leader = {
+    name = "Francisco Ptolemy"
+    date = 1833.1.1
+    type = land
+    personality = expert
+    background = war_college
+    prestige = 0.0
+}
+
+leader = {
+    name = "Leopoldo Ptolemy"
+    date = 1836.1.1
+    type = land
+    personality = efficient
+    background = rising_star
+    prestige = 0.0
+}
+
+leader = {
+    name = "Narv Pleistoneices"
+    date = 1836.1.1
+    type = land
+    personality = efficient
+    background = powerful_friends
+    prestige = 0.0
+}
+
+leader = {
+    name = "Ger nimo Vald s"
+    date = 1836.1.1
+    type = land
+    personality = competent
+    background = generals_aide
+    prestige = 0.0
+}
+
+leader = {
+    name = "Van Halen"
+    date = 1823.1.1
+    type = land
+    personality = merciless
+    background = adventurer
+    prestige = 0.1
+}
+
+leader = {
+    name = "Jos  Ram n Rodil"
+    date = 1824.1.1
+    type = sea
+    personality = merciless
+    background = adventurer
+    prestige = 0.1
+}
+
+# Armies
 
 army = {
     name = "Soudanese Army"
@@ -499,5 +564,52 @@ army = {
         name= "Cavalry Brigade"
         type = hussar
         home = 1887
+    }
+}
+
+# Navies
+
+navy = {
+    name = "Armada de Filipinas"
+    location = 1455
+
+    ship = {
+        name = "Alerta"
+        type = manowar
+    }
+
+    ship = {
+        name = "San Fernando"
+        type = manowar
+    }
+
+    ship = {
+        name = "Legazpi"
+        type = manowar
+    }
+
+    ship = {
+        name = "Victoria"
+        type = frigate
+    }
+
+    ship = {
+        name = "Nuestra Se ora del Patrocinio"
+        type = frigate
+    }
+
+    ship = {
+        name= "1a Flotilla de Transporte"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "2a Flotilla de Transporte"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3a Flotilla de Transporte"
+        type = clipper_transport
     }
 }
