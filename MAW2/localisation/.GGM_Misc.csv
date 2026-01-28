@@ -154,3 +154,40 @@ school_of_the_bayonet;Prize Fighter;;;;;;;;;;;;;x
 school_of_firepower;Doctor;;;;;;;;;;;;;x
 sucker;Fool;;;;;;;;;;;;;x
 brownnoser;Lackey;;;;;;;;;;;;x
+oil;Petroleum;;;;;;;;;;;;;x
+HAVE_LESS_VASSALS_THAN;have less vassals than;;;;;;;;;;;;;x
+HAVE_NOT_A_IN;An ocean borders ;;;;;;;;;;;;;x
+HAS_NO_COLONIES;has colonial territories.\n;x
+HAS_COLONIES;does not have colonial territories.\n;x
+HAS_GOODS;has goods;;;;;;;;;;;;;x
+YOU_LOST;§RBitter Defeat;x
+YOU_WON;§GImmortal Victory;x
+POP_DAILY_EVENT;Windfalls: §Y$VAL$§W¤;;;;;;;;;;;;;;x
+ballsy;Temerarious;;;;;;;;;;;;;x
+ANY_POP_IN_PROVINCE_STARTS;Any pop in province;x
+MODIFIER_POP_CONSCIOUSNESS_MODIFIER;Pop consciousness;x
+HAVE_INDUSTRIAL_SCORE_LESS_THAN;Have industrial score less than;;;;;;;;;;;;;x
+TRIGGER_STATE;State;x
+HAS_NO_MINORITIES;Has minorities;;;;;;;;;;;;;x
+RULE_DHONT;Parmenides' Method;x
+LOADING_MAP_SPRITES;Conjuring Yazatas...;x
+LOADING_GUI_DEF;Building the Second Temple...;x
+LOADING_DATABASES;Watching the Stars...;x
+LOADING_DATABASES2;Predicting Meteors...;x
+INIT_MAP_LOGIC;Discerning the Soul of Er...;x
+CREATING_CHKSUM;Discovering Monad...;x
+LOADING_HISTORY;Conquering Persia...;x
+LOADING_SOUNDS;Touching the Wounds of Christ...;x
+PROC_FLAGS;Destroying the Second Temple...;x
+EXECUTING_HISTORY;Taking Court with Yazdgerd...;x
+LOAD_FLAGS;Evangelising the Goths...;;x
+LOAD_GFX;Determining Synthetic Present...;x
+CREATING_THE_WORLD;Isolating Necessary Beings...;x
+CREATING_TREES;Planting Royal Gardens...;x
+CREATING_BORDERS;Settling Nomads...;x
+CREATING_RIVERS;Charting New Lands...;x
+MAP_PROPERLY_INIT;Judging Souls...;x
+CREATING_TEXTS;Silencing Dissenting Voices...;x
+LOAD_EVENTS;Cleaving Good from Evil...;x
+ADAPTING_HISTORY;Identifying Contigent Phenomena...x
+CALC_PATHS;Arranging Trans-World-Techno-Causal Laws;x
