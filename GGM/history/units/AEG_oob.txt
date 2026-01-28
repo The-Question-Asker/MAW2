@@ -10,57 +10,11 @@ NEK = {
 # Leaders
 
 leader = {
-    name = "Francisco Ptolemy"
+    name = "Amenophis Ptolemy"
     date = 1833.1.1
     type = land
-    personality = expert
-    background = war_college
-    prestige = 0.0
-}
-
-leader = {
-    name = "Leopoldo Ptolemy"
-    date = 1836.1.1
-    type = land
-    personality = efficient
-    background = rising_star
-    prestige = 0.0
-}
-
-leader = {
-    name = "Narv Pleistoneices"
-    date = 1836.1.1
-    type = land
-    personality = efficient
-    background = powerful_friends
-    prestige = 0.0
-}
-
-leader = {
-    name = "Ger nimo Vald s"
-    date = 1836.1.1
-    type = land
     personality = competent
-    background = generals_aide
-    prestige = 0.0
-}
-
-leader = {
-    name = "Van Halen"
-    date = 1823.1.1
-    type = land
-    personality = merciless
-    background = adventurer
-    prestige = 0.1
-}
-
-leader = {
-    name = "Jos  Ram n Rodil"
-    date = 1824.1.1
-    type = sea
-    personality = merciless
-    background = adventurer
-    prestige = 0.1
+    background = war_college
 }
 
 # Armies
@@ -349,31 +303,7 @@ army = {
 army = {
     name = "Army of Aegypt"
     location = 1751
-	
-    regiment = {
-        name= "Infantry Brigade"
-        type = infantry
-        home = 1750
-    }
-	
-    regiment = {
-        name= "Infantry Brigade"
-        type = infantry
-        home = 1750
-    }
-	
-    regiment = {
-        name= "Infantry Brigade"
-        type = infantry
-        home = 1750
-    }
-	
-    regiment = {
-        name= "Infantry Brigade"
-        type = infantry
-        home = 1750
-    }
-	
+		
     regiment = {
         name= "Infantry Brigade"
         type = infantry
@@ -567,49 +497,327 @@ army = {
     }
 }
 
-# Navies
+army = {
+    name = "Army of the Pharaoh"
+    location = 894
 
-navy = {
-    name = "Armada de Filipinas"
-    location = 1455
-
-    ship = {
-        name = "Alerta"
-        type = manowar
+    regiment = {
+        name= "Aegyptian Levies"
+        type = irregular
+        home = 1749
+    }
+	
+    regiment = {
+        name= "Aegyptian Levies"
+        type = irregular
+        home = 1749
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1748
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1748
     }
 
-    ship = {
-        name = "San Fernando"
-        type = manowar
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1746
+    }
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1746
     }
 
-    ship = {
-        name = "Legazpi"
-        type = manowar
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1746
     }
-
-    ship = {
-        name = "Victoria"
-        type = frigate
+	
+    regiment = {
+        name= "Infantry Brigade"
+        type = infantry
+        home = 1751
     }
-
-    ship = {
-        name = "Nuestra Se ora del Patrocinio"
-        type = frigate
+	
+    regiment = {
+        name= "Artillery Brigade"
+        type = artillery
+        home = 1751
     }
-
-    ship = {
-        name= "1a Flotilla de Transporte"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "2a Flotilla de Transporte"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "3a Flotilla de Transporte"
-        type = clipper_transport
+    regiment = {
+        name= "Cavalry Brigade"
+        type = hussar
+        home = 1751
     }
 }
+
+#######################
+####### Navies ########
+#######################
+ 
+navy = {
+	name = "The Red Sea Fleet"
+	location = 1771
+	ship = {
+		name= "Man-o-War"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Man-o-War"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+}
+
+navy = {
+	name = "The Goshen Armada"
+	location = 1751
+	ship = {
+		name= "Man-o-War"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Man-o-War"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frigate"
+		type = frigate
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+}
+
+
+
