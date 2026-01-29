@@ -224,6 +224,10 @@ country_event = {  #witlian self-gov
 				
 				}
 				
+				CFL = {
+					government = democracy
+				
+				}
 				
 				any_owned = {
 					limit = {
@@ -362,7 +366,11 @@ country_event = {  #witlian self-gov
 				}
 				
 				release_vassal = CFL
-			
+				
+				CFL = {
+					government = democracy
+				
+				}
 			}
 		
 		}
@@ -1105,6 +1113,14 @@ country_event = {  #central lothaire self-gov
 					government = democracy
 				
 				}
+				ISB = {
+					government = democracy
+				
+				}
+				NWM = {
+					government = democracy
+				
+				}
 				
 				NWR_79 = {
 					add_core = VDR
@@ -1371,6 +1387,14 @@ country_event = {  #central lothaire self-gov
 					government = democracy
 				
 				}
+				ISB = {
+					government = democracy
+				
+				}
+				NWM = {
+					government = democracy
+				
+				}
 				
 				NWR_79 = {
 					add_core = VDR
@@ -1528,6 +1552,11 @@ country_event = {  #central lothaire self-gov
 				}
 				
 				release_vassal = VDR
+				
+				VDR = {
+					government = democracy
+				
+				}
 			
 			}
 		
@@ -2289,6 +2318,15 @@ country_event = {  #antipodea self-gov
 					government = democracy
 				
 				}
+				AGS = {
+					government = democracy
+				
+				}
+				NBS = {
+					government = democracy
+				
+				}
+		
 				
 				NWR_110 = {
 					add_core = AGS
@@ -2906,6 +2944,19 @@ country_event = {  #antipodea self-gov
 				
 				}
 				
+				NBM = {
+					government = democracy
+				
+				}
+				AGS = {
+					government = democracy
+				
+				}
+				NBS = {
+					government = democracy
+				
+				}
+				
 				NWR_110 = {
 					add_core = AGS
 				}
@@ -3299,6 +3350,10 @@ country_event = {  #antipodea self-gov
 				
 				
 				HRU = {
+					government = democracy
+				
+				}
+				AGS = {
 					government = democracy
 				
 				}
