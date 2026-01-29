@@ -219,6 +219,11 @@ country_event = {  #witlian self-gov
 				
 				}
 				
+				RPM = {
+					government = democracy
+				
+				}
+				
 				
 				any_owned = {
 					limit = {
@@ -1096,6 +1101,11 @@ country_event = {  #central lothaire self-gov
 				release_vassal = ANK
 				
 				
+				ANK = {
+					government = democracy
+				
+				}
+				
 				NWR_79 = {
 					add_core = VDR
 				}
@@ -1357,6 +1367,11 @@ country_event = {  #central lothaire self-gov
 				release_vassal = NWM
 				release_vassal = ANK
 				
+				ANK = {
+					government = democracy
+				
+				}
+				
 				NWR_79 = {
 					add_core = VDR
 				}
@@ -1614,7 +1629,7 @@ country_event = {  #cent_lot ind_trig
 					tag = RGT
 					tag = NBM
 					tag = AGS
-					tag = HNU
+					tag = HRU
 					tag = NBS
 					tag = NSA
 				}
@@ -2270,6 +2285,11 @@ country_event = {  #antipodea self-gov
 				release_vassal = AGS
 				release_vassal = NBS
 				
+				HRU = {
+					government = democracy
+				
+				}
+				
 				NWR_110 = {
 					add_core = AGS
 				}
@@ -2876,6 +2896,16 @@ country_event = {  #antipodea self-gov
 				release_vassal = AGS
 				release_vassal = NBS
 				
+				HRU = {
+					government = democracy
+				
+				}
+				
+				RGT = {
+					government = democracy
+				
+				}
+				
 				NWR_110 = {
 					add_core = AGS
 				}
@@ -3267,6 +3297,11 @@ country_event = {  #antipodea self-gov
 				release_vassal = HRU
 				release_vassal = AGS
 				
+				
+				HRU = {
+					government = democracy
+				
+				}
 
 				NWR_107 = {
 					add_core = AGS
@@ -3546,6 +3581,11 @@ country_event = {  #antipodea self-gov
 				}
 				
 				release_vassal = NBA
+				
+				NBA = {
+					government = democracy
+				
+				}
 
 			
 			}
