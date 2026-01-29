@@ -179,8 +179,8 @@ AUS_641;West Dacia;;;;;;;;;;;;;x
 AUS_654;East Dacia;;;;;;;;;;;;;x
 NET_385;West Friesland;;;;;;;;;;;;;x
 FRA_418;Neustria;;;;;;;;;;;;;x
-FRA_448;Aquitaine;;;;;;;;;;;;;x
-FRA_458;Gascony;;;;;;;;;;;;;x
+FRA_448;Occitània;;;;;;;;;;;;;x
+FRA_458;Guienne;;;;;;;;;;;;;x
 FRA_420;Amorica;;;;;;;;;;;;;x
 PROV254;Baelfawst;;;;;;;;;;;;;x
 PROV255;Quercuagh;;;;;;;;;;;;;x
@@ -389,6 +389,69 @@ PROV2131;Nobva Britana and St. Linus;;;;;;;;;;;;;x
 PROV854;Melites;;;;;;;;;;;;;x
 PROV1498;Aeomonos;;;;;;;;;;;;;x
 PROV2647;Urbe Okuse;;;;;;;;;;;;;x
+PROV420;Le Nouchâteau;;;;;;;;;;;;;x
+PROV422;Condate;;;;;;;;;;;;;x
+PROV458;Bordèu;;;;;;;;;;;;;x
+PROV444;Engules;;;;;;;;;;;;;x
+PROV456;Muntalba;;;;;;;;;;;;;x
+PROV450;Caors;;;;;;;;;;;;;x
+PROV447;Tulel;;;;;;;;;;;;;x
+PROV445;Agustiol;;;;;;;;;;;;;x
+PROV446;Euric;;;;;;;;;;;;;x
+PROV448;Djarmons;;;;;;;;;;;;;x
+PROV452;Hors;;;;;;;;;;;;;x
+PROV451;Liyon;;;;;;;;;;;;;x
+PROV449;Orlhac;;;;;;;;;;;;;x
+PROV462;Rodés;;;;;;;;;;;;;x
+PROV461;Montpeller;;;;;;;;;;;;;x
+PROV463;Carcassona;;;;;;;;;;;;;x
+PROV464;Perpinyà;;;;;;;;;;;;;x
+PROV502;Illes Balears;;;;;;;;;;;;;x
+PROV453;Valença;;;;;;;;;;;;;x
+PROV468;Vau-Cluso;;;;;;;;;;;;;x
+PROV470;Touloun;;;;;;;;;;;;;x
+PROV467;Marsiglia;;;;;;;;;;;;;x
+PROV465;Èneci;;;;;;;;;;;;;x
+PROV466;Chambèri;;;;;;;;;;;;;x
+PROV454;Grainóvol;;;;;;;;;;;;;x
+PROV469;Dinha;;;;;;;;;;;;;x
+PROV472;Niça;;;;;;;;;;;;;x
+SAR_466;Savouè;;;;;;;;;;;;x
+FRA_461;Erau;;;;;;;;;;;;x
+FRA_467;Provença;;;;;;;;;;;;x
+FRA_445;Lemosin;;;;;;;;;;;;x
+FRA_451;Cimbra;;;;;;;;;;;;x
+PROV473;Còrsega;;;;;;;;;;;;;x
+PROV573;Sarrepons;;;;;;;;;;;;;x
+PROV572;Trèves;;;;;;;;;;;;;x
+PROV576;Aix-la-Chapelle;;;;;;;;;;;;;x
+PROV575;Childerie;;;;;;;;;;;;;x
+PRU_575;Nord Austrasia;;;;;;;;;;;;;x
+PROV571;Caseloutre;;;;;;;;;;;;;x
+NET_375;Lolland;;;;;;;;;;;;;x
+PROV375;Amsteldam;;;;;;;;;;;;;x
+PROV376;Den Zande;;;;;;;;;;;;;x
+PROV380;Prinsenbeek;;;;;;;;;;;;;x
+PROV378;Walchenburg;;;;;;;;;;;;;x
+PROV379;Nijmegen;;;;;;;;;;;;;x
+PROV390;Hetsteen;;;;;;;;;;;;;x
+PROV389;Gaunt;;;;;;;;;;;;;x
+PROV388;Brugge;;;;;;;;;;;;;x
+PROV387;Broeksl;;;;;;;;;;;;;x
+PROV394;Bergen;;;;;;;;;;;;;x
+PROV393;Doornik;;;;;;;;;;;;;x
+PROV399;Rijsel;;;;;;;;;;;;;x
+PROV400;Duinkerken;;;;;;;;;;;;;x
+PROV401;Atrecht;;;;;;;;;;;;;x
+FRA_404;Artesië;;;;;;;;;;;;;
+PRU_570;Sud Austrasia;;;;;;;;;;;;x
+PROV381;Maastricht;;;;;;;;;;;;;x
+PROV391;Huj;;;;;;;;;;;;;x
+PROV395;Luik;;;;;;;;;;;;;x
+PROV396;Malmoendt;;;;;;;;;;;;;x
+PROV398;Knipchen;;;;;;;;;;;;;x
+PROV392;Namen;;;;;;;;;;;;;x
+PROV397;Luxemburg;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
 PROV2423;Sud Lac Clotilde;;;;;;;;;;;;;x 
 PROV3115;Nord Lac Clotilde;;;;;;;;;;;;;x 
@@ -485,6 +548,10 @@ PROV3019;Hispanic Shelf;;;;;;;;;;;;;x
 PROV2923;Coast of Zenagia;;;;;;;;;;;;;x
 PROV3027;Current of the Dog;;;;;;;;;;;;;x
 PROV3279;Attea Lemne;;;;;;;;;;;;;x
+PROV2749;Golf del Lleó;;;;;;;;;;;;;x
+PROV2750;Ribiera Roman;;;;;;;;;;;;;x
+PROV2729;Coast of Guienne;;;;;;;;;;;;;x
+PROV2728;Mouth of the Loire;;;;;;;;;;;;;x
 PROV2508;New Naxos;;;;;;;;;;;;;x ###### ABORIGINAL AUSTRALIA
 PROV2509;Te Tai Tokerau;;;;;;;;;;;;;x
 PROV2468;Kuring-Gai;;;;;;;;;;;;;x
