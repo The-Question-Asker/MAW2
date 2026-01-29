@@ -449,6 +449,19 @@ country_event = {  #witlian ind_trig
 		
 		}
 		
+		modifier = {
+			factor = 0.2
+			any_neighbor_country = { 
+				OR = {
+					tag = RPM
+					tag = CFL
+					tag = PHO
+				}
+				is_independant = yes
+			}
+		
+		}
+		
 	
 	}
 	
@@ -1525,7 +1538,7 @@ country_event = {  #cent_lot ind_trig
 			tag = RGT
 			tag = NBM
 			tag = AGS
-			tag = HNU
+			tag = HRU
 			tag = NBS
 			tag = NSA
 		}
@@ -1586,6 +1599,26 @@ country_event = {  #cent_lot ind_trig
 			any_neighbor_country = { 
 				war_with = HNU
 			
+			}
+		
+		}
+		
+		modifier = {
+			factor = 0.2
+			any_neighbor_country = { 
+				OR = {
+					tag = VDR
+					tag = ISB
+					tag = NWM
+					tag = ANK
+					tag = RGT
+					tag = NBM
+					tag = AGS
+					tag = HNU
+					tag = NBS
+					tag = NSA
+				}
+				is_independant = yes
 			}
 		
 		}
@@ -1924,10 +1957,498 @@ country_event = {  #antipodea self-gov
 		random_list = {
 			
 			
+			30 = {
+				
+				
+				
+				NWR_106 = {
+					add_core = AGS
+				}
+				
+				NWR_108 = {
+					add_core = AGS
+				}
+				
+				NWR_102 = {
+					add_core = HRU
+				}
+				NWR_103 = {
+					add_core = HRU
+				}
+				NWR_101 = {
+					add_core = HRU
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2408
+						}
+					
+					}
+					NWR_99 = {
+						add_core = HRU
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2417
+						}
+					
+					}
+					NWR_98 = {
+						add_core = HRU
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2377
+						}
+					
+					}
+					NWR_100 = {
+						add_core = HRU
+					}
+				
+				}
+				
+				NWR_109 = {
+					add_core = AGS
+				}
+				
+				NWR_111 = {
+					add_core = NBS
+				}
+				
+				random_list = {
+					50 = {
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_110
+										any_neighbor_province = { 
+											is_core = AGS
+										
+										}
+										NOT = {
+											is_core = AGS
+										}
+									}
+									add_core = AGS
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_110
+									NOT = {
+										is_core = AGS
+									}
+								}
+								add_core = NBS
+							}
+						
+						}
+						
+					
+					}
+					
+					50 = {
+						
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_110
+										any_neighbor_province = { 
+											is_core = NBS
+										
+										}
+										NOT = {
+											is_core = NBS
+										}
+									}
+									add_core = NBS
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_110
+									NOT = {
+										is_core = NBS
+									}
+								}
+								add_core = AGS
+							}
+						
+						}
+					
+					}
+				
+				}
+				
+				random_list = {
+					50 = {
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = AGS
+										
+										}
+										NOT = {
+											is_core = AGS
+										}
+									}
+									add_core = AGS
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_107
+									NOT = {
+										is_core = AGS
+									}
+								}
+								add_core = HRU
+							}
+						
+						}
+						
+					
+					}
+					
+					50 = {
+						
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = HRU
+										
+										}
+										NOT = {
+											is_core = HRU
+										}
+									}
+									add_core = HRU
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_107
+									NOT = {
+										is_core = HRU
+									}
+								}
+								add_core = AGS
+							}
+						
+						}
+					
+					}
+				
+				}
+				
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+						2387 = {
+							is_core = AGS
+						}
+
+					}
+					NWR_112 = {
+						add_core = AGS
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+						2324 = {
+							NOT = {
+								is_core = AGS
+							}
+						}
+					
+					}
+					NWR_112 = {
+						add_core = NBS
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+					}
+	
+					NWR_113 = {
+						add_core = AGS
+					}
+						
+					
+				
+				}
+				
+				
+				if = {
+					limit = {
+						2396 = {
+							is_core = AGS
+						
+						}
+					
+					}
+					2333 = {
+						add_core = AGS
+					}
+					2399 = {
+						add_core = AGS
+					}
+					2334 = {
+						add_core = AGS
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						2396 = {
+							NOT = { is_core = AGS }
+						
+						}
+					
+					}
+					2333 = {
+						add_core = NBS
+					}
+					2399 = {
+						add_core = NBS
+					}
+					2334 = {
+						add_core = NBS
+					}
+				
+				}
+				
+				
+				
+				
+				#release_vassal = RGT
+				#release_vassal = NBM
+				release_vassal = HRU
+				release_vassal = AGS
+				release_vassal = NBS
+				
+				NWR_110 = {
+					add_core = AGS
+				}
+				NWR_110 = {
+					add_core = NBS
+				}
+				NWR_107 = {
+					add_core = AGS
+				}
+				NWR_107 = {
+					add_core = HRU
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+
+					}
+					NWR_112 = {
+						add_core = AGS
+					}
+					NWR_112 = {
+						add_core = NBS
+					}
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+
+					}
+					NWR_113 = {
+						add_core = AGS
+					}
+					NWR_113 = {
+						add_core = NBS
+					}
+					
+				}
+				
+				
+				
+				
+				
+				NWR_106 = {
+					add_core = NBA
+				}
+				
+				NWR_110 = {
+					add_core = NBA
+				}
+				
+				NWR_107 = {
+					add_core = NBA
+				}
+				
+				NWR_112 = {
+					add_core = NBA
+				}
+				
+				NWR_113 = {
+					add_core = NBA
+				}
+				
+				NWR_108 = {
+					add_core = NBA
+				}
+				
+				NWR_102 = {
+					add_core = NBA
+				}
+				NWR_103 = {
+					add_core = NBA
+				}
+				NWR_101 = {
+					add_core = NBA
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2408
+						}
+					
+					}
+					NWR_99 = {
+						add_core = NBA
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2417
+						}
+					
+					}
+					NWR_98 = {
+						add_core = NBA
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2377
+						}
+					
+					}
+					NWR_100 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+
+					}
+					NWR_112 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+					}
+	
+					NWR_113 = {
+						add_core = NBA
+					}
+						
+					
+				
+				}
+				
+				NWR_109 = {
+					add_core = NBA
+				}
+				
+				NWR_111 = {
+					add_core = NBA
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2333
+						}
+					
+					}
+					2333 = {
+						add_core = NBA
+					}
+					2399 = {
+						add_core = NBA
+					}
+					2334 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				
+			}
+			
 			40 = {
-				
-				
-				
 				NWR_106 = {
 					add_core = RGT
 				}
@@ -2071,14 +2592,14 @@ country_event = {  #antipodea self-gov
 									limit = {
 										region = NWR_107
 										any_neighbor_province = { 
-											is_core = HNU
+											is_core = HRU
 										
 										}
 										NOT = {
-											is_core = HNU
+											is_core = HRU
 										}
 									}
-									add_core = HNU
+									add_core = HRU
 								}
 							}
 						
@@ -2094,7 +2615,7 @@ country_event = {  #antipodea self-gov
 										}
 										NOT = {
 											is_core = RGT
-											is_core = HNU
+											is_core = HRU
 										}
 									}
 									add_core = RGT
@@ -2109,7 +2630,7 @@ country_event = {  #antipodea self-gov
 									region = NWR_107
 									NOT = {
 										is_core = RGT
-										is_core = HNU
+										is_core = HRU
 									}
 								}
 								add_core = AGS
@@ -2146,15 +2667,15 @@ country_event = {  #antipodea self-gov
 									limit = {
 										region = NWR_107
 										any_neighbor_province = { 
-											is_core = HNU
+											is_core = HRU
 										
 										}
 										NOT = {
 											is_core = AGS
-											is_core = HNU
+											is_core = HRU
 										}
 									}
-									add_core = HNU
+									add_core = HRU
 								}
 							}
 						
@@ -2166,7 +2687,7 @@ country_event = {  #antipodea self-gov
 									region = NWR_107
 									NOT = {
 										is_core = AGS
-										is_core = HNU
+										is_core = HRU
 									}
 								}
 								add_core = RGT
@@ -2202,15 +2723,15 @@ country_event = {  #antipodea self-gov
 									limit = {
 										region = NWR_107
 										any_neighbor_province = { 
-											is_core = HNU
+											is_core = HRU
 										
 										}
 										NOT = {
 											is_core = RGT
-											is_core = HNU
+											is_core = HRU
 										}
 									}
-									add_core = HNU
+									add_core = HRU
 								}
 							}
 						
@@ -2222,7 +2743,7 @@ country_event = {  #antipodea self-gov
 									region = NWR_107
 									NOT = {
 										is_core = RGT
-										is_core = HNU
+										is_core = HRU
 									}
 								}
 								add_core = AGS
@@ -2365,7 +2886,7 @@ country_event = {  #antipodea self-gov
 					add_core = AGS
 				}
 				NWR_107 = {
-					add_core = HNU
+					add_core = HRU
 				}
 				NWR_107 = {
 					add_core = RGT
@@ -2534,14 +3055,361 @@ country_event = {  #antipodea self-gov
 				}
 				
 				
-			}
-			
-			30 = {
-				
 				
 			}
 			
 			20 = {
+				NWR_106 = {
+					add_core = AGS
+				}
+				
+				NWR_108 = {
+					add_core = AGS
+				}
+				
+				NWR_102 = {
+					add_core = HRU
+				}
+				NWR_103 = {
+					add_core = HRU
+				}
+				NWR_101 = {
+					add_core = HRU
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2408
+						}
+					
+					}
+					NWR_99 = {
+						add_core = HRU
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2417
+						}
+					
+					}
+					NWR_98 = {
+						add_core = HRU
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2377
+						}
+					
+					}
+					NWR_100 = {
+						add_core = HRU
+					}
+				
+				}
+				
+				NWR_109 = {
+					add_core = AGS
+				}
+				
+				NWR_111 = {
+					add_core = AGS
+				}
+				
+				NWR_110 = {
+					add_core = AGS
+				}
+				
+				
+				
+				random_list = {
+					50 = {
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = AGS
+										
+										}
+										NOT = {
+											is_core = AGS
+										}
+									}
+									add_core = AGS
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_107
+									NOT = {
+										is_core = AGS
+									}
+								}
+								add_core = HRU
+							}
+						
+						}
+						
+					
+					}
+					
+					50 = {
+						
+						for4 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_107
+										any_neighbor_province = { 
+											is_core = HRU
+										
+										}
+										NOT = {
+											is_core = HRU
+										}
+									}
+									add_core = HRU
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_107
+									NOT = {
+										is_core = HRU
+									}
+								}
+								add_core = AGS
+							}
+						
+						}
+					
+					}
+				
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+						2387 = {
+							is_core = AGS
+						}
+
+					}
+					NWR_112 = {
+						add_core = AGS
+					}
+				
+				}
+				
+
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+						2324 = {
+							is_core = AGS
+						}
+					}
+	
+					NWR_113 = {
+						add_core = AGS
+					}
+						
+					
+				
+				}
+				
+
+				
+				if = {
+					limit = {
+						2396 = {
+							is_core = AGS
+						
+						}
+					
+					}
+					2333 = {
+						add_core = AGS
+					}
+					2399 = {
+						add_core = AGS
+					}
+					2334 = {
+						add_core = AGS
+					}
+				
+				}
+				
+
+				
+				
+				
+				
+				release_vassal = HRU
+				release_vassal = AGS
+				
+
+				NWR_107 = {
+					add_core = AGS
+				}
+				NWR_107 = {
+					add_core = HRU
+				}
+
+				
+
+				
+				
+				
+				
+				
+				NWR_106 = {
+					add_core = NBA
+				}
+				
+				NWR_110 = {
+					add_core = NBA
+				}
+				
+				NWR_107 = {
+					add_core = NBA
+				}
+				
+				NWR_112 = {
+					add_core = NBA
+				}
+				
+				NWR_113 = {
+					add_core = NBA
+				}
+				
+				NWR_108 = {
+					add_core = NBA
+				}
+				
+				NWR_102 = {
+					add_core = NBA
+				}
+				NWR_103 = {
+					add_core = NBA
+				}
+				NWR_101 = {
+					add_core = NBA
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2408
+						}
+					
+					}
+					NWR_99 = {
+						add_core = NBA
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2417
+						}
+					
+					}
+					NWR_98 = {
+						add_core = NBA
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2377
+						}
+					
+					}
+					NWR_100 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+
+					}
+					NWR_112 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+					}
+	
+					NWR_113 = {
+						add_core = NBA
+					}
+						
+					
+				
+				}
+				
+				NWR_109 = {
+					add_core = NBA
+				}
+				
+				NWR_111 = {
+					add_core = NBA
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2333
+						}
+					
+					}
+					2333 = {
+						add_core = NBA
+					}
+					2399 = {
+						add_core = NBA
+					}
+					2334 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				
 				
 				
 			}
@@ -2704,7 +3572,7 @@ country_event = {  #hnu_colonial_congress_pres
 			tag = RGT
 			tag = NBM
 			tag = AGS
-			tag = HNU
+			tag = HRU
 			tag = NBS
 			tag = NSA
 		}
@@ -2975,7 +3843,7 @@ country_event = {  #hnu_colonial_congress_dem
 			tag = RGT
 			tag = NBM
 			tag = AGS
-			tag = HNU
+			tag = HRU
 			tag = NBS
 			tag = NSA
 		}
