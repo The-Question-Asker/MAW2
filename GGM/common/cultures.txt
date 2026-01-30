@@ -222,17 +222,22 @@ latins = {
 				Konrado Ernesto Franzisko Ernando Karlo Pako Ramon Rodolfo Albaro
 				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
 				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
-				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Loviglo
+				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Lobiglo
 				Recaredo Witerico Gundemaro Sisebuto Kindavinto Ervigo Rodrigo Todorico Karlo Luivo
 				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
-				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lovmondo Lovfodo Bados Badofrodo
+				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lobmondo Lobfodo Bados Badofrodo
 				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
-				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto
+				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto Bado Gunta Ifroia 
+				"Froi Lodobigo" "Froi Ragomund" "Froi Anbalo"
 				}
 
 			last_names = { "de Ippo" "de Roma" "de Kasas" "de Utika" "de Jula" "de Belano" "de Mare"
-				"de Witlu"
-
+				"de Witlu" "de Ales" "de Goto" "de Alana" "de Vandale" "de Ispana" "de Klada" "de Otila"
+				"de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
+				"Plebe" "Geteke" "Biro" "Didomo" "Pindaro" "Sulpiko" "de Ifrogatere" "de Badotere"
+				"de Provinkes" Prikepeke Bloma "de Astra" Tulus Wilaia Wulta "de Walla" Wallabiro
+				Tulabiro Romabiro Punobiro
+ 
 			}
     }
 	
@@ -611,7 +616,10 @@ colonial_african_culture = {
 				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto
 				}
 
-			last_names = {  }
+			last_names = { "de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
+				"Plebe" "Geteke" "Biro" "Didomo" "Pindaro" "Sulpiko" "de Ifrogatere" "de Badotere"
+				"de Provinkes" Prikepeke Bloma "de Astra" Tulus Wilaia Wulta "de Walla" Wallabiro
+				Tulabiro Romabiro Punobiro }
     }
 	
 	
@@ -631,7 +639,10 @@ colonial_african_culture = {
 				}
 
 			last_names = { Font "Garkia Madero" Maples Ksotil Agriko Quim Kotal Akre Moreno Kuarjis 
-				Filla Zapoteki Zapotis 
+				Filla Zapoteki Zapotis "de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
+				"Plebe" "Geteke" "Biro" "Didomo" "Pindaro" "Sulpiko" "de Ifrogatere" "de Badotere"
+				"de Provinkes" Prikepeke Bloma "de Astra" Tulus Wilaia Wulta "de Walla" Wallabiro
+				Tulabiro Romabiro Punobiro
 
 			}
     }
@@ -649,7 +660,10 @@ colonial_african_culture = {
 				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
 				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto }
 
-			last_names = {  }
+			last_names = {  "de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
+				"Plebe" "Geteke" "Biro" "Didomo" "Pindaro" "Sulpiko" "de Ifrogatere" "de Badotere"
+				"de Provinkes" Prikepeke Bloma "de Astra" Tulus Wilaia Wulta "de Walla" Wallabiro
+				Tulabiro Romabiro Punobiro }
     }
 }
 
