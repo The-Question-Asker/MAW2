@@ -2,7 +2,6 @@ owner = PRS
 controller = PRS
 add_core = PRS
 add_core = BAB
-add_core = BNB
 add_core = KDS
 trade_goods = grain
 life_rating = 35
