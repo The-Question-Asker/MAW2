@@ -4143,229 +4143,173 @@ country_event = {  #hnu_colonial_congress_dem
 
 
 
-#country_event = {  #liberate_recolonised_land_trigger
-#	id = 49982
-#	title = "EVTNAME49982" 
-#	desc = "EVTDESC49982"
-#	#picture = "independence_dec"
-#	
-#	trigger = {
-#		
-#		OR = {
-#			tag = ISB
-#			tag = NWM
-#			tag = ANK
-#			tag = RGT
-#			tag = NBM
-#			tag = AGS
-#			tag = HRU
-#			tag = NBS
-#		}
-#		
-#		OR = {
-#			has_global_flag = CLT_RELEASED
-#			has_global_flag = NFA_RELEASED
-#		
-#		}
-#		
-#		any_owned_province = {
-#			any_neighbor_province = {
-#				owned_by = HNU
-#				OR = {
-#				
-#					AND = {
-#						is_core = ISB
-#						NOT = {
-#							exists = ISB
-#						}
-#					}
-#					AND = {
-#						is_core = NWM
-#						NOT = {
-#							exists = NWM
-#						}
-#					}
-#					AND = {
-#						is_core = ANK
-#						NOT = {
-#							exists = ANK
-#						}
-#					}
-#					AND = {
-#						is_core = RGT
-#						NOT = {
-#							exists = RGT
-#						}
-#					}
-#					AND = {
-#						is_core = NBM
-#						NOT = {
-#							exists = NBM
-#						}
-#					}
-#					AND = {
-#						is_core = AGS
-#						NOT = {
-#							exists = AGS
-#						}
-#					}
-#					AND = {
-#						is_core = HRU
-#						NOT = {
-#							exists = HRU
-#						}
-#					}
-#					AND = {
-#						is_core = NBS
-#						NOT = {
-#							exists = NBS
-#						}
-#					}
-#				}
-#			}
-#		
-#		}
-#		
-#	}
-#	
-#	mean_time_to_happen = {
-#		monthts = 900
-#	
-#	}
-#	
-#	option = {
-#		name = "Accept the restults of the election and move to occupy these lands."
-#		badboy = 2
-#		prestige = 10
-#		HNU = {
-#			country_event = {
-#				id = 49981
-#				days = 10
-#			
-#			}
-#		
-#		}
-#	}
-#	
-#	option = {
-#		name = "We cannot risk our own liberty for theirs..."
-#		prestige = -10
-#	
-#		HNU = {
-#			country_event = {
-#				id = 49980
-#				days = 10
-#			
-#			}
-#		
-#		}
-#	
-#	
-#	}
-#	
-#	
-#}
-#
-#country_event = {  #liberate_recolonised_land_recieved
-#	id = 49981
-#	title = "EVTNAME49981" 
-#	desc = "EVTDESC49981"
-#	#picture = "independence_dec"
-#	
-#	is_triggered_only = yes
-#	
-#	option = {
-#		name = "Damn these dogs!"
-#		
-#		if = {
-#			limit = {
-#				FROM = {
-#					any_owned_province = {
-#						any_neighbor_province = {
-#							NOT = {
-#								owned_by = FROM
-#							}
-#							is_core = RGT
-#						}
-#					}
-#				}
-#			}
-#			RGT = {
-#				all_core = {
-#					add_core = FROM
-#				}
-#			}
-#		
-#		}
-#		
-#			
-#		FROM = {
-#			
-#				add_casus_belli = {
-#					target = HNU
-#					type = acquire_all_cores
-#					months = 12
-#				}
-#			}
-#		FROM = {
-#			war = {
-#				target = HNU
-#				attacker_goal = { casus_belli = acquire_all_cores }
-#				call_ally = yes
-#			}
-#		}
-#		
-#	}
-#	
-#	
-#}
-#
-#country_event = {  #liberate_recolonised_land_refused
-#	id = 49980
-#	title = "EVTNAME49980" 
-#	desc = "EVTDESC49980"
-#	#picture = "independence_dec"
-#	
-#	is_triggered_only = yes
-#	
-#	option = {
-#		name = "Damn these dogs!"
-#			random_country = {
-#				limit = {
-#					OR = {
-#						tag = ISB
-#						tag = NWM
-#						tag = ANK
-#						tag = RGT
-#						tag = NBM
-#						tag = AGS
-#						tag = HRU
-#						tag = NBS
-#					}
-#					exists = no
-#					any_core = {
-#						any_neighbor_province = {
-#							owned_by = FROM
-#						
-#						}
-#					
-#					}
-#					
-#					
-#					
-#				
-#				}
-#				all_core = {
-#						any_pops = {
-#							militancy = 5
-#							consciousness = 5
-#						}
-#					
-#					}
-#			}
-#					
-#				
-#				
-#			
-#		}
-#	}
+country_event = {  #liberate_recolonised_land_trigger
+	id = 49982
+	title = "EVTNAME49982" 
+	desc = "EVTDESC49982"
+	#picture = "independence_dec"
+	
+	trigger = {
+		
+		tag = HNU
+		
+		OR = {
+			has_global_flag = CLT_RELEASED
+			has_global_flag = NFA_RELEASED
+		
+		}
+		
+		any_owned_province = {
+		OR = {
+		
+			AND = {
+				is_core = ISB
+				NOT = {
+					exists = ISB
+				}
+			}
+			AND = {
+				is_core = NWM
+				NOT = {
+					exists = NWM
+				}
+			}
+			AND = {
+				is_core = ANK
+				NOT = {
+					exists = ANK
+				}
+			}
+			AND = {
+				is_core = RGT
+				NOT = {
+					exists = RGT
+				}
+			}
+			AND = {
+				is_core = NBM
+				NOT = {
+					exists = NBM
+				}
+			}
+			AND = {
+				is_core = AGS
+				NOT = {
+					exists = AGS
+				}
+			}
+			AND = {
+				is_core = HRU
+				NOT = {
+					exists = HRU
+				}
+			}
+			AND = {
+				is_core = NBS
+				NOT = {
+					exists = NBS
+				}
+			}
+
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		monthts = 100
+	
+	}
+	
+	option = {
+		name = "Damn these ungrateful dogs!"
+		
+		for4 = {
+			THIS = {
+				random_owned = {
+					limit = {
+						OR = {
+						
+							AND = {
+								is_core = ISB
+								NOT = {
+									exists = ISB
+								}
+							}
+							AND = {
+								is_core = NWM
+								NOT = {
+									exists = NWM
+								}
+							}
+							AND = {
+								is_core = ANK
+								NOT = {
+									exists = ANK
+								}
+							}
+							AND = {
+								is_core = RGT
+								NOT = {
+									exists = RGT
+								}
+							}
+							AND = {
+								is_core = NBM
+								NOT = {
+									exists = NBM
+								}
+							}
+							AND = {
+								is_core = AGS
+								NOT = {
+									exists = AGS
+								}
+							}
+							AND = {
+								is_core = HRU
+								NOT = {
+									exists = HRU
+								}
+							}
+							AND = {
+								is_core = NBS
+								NOT = {
+									exists = NBS
+								}
+							}
+				
+						}
+					
+					}
+					
+					any_pop = {
+						limit = {
+							OR = {
+								has_pop_culture = colonial_new_african
+								has_pop_culture = colonial_vandal
+								has_pop_culture = colonial_african_mixed
+							
+							}
+						
+						}
+						scaled_militancy = {
+							ideology = liberal
+							factor = 9
+							
+						
+						}
+					
+					}
+				
+				}
+			}
+		}
+	
+	}
+	
+	
+	
+}
+
+
+
