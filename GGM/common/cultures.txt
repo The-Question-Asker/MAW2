@@ -223,12 +223,15 @@ latins = {
 				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
 				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
 				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Lobiglo
-				Recaredo Witerico Gundemaro Sisebuto Kindavinto Ervigo Rodrigo Todorico Karlo Luivo
+				Recaredo Witerico Gundemaro Sisebuto Kindavinto Ervigo Rodrigo Todorico Karlo Luibo
 				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
 				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lobmondo Lobfodo Bados Badofrodo
 				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
 				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto Bado Gunta Ifroia 
-				"Froi Lodobigo" "Froi Ragomund" "Froi Anbalo"
+				"Froi Lodobigo" "Froi Ragomund" "Froi Anbalo" Iosepe Iosus Petros Linos Ulfila 
+				Abramo Abrentos Ionanes Isak Dabid Gabreleke Angelos Gabrele Markos Matteios 
+				Aleksandros Nikodemos Isidore Didimos Simone Iotsuia Motses Kasar Iames Bartolomo
+				Tselotos Tadeio Sal Samul Itsekel
 				}
 
 			last_names = { "de Ippo" "de Roma" "de Kasas" "de Utika" "de Jula" "de Belano" "de Mare"
@@ -236,7 +239,7 @@ latins = {
 				"de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
 				"Plebe" "Geteke" "Biro" "Didomo" "Pindaro" "Sulpiko" "de Ifrogatere" "de Badotere"
 				"de Provinkes" Prikepeke Bloma "de Astra" Tulus Wilaia Wulta "de Walla" Wallabiro
-				Tulabiro Romabiro Punobiro
+				Tulabiro Romabiro Punobiro "de Maria" "de Anna"
  
 			}
     }
@@ -613,10 +616,15 @@ colonial_african_culture = {
 				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
 				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lovmondo Lovfodo Bados Badofrodo
 				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
-				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto
+				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto Iosepe Iosus Petros Linos Ulfila 
+				Abramo Abrentos Ionanes Isak Dabid Gabreleke Angelos Gabrele Markos Matteios 
+				Aleksandros Nikodemos Isidore Didimos Simone Iotsuia Motses Kasar Iames Bartolomo
+				Tselotos Tadeio Sal Samul Itsekel
 				}
 
-			last_names = { "de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
+			last_names = { "de Skarila" "de Nata" "de Afrika" "de Anakauja" "de Wismaru" 
+				"de Klada" "de Kornela" "de Serbeia" "de Semperona"
+				"de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
 				"Plebe" "Geteke" "Biro" "Didomo" "Pindaro" "Sulpiko" "de Ifrogatere" "de Badotere"
 				"de Provinkes" Prikepeke Bloma "de Astra" Tulus Wilaia Wulta "de Walla" Wallabiro
 				Tulabiro Romabiro Punobiro }
@@ -625,24 +633,28 @@ colonial_african_culture = {
 	
 	colonial_african_mixed = { #colonial vandal mixed
 	  color = { 181 181 107 }
-        	first_names = { Ablarde Adolfo Alono Trismundo Irike Tudiseke Todismondo
-				Konrado Ernesto Franzisko Ernando Karlo Pako Ramon Rodolfo Albaro
-				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
-				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
-				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Loviglo
+        	first_names = { Ablarde Hadolfo Adolfo Halono Alano Trismundo Irike Tudiseke Todismondo
+				Konrado Hernesto Franzisko Hernando Karlo Pako Ramon Rodolfo Albaro
+				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Hanbalo Magos 
+				Ermenegildo Tedoriko Ramiro Ferdinando Hildefonso Ferdonando Tsamaro
+				Wallo Alarike Gesaleke Hamlariko Teudike Hagoske Hantagildo Loviglo
 				Recaredo Witerico Gundemaro Sisebuto Kindavinto Ervigo Rodrigo Todorico Karlo Luivo
 				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
 				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lovmondo Lovfrodo Bados Badofrodo
-				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
-				Tseksto Julo Clado Aplo Atlo Ijarbo Moctezuma Madero Ulises Arturo Roberto
-				Chotolek Quetzal 
+				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Hugerto Massano Kartele
+				Tseksto Julo Clado Aplo Atlo Hijarbo Moctestuma Madero Ulises Arturo Roberto
+				Chotolek Quettsal Yatkstil Itsamna Yatskin Itskin Cuauhtemoc Itscotl Iotil Irnan Kesaro Iosepe Iosus Petros Linos Ulfila 
+				Abramo Abrentos Ionanes Isak Dabid Gabreleke Angelos Gabrele Markos Matteios 
+				Aleksandros Nikodemos Isidore Didimos Simone Iotsuia Motses Kasar Iames Bartolomo
+				Tselotos Tadeio Sal Samul Itsekel
 				}
 
 			last_names = { Font "Garkia Madero" Maples Ksotil Agriko Quim Kotal Akre Moreno Kuarjis 
 				Filla Zapoteki Zapotis "de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
 				"Plebe" "Geteke" "Biro" "Didomo" "Pindaro" "Sulpiko" "de Ifrogatere" "de Badotere"
 				"de Provinkes" Prikepeke Bloma "de Astra" Tulus Wilaia Wulta "de Walla" Wallabiro
-				Tulabiro Romabiro Punobiro
+				Tulabiro Romabiro Punobiro "de Laukandone" "de Isilba" "de Kortes" Kateko Katekobiro Katekomann
+				Lima Tsinga "de la Porte" Pulkero Liberalo Grato Kesare Bila Belano Bolano Kanare Yukateko Tsetal
 
 			}
     }
@@ -658,12 +670,18 @@ colonial_african_culture = {
 				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
 				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lovmondo Lovfodo Bados Badofrodo
 				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
-				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto }
+				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto "Froi Lobfodo" "Froi Kartele"
+				"Froi Rekardo" "Froi Karlo" Iosepe Iosus Petros Linos Ulfila 
+				Abramo Abrentos Ionanes Isak Dabid Gabreleke Angelos Gabrele Markos Matteios 
+				Aleksandros Nikodemos Isidore Didimos Simone Iotsuia Motses Kasar Iames Bartolomo
+				Tselotos Tadeio Sal Samul Itsekel }
 
 			last_names = {  "de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
 				"Plebe" "Geteke" "Biro" "Didomo" "Pindaro" "Sulpiko" "de Ifrogatere" "de Badotere"
 				"de Provinkes" Prikepeke Bloma "de Astra" Tulus Wilaia Wulta "de Walla" Wallabiro
-				Tulabiro Romabiro Punobiro }
+				Tulabiro Romabiro Punobiro "de Kasa" "de Sklave" Serekebado "de Lukreta" "de Postuma"
+				"ile Negro" "de Fabo" "de Ano" "de Mara" "de Kristo" "de Iosep"
+				}
     }
 }
 
