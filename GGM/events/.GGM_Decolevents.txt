@@ -4140,3 +4140,99 @@ country_event = {  #hnu_colonial_congress_dem
 	
 	
 }
+
+country_event = {  #liberate_recolonised_land_trigger
+	id = 49982
+	title = "EVTNAME49982" 
+	desc = "EVTDESC49982"
+	#picture = "independence_dec"
+	
+	trigger = {
+		
+		
+		OR = {
+			has_global_flag = CLT_RELEASED
+			has_global_flag = NFA_RELEASED
+		
+		}
+		
+		tag = HNU
+		
+		
+		any_owned_province = {
+			OR = {
+				
+				AND = {
+					is_core = ISB
+					NOT = {	
+						exists = ISB
+					}
+				}
+				AND = {
+					is_core = NWM
+					NOT = {
+						exists = NWM
+					}
+				}
+				AND = {
+					is_core = ANK
+					NOT = {
+						exists = ANK
+					}
+				}
+				
+				AND = {
+					is_core = RGT
+					NOT = {	
+						exists = RGT
+					}
+				}
+				AND = {
+					is_core = NBM
+					NOT = {
+						exists = NBM
+					}
+				}
+				AND = {
+					is_core = AGS
+					NOT = {
+						exists = AGS
+					}
+				}
+				
+				AND = {
+					is_core = HRU
+					NOT = {	
+						exists = HRU
+					}
+				}
+				AND = {
+					is_core = NBS
+					NOT = {
+						exists = NBS
+					}
+				}
+
+			}
+
+		
+		}
+		
+		
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 10
+		
+		
+	
+	}
+	
+	option = {
+		name = "Damn these dogs!"
+		
+	}
+	
+	
+}
