@@ -22,7 +22,8 @@ continental_germanic = {
 							Ludwig Ludolf Lütolf Manegold Mathias Neidhart Nanker Nymandus Ortlieb 
 							Örtel Partschfall Peregrinus Peter Peltrus Ramwold Reinhard Ruland Salomon 
 							Sibot Sigfrid Siegfried Sigismund Wernher Wicher Wigand Wilhelm Wiland Winrich 
-							Wölfel Wolf Zacharias Ytel Liphardus Johannes Hemmo Faust Felix Goswin Gandalf }
+							Wölfel Wolf Zacharias Ytel Liphardus Johannes Hemmo Faust Felix Goswin Gandalf 
+							Berlwin }
 
 			last_names = { "von Ruprecht" "von Potppe" "von Orbane" "von Rüdeger" "von Warmund"	
 							"von Ütmar" "von Lupoldus" "von Heidenrich" "von Wiprecht" "von Wulferam" 
@@ -324,7 +325,7 @@ hellenes = {
 
 	levantine = {
 	  color = { 16 101 125 }
-        	first_names = { }
+        	first_names = {  }
 
 			last_names = {	}
     }
@@ -374,7 +375,16 @@ zapadoslavs = {
 	
 	polish = {
 	  color = { 199 56 98 } #148 77 98 #61 107 54
-        	first_names = { }
+        	first_names = { Adulf Arbort Archambalt Arold Badzimir Balich Badzlaw
+							Balwin Bartusz Bawon Bezprym Biernardyn Blizbor Bogodar
+							Bolelut Bolemir Bozygniew Chalimir Charz Chocian Chocieslaw
+							Chawlibog Cieszmir Cypryjan Dobiemir Dobran Doboroj Drogoradz 
+							Dulcyn Dziedrzych Falibog Fiebron Gresmir Gryzmek Hekosz Herbort
+							Imbrych Jaczewoj Jagel Jakert Jakow Jakubko Jakusz Jarand Kazimier
+							Kochan Ketyl Krzeszel Larysz Malomir Manomir Marczurko Markiel 
+							Micek Merkusz Nelko Oliwir Olrzyk Pachnik Pawlik Pietran Przemir
+							Przybywoj Roszko Suledo Sulej Sulibrat Suliwoj Tebrich Turold Tybald 
+							Wlodzimir Zbrowslaw Zbywoj Zyndram }
 
 			last_names = {	}
     }
@@ -496,7 +506,7 @@ avars = {
 	
         maharuli = { 
             color = { 133 32 52 }
-            first_names = {  }
+            first_names = { Bayan Kandik Bookolabras Butaul }
 
             last_names = {  }
             radicalism = 20
@@ -863,7 +873,7 @@ indigenous_peoples = {
 }
 
 turko_semitic = {
-    leader = arab
+    leader = persian
     is_overseas = no
     unit = OttomanGC
 
@@ -881,9 +891,10 @@ turko_semitic = {
 }
 
 iranian_turanian = {
-    leader = arab
+    leader = persian
     is_overseas = no
     unit = MiddleEasternGC
+	
     persian = {
         color = { 186 159 76 } #144 88 81
         first_names = {
