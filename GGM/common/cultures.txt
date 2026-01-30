@@ -219,7 +219,7 @@ latins = {
 	african = {
 	  color = { 235 219 157 }
         	first_names = { Ablarde Adolfo Alono Trismundo Irike Tudiseke Todismondo
-				Konrado Ernesto Franzisko Ernando Karlo Pako Ramon Rodolfo Albaro
+				Konrado Ernesto Frantsisko Ernando Karlo Pako Ramon Rodolfo Albaro
 				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
 				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
 				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Lobiglo
@@ -608,7 +608,7 @@ colonial_african_culture = {
 	colonial_vandal = {
 	  color = { 224 224 211 }
         	first_names = { Ablarde Adolfo Alono Trismundo Irike Tudiseke Todismondo
-				Konrado Ernesto Franzisko Ernando Karlo Pako Ramon Rodolfo Albaro
+				Konrado Ernesto Frantsisko Ernando Karlo Pako Ramon Rodolfo Albaro
 				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
 				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
 				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Loviglo
@@ -634,7 +634,7 @@ colonial_african_culture = {
 	colonial_african_mixed = { #colonial vandal mixed
 	  color = { 181 181 107 }
         	first_names = { Ablarde Hadolfo Adolfo Halono Alano Trismundo Irike Tudiseke Todismondo
-				Konrado Hernesto Franzisko Hernando Karlo Pako Ramon Rodolfo Albaro
+				Konrado Hernesto Frantsisko Hernando Karlo Pako Ramon Rodolfo Albaro
 				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Hanbalo Magos 
 				Ermenegildo Tedoriko Ramiro Ferdinando Hildefonso Ferdonando Tsamaro
 				Wallo Alarike Gesaleke Hamlariko Teudike Hagoske Hantagildo Loviglo
@@ -662,7 +662,7 @@ colonial_african_culture = {
 	colonial_new_african = {
 	  color = { 128 163 0 }
         	first_names = { Ablarde Adolfo Alono Trismundo Irike Tudiseke Todismondo
-				Konrado Ernesto Franzisko Ernando Karlo Pako Ramon Rodolfo Albaro
+				Konrado Ernesto Frantsisko Ernando Karlo Pako Ramon Rodolfo Albaro
 				Franko Atalfo Filadelfo Tedorede Baalo Melkarto Anbalo Magos 
 				Ermenegildo Tedoriko Ramiro Ferdinando Ildefonso Ferdonando Tsamaro
 				Wallo Alarike Gesaleke Amlariko Teudike Agoske Antagildo Loviglo
