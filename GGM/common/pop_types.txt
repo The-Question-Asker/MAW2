@@ -935,7 +935,7 @@ conversion_chance =
 		}
 	}
 	
-	 modifier = { #mildly zealous, old rift
+	 modifier = { #mildly zealous
         factor = -0.2
         OR = {
             has_pop_religion = arian
