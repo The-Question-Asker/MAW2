@@ -1,0 +1,115 @@
+country_event = {  #kateko_president
+	id = 49981 
+	title = "EVTNAME49981" 
+	desc = "EVTDESC49981"
+	#picture = "tenconf"
+	
+	trigger = {
+		OR = {
+			tag = ANK
+			tag = VDR
+			tag = ISB
+			tag = NBM
+		}
+		
+		NOT = {
+			has_country_flag = settled_identity_kat
+			has_country_flag = settled_identity_igr
+		}
+		
+		year = 1840
+		primary_culture = colonial_vandal
+		pop_majority_culture = colonial_african_mixed
+		OR = {
+			government = democracy
+			AND = {
+				nationalvalue = nv_equality
+				government = presidential_republic
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 100
+	
+	}
+	
+	option = {
+		name = "We are nation with two great heritages. He will serve us well."
+		prestige = 10
+		
+		ai_chance = {
+			factor = 99
+		}
+		set_country_flag = settled_identity_kat
+		
+		any_pop = {
+			limit = {
+				has_pop_culture = colonial_african_mixed
+			}
+			
+			militancy = -1
+			consciousness = -1
+		}
+		
+		any_pop = {
+			limit = {
+				has_pop_culture = colonial_vandal
+			
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = 2
+			
+			}
+			
+			scaled_consciousness = {
+				ideology = reactionary
+				factor = 2
+			
+			}
+		
+		}
+		
+		primary_culture = colonial_african_mixed
+		add_accepted_culture = colonial_vandal
+	}
+	
+	
+	option = {
+		name = "A Half-Breed Kateko is not fit to lead a Vandal Nation!"
+		
+		
+		set_country_flag = settled_identity_igr
+	
+		any_pop = {
+			limit = {
+				has_pop_culture = colonial_african_mixed
+			}
+			
+			militancy = 4
+			consciousness = 4
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = colonial_vandal
+			
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = -1
+			
+			}
+			
+			scaled_consciousness = {
+				ideology = reactionary
+				factor = -1
+			
+			}
+		
+		}
+	
+	}
+	
+	
+}
