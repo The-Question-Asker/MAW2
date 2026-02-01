@@ -1997,6 +1997,22 @@ country_event = {  #antipodea self-gov
 		name = "Worrying..."
 	
 		set_global_flag = NFA_RELEASED
+		
+		
+		diplomatic_influence = {
+			who = TBJ
+			value = -150
+		}
+		
+		diplomatic_influence = {
+			who = TPN
+			value = -150
+		}
+		
+		diplomatic_influence = {
+			who = PNE
+			value = -150
+		}
 	
 		random_list = {
 			
