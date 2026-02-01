@@ -1595,7 +1595,7 @@ country_event = {  #cent_lot ind_trig
 	}
 	
 	mean_time_to_happen = {
-		months = 70
+		months = 120
 		
 		modifier = {
 			factor = 0.3
@@ -1643,6 +1643,14 @@ country_event = {  #cent_lot ind_trig
 			any_neighbor_country = { 
 				war_with = HNU
 			
+			}
+		
+		}
+		
+		modifier = {
+			factor = 0.3
+			HNU = {
+				war = yes
 			}
 		
 		}
