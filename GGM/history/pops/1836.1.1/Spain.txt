@@ -1054,7 +1054,6 @@
         religion = arian
         size = 1200
         militancy = 8
-        rebel_type = carlist_rebels
     }
 
     clergymen = {
@@ -1062,7 +1061,6 @@
         religion = arian
         size = 550
         militancy = 8
-        rebel_type = carlist_rebels
     }
 
     artisans = {
@@ -1070,7 +1068,7 @@
         religion = arian
         size = 2750
         militancy = 8
-        rebel_type = carlist_rebels
+
     }
 
     soldiers = {
@@ -1078,7 +1076,7 @@
         religion = arian
         size = 1100
         militancy = 8
-        rebel_type = carlist_rebels
+
     }
 
     farmers = {
@@ -1086,7 +1084,7 @@
         religion = arian
         size = 51500
         militancy = 8
-        rebel_type = carlist_rebels
+
     }
 
 }
