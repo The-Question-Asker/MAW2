@@ -24,7 +24,7 @@ country_event = {  #kateko_president
 			government = democracy
 			AND = {
 				nationalvalue = nv_equality
-				government = presidential_republic
+				government = presidential_dictatorship
 			}
 		}
 	}
