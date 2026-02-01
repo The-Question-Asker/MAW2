@@ -396,6 +396,7 @@ country_event = {  #witlian ind_trig
 			is_our_vassal = THIS
 		}
 		#war = no
+		has_global_flag = IT_RELEASED
 		
 	
 	}
