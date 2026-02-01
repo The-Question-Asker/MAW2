@@ -231,7 +231,7 @@ latins = {
 				"Froi Lodobigo" "Froi Ragomund" "Froi Anbalo" Iosepe Iosus Petros Linos Ulfila 
 				Abramo Abrentos Ionanes Isak Dabid Gabreleke Angelos Gabrele Markos Matteios 
 				Aleksandros Nikodemos Isidore Didimos Simone Iotsuia Motses Kasar Iames Bartolomo
-				Tselotos Tadeio Sal Samul Itsekel
+				Tselotos Tadeio Sal Samul Itsekel Bodo
 				}
 
 			last_names = { "de Ippo" "de Roma" "de Kasas" "de Utika" "de Jula" "de Belano" "de Mare"

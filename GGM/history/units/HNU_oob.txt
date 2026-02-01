@@ -1,0 +1,520 @@
+# Diplomacy
+
+TBJ = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+PNE = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+TPN = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+# Leaders
+
+leader = {
+    name = "Tedolfo Skulpa"
+    date = 1833.1.1
+    type = land
+    personality = brutish
+    background = exranker
+}
+
+
+leader = {
+    name = "Anbalo de Utika"
+    date = 1833.1.1
+    type = land
+    personality = chivalrous
+    background = poet
+}
+
+leader = {
+    name = "Geseriko Romabiro"
+    date = 1833.1.1
+    type = land
+    personality = timid
+    background = bootlicker
+}
+
+leader = {
+    name = "Ionanes Tulus"
+    date = 1833.1.1
+    type = land
+    personality = lackluster
+    background =  school_of_defense
+}
+
+
+leader = {
+    name = "Alariko Antona"
+    date = 1833.1.1
+    type = sea
+    personality = audacious
+    background =  warmonger
+}
+
+leader = {
+    name = "Gabrele de Tarkino"
+    date = 1827.1.1
+    type = land
+    personality = soldierly
+    background = old_school
+}
+
+# Armies
+
+army = {
+    name = "Lege 1. 'Utikanos'"
+    location = 1726
+	
+	
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1725
+    }
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1725
+    }
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1726
+    }
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1708
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1725
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1725
+    }
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1725
+    }
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1709
+    }
+	
+	regiment = {
+        name= "Manaple Iios"
+        type = dragoon
+        home = 1725
+    }
+	regiment = {
+        name= "Manaple Iios"
+        type = dragoon
+        home = 1725
+    }
+}
+
+army = {
+    name = "Lege 2. 'Eronata'"
+    location = 1704
+	
+	
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1704
+    }
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1705
+    }
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1705
+    }
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1705
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1705
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1700
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1700
+    }
+	
+	regiment = {
+        name= "Manaple Iios"
+        type = dragoon
+        home = 1700
+    }
+	regiment = {
+        name= "Manaple Iios"
+        type = dragoon
+        home = 1702
+    }
+	
+	regiment = {
+        name= "Amatsogos Agsilos"
+        type = irregular
+        home = 1713
+    }
+	
+	regiment = {
+        name= "Amatsogos Agsilos"
+        type = irregular
+        home = 1715
+    }
+}
+
+army = {
+    name = "Lege 3. 'Motesto'"
+    location = 2563
+	
+	
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1690
+    }
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 1702
+    }
+
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1702
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1680
+    }
+	
+	
+	regiment = {
+        name= "Manaple Iios"
+        type = dragoon
+        home = 1680
+    }
+	regiment = {
+        name= "Manaple Iios"
+        type = dragoon
+        home = 1703
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1703
+    }
+	
+	regiment = {
+        name= "Amatsogos Agsilos"
+        type = irregular
+        home = 1703
+    }
+}
+
+army = {
+    name = "Lege 4. 'Ispana'"
+    location = 503
+	
+	
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 503
+    }
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 513
+    }
+	
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 513
+    }
+	
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 487
+    }
+
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 497
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 487
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 521
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 521
+    }
+	
+	
+	regiment = {
+        name= "Manaple Iios"
+        type = dragoon
+        home = 495
+    }
+	
+	
+}
+
+
+army = {
+    name = "Lege 5. 'Gromaniko'"
+    location = 2590
+	
+	
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 509
+    }
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 509
+    }
+	
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 489
+    }
+	
+	regiment = {
+        name= "Manaple Infatara"
+        type = infantry
+        home = 489
+    }
+
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1707
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1707
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1731
+    }
+	
+	regiment = {
+        name= "Manaple Artillera"
+        type = artillery
+        home = 1732
+    }
+	
+	
+	regiment = {
+        name= "Manaple Iios"
+        type = dragoon
+        home = 1682
+    }
+	regiment = {
+        name= "Manaple Iios"
+        type = dragoon
+        home = 1691
+    }
+	
+	
+}
+
+#######################
+####### Navies ########
+#######################
+ 
+navy = {
+	name = "Manoskip Magno"
+	location = 1725
+	ship = {
+		name= "Geseriko"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Afrika"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Wandala"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Froi Rekaredo"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Kalope"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Lukretsa"
+		type = manowar
+	}
+	
+	
+	ship = {
+		name= "Ilibeio"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Anakauja"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Impero"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Kartege"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Katekobiro"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Dolpinu"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Karbidos"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Dloros"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Sinmetos"
+		type = frigate
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+}
