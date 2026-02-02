@@ -203,3 +203,7 @@ CREATING_TEXTS;Silencing Dissenting Voices...;x
 LOAD_EVENTS;Cleaving Good from Evil...;x
 ADAPTING_HISTORY;Identifying Contigent Phenomena...;x
 CALC_PATHS;Arranging Trans-World-Techno-Causal Laws;x
+DIPLOMACY_FILTER_NORTH_AMERICA;Lothaire;;;;;;;;;;;;;
+DIPLOMACY_FILTER_NORTH_AMERICA_TOOLTIP;List §YLotharingen§W countries;;;;;;;;;;;;;
+DIPLOMACY_FILTER_SOUTH_AMERICA;Antipoedea;;;;;;;;;;;;;
+DIPLOMACY_FILTER_SOUTH_AMERICA_TOOLTIP;List §YAntipoedean§W countries;;;;;;;;;;;;;
