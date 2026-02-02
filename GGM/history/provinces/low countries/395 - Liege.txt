@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = LUI
+controller = LUI
+add_core = LUI
 add_core = FRK
 add_core = LAA
 trade_goods = iron

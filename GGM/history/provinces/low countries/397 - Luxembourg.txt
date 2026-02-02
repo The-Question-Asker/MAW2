@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = LXB
+controller = LXB
+add_core = LXB
 add_core = FRK
 add_core = LAA
 trade_goods = coal

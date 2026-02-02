@@ -1,5 +1,6 @@
-owner = KRS
-controller = KRS
+owner = FRN
+controller = FRN
+add_core = FRN
 add_core = KRS
 trade_goods = coal
 life_rating = 40

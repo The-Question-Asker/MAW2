@@ -1,5 +1,6 @@
-owner = KRS
-controller = KRS
+owner = OTT
+controller = OTT
+add_core = OTT
 add_core = KRS
 trade_goods = fruit
 life_rating = 40

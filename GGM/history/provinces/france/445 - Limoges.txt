@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = BLU
+controller = BLU
+add_core = BLU
 add_core = FRK
 add_core = NRB
 trade_goods = cattle

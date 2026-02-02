@@ -1,5 +1,6 @@
-owner = KRS
-controller = KRS
+owner = SWA
+controller = SWA
+add_core = SWA
 add_core = KRS
 trade_goods = fruit
 life_rating = 40

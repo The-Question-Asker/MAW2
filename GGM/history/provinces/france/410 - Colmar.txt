@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = ALE
+controller = ALE
+add_core = ALE
 add_core = FRK
 trade_goods = sulphur
 life_rating = 31

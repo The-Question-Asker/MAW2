@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = ATS
+controller = ATS
+add_core = ATS
 add_core = FRK
 add_core = LAA
 trade_goods = iron

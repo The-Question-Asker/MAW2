@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = FRN
+controller = FRN
+add_core = FRN
 add_core = FRK
 trade_goods = fruit
 life_rating = 40

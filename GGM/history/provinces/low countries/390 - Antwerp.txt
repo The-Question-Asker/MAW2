@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = BRO
+controller = BRO
+add_core = BRO
 add_core = FRK
 add_core = LAA
 trade_goods = cattle

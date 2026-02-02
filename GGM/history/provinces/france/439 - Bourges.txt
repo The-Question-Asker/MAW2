@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = AMB
+controller = AMB
+add_core = AMB
 add_core = FRK
 trade_goods = timber
 life_rating = 32

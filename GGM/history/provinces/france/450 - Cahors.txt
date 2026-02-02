@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = CAO
+controller = CAO
+add_core = CAO
 add_core = FRK
 add_core = NRB
 trade_goods = timber
