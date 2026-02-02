@@ -391,7 +391,7 @@ army = {
 #######################
  
 navy = {
-	name = "Manoskipe Magno"
+	name = "Manoskip Magno"
 	location = 1725
 	ship = {
 		name= "Geseriko"
