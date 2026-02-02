@@ -4,7 +4,7 @@
 
 ##GERMANICS##
 
-continental_germanic = {
+continental_germanic_saxon = {
     leader = european
     unit = EuropeanGC
 
@@ -37,6 +37,13 @@ continental_germanic = {
 							"von Unterstäten" 
 							}
     }
+    union = GRM
+	
+}
+
+continental_germanic_frankish = {
+    leader = european
+    unit = EuropeanGC
 	
 	frankish = {
 	  color = { 29 29 59 }
@@ -55,6 +62,23 @@ continental_germanic = {
 							"fon Etichonid" "fon Liudolfings" "fon Otto" 
 							"fon Supponid" "fon Udalriching" "fon Unruoching" 
 							"fon Welf" }
+    }
+    union = FRK
+		
+}
+
+north_germanic = {
+    leader = european
+    unit = EuropeanGC
+
+	norse = {
+	  color = { 50 70 128 }
+        	first_names = { Aghi Agmundr Agnarr Alfarr Algautr Anundr Arnsteinn Baggi Bjarni Gautstafr Geirmundr Halli
+							Brandr Brynjar Dagr Danr Eileifr Einarr Erlendr Gauti Gunnarr Gunni Hallr Hallsteinn Haraldr
+							Hildingr Hugleikr Jarl Karl Kolr Leifr Oddgeirr Oddvarr Ragnarr Sindri Snorri Stigr Tryggvi Vagn
+							Vragi Yngvarr }
+
+			last_names = { Agnarsson Ahlström Amundsen Arnesen Arvidsson Auden Baardsen Bakken Berg  }
     }
 	
 	teutonic = {
@@ -84,22 +108,6 @@ continental_germanic = {
 							"von Münfeld" "von Brempen" "von Lagendorf" "von Walenburg" "von Koenigsdorf"
 							"von Unterstäten" 
 							}
-    }
-	
-}
-
-north_germanic = {
-    leader = european
-    unit = EuropeanGC
-
-	norse = {
-	  color = { 50 70 128 }
-        	first_names = { Aghi Agmundr Agnarr Alfarr Algautr Anundr Arnsteinn Baggi Bjarni Gautstafr Geirmundr Halli
-							Brandr Brynjar Dagr Danr Eileifr Einarr Erlendr Gauti Gunnarr Gunni Hallr Hallsteinn Haraldr
-							Hildingr Hugleikr Jarl Karl Kolr Leifr Oddgeirr Oddvarr Ragnarr Sindri Snorri Stigr Tryggvi Vagn
-							Vragi Yngvarr }
-
-			last_names = { Agnarsson Ahlström Amundsen Arnesen Arvidsson Auden Baardsen Bakken Berg  }
     }
 	
 }

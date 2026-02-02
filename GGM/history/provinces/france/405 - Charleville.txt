@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = OUF
+controller = OUF
+add_core = OUF
 add_core = FRK
 trade_goods = coal
 life_rating = 31

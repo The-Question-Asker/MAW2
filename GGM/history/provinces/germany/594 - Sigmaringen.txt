@@ -1,5 +1,6 @@
-owner = KRS
-controller = KRS
-add_core = KRS
+owner = PLE
+controller = PLE
+add_core = PLE
+add_core = GRM
 trade_goods = grain
 life_rating = 40

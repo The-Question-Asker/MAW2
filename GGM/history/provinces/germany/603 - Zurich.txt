@@ -1,6 +1,7 @@
-owner = KRS
-controller = KRS
-add_core = KRS
+owner = TOE
+controller = TOE
+add_core = TOE
+add_core = GRM
 trade_goods = iron
 life_rating = 34
 fort = 1
