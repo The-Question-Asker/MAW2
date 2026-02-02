@@ -501,10 +501,10 @@ PROV570;Mayence;;;;;;;;;;;;;x
 HAN_528;Niederottoland;;;;;;;;;;;;x
 HAN_540;Ostsachsen;;;;;;;;;;;;x
 NET_385;Westsachsen;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
+PROV599;Nemskihrod;;;;;;;;;;;;;x
+PROV601;Damamesto;;;;;;;;;;;;;x
+PROV600;Serbskraj;;;;;;;;;;;;;x
+PROV602;Bitwamesto;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
@@ -860,7 +860,7 @@ PROV1283;Golconda;;;;;;;;;;;;;x
 BEL_387;Scheldland;;;;;;;;;;;;;x
 BEL_394;Maasland;;;;;;;;;;;;;x
 FRA_412;Lotharingia;;;;;;;;;;;;;x
-BAV_599;Sorbia;;;;;;;;;;;;;x
+BAV_599;Hornjosorbia;;;;;;;;;;;;;x
 HOL_369;South Teutonia;;;;;;;;;;;;;x
 DEN_367;North Teutonia;;;;;;;;;;;;;x
 PRU_695;Pruthenia;;;;;;;;;;;;;x
