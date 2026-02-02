@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = BLO
+controller = BLO
+add_core = BLO
 add_core = FRK
 trade_goods = grain
 life_rating = 31

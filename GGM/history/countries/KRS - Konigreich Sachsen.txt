@@ -1,4 +1,4 @@
-capital = 589
+capital = 566
 primary_culture = saxon
 religion = orthodox
 government = absolute_monarchy
@@ -7,7 +7,6 @@ nationalvalue = nv_autocracy
 literacy = 0.19
 non_state_culture_literacy = 0.01
 civilized = yes
-is_releasable_vassal = no
 
 #GreaterPowers = prestige
 #prestige = 120

@@ -1,7 +1,7 @@
 owner = OTT
 controller = OTT
 add_core = OTT
-add_core = KRS
+add_core = GRM
 trade_goods = fish
 life_rating = 30
 terrain = small_island

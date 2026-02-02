@@ -1,6 +1,7 @@
 owner = KRS
 controller = KRS
 add_core = KRS
+add_core = GRM
 trade_goods = fish
 life_rating = 40
 

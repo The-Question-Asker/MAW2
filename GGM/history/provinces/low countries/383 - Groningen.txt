@@ -1,6 +1,7 @@
 owner = KRS
 controller = KRS
 add_core = KRS
+add_core = GRM
 trade_goods = grain
 life_rating = 35
 

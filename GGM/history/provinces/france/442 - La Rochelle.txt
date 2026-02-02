@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = DOR
+controller = DOR
+add_core = DOR
 add_core = FRK
 add_core = NRB
 trade_goods = fish
