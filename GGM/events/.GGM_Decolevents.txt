@@ -2084,6 +2084,32 @@ country_event = {  #antipodea self-gov
 				
 				}
 				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2440
+						}
+					
+					}
+					NWR_104 = {
+						add_core = HRU
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2441
+						}
+					
+					}
+					NWR_105 = {
+						add_core = HRU
+					}
+				
+				}
+				
 				NWR_109 = {
 					add_core = AGS
 				}
@@ -2528,6 +2554,32 @@ country_event = {  #antipodea self-gov
 				
 				}
 				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2440
+						}
+					
+					}
+					NWR_104 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2441
+						}
+					
+					}
+					NWR_105 = {
+						add_core = NBA
+					}
+				
+				}
+				
 				
 			}
 			
@@ -2581,6 +2633,32 @@ country_event = {  #antipodea self-gov
 					
 					}
 					NWR_100 = {
+						add_core = HRU
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2440
+						}
+					
+					}
+					NWR_104 = {
+						add_core = HRU
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2441
+						}
+					
+					}
+					NWR_105 = {
 						add_core = HRU
 					}
 				
@@ -3160,6 +3238,32 @@ country_event = {  #antipodea self-gov
 				
 				}
 				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2440
+						}
+					
+					}
+					NWR_104 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2441
+						}
+					
+					}
+					NWR_105 = {
+						add_core = NBA
+					}
+				
+				}
+				
 				
 				
 			}
@@ -3214,6 +3318,31 @@ country_event = {  #antipodea self-gov
 					
 					}
 					NWR_100 = {
+						add_core = HRU
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							owns = 2440
+						}
+					
+					}
+					NWR_104 = {
+						add_core = HRU
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2441
+						}
+					
+					}
+					NWR_105 = {
 						add_core = HRU
 					}
 				
@@ -3524,6 +3653,32 @@ country_event = {  #antipodea self-gov
 				
 				}
 				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2440
+						}
+					
+					}
+					NWR_104 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2441
+						}
+					
+					}
+					NWR_105 = {
+						add_core = NBA
+					}
+				
+				}
+				
 				
 				
 				
@@ -3655,6 +3810,32 @@ country_event = {  #antipodea self-gov
 						add_core = NBA
 					}
 					2334 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2440
+						}
+					
+					}
+					NWR_104 = {
+						add_core = NBA
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2441
+						}
+					
+					}
+					NWR_105 = {
 						add_core = NBA
 					}
 				

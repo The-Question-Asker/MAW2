@@ -1,0 +1,35 @@
+political_decisions = {
+ 
+	annex_tupiland = { 
+		#picture = force_publique
+        potential = {
+			owns = 2427
+			owns = 2452
+			OR = {
+				primary_culture = colonial_new_african
+				tag = HNU
+			}
+        }
+        allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			PNE = {
+				in_sphere = THIS
+				war = no
+			}
+			TBJ = {
+				in_sphere = THIS
+				war = no
+			}
+			TPN = {
+				in_sphere = THIS
+				war = no
+			}
+        }
+        effect = {
+            inherit = PNE
+			inherit = TBJ
+			inherit = TPN
+        }
+    }
+}
