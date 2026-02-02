@@ -36,7 +36,7 @@ country_event = {
 			}
 			set_country_flag = occupying_imperial_land
 			add_casus_belli = {
-				target = FRK
+				target = FRN
 				type = free_peoples_imperial
 				country = FROM
 				months = 24
@@ -206,7 +206,7 @@ country_event = {
 		modifier = {
 			factor = 1.1
 			relation = { 
-				who = FRK 
+				who = FRL 
 				value = -100 
 			}
 		}
@@ -214,7 +214,7 @@ country_event = {
 		modifier = {
 			factor = 0.9
 			relation = { 
-				who = FRK 
+				who = FRL 
 				value = 100 
 			}
 		}
@@ -222,7 +222,7 @@ country_event = {
 		modifier = {
 			factor = 1.1
 			relation = { 
-				who = FRK 
+				who = FRL 
 				value = -200 
 			}
 		}
@@ -230,7 +230,7 @@ country_event = {
 		modifier = {
 			factor = 0.9
 			relation = { 
-				who = FRK 
+				who = FRL 
 				value = 200 
 			}
 		}
@@ -247,7 +247,7 @@ country_event = {
 		
 		modifier = {
 			factor = 0.9
-			in_sphere = FRK
+			in_sphere = FRL
 		}
 		
 		modifier = {
@@ -291,7 +291,7 @@ country_event = {
 	option = {
 		name = "AI_ONLY"
 		set_country_flag = requested_to_join_empire
-			FRK = {
+			FRL = {
 				country_event = {
 					id = 49991
 					days = 5
@@ -325,7 +325,7 @@ country_event = {
 		modifier = {
 			factor = 0.9
 			relation = { 
-				who = FRK 
+				who = FRL 
 				value = -100 
 			}
 		}

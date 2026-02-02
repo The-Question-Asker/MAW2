@@ -75,7 +75,7 @@ political_decisions = {
         }
         allow = {
             relation = { 
-				who = FRK 
+				who = FRN 
 				value = 100 
 			}
 			is_secondary_power = no
@@ -84,7 +84,7 @@ political_decisions = {
         }
         effect = {
 			set_country_flag = requested_to_join_empire
-			FRK = {
+			FRN = {
 				country_event = {
 					id = 49991
 					days = 5
@@ -104,7 +104,7 @@ political_decisions = {
 			
         }
         allow = {
-            war_with = FRK
+            war_with = FRN
         }
         effect = {
 			clr_country_flag = frankish_subject
