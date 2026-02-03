@@ -18940,8 +18940,8 @@
 # Dunkirk
 400 = {
     text_position = {
-        x = 2834.014744
-        y = 1644.813462
+        x = 2833.659259
+        y = 1644.977778
     }
 
     text_rotation = 1.207930
@@ -20398,14 +20398,15 @@
 # Angers
 434 = {
     text_position = {
-        x = 2799.300000
-        y = 1570.950000
+        x = 2798.579630
+        y = 1567.651852
     }
 
+    text_rotation = 5.554464
     text_scale = 2.300000
     unit = {
-        x = 2799.800000
-        y = 1570.850000
+        x = 2801.135185
+        y = 1568.290741
     }
 
     factory = {
@@ -20414,8 +20415,8 @@
     }
 
     building_construction = {
-        x = 2801.000000
-        y = 1579.000000
+        x = 2797.983333
+        y = 1573.657407
     }
 
     military_construction = {
@@ -77961,25 +77962,25 @@
 
 # Dakar
 1783 = {
+    text_position = {
+        x = 2541.452778
+        y = 998.547222
+    }
+
+    text_scale = 1.000000
     unit = {
         x = 2541.000000
         y = 1000.000000
     }
 
-    text_position = {
-        x = 2541.500000
-        y = 998.299988
-    }
-
-    text_scale = 1.900000
-    building_construction = {
-        x = 2542.699951
-        y = 996.799988
-    }
-
     factory = {
         x = 2542.199951
         y = 1003.000000
+    }
+
+    building_construction = {
+        x = 2542.699951
+        y = 996.799988
     }
 
     building_position = {
