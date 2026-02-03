@@ -80,9 +80,9 @@ ENG_300 = { 300 294 301 302 303 } #South East England
 
 ### France
 
-#FRA_399 = { } #Picardie - used to be { 403 405 406 408 402 2570 }
 
-FRA_400 = { 408 405 406 403 } #Champagne
+ 
+FRA_400 = { 408 405 403 } #Champagne
 
 FRA_404 = { 399 400 401 404 388 393 } #Nord-Pas-De-Calais/Artois
 
@@ -96,13 +96,15 @@ FRA_420 = { 420 421 422 424 423 } #Bretagne
 
 FRA_425 = { 425 427 438 402 2570 } #Ile de France
 
-FRA_428 = { 428 429 430 407 439 440 } #Bourgogne
+FRA_428 = { 428 429  407 406 } #Bourgogne
 
 FRA_435 = { 435 434 437 426 441 436 } #Loire
 
 #FRA_438 = { } #Region Centre
 
 #FRA_442 = {  } #Poitou
+
+FRA_399 = { 440 439 430 } #Picardie - used to be { 403 405 406 408 402 2570 } #berry now
 
 FRA_445 = { 445 446 447 443 } #Limousin
 
