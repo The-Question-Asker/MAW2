@@ -55,6 +55,7 @@ political_decisions = {
             ai = no
 			NOT = { 
 				has_country_flag = frankish_subject 
+				has_country_flag = frankish_emperor
 				has_country_flag = requested_to_join_empire }
 			OR = {
 				tag = AGD
