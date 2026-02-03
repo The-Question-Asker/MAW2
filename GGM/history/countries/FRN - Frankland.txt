@@ -8,7 +8,8 @@ literacy = 0.11
 non_state_culture_literacy = 0.01
 civilized = yes
 
-#GreaterPowers = prestige
+#GreaterPowers =
+prestige = 50
 
 # Political reforms
 slavery = no_slavery

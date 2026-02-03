@@ -483,10 +483,10 @@ PROV531;Ötmar;;;;;;;;;;;;;x
 PROV532;Lupoldusburg;;;;;;;;;;;;;x
 PROV557;Warmund;;;;;;;;;;;;;x
 PROV536;Wiprecht;;;;;;;;;;;;;x
-PROV534;Heindenreich;;;;;;;;;;;;;x
+PROV534;Heydenreich;;;;;;;;;;;;;x
 PROV585;Regensburg;;;;;;;;;;;;;x
 PROV528;Osprant;;;;;;;;;;;;;x
-PROV533;Inselursls;;;;;;;;;;;;;x
+PROV533;Inselursels;;;;;;;;;;;;;x
 PROV529;Laffenbach;;;;;;;;;;;;;x
 PROV530;Wedingburg;;;;;;;;;;;;;x
 PROV371;Apenrade;;;;;;;;;;;;;x
@@ -504,7 +504,50 @@ NET_385;Westsachsen;;;;;;;;;;;;x
 PROV599;Nemskihrod;;;;;;;;;;;;;x
 PROV601;Damamesto;;;;;;;;;;;;;x
 PROV600;Serbskraj;;;;;;;;;;;;;x
-PROV602;Bitwamesto;;;;;;;;;;;;;x
+PROV602;Bitwakra;;;;;;;;;;;;;x
+PRU_554;Dolnosorbskia;;;;;;;;;;;;x
+PROV598;Rodowana;;;;;;;;;;;;;x
+PROV560;Kamjen;;;;;;;;;;;;;x
+PROV561;Swetažredlo;;;;;;;;;;;;;x
+PROV455;Tolosa Narbzitania;;;;;;;;;;;;;x
+PROV457;Foiko;;;;;;;;;;;;;x
+PROV496;Boloska;;;;;;;;;;;;;x
+PROV500;Ume Zahar;;;;;;;;;;;;;x
+PROV539;Potppenhaven;;;;;;;;;;;;;x
+PROV385;Lejowarden;;;;;;;;;;;;;x
+PROV382;Arnheim;;;;;;;;;;;;;x
+PROV384;Schwellen;;;;;;;;;;;;;x
+PROV386;Cuhvern;;;;;;;;;;;;;x
+PROV383;Grönnen;;;;;;;;;;;;;x
+PROV1743;Salm-Bentheim;;;;;;;;;;;;;x
+PROV543;Amuthon;;;;;;;;;;;;;x
+PROV540;Aldenburg;;;;;;;;;;;;;x
+PROV541;Tecklenburg;;;;;;;;;;;;;x
+PROV535;Minden;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
@@ -529,7 +572,7 @@ PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
-PROV2721;Bight of Inselursls;;;;;;;;;;;;;x 
+PROV2721;Bight of Inselursels;;;;;;;;;;;;;x 
 PROV2720;Teutostroem;;;;;;;;;;;;;x 
 PROV2712;Katzensund;;;;;;;;;;;;;x 
 PROV2711;Kvenisches Meerengen;;;;;;;;;;;;;x 
@@ -860,7 +903,7 @@ PROV1283;Golconda;;;;;;;;;;;;;x
 BEL_387;Scheldland;;;;;;;;;;;;;x
 BEL_394;Maasland;;;;;;;;;;;;;x
 FRA_412;Lotharingia;;;;;;;;;;;;;x
-BAV_599;Hornjosorbia;;;;;;;;;;;;;x
+BAV_599;Hornjosorbskia;;;;;;;;;;;;;x
 HOL_369;South Teutonia;;;;;;;;;;;;;x
 DEN_367;North Teutonia;;;;;;;;;;;;;x
 PRU_695;Pruthenia;;;;;;;;;;;;;x
