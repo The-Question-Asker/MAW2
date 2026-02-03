@@ -7,7 +7,7 @@ galatian;Galatian;;;;;;;;;;;;;
 roman;Roman;;;;;;;;;;;;;
 wendish;Wendish;;;;;;;;;;;;;
 sclavenian;Sclavenian;;;;;;;;;;;;;
-llati;Llatí;;;;;;;;;;;;;
+llati;LlatÃ­;;;;;;;;;;;;;
 saxon;German;;;;;;;;;;;;;
 frankish;French;;;;;;;;;;;;;
 laaglander;Laaglander;;;;;;;;;;;;;
@@ -39,10 +39,10 @@ maxasekes;Maxasekes;;;;;;;;;;;;;
 animist;Pagan;;;;;;;;;;;;;
 colonial_frankish;Territoriale;;;;;;;;;;;;;
 afro_frankish;Gentil;;;;;;;;;;;;;
-frankish_creole;Métis;;;;;;;;;;;;;
+frankish_creole;MÃ©tis;;;;;;;;;;;;;
 colonial_saxon;Allmander;;;;;;;;;;;;;
 amorican_frank;Dusangois;;;;;;;;;;;;;
-afro_frankish_carrib;Caraïbes;;;;;;;;;;;;;
+afro_frankish_carrib;CaraÃ¯bes;;;;;;;;;;;;;
 tibetan;Thibetan;;;;;;;;;;;;;
 algonquian;Algonquian;;;;;;;;;;;;;
 iroquoian;Iroquoian;;;;;;;;;;;;;
@@ -107,8 +107,8 @@ aymara;Aymara;;;;;;;;;;;;;
 amazonian_minor;Isilban Minor;;;;;;;;;;;;;
 andean_minor;New Atlasian Minor;;;;;;;;;;;;;
 carib;Carib;;;;;;;;;;;;;
-GC_NAME;1794 Post-Golgotha;;;;;;;;;;;;;
-GC_DESC;It is the year 1836: 1794 years after the crucifixion of the so-called Anointed Messiah on the hill of Golgotha in the outskirts of Hierosolymna, 1608 since the last prophet, Mani, in bustling Seleucus-Ctesiphon had his first vision of his heavenly twin, and 1467 years since the pious bishop Ulfila invented the gothic letters and evangelised the mighty barbarians in the teachings of the unbegotten father and the first-begotten son. The world has changed much since these days of yore. The ancient Roman Imperium experienced a slow death, its civic and military machinery usurped by barbarian slavs, goths, and franks, and power and culture shifted south-eastward, to the Grecian states of Aegpyt and the levant, and the Manichean dynasties of in Medeo-Persia, the Eternal Empire of Light. For a thousand years, the states of the west languished in poverty, but in the 1500s the discovery of the new world brought wealth and power that allowed for the consolidation of the Witalian Peninsula and the old provinces of Africa and Hispania, bringing these states to near parity with the eastern powers. In the north, the Frankish empire failed to centralise, but enjoyed a sprawling quasi-feudal dominion throughout the new world and the old, priding themselves in their germanic tradition of Mannschaft and the rule of peers as compared to Grecian despotism. In the late 18th century, however, there has been a stirring of strange new powers and forces, to challenge the old order of state and church. The clever merchants of Aegypt, through their world spanning imperial markets, under the patronage of the great Faro, have begun to develop new methods of production, hauling coal out of northern thessaly to power the great new factories of Alexandria. As the world changes, the state must be steered through this tumultuous time, and as the genius of fate advances, each moment and choice acts to wed old and new, past and present, etching the eternal history of the world.;;;;;;;;;;;;;
+GC_NAME;Bright January;;;;;;;;;;;;;
+GC_DESC;It is the year 1836: 1794 years after the crucifixion of the so-called Anointed Messiah on the hill of Golgotha in the outskirts of Hierosolymna, 1608 since the last prophet, Mani, in bustling Seleucus-Ctesiphon had his first vision of his heavenly twin, and 1467 years since the pious bishop Ulfila invented the gothic letters and evangelised the mighty barbarians in the teachings of the unbegotten father and the first-begotten son. The world has changed much since these days of yore. The ancient Roman Imperium experienced a slow death, its civic and military machinery usurped by barbarian slavs, goths, and franks, and power and culture shifted south-eastward, to the Grecian states of Aegpyt and the levant, and the Manichean dynasties of in Medeo-Persia, the Eternal Empire of Light. For a thousand years, the states of the west languished in poverty, but in the 1500s the discovery of the new world brought wealth and power that allowed for the consolidation of the Witalian Peninsula and the old provinces of Africa and Hispania, bringing these states to near parity with the eastern powers. In the north, the Frankish empire failed to centralise, but enjoyed a sprawling quasi-feudal dominion throughout the new world and the old, priding themselves in their germanic tradition of mannschaft and the rule of peers as compared to Grecian despotism. In the late 18th century, however, there has been a stirring of strange new powers and forces, to challenge the old order of state and church. The clever merchants of Aegypt and Mihrania, through their world spanning imperial markets, under the patronage of the great Faro and the Shah-an-Shah, have begun to develop new methods of production, hauling coal out of northern thessaly and the Alborz to power the great new factories of Alexandria and Ctesiphon. As the world changes, the state must be steered through this tumultuous time, and as the genius of fate advances, each moment and choice acts to wed old and new, past and present, etching the eternal history of the world.;;;;;;;;;;;;;
 araucanian;Araucanian;;;;;;;;;;;;;
 chon;Chon;;;;;;;;;;;;;
 NORMAL_WAR_LIBERATE_IMPERIAL_NAME;$ORDER$ Imperial Intervention in $COUNTRY_ADJ$;;;;;;;;;;;;;
@@ -120,9 +120,9 @@ AGRESSION_WAR_FREE_IMPERIAL_NAME;$ORDER$ Imperial Intervention for $STATE$;;;;;;
 free_peoples_imperial;Imperial Intervention;;;;;;;;x;;;;
 free_peoples_imperial_short;$THIRD$ acquires $STATE$;;;;;;;;x;;;;
 free_peoples_imperial_setup;Return $STATE$ to the empire and to $THIRD$ from $RECIPIENT$;;;;;;;;x;;;;
-free_peoples_imperial_desc;Liberate a §territory§W and restore the imperial borders.;;;;;;;;;;;;;
+free_peoples_imperial_desc;Liberate a Â§territoryÂ§W and restore the imperial borders.;;;;;;;;;;;;;
 liberate_country_imperial;Imperial Restoration;;;;;;;;x;;;;
-liberate_country_imperial_desc;Liberate an §Yentire state§W and restore the imperial borders.;;;;;;;;;;;;;
+liberate_country_imperial_desc;Liberate an Â§Yentire stateÂ§W and restore the imperial borders.;;;;;;;;;;;;;
 liberate_country_imperial_short;$THIRD$ acquires $STATE$;;;;;;;;;;;;;
 liberate_country_imperial_setup;Return $STATE$ to the empire and to $THIRD$ from $RECIPIENT$;;;;;;;;;;;;;
 huacan;Huacan;;;;;;;;;;;;;
@@ -172,9 +172,9 @@ HAVE_NOT_A_IN;An ocean borders ;;;;;;;;;;;;;x
 HAS_NO_COLONIES;has colonial territories.\n;x
 HAS_COLONIES;does not have colonial territories.\n;x
 HAS_GOODS;has goods;;;;;;;;;;;;;x
-YOU_LOST;§RBitter Defeat;x
-YOU_WON;§GImmortal Victory;x
-POP_DAILY_EVENT;Windfalls: §Y$VAL$§W¤;;;;;;;;;;;;;;x
+YOU_LOST;Â§RBitter Defeat;x
+YOU_WON;Â§GImmortal Victory;x
+POP_DAILY_EVENT;Windfalls: Â§Y$VAL$Â§WÂ¤;;;;;;;;;;;;;;x
 ballsy;Temerarious;;;;;;;;;;;;;x
 ANY_POP_IN_PROVINCE_STARTS;Any pop in province;x
 MODIFIER_POP_CONSCIOUSNESS_MODIFIER;Pop consciousness;x
@@ -204,8 +204,8 @@ LOAD_EVENTS;Cleaving Good from Evil...;x
 ADAPTING_HISTORY;Identifying Contigent Phenomena...;x
 CALC_PATHS;Arranging Trans-World-Techno-Causal Laws;x
 DIPLOMACY_FILTER_NORTH_AMERICA;Lothaire;;;;;;;;;;;;;
-DIPLOMACY_FILTER_NORTH_AMERICA_TOOLTIP;List §YLotharingen§W countries;;;;;;;;;;;;;
+DIPLOMACY_FILTER_NORTH_AMERICA_TOOLTIP;List Â§YLotharingenÂ§W countries;;;;;;;;;;;;;
 DIPLOMACY_FILTER_SOUTH_AMERICA;Antipoedea;;;;;;;;;;;;;
-DIPLOMACY_FILTER_SOUTH_AMERICA_TOOLTIP;List §YAntipoedean§W countries;;;;;;;;;;;;;
+DIPLOMACY_FILTER_SOUTH_AMERICA_TOOLTIP;List Â§YAntipoedeanÂ§W countries;;;;;;;;;;;;;
 DIPLOMACY_FILTER_AFRICA;Libya;;;;;;;;;;;;;
-DIPLOMACY_FILTER_AFRICA_TOOLTIP;List §YLibyan§W countries;;;;;;;;;;;;;
+DIPLOMACY_FILTER_AFRICA_TOOLTIP;List Â§YLibyanÂ§W countries;;;;;;;;;;;;;
