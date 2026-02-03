@@ -1,6 +1,6 @@
-owner = FRN
-controller = FRN
-add_core = FRN
+owner = HUJ
+controller = HUJ
+add_core = HUJ
 add_core = FRK
 add_core = LAA
 trade_goods = coal

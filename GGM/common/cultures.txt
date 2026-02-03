@@ -138,18 +138,41 @@ west_germanic = {
 			last_names = { "af Wealda" Bolger }
 	}
 	
+}
+
+west_germanic_continental = {
+    leader = european
+    unit = EuropeanGC
+	
 	laaglander = {
 	  color = { 224 204 130 }
         	first_names = { }
 
 			last_names = {	}
     }
+    union = LAA
 	
 }
 
 
 
 ##LATINS##
+
+latins_narbonne = {
+    leader = southamerican
+    unit = SpanishGC
+	
+	narbonne = {
+	  color = { 158 25 85 }
+        	first_names = { Acarius Adaldus Agofredus Baudelius Bercharius 
+							Gangulphus Gommarus Leodegarius Remaclus Ursmarus 
+							Wildradus }
+
+			last_names = {	}
+    }
+	union = NRB
+	
+}
 
 latins = {
     leader = southamerican
@@ -250,15 +273,6 @@ latins = {
 				Tulabiro Romabiro Punobiro "de Maria" "de Anna"
  
 			}
-    }
-	
-	narbonne = {
-	  color = { 158 25 85 }
-        	first_names = { Acarius Adaldus Agofredus Baudelius Bercharius 
-							Gangulphus Gommarus Leodegarius Remaclus Ursmarus 
-							Wildradus }
-
-			last_names = {	}
     }
 	
 }
