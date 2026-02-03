@@ -2,5 +2,5 @@ owner = HNU
 controller = HNU
 colonial = 2
 trade_goods = cattle
-terrain = savanna
+terrain = new_world_semidesert
 life_rating = 31
