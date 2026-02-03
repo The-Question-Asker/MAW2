@@ -2,5 +2,4 @@ owner = HNU
 controller = HNU
 colonial = 2
 trade_goods = fruit
-terrain = swamp
 life_rating = 31
