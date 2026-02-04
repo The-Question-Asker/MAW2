@@ -1,3 +1,5 @@
+### Mihranian Vassals
+
 vassal = {
     first = PRS
     second = CIR
@@ -11,6 +13,8 @@ vassal = {
     start_date = 1816.1.1
     end_date = 1936.1.1
 }
+
+### Chinese Substates
 
 substate = {
 	first = MIN
@@ -54,9 +58,57 @@ vassal = {
 	end_date = 1937.1.1
 }
 
+### Witlian Protectorate
+
 vassal = {
 	first = WTL
 	second = PHO
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+### Frankish Vassals
+
+vassal = {
+	first = FRN
+	second = BRG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRN
+	second = ALE
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRN
+	second = POI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRN
+	second = BLO
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRN
+	second = BLO
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+### Swabian Vassals
+
+vassal = {
+	first = SWA
+	second = TOE
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
