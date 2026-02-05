@@ -153,7 +153,7 @@ party = {
 
 unit_names = {
     dreadnought = {
-        Titane "Froi Bartolomo de Colona" "Anno" "Barko" "Batika" "Rikestere" "Kateko" "Moktetsuma" "Antajalpa"
+        "Ioannes IV" Titane "Froi Bartolomo de Colona" "Anno" "Barko" "Batika" "Rikestere" "Kateko" "Moktetsuma" "Antajalpa"
 		Alago Cruts Metiter Irkulas Inka Lukretsa "Froi Rekaredo" Kalope Dolpinu Dloros Sinmetus
     }
     battleship = {
