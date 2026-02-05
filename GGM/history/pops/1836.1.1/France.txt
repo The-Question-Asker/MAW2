@@ -1362,7 +1362,7 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 600
+        size = 3600
     }
 	
     soldiers = {
@@ -1518,7 +1518,7 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 1650
+        size = 6650
     }
 
     farmers = {
@@ -1582,7 +1582,7 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 240
+        size = 3240
     }
 
     farmers = {
@@ -1645,7 +1645,7 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 240
+        size = 3240
     }
 
     serfs = {
@@ -1825,7 +1825,7 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 240
+        size = 3240
     }
 
     serfs = {
@@ -2019,7 +2019,7 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 600
+        size = 3600
     }
 
     farmers = {
@@ -2275,7 +2275,7 @@
     soldiers = {
         culture = frankish
         religion = orthodox
-        size = 900
+        size = 3900
     }
 
     farmers = {

@@ -928,6 +928,15 @@ conversion_chance =
 			}
         }
     }
+	
+	modifier = {   #thomasine syncreticism is tolerated by arians
+		factor = -0.3
+		has_pop_religion = thomasine
+		country = {
+			has_country_flag = arian_country
+		}
+	
+	}
 	modifier = { # mani is the last prophet
 		factor = -0.3
 		OR = {
@@ -951,6 +960,7 @@ conversion_chance =
 			has_pop_religion = mahayana
 			has_pop_religion = theravada
 			has_pop_religion = shinto
+			has_pop_religion = thomasine
 		}
 		country = {
 			has_country_flag = manichaean_country

@@ -25093,6 +25093,12 @@
 		religion = arian
 		size = 1193
 	}
+	
+	labourers = {
+		culture = otomanguean
+		religion = thomasine
+		size = 300
+	}
 
 	slaves = {
 		culture = afro_african
@@ -25115,7 +25121,13 @@
 	farmers = {
 		culture = colonial_african_mixed
 		religion = arian
-		size = 26931
+		size = 23931
+	}
+	
+	farmers = {
+		culture = colonial_african_mixed
+		religion = thomasine
+		size = 3931
 	}
 
 	soldiers = {
@@ -25257,7 +25269,13 @@
 	serfs = {
 		culture = colonial_african_mixed
 		religion = arian
-		size = 15876
+		size = 15000
+	}
+	
+	serfs = {
+		culture = colonial_african_mixed
+		religion = thomasine
+		size = 876
 	}
 
 	officers = {
@@ -25269,7 +25287,13 @@
 	farmers = {
 		culture = colonial_african_mixed
 		religion = arian
-		size = 62181
+		size = 60000
+	}
+	
+	farmers = {
+		culture = colonial_african_mixed
+		religion = thomasine
+		size = 2181
 	}
 
 	soldiers = {
@@ -25360,6 +25384,12 @@
 		religion = animist
 		size = 115
 	}
+	
+	farmers = {
+		culture = aztlanic
+		religion = thomasine
+		size = 50
+	}
 
 	soldiers = {
 		culture = aztlanic
@@ -25430,7 +25460,13 @@
 	farmers = {
 		culture = colonial_african_mixed
 		religion = arian
-		size = 17061
+		size = 16061
+	}
+	
+	farmers = {
+		culture = colonial_african_mixed
+		religion = thomasine
+		size = 1000
 	}
 
 	soldiers = {
@@ -25521,6 +25557,12 @@
 		religion = animist
 		size = 557
 	}
+	
+	farmers = {
+		culture = aztlanic
+		religion = thomasine
+		size = 100
+	}
 
 	soldiers = {
 		culture = aztlanic
@@ -25591,7 +25633,13 @@
 	farmers = {
 		culture = colonial_african_mixed
 		religion = arian
-		size = 38211
+		size = 35211
+	}
+	
+	farmers = {
+		culture = colonial_african_mixed
+		religion = thomasine
+		size = 3000
 	}
 
 	soldiers = {
@@ -26809,6 +26857,12 @@
 		religion = animist
 		size = 911
 	}
+	
+	farmers = {
+		culture = mesoamerican_minor
+		religion = thomasine
+		size = 400
+	}
 
 	soldiers = {
 		culture = mesoamerican_minor
@@ -26879,7 +26933,13 @@
 	farmers = {
 		culture = colonial_african_mixed
 		religion = arian
-		size = 11421
+		size = 8421
+	}
+	
+	farmers = {
+		culture = colonial_african_mixed
+		religion = thomasine
+		size = 3000
 	}
 
 	soldiers = {
@@ -26972,6 +27032,12 @@
 		religion = animist
 		size = 203
 	}
+	
+	farmers = {
+		culture = aztlanic
+		religion = thomasine
+		size = 100
+	}
 
 	soldiers = {
 		culture = aztlanic
@@ -27042,7 +27108,13 @@
 	farmers = {
 		culture = colonial_african_mixed
 		religion = arian
-		size = 39621
+		size = 34621
+	}
+	
+	farmers = {
+		culture = colonial_african_mixed
+		religion = thomasine
+		size = 5000
 	}
 
 	soldiers = {
@@ -27203,7 +27275,13 @@
 	farmers = {
 		culture = colonial_african_mixed
 		religion = arian
-		size = 3371
+		size = 2371
+	}
+	
+	farmers = {
+		culture = colonial_african_mixed
+		religion = thomasine
+		size = 1371
 	}
 
 	soldiers = {
