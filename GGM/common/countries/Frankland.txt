@@ -152,5 +152,38 @@ party = {
 }
 
 unit_names = {
-    #inherit
+     dreadnought = {
+        
+    }
+    battleship = {
+        
+    }
+    ironclad = {
+       
+    }
+    clipper_transport = {
+        
+    }
+    steam_transport = {
+        
+    }
+    commerce_raider = {
+		
+        
+    }
+    cruiser = {
+        
+    }
+
+    frigate = {
+       "Circé" "Hermione" "Pallas" "Sémiramis" "Armorique" "Junon"
+        "Magicienne" "Thémis" "Flore"
+    }
+    monitor = {
+        
+    }
+    manowar = {
+        Temaraire Belle Soissons Childerie "Souveraine" "Audacieuse" "Impétueuse" "Ardente" "Victoire" "Guerrière" "Renommée"
+        "Danaé" "Pandore" "Zénobie" "Clorinde" "Astrée"
+    }
 }

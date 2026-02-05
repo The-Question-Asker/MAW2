@@ -368,7 +368,7 @@ hellenes = {
 							Girgis Harmine Joore Kollouthos Niran Pachomios Pakhom Pambo 
 							Patermouthios Phello Pigol Pijimi Sarjoun Sidhom Yeshak Yaraklas 
 							Cleomenes Amenophis Soter Philadelphus Epignos Euergetes Philopator
-							Epiphanes Philometer Physcon Eupator Alexander Auletes Apion 
+							Epiphanes Philometer Physcon Eupator Alexandros Auletes Apion  Petros
 							}
 
 			last_names = {	Ptolemy Pleistoneices Chrysermus Lagid Varoufakis Papadopoulos }

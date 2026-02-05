@@ -23,10 +23,61 @@ leader = {
     background = war_college
 }
 
+leader = {
+    name = "Alexandros Lagid"
+    date = 1833.1.1
+    type = land
+    personality = coolminded
+    background = aristocrat
+}
+
+leader = {
+    name = "Petros Ammonos"
+    date = 1833.1.1
+    type = land
+    personality = mediocre
+    background = unfit
+}
+
+leader = {
+    name = "Theodosios Athenaios"
+    date = 1833.1.1
+    type = land
+    personality = perverse
+    background = megalomaniac
+}
+
+leader = {
+    name = "Erodias Iapethos"
+    date = 1833.1.1
+    type = land
+    personality = skilled
+    background = corrupt
+}
+
+leader = {
+    name = "Amoun Lagid"
+    date = 1833.1.1
+    type = sea
+    personality = unflinching
+    background = clueless
+}
+
+
+leader = {
+    name = "Mithridites 'Rhodos' Pellas"
+    date = 1833.1.1
+    type = sea
+    personality = resolute
+    background = elderly
+}
+
+
+
 # Armies
 
 army = {
-    name = "Soudanese Army"
+    name = "Falangarchos V. 'Soudan'"
     location = 1827
 
     regiment = {
@@ -48,48 +99,48 @@ army = {
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1827
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1830
     }
 
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1829
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1152
     }
 	
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1767
     }
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1767
     }
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Hippon"
         type = hussar
         home = 1767
     }
 }
 
 army = {
-    name = "Army of the West"
+    name = "Falangarchos III. 'Esperos'"
     location = 1735
 
     regiment = {
@@ -99,47 +150,47 @@ army = {
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1745
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 854
     }
 
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1765
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1764
     }
 
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1747
     }
 	
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1762
     }
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1752
     }
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Hippon"
         type = hussar
         home = 1734
     }
@@ -147,7 +198,7 @@ army = {
 
 
 army = {
-    name = "Army of the Levant"
+    name = "Falangarchos II. 'Faron'"
     location = 913
 
     regiment = {
@@ -163,105 +214,105 @@ army = {
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 898
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 898
     }
 
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 898
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 900
     }
 
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 900
     }
 	
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 900
     }
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 900
     }
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Hippon"
         type = hussar
         home = 900
     }
 }
 
 army = {
-    name = "European Garrison"
+    name = "Falangarchos VI. 'Europis'"
     location = 834
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 834
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 834
     }
 
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 845
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 839
     }
 
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 842
     }
 	
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 838
     }
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 869
     }
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Hippon"
         type = hussar
         home = 826
     }
 }
 
 army = {
-    name = "Tauric Garrison"
+    name = "Falangarchos IV. 'Tauris'"
     location = 967
 
     regiment = {
@@ -283,164 +334,164 @@ army = {
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 894
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 894
     }
 
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 837
     }
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Hippon"
         type = hussar
         home = 825
     }
 }
 
 army = {
-    name = "Army of Aegypt"
+    name = "Falangarchos I. 'Ptolemeos'"
     location = 1751
 		
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1750
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1751
     }
 
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1751
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1751
     }
 
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1751
     }
 	
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1751
     }
     regiment = {
-        name= "Artillery Brigade"
-        type = artillery
-        home = 1751
-    }
-	
-    regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1751
     }
 	
     regiment = {
-        name= "Artillery Brigade"
-        type = artillery
-        home = 1751
-    }
-    regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1751
     }
 	
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Archebuson"
+        type = artillery
+        home = 1751
+    }
+    regiment = {
+        name= "Taxis Archebuson"
+        type = artillery
+        home = 1751
+    }
+	
+    regiment = {
+        name= "Taxis Hippon"
         type = hussar
         home = 1751
     }
 }
 
 army = {
-    name = "Islander Garrison"
+    name = "Falangarchos VIII. 'Serris'"
     location = 1403
 
     regiment = {
-        name= "Levies"
+        name= "Serrican Levies"
         type = irregular
         home = 1403
     }
 	
     regiment = {
-        name= "Levies"
+        name= "Serrican Levies"
         type = irregular
         home = 1413
     }
 	
     regiment = {
-        name= "Levies"
+        name= "Serrican Levies"
         type = irregular
         home = 1414
     }
 	
     regiment = {
-        name= "Levies"
+        name= "Serrican Levies"
         type = irregular
         home = 1413
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1415
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1418
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1421
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1420
     }
 
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1416
     }
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Hippon"
         type = hussar
         home = 1417
     }
 }
 
 army = {
-    name = "South India Garrison"
+    name = "Falangarchos IX. 'Indou'"
     location = 1312
 
     regiment = {
@@ -462,49 +513,49 @@ army = {
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 832
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 832
     }
 	
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Hippon"
         type = hussar
         home = 827
     }
 }
 
 army = {
-    name = "West Libyan Garrison"
+    name = "Agema Libues"
     location = 1877
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1877
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1792
     }
 	
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Hippon"
         type = hussar
         home = 1887
     }
 }
 
 army = {
-    name = "Army of the Pharaoh"
+    name = "Agema Aegyptis"
     location = 894
 
     regiment = {
@@ -520,48 +571,48 @@ army = {
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1748
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1748
     }
 
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1746
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1746
     }
 
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1746
     }
 	
     regiment = {
-        name= "Infantry Brigade"
+        name= "Taxis Pelaston"
         type = infantry
         home = 1751
     }
 	
     regiment = {
-        name= "Artillery Brigade"
+        name= "Taxis Archebuson"
         type = artillery
         home = 1751
     }
     regiment = {
-        name= "Cavalry Brigade"
+        name= "Taxis Hippon"
         type = hussar
         home = 1751
     }
@@ -572,50 +623,50 @@ army = {
 #######################
  
 navy = {
-	name = "The Red Sea Fleet"
+	name = "Nautika Erythrea"
 	location = 1771
 	ship = {
-		name= "Man-o-War"
+		name= "Gigas"
 		type = manowar
 	}
 	
 	ship = {
-		name= "Man-o-War"
+		name= "Rhododenros"
 		type = manowar
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Olympe"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Ptolemeos"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Seleucus"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Hermeus"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Daimon"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Pandora"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Sophia"
 		type = frigate
 	}
 
@@ -662,85 +713,85 @@ navy = {
 }
 
 navy = {
-	name = "The Goshen Armada"
+	name = "Nautika Gosenos"
 	location = 1751
 	ship = {
-		name= "Man-o-War"
+		name= "Pantelimon"
 		type = manowar
 	}
 	
 	ship = {
-		name= "Man-o-War"
+		name= "Battrachos"
 		type = manowar
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Moromps"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Lepidoptera"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Venus"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Hera"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Maria"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Philadephos"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Eupator"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Atlas"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Zoar"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Serrican"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Thassalobos"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Acheron"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Thanatos"
 		type = frigate
 	}
 	
 	ship = {
-		name= "Frigate"
+		name= "Christos"
 		type = frigate
 	}
 
