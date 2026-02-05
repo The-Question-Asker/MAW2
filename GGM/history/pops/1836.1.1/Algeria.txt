@@ -1153,31 +1153,31 @@
 
     aristocrats = {
         culture = african
-        religion = shiite
+        religion = orthodox
         size = 40
     }
 
     clergymen = {
         culture = african
-        religion = shiite
+        religion = orthodox
         size = 80
     }
 
     artisans = {
         culture = african
-        religion = shiite
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = african
-        religion = shiite
+        religion = orthodox
         size = 80
     }
 
     farmers = {
         culture = african
-        religion = shiite
+        religion = orthodox
         size = 3600
     }
 
