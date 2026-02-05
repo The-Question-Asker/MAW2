@@ -1,5 +1,5 @@
 owner = RTH
-controller = RTH
+controller = KPD
 add_core = RTH
 add_core = BYR
 add_core = LTT
