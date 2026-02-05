@@ -25036,43 +25036,43 @@
 
 	officers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -25202,43 +25202,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 557
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 11
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 44
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
@@ -25375,13 +25375,13 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 	
@@ -25393,31 +25393,31 @@
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -25548,13 +25548,13 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 557
 	}
 	
@@ -25566,31 +25566,31 @@
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 11
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 44
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
@@ -25721,43 +25721,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -25882,43 +25882,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -26043,43 +26043,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 203
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 4
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 16
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 3
 	}
 
@@ -26204,43 +26204,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 26
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
@@ -26365,43 +26365,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -26526,43 +26526,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 911
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 18
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 72
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 10
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 15
 	}
 
@@ -26687,43 +26687,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 911
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 18
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 72
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 10
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 15
 	}
 
@@ -26848,13 +26848,13 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 911
 	}
 	
@@ -26866,31 +26866,31 @@
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 18
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 72
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 10
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 15
 	}
 
@@ -27023,13 +27023,13 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 203
 	}
 	
@@ -27041,31 +27041,31 @@
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 4
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 16
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 3
 	}
 
@@ -27196,43 +27196,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 292
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 5
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 23
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 3
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 4
 	}
 
@@ -27363,43 +27363,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1177
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 23
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 93
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 13
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 19
 	}
 
@@ -27524,43 +27524,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 557
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 11
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 44
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
@@ -27685,43 +27685,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -27846,43 +27846,43 @@
 
 	officers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = aztlanic
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -28007,43 +28007,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 734
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 14
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 58
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 8
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 12
 	}
 
@@ -28168,43 +28168,43 @@
 
 	officers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	farmers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1796
 	}
 
 	soldiers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 36
 	}
 
 	artisans = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 142
 	}
 
 	clergymen = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 20
 	}
 
 	bureaucrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	aristocrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 30
 	}
 
@@ -28329,43 +28329,43 @@
 
 	officers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	farmers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1442
 	}
 
 	soldiers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 29
 	}
 
 	artisans = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 114
 	}
 
 	clergymen = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 16
 	}
 
 	bureaucrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	aristocrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 24
 	}
 
@@ -28490,43 +28490,43 @@
 
 	officers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	farmers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1442
 	}
 
 	soldiers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 29
 	}
 
 	artisans = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 114
 	}
 
 	clergymen = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 16
 	}
 
 	bureaucrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	aristocrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 24
 	}
 
@@ -28651,43 +28651,43 @@
 
 	officers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	farmers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1442
 	}
 
 	soldiers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 29
 	}
 
 	artisans = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 114
 	}
 
 	clergymen = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 16
 	}
 
 	bureaucrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	aristocrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 24
 	}
 
@@ -28812,43 +28812,43 @@
 
 	officers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	farmers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1442
 	}
 
 	soldiers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 29
 	}
 
 	artisans = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 114
 	}
 
 	clergymen = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 16
 	}
 
 	bureaucrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	aristocrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 24
 	}
 
@@ -28973,43 +28973,43 @@
 
 	officers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	farmers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1442
 	}
 
 	soldiers = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 29
 	}
 
 	artisans = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 114
 	}
 
 	clergymen = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 16
 	}
 
 	bureaucrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	aristocrats = {
 		culture = otomanguean
-		religion = animist
+		religion = thomasine
 		size = 24
 	}
 
@@ -29134,43 +29134,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 557
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 11
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 44
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
@@ -29295,43 +29295,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 557
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 11
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 44
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
@@ -29456,43 +29456,43 @@
 
 	officers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 646
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 13
 	}
 
 	artisans = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 51
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 7
 	}
 
 	bureaucrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 10
 	}
 
@@ -29617,43 +29617,43 @@
 
 	officers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 380
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 7
 	}
 
 	artisans = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 30
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 4
 	}
 
 	bureaucrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 6
 	}
 
@@ -29778,43 +29778,43 @@
 
 	officers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 557
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 11
 	}
 
 	artisans = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 44
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
@@ -29939,43 +29939,43 @@
 
 	officers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -30100,43 +30100,43 @@
 
 	officers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 557
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 11
 	}
 
 	artisans = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 44
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 6
 	}
 
 	bureaucrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mayan
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
@@ -30261,43 +30261,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -30422,43 +30422,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -30583,43 +30583,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
@@ -30744,43 +30744,43 @@
 
 	officers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	farmers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 115
 	}
 
 	soldiers = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 2
 	}
 
 	artisans = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 9
 	}
 
 	clergymen = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
 	bureaucrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 0
 	}
 
 	aristocrats = {
 		culture = mesoamerican_minor
-		religion = animist
+		religion = thomasine
 		size = 1
 	}
 
