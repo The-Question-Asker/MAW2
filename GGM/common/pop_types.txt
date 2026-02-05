@@ -930,7 +930,7 @@ conversion_chance =
     }
 	
 	modifier = {   #thomasine syncreticism is tolerated by arians
-		factor = -0.3
+		factor = -0.6
 		has_pop_religion = thomasine
 		country = {
 			has_country_flag = arian_country
