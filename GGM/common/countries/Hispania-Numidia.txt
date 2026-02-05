@@ -191,7 +191,7 @@ unit_names = {
     monitor = {
         "Froi Rodolfo" "Froa Lukia" "Batika" "Urbe Kartege" "Urbe Utika" "Atlaso" "Kateko" "Afrikano" "Puknarete" "Tenostkitlos"
         "Trementore" Irkulas Isperides Rikeskip "Sor Juana de Cruts" Ferots Fatu "Bukala" "Geserkio de Utika"
-        "Amlikaro" "Mago" Rikes Ispese Itspugnator Tsispesor Sibulla "Vikerikes Anno" Wallobiro Kakouti "Imliko"
+        "Amlikaro" "Mago" Rikes Ispese Itspugnator Tsispesor Sibulla "Vikerikes Anno" Wallobiro Kakuti "Imliko"
     }
     manowar = {
         "Lotare" "Angelo Gabrele" "Agila" "Argonata" "Prinkeps" "Konatos" "Ekhino" "Glorisimo" "Ipolite" "Antipodo" "Mediko"
