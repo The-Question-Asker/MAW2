@@ -518,3 +518,96 @@ navy = {
 	}
 	
 }
+
+
+
+
+navy = {
+	name = "Manoskip Nobva Wandala"
+	location = 2264
+	ship = {
+		name= "Moktetsuma"
+		type = manowar
+	}
+	ship = {
+		name= "Antajalpa"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Inka"
+		type = manowar
+	}
+	
+	
+	ship = {
+		name= "Alago Cruts"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Irkulas"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Metiter"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Prinkeps"
+		type = frigate
+	}
+	
+	
+	
+}
+
+navy = {
+	name = "Manoskip Meride"
+	location = 2351
+	ship = {
+		name= "Unerike"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Katekabiro"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Tupibiro"
+		type = manowar
+	}
+	
+	
+	ship = {
+		name= "Linus"
+		type = frigate
+	}
+	
+	ship = {
+		name= "St. Mareia"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Rikese"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Fortesimu"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Negro"
+		type = frigate
+	}
+	
+	
+	
+}
