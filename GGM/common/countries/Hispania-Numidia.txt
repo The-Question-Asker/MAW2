@@ -152,5 +152,50 @@ party = {
 }
 
 unit_names = {
-    #inherit
+    dreadnought = {
+        Titane "Froi Bartolomo de Colona" "Anno" "Barko" "Batika" "Rikestere" "Kateko" "Moktetsuma" "Antajalpa"
+		Alago Cruts Metiter Irkulas Inka Lukretsa "Froi Rekaredo" Kalope Dolpinu Dloros Sinmetus
+    }
+    battleship = {
+        "Ag. St. Marko" Basilos Serbenu Kongo Okuse Ferrinsula Tyre Ponecas "Ag. St. Bartolomo" "Singo de Tannit"
+		"Imortis" Lisboa "Ag. St. Ubes" "Caana" "Mors ad Egpto" "Mors ad Roma" "Kastor" "Polluts" "Skipio" "Kato"
+    }
+    ironclad = {
+        Ferrebufos Odos Adbersaros Alakritas "Ag. St. Peter" "Ag. St. Linus" "Ag. St. Tarkino" Simono Imperatore
+		Betalajemo Adatsu Clens Klementa Optimo Pulkero Porta Kanos Grotos Alanu Wandalo Geseriko Gundaboro Sigmundo
+		Impabide Bellator Saga Farsalos Agostos Kasaro Sulla Ostilos Octabano Kanne "Ag. St. Alberto" 
+    }
+    clipper_transport = {
+        
+    }
+    steam_transport = {
+        
+    }
+    commerce_raider = {
+		"Bagradas" "Andromeda" "Hudra" "Alfa" "Omega" "Ispana" "Ag. St. Ioannes" "Ag. St. Matteios" "Ag. St. Lukas" 
+		"Ag. St. Sal" "Gottes data Patros" "Ipiskopos" "Flumen" Dentos Innokenta  Integorimus Akribos Festino Karnifetsu
+		Polkeros Runa "Ag. St. Katarina" "Fidu" "Fidelu" "Immortalos" "Kervu" "Oppugator" "Kankere" "Diru" 
+        
+    }
+    cruiser = {
+        "Ioannes III" "Ares" Amasugos Agripina Minerva "Urbe Abes" Flora "Gloria" "Cornelia" "Froi Trasmundo de Septima"
+        "Arora" "Meda" Isilba "Nobva Anfa" Dido Ponus Trepisokore Altaba Pekator Berukator Irmigere Grabis Grandes Isignifere
+		Severitos Prekinos Akipensere "Gottes data Patros" "Gottes data Filkes" "Farnis  Rikes" "Koton" "Nekropolis"
+    }
+
+    frigate = {
+        "Sofia" Martana Sitana Numida Wismara Artemis Kanaros Diana Tsosimo Romabiro
+        "Polubos" "Faro" Jupiter Babulone Aster "Tsigmondo" "Kleopatra" "Ulfila" Neptune
+        Uskar Prins "Prins Adolfo" "Rika Victoia" "Aletsander" "Triton" "Tigre" "Sirene" "Donusos" Vulcane
+    }
+    monitor = {
+        "Froi Rodolfo" "Froa Lukia" "Batika" "Urbe Kartege" "Urbe Utika" "Atlaso" "Kateko" "Afrikano" "Puknarete" "Tenostkitlos"
+        "Trementore" Irkulas Isperides Rikeskip "Sor Juana de Cruts" Ferots Fatu "Bukala" "Geserkio de Utika"
+        "Amlikaro" "Mago" Rikes Ispese Itspugnator Tsispesor Sibulla "Vikerikes Anno" Wallobiro "Vicealmirante Kakouti "Imliko"
+    }
+    manowar = {
+        "Lotare" "Angelo Gabrele" "Agila" "Argonata" "Prinkeps" "Konatos" "Ekhino" "Glorisimo" "Ipolite" "Antipodo" "Mediko"
+        "Ioanes II" "Atokrato" "Ag. St. Ulfila" "Domina" "Rikes Kristo" "Ag. St. Kintos" "Ag. St. Martino" "Anbalo" "Ag. St. Isodore" "Ag. St. Katarino"
+        "Ag. St. Mareia" "Ag. St. Aktentos" "Ag. Sg. Pelagos"  "Wiktorismo"
+    }
 }
