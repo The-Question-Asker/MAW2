@@ -2,9 +2,24 @@ color = { 85 48 153 }
 graphical_culture = European # inherit
 
 party = {
-    name = "dominion_conservative"
+    name = "FRN_conservative_1"
     start_date = 1835.1.1
-    end_date = 1937.1.1
+    end_date = 1860.1.1
+
+    ideology = conservative
+
+    social_policy = no_position_set
+    economic_policy = state_capitalism
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = pro_military
+}
+
+party = {
+    name = "FRN_conservative_2"
+    start_date = 1860.1.1
+    end_date = 1880.1.1
 
     ideology = conservative
 
@@ -13,13 +28,28 @@ party = {
     trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = residency
+    war_policy = jingoism
+}
+
+party = {
+    name = "FRN_conservative_3"
+    start_date = 1880.1.1
+    end_date = 1937.1.1
+
+    ideology = conservative
+
+    social_policy = populist_welfare
+    economic_policy = interventionism
+    trade_policy = protectionism
+    religious_policy = pluralism
+    citizenship_policy = residency
     war_policy = pro_military
 }
 
 party = {
-    name = "dominion_reactionary"
+    name = "FRN_reactionary_1"
     start_date = 1835.1.1
-    end_date = 1937.1.1
+    end_date = 1840.1.1
 
     ideology = reactionary
 
@@ -32,14 +62,29 @@ party = {
 }
 
 party = {
-    name = "dominion_liberal"
+    name = "FRN_reactionary_2"
+    start_date = 1840.1.1
+    end_date = 1937.1.1
+
+    ideology = reactionary
+
+    social_policy = populist_welfare
+    economic_policy = state_capitalism
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = jingoism
+}
+
+party = {
+    name = "FRN_liberal"
     start_date = 1835.1.1
     end_date = 1937.1.1
 
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = interventionism
+    economic_policy = laissez_faire
     trade_policy = free_trade
     religious_policy = secularized
     citizenship_policy = full_citizenship
@@ -47,7 +92,7 @@ party = {
 }
 
 party = {
-    name = "dominion_anarcho_liberal"
+    name = "FRN_anarcho_liberal"
     start_date = 1830.1.1
     end_date = 2000.1.1
 
@@ -62,7 +107,7 @@ party = {
 }
 
 party = {
-    name = "dominion_socialist"
+    name = "FRN_socialist"
     start_date = 1848.1.1
     end_date = 2000.1.1
 
@@ -77,7 +122,7 @@ party = {
 }
 
 party = {
-    name = "dominion_communist"
+    name = "FRN_communist"
     start_date = 1848.1.1
     end_date = 2000.1.1
 
@@ -92,7 +137,7 @@ party = {
 }
 
 party = {
-    name = "dominion_fascist"
+    name = "FRN_fascist"
     start_date = 1900.1.1
     end_date = 2000.1.1
 

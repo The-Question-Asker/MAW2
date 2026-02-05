@@ -41,7 +41,7 @@ border_policy = closed_borders
 set_country_flag = orthodox_country
 set_country_flag = frankish_emperor
 
-ruling_party = dominion_conservative
+ruling_party = FRN_conservative_1
 upper_house = { # inherit
     fascist = 0
     liberal = 25
