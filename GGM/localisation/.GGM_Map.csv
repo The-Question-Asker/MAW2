@@ -569,14 +569,14 @@ PROV2563;Tasifate;;;;;;;;;;;;;x
 PROV1692;Khamate;;;;;;;;;;;;;x
 PROV1690;Amurakutse;;;;;;;;;;;;;x
 PROV1694;Igdire;;;;;;;;;;;;;x
-PROV1695;Halago Cruts;;;;;;;;;;;;;x
+PROV1695;Alago Cruts;;;;;;;;;;;;;x
 PROV1699;Wartsatsa;;;;;;;;;;;;;x
 PROV1698;Imturne;;;;;;;;;;;;;x
 PROV495;Sargossas;;;;;;;;;;;;;x
 PROV1693;Mogadore;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
+PROV1177;Dioskouridou;;;;;;;;;;;;;x
+PROV1757;Mysormos;;;;;;;;;;;;;x
+PROV922;Elathormos;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
@@ -655,6 +655,9 @@ PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV2707;Gulf of Suomland;;;;;;;;;;;;;x ###### SEA PROVS #######
+PROV2782;Proximal Erythrean Sea;;;;;;;;;;;;;x 
+PROV2904;West Distal Erythrean Sea;;;;;;;;;;;;;x 
+PROV2905;East Distal Erythrean Sea;;;;;;;;;;;;;x 
 PROV2721;Bight of Inselursels;;;;;;;;;;;;;x 
 PROV2720;Teutostroem;;;;;;;;;;;;;x 
 PROV2712;Katzensund;;;;;;;;;;;;;x 
@@ -758,6 +761,31 @@ PROV2749;Golf del Lleó;;;;;;;;;;;;;x
 PROV2750;Ribiera Roman;;;;;;;;;;;;;x
 PROV2729;Baie Arcaishon;;;;;;;;;;;;;x
 PROV2728;Mouth of the Dordogne;;;;;;;;;;;;;x
+PROV2781;Gulf of Arabia;;;;;;;;;;;;;x
+PROV2783;Straits of Eudaemon;;;;;;;;;;;;;x
+PROV2784;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Zenobian Isles;;;;;;;;;;;;;x
+PROV2786;Coast of the Ashabons;;;;;;;;;;;;;x
+PROV2787;Strait of Mazdan;;;;;;;;;;;;;x
+PROV2788;Persian Sea;;;;;;;;;;;;;x
+PROV2899;Cape Aroma;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2785;Cape Elephas;;;;;;;;;;;;;x
 PROV2508;New Naxos;;;;;;;;;;;;;x ###### ABORIGINAL AUSTRALIA
 PROV2509;Te Tai Tokerau;;;;;;;;;;;;;x
 PROV2468;Kuring-Gai;;;;;;;;;;;;;x
