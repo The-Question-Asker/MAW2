@@ -186,7 +186,7 @@ unit_names = {
     frigate = {
         "Sofia" Martana Sitana Numida Wismara Artemis Kanaros Diana Tsosimo Romabiro
         "Polubos" "Faro" Jupiter Babulone Aster "Tsigmondo" "Kleopatra" "Ulfila" Neptune
-        Uskar Prins "Prins Adolfo" "Rika Victoia" "Aletsander" "Triton" "Tigre" "Sirene" "Donusos" Vulcane
+        Uskar Prins "Prins Adolfo" "Rika Victora" "Aletsander" "Triton" "Tigre" "Sirene" "Donusos" Vulcane
     }
     monitor = {
         "Froi Rodolfo" "Froa Lukia" "Batika" "Urbe Kartege" "Urbe Utika" "Atlaso" "Kateko" "Afrikano" "Puknarete" "Tenostkitlos"
