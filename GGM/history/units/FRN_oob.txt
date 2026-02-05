@@ -1,0 +1,373 @@
+# Diplomacy
+
+BRG = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+ALE = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+POI = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+BLO = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+GUI = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+OUL = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+DOR = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+ATS = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+BRO = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+DYF = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+IVE = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+HLM = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+AGU = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+POW = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+OTT = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+MES = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+VER = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+OUF = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+
+# Leaders
+# Generals
+
+leader = {
+    name = "Chariulf fon Welf"
+    date = 1833.1.1
+    type = land
+    personality = earnest
+    background = cavalry_school
+}
+
+leader = {
+    name = "Abelarde fon Adholfing"
+    date = 1833.1.1
+    type = land
+    personality = deeply_religious
+    background = professor
+}
+
+
+
+
+#Admirals
+
+leader = {
+    name = "Guntram fon Ables"
+    date = 1833.1.1
+    type = sea
+    personality = brutish
+    background = disgraced
+}
+
+# Armies
+
+army = {
+    name = "Division 1. 'd'Empereur'"
+    location = 425
+	
+	
+	regiment = {
+        name= "Brigade d'Infanterie 'Toison'"
+        type = infantry
+        home = 425
+    }
+	regiment = {
+        name= "Brigade d'Infanterie"
+        type = infantry
+        home = 425
+    }
+	regiment = {
+        name= "Brigade d'Infanterie"
+        type = infantry
+        home = 425
+    }
+
+	
+	regiment = {
+        name= "Brigade d'Artillerie"
+        type = artillery
+        home = 425
+    }
+	
+	regiment = {
+        name= "Brigade d'Artillerie"
+        type = artillery
+        home = 415
+    }
+	regiment = {
+        name= "Brigade d'Artillerie"
+        type = artillery
+        home = 415
+    }
+	regiment = {
+        name= "Brigade d'Artillerie"
+        type = artillery
+        home = 418
+    }
+
+	
+	regiment = {
+        name= "Brigade des Hussards 'Fon Welf'"
+        type = hussar
+        home = 418
+    }
+	
+	regiment = {
+        name= "Brigade des Hussards 'Fon Tours'"
+        type = hussar
+        home = 418
+    }
+	
+	regiment = {
+        name= "Brigade des Hussards"
+        type = hussar
+        home = 420
+    }
+}
+
+
+army = {
+    name = "Division 2. 'L'Oie'"
+    location = 432
+	
+	
+	regiment = {
+        name= "Brigade d'Infanterie"
+        type = infantry
+        home = 420
+    }
+	regiment = {
+        name= "Brigade d'Infanterie"
+        type = infantry
+        home = 421
+    }
+	regiment = {
+        name= "Brigade d'Infanterie"
+        type = infantry
+        home = 421
+    }
+
+	
+	regiment = {
+        name= "Brigade d'Artillerie"
+        type = artillery
+        home = 424
+    }
+	
+	regiment = {
+        name= "Brigade d'Artillerie"
+        type = artillery
+        home = 424
+    }
+	regiment = {
+        name= "Brigade d'Artillerie"
+        type = artillery
+        home = 426
+    }
+	regiment = {
+        name= "Brigade d'Artillerie"
+        type = artillery
+        home = 426
+    }
+
+	
+	regiment = {
+        name= "Brigade des Hussards"
+        type = hussar
+        home = 432
+    }
+	
+	regiment = {
+        name= "Brigade des Hussards"
+        type = hussar
+        home = 432
+    }
+	
+	regiment = {
+        name= "Brigade des Hussards"
+        type = hussar
+        home = 434
+    }
+}
+
+
+#######################
+####### Navies ########
+#######################
+ 
+navy = {
+	name = "Flotte Imperiale"
+	location = 418
+	
+	
+	ship = {
+		name= "Barbare"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Amun-Ra"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Ionia"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Polett"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Pasiphae"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Paonne"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Ivernnia"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Frankia"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+}
+
+
