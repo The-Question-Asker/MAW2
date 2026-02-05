@@ -19,6 +19,7 @@ TPN = {
 }
 
 # Leaders
+# Generals
 
 leader = {
     name = "Tedolfo Skulpa"
@@ -55,19 +56,21 @@ leader = {
 
 
 leader = {
-    name = "Alariko Antona"
-    date = 1833.1.1
-    type = sea
-    personality = audacious
-    background =  warmonger
-}
-
-leader = {
     name = "Gabrele de Tarkino"
     date = 1827.1.1
     type = land
     personality = soldierly
     background = old_school
+}
+
+#Admirals
+
+leader = {
+    name = "Alariko Antona"
+    date = 1833.1.1
+    type = sea
+    personality = audacious
+    background =  warmonger
 }
 
 # Armies
