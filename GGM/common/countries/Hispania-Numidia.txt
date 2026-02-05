@@ -154,11 +154,11 @@ party = {
 unit_names = {
     dreadnought = {
         "Ioannes IV" Titane "Froi Bartolomo de Colona" "Anno" "Barko" "Batika" "Rikestere" "Kateko" "Moktetsuma" "Antajalpa"
-		Alago Cruts Metiter Irkulas Inka Lukretsa "Froi Rekaredo" Kalope Dolpinu Dloros Sinmetus
+		Alago Cruts Metiter Irkulas Inka Lukretsa "Froi Rekaredo" Kalope Dolpinu Dloros Sinmetus "Nobva Martana"
     }
     battleship = {
         "Ag. St. Marko" Basilos Serbenu Kongo Okuse Ferrinsula Tyre Ponecas "Ag. St. Bartolomo" "Singo de Tannit"
-		"Imortis" Lisboa "Ag. St. Ubes" "Caana" "Mors ad Egpto" "Mors ad Roma" "Kastor" "Polluts" "Skipio" "Kato"
+		"Imortis" "Ag. St. Ubes" "Caana" "Mors ad Egpto" "Mors ad Roma" "Kastor" "Polluts" "Skipio" "Kato" "Nobva Batika"
     }
     ironclad = {
         Ferrebufos Odos Adbersaros Alakritas "Ag. St. Peter" "Ag. St. Linus" "Ag. St. Tarkino" Simono Imperatore
@@ -191,7 +191,7 @@ unit_names = {
     monitor = {
         "Froi Rodolfo" "Froa Lukia" "Batika" "Urbe Kartege" "Urbe Utika" "Atlaso" "Kateko" "Afrikano" "Puknarete" "Tenostkitlos"
         "Trementore" Irkulas Isperides Rikeskip "Sor Juana de Cruts" Ferots Fatu "Bukala" "Geserkio de Utika"
-        "Amlikaro" "Mago" Rikes Ispese Itspugnator Tsispesor Sibulla "Vikerikes Anno" Wallobiro "Vicealmirante Kakouti "Imliko"
+        "Amlikaro" "Mago" Rikes Ispese Itspugnator Tsispesor Sibulla "Vikerikes Anno" Wallobiro Kakouti "Imliko"
     }
     manowar = {
         "Lotare" "Angelo Gabrele" "Agila" "Argonata" "Prinkeps" "Konatos" "Ekhino" "Glorisimo" "Ipolite" "Antipodo" "Mediko"
