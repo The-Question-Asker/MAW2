@@ -145,7 +145,7 @@ expert;Paranoid;;;;;;;;;;;;;x
 old_school;Old Guard;;;;;;;;;;;;;x
 hated;Exile;;;;;;;;;;;;;x
 cursed_luck;Torturer;;;;;;;;;;;;;x
-clueless;Pedant;;;;;;;;;;;;;x
+clueless;Bungler;;;;;;;;;;;;;x
 immoral;Pilferer;;;;;;;;;;;;;x
 spoiled;Princeling;;;;;;;;;;;;;x
 uncommonly_young;Dreamer;;;;;;;;;;;;;x
@@ -155,7 +155,6 @@ unqualified;Drunkard;;;;;;;;;;;;;x
 unfit;Sinecurist;;;;;;;;;;;;;x
 disgraced_p;Careerist;;;;;;;;;;;;;x
 disgraced;Campaigner;;;;;;;;;;;;;x
-bungler;Bungler;;;;;;;;;;;;;x
 corrupt;Embezzler;;;;;;;;;;;;;x
 war_college;War College Graduate;;;;;;;;;;;;;x
 shirker;Shirking;;;;;;;;;;;;;x
@@ -211,3 +210,4 @@ DIPLOMACY_FILTER_AFRICA;Libya;;;;;;;;;;;;;
 DIPLOMACY_FILTER_AFRICA_TOOLTIP;List §YLibyan§W countries;;;;;;;;;;;;;
 bon_chrestien;Bon Chrestien;;;;;;;;;;;;;x
 thomasine;Thomasine;;;;;;;;;;;;;x
+cavalry_school;Horseman;;;;;;;;;;;;;x
