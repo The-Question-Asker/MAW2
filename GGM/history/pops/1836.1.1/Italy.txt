@@ -95,17 +95,8 @@
     ########
 
     ########saxon Pops
-    capitalists = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
 
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
+
 
     clergymen = {
         culture = saxon
@@ -2006,41 +1997,28 @@
         size = 207113
     }
 
-    ########saxon Pops
-    capitalists = {
-        culture = saxon
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = saxon
-        religion = orthodox
-        size = 1100
-    }
-
     clergymen = {
-        culture = saxon
-        religion = orthodox
+        culture = ashkenazi
+        religion = jewish
         size = 100
     }
 
     craftsmen = {
-        culture = saxon
-        religion = orthodox
+        culture = ashkenazi
+        religion = jewish
         size = 225
     }
 
     artisans = {
-        culture = saxon
-        religion = orthodox
-        size = 300
+        culture = ashkenazi
+        religion = jewish
+        size = 800
     }
 
     farmers = {
-        culture = saxon
-        religion = orthodox
-        size = 200
+        culture = ashkenazi
+        religion = jewish
+        size = 1300
     }
 }
 #Salerno (572000/143000 POPS)
@@ -2102,7 +2080,7 @@
     }
 
     soldiers = {
-        culture = saxon
+        culture = roman
         religion = orthodox
         size = 1100
     }
@@ -2686,8 +2664,8 @@
     }
 
     farmers = {
-        culture = saxon
-        religion = orthodox
+        culture = ashkenazi
+        religion = jewish
         size = 1000
     }
 
