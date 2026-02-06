@@ -745,7 +745,7 @@ assimilation_chance =
 
     modifier = {
         factor = 8
-		NOT = { is_accepted_culture = yes }
+		is_accepted_culture = THIS
         country = { has_country_flag = new_world_nation }
         OR = {
             location = { continent = north_america }
@@ -860,7 +860,7 @@ assimilation_chance =
 
     modifier = {
         factor = -5
-        is_accepted_culture = yes
+        is_accepted_culture = THIS
     }
 
     modifier = {
@@ -885,6 +885,7 @@ assimilation_chance =
         country = {
             has_country_flag = new_world_nation
             NOT = { has_country_flag = native_assimilation_enacted }
+			NOT = { primary_culture = colonial_african_mixed }
         }
         OR = {
             is_culture_group = indigenous_peoples

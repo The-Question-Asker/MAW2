@@ -3888,7 +3888,7 @@ country_event = {  #hnu_colonial_congress_pres
 		}
 		war = no
 		government = presidential_dictatorship 
-		
+		is_independant = yes
 	
 	}
 	
@@ -4159,7 +4159,7 @@ country_event = {  #hnu_colonial_congress_dem
 		}
 		war = no
 		government = democracy
-		
+		is_independant = yes
 	
 	}
 	
