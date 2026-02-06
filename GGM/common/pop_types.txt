@@ -761,10 +761,50 @@ assimilation_chance =
         factor = -1
         OR = {
             has_pop_religion = yazidi
-            has_pop_religion = jewish
         }
         not = { religion = this }
     }
+	
+	#christians are more antisemetic
+	modifier = {
+		factor = -1
+		OR = {
+			country = {
+				has_country_flag = arian_country
+				NOT = {
+					has_country_flag = lifted_jewish_descrimination
+				}
+			}
+			country = {
+				has_country_flag = orthodox_country
+				NOT = {
+					has_country_flag = lifted_jewish_descrimination
+				}
+			}
+		}
+		has_pop_religion = jewish
+	
+	}
+	
+	modifier = {
+		factor = -0.7
+		NOT = {
+			country = {
+				has_country_flag = arian_country
+				NOT = {
+					has_country_flag = lifted_jewish_descrimination
+				}
+			}
+			country = {
+				has_country_flag = orthodox_country
+				NOT = {
+					has_country_flag = lifted_jewish_descrimination
+				}
+			}
+		}
+		has_pop_religion = jewish
+	
+	}
 
     group = {
         modifier = {
