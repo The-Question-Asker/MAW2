@@ -722,6 +722,7 @@ assimilation_chance =
 {
     factor = 1
 
+
     group = {
         modifier = {
             factor = 0.1
@@ -743,7 +744,8 @@ assimilation_chance =
     }
 
     modifier = {
-        factor = 10
+        factor = 8
+		NOT = { is_accepted_culture = yes }
         country = { has_country_flag = new_world_nation }
         OR = {
             location = { continent = north_america }
@@ -857,7 +859,7 @@ assimilation_chance =
     }
 
     modifier = {
-        factor = -3
+        factor = -5
         is_accepted_culture = yes
     }
 
