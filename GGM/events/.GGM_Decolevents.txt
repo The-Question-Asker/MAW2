@@ -14,8 +14,9 @@ country_event = {  #witlian self-gov
 			owns = 139
 		}
 		capital_scope = {
+			continent = europe
 			NOT = {
-				continent = europe
+				
 				controlled_by = THIS
 			}
 		
@@ -427,8 +428,8 @@ country_event = {  #witlian ind_trig
 			WTL = {
 				war = yes
 				capital_scope = {
+					continent = europe
 					NOT = {
-						continent = europe
 						controlled_by = THIS
 					}
 				
@@ -702,8 +703,8 @@ country_event = {  #central lothaire self-gov
 			owns = 2264
 		}
 		capital_scope = {
+			continent = africa
 			NOT = {
-				continent = africa
 				controlled_by = THIS
 			}
 		
@@ -1620,8 +1621,8 @@ country_event = {  #cent_lot ind_trig
 			HNU = {
 				war = yes
 				capital_scope = {
+					continent = africa
 					NOT = {
-						continent = africa
 						controlled_by = THIS
 					}
 				
@@ -1954,8 +1955,8 @@ country_event = {  #antipodea self-gov
 			owns = 2525
 		}
 		capital_scope = {
+			continent = africa
 			NOT = {
-				continent = africa
 				controlled_by = THIS
 			}
 		
