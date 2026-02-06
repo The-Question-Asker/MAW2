@@ -1,5 +1,5 @@
 capital = 625
-primary_culture = kuringian
+primary_culture = wendish
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0
