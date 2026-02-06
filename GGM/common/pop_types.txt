@@ -787,7 +787,7 @@ assimilation_chance =
 	}
 	
 	modifier = {
-		factor = -0.7
+		factor = -0.4
 		NOT = {
 			country = {
 				has_country_flag = arian_country
