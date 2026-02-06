@@ -427,29 +427,29 @@ army = {
 }
 
 army = {
-    name = "Falangarchos VIII. 'Serris'"
+    name = "Falangarchos VIII. 'Seris'"
     location = 1403
 
     regiment = {
-        name= "Serrican Levies"
+        name= "Levies"
         type = irregular
         home = 1403
     }
 	
     regiment = {
-        name= "Serrican Levies"
+        name= "Levies"
         type = irregular
         home = 1413
     }
 	
     regiment = {
-        name= "Serrican Levies"
+        name= "Levies"
         type = irregular
         home = 1414
     }
 	
     regiment = {
-        name= "Serrican Levies"
+        name= "Levies"
         type = irregular
         home = 1413
     }
