@@ -153,7 +153,7 @@ country_migration_target = {
                 THIS = { has_pop_culture = saxon }
                 OR = {
 					is_culture_group = colonial_frankish_culture
-					is_culture_group = colonial_franks
+					is_culture_group = old_world_colonial_franks
 					is_culture_group = colonial_saxon_culture
 				}
             }

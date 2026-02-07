@@ -118,7 +118,7 @@ country_migration_target = {
                 THIS = { has_pop_culture = saxon }
                 OR = {
 					is_culture_group = colonial_frankish_culture
-					is_culture_group = colonial_franks
+					is_culture_group = old_world_colonial_franks
 					is_culture_group = colonial_saxon_culture
 				}
             }
@@ -1298,8 +1298,8 @@ ideologies = {
                 is_accepted_culture = yes
             }
             OR = {
-                has_pop_religion = mormon
-                has_pop_religion = sunni
+                #has_pop_religion = mormon
+                #has_pop_religion = sunni
                 has_pop_religion = gelugpa
             }
         }
@@ -1317,31 +1317,31 @@ ideologies = {
             }
         }
 
-        modifier = {
-            factor = 1.2
-            is_state_religion = yes
-            OR = {
-                is_primary_culture = yes
-                is_accepted_culture = yes
-            }
-            OR = {
-                has_pop_religion = shiite
-                has_pop_religion = ibadi
-            }
-        }
-
-        modifier = {
-            factor = 1.1
-            is_state_religion = yes
-            OR = {
-                is_primary_culture = yes
-                is_accepted_culture = yes
-            }
-            OR = {
-                has_pop_religion = orthodox
-                has_pop_religion = coptic
-            }
-        }
+        #modifier = {
+        #    factor = 1.2
+        #    is_state_religion = yes
+        #    OR = {
+        #        is_primary_culture = yes
+        #        is_accepted_culture = yes
+        #    }
+        #    OR = {
+        #        has_pop_religion = shiite
+        #        has_pop_religion = ibadi
+        #    }
+        #}
+		#
+        #modifier = {
+        #    factor = 1.1
+        #    is_state_religion = yes
+        #    OR = {
+        #        is_primary_culture = yes
+        #        is_accepted_culture = yes
+        #    }
+        #    OR = {
+        #        has_pop_religion = orthodox
+        #        has_pop_religion = coptic
+        #    }
+        #}
 
         modifier = {
             factor = 1.1

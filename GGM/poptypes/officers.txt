@@ -143,7 +143,7 @@ country_migration_target = {
                 THIS = { has_pop_culture = saxon }
                 OR = {
 					is_culture_group = colonial_frankish_culture
-					is_culture_group = colonial_franks
+					is_culture_group = old_world_colonial_franks
 					is_culture_group = colonial_saxon_culture
 				}
             }
@@ -2798,16 +2798,6 @@ issues =
             factor = 1.1
             country = { slavery = yes_slavery }
             NOT = { everyday_needs = 0.3 }
-        }
-
-        modifier = {
-            factor = 1.05
-            state_scope = { is_slave = yes }
-            OR = {
-                has_pop_religion = sunni
-                has_pop_religion = ibadi
-                has_pop_religion = shiite
-             }
         }
 
         modifier = {
