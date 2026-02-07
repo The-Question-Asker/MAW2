@@ -5,7 +5,13 @@
     aristocrats = {
         culture = sclavenian
         religion = orthodox
-        size = 1300
+        size = 1000
+    }
+	
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 300
     }
 
     bureaucrats = {
@@ -47,7 +53,13 @@
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 69550
+        size = 65550
+    }
+	
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 4550
     }
 
     aristocrats = {
@@ -460,8 +472,14 @@
 788 = {
     aristocrats = {
         culture = sclavenian
+        religion = orthodox
+        size = 600
+    }
+	
+    aristocrats = {
+        culture = sclavenian
         religion = manichaean
-        size = 900
+        size = 200
     }
 
     soldiers = {
@@ -485,7 +503,7 @@
     farmers = {
         culture = sclavenian
         religion = manichaean
-        size = 7800
+        size = 6800
     }
 
     soldiers = {
@@ -509,31 +527,37 @@
     farmers = {
         culture = sclavenian
         religion = orthodox
-        size = 28750
+        size = 22750
+    }
+
+    aristocrats = {
+        culture = roman
+        religion = orthodox
+        size = 100
     }
 
     soldiers = {
-        culture = sclavenian
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = sclavenian
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = sclavenian
+        culture = roman
         religion = orthodox
         size = 400
     }
 
     farmers = {
-        culture = sclavenian
+        culture = roman
         religion = orthodox
-        size = 11500
+        size = 18500
     }
 }
 #Livno (136000/34000 POPS)

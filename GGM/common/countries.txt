@@ -126,6 +126,7 @@ CHR		   ="countries/Childerie.txt"
 TOE		   ="countries/Toeritz.txt"
 PLE		   ="countries/Pleifstein.txt"
 GRM		   ="countries/Germania.txt"
+YSR        ="countries/Ysrael.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

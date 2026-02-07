@@ -1,5 +1,7 @@
 owner = VLC
 controller = VLC
 add_core = VLC
+add_core = DAC
+add_core = WND
 trade_goods = grain
 life_rating = 35

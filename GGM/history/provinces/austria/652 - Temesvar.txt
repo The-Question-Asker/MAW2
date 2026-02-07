@@ -1,5 +1,5 @@
-owner = VLC
-controller = VLC
-add_core = VLC
+owner = SCL
+controller = SCL
+add_core = SCL
 trade_goods = grain
 life_rating = 35

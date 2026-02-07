@@ -218,11 +218,11 @@ AUS_633 = { 634 635 636 637 638 950 } #Slovakia
 
 AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
 
-AUS_652 = { 652 653 656 } #Banat
+AUS_652 = { 792 652 653 2538 } #Banat
 
 AUS_654 = { 654 655 661 651 647 } #Western Transylvania
 
-AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
+AUS_657 = { 657 659 660 2533 656 } #Eastern Transylvania
 
 AUS_702 = { 703 704 705 714 } #Galicia-Lodomeria
 
@@ -244,7 +244,7 @@ AUS_768 = { 767 768 773 775 771 } #Slovenia
 
 #AUS_771 = {  } #Croatia
 
-AUS_777 = { 779 793 777 776 2538 791 792 } #Slavonia
+AUS_777 = { 779 793 777 776 791 } #Slavonia
 
 AUS_780 = { 780 781 782 774 2582 } #Dalmatia
 
@@ -278,9 +278,9 @@ WAL_665 = { 664 665 666 668 667 669 } #Wallachia
 
 MOL_673 = { 673 672 670 671 663 } #Moldavia
 
-TUR_674 = { 674 675 818 } #Dobrudja
+#TUR_674 = {  } #Dobrudja
 
-MOL_676 = { 676 677 678 } #Bessarabia
+MOL_676 = { 676 677 678 968 969 954 } #Bessarabia
 
 TUR_788 = { 783 789 788 785 784 2583 2569 772 } #Bosnia
 
@@ -294,9 +294,9 @@ TUR_805 = { 805 819 820 821 822 806 807 823 829 } #Macedonia
 
 #TUR_806 = { } #Northern Macedonia
 
-TUR_809 = { 815 817 808 816 809 } #Eastern Rumelia
+TUR_809 = { 815 808 816 809 810 812 } #Eastern Rumelia
 
-TUR_810 = { 810 811 812 813 814 } #Moesia
+TUR_810 = { 811 813 814 817 674 675 818 } #Moesia
 
 #TUR_823 = { } #Eastern Macedonia
 
@@ -430,7 +430,7 @@ RUS_959 = { 955 956 957 } #Volyn
 
 RUS_964 = { 967 966 964 } #Crimea
 
-RUS_968 = { 968 969 954 } #Transnistria
+#RUS_968 = {  } #Transnistria
 
 RUS_973 = { 976 973 975 965 } #Kherson-Zaporizhia
 
