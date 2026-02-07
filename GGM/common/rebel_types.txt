@@ -6192,7 +6192,7 @@ slave_revolt = {
             factor = 0
             OR = {
                 NOT = { type = slaves }
-                NOT = { is_culture_group = african_diaspora_cultures }
+                NOT = { is_culture_group = afro_diaspora }
             }
         }
         modifier = {
@@ -6249,7 +6249,7 @@ slave_revolt = {
         any_pop = {
             limit = {
                 not = {
-                    is_culture_group = african_diaspora_cultures
+                    is_culture_group = afro_diaspora
                     type = slaves
                 }
             }
