@@ -868,31 +868,31 @@
 
     ######North Italians #750 pops
     aristocrats = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 300
     }
 
     soldiers = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 300
     }
 
     clergymen = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 200
     }
 
     artisans = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 300
     }
 
     farmers = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 400
     }
@@ -933,31 +933,31 @@
 
     ######North Italians #500 pops
     aristocrats = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 200
     }
 
     soldiers = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 200
     }
 
     clergymen = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 200
     }
 
     artisans = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 200
     }
 
     farmers = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 200
     }
@@ -1722,31 +1722,31 @@
 
     ### manichaeans circa 2000
     aristocrats = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 200
     }
 
     clergymen = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 200
     }
 
     artisans = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 1200
     }
 
     soldiers = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 400
     }
 
     farmers = {
-        culture = north_italian
+        culture = greek
         religion = manichaean
         size = 2000
     }

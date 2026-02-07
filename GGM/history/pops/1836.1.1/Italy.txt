@@ -2631,7 +2631,7 @@
     }
 
     farmers = {
-        culture = croat
+        culture = greek
         religion = orthodox
         size = 3000
     }

@@ -497,16 +497,9 @@ coptic = {
 	
 }
 
-colonial_franks = {
+old_world_colonial_franks = {
     leader = european
     unit = EuropeanGC
-
-	colonial_frank = {
-	  color = { 76 65 130 }
-        	first_names = {  }
-
-			last_names = {	}
-    }
 	
 	carcassonnais = {
 	  color = { 18 163 199 }

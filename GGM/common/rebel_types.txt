@@ -352,7 +352,7 @@ reactionary_rebels = {
 						tag = AGS
 						tag = HNU
 						tag = NBS
-						tag = NSA
+						tag = NBA
 					
 					}
 				}
@@ -757,7 +757,7 @@ fascist_rebels = {
 						tag = AGS
 						tag = HNU
 						tag = NBS
-						tag = NSA
+						tag = NBA
 					
 					}
 				}
@@ -1157,7 +1157,7 @@ communist_rebels = {
 						tag = AGS
 						tag = HNU
 						tag = NBS
-						tag = NSA
+						tag = NBA
 					
 					}
 				}
@@ -1583,7 +1583,7 @@ anarcho_liberal_rebels = {
 						tag = AGS
 						tag = HNU
 						tag = NBS
-						tag = NSA
+						tag = NBA
 					
 					}
 				}

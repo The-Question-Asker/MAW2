@@ -2849,25 +2849,25 @@
     }
 
     clergymen = {
-        culture = south_italian
+        culture = ashkenazi
         religion = orthodox
         size = 36
     }
 
     artisans = {
-        culture = south_italian
+        culture = ashkenazi
         religion = orthodox
         size = 1440
     }
 
     soldiers = {
-        culture = south_italian
+        culture = ashkenazi
         religion = orthodox
         size = 36
     }
 
     farmers = {
-        culture = south_italian
+        culture = ashkenazi
         religion = orthodox
         size = 324
     }

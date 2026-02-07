@@ -1961,31 +1961,31 @@
     }
 
     aristocrats = {
-        culture = hungarian
+        culture = ashkenazi
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = hungarian
+        culture = ashkenazi
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = hungarian
+        culture = ashkenazi
         religion = orthodox
         size = 175
     }
 
     soldiers = {
-        culture = hungarian
+        culture = ashkenazi
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = hungarian
+        culture = ashkenazi
         religion = orthodox
         size = 2100
     }

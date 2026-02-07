@@ -929,31 +929,31 @@
     }
 
     aristocrats = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 300
     }
@@ -1199,25 +1199,25 @@
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 300
     }
@@ -1257,31 +1257,31 @@
     }
 
     aristocrats = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 25
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 800
     }
@@ -1319,31 +1319,31 @@
     }
 
     aristocrats = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 50
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 200
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = tuareg
         religion = arian
         size = 600
     }

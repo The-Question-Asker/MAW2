@@ -130,24 +130,36 @@ country_migration_target = {
         OR = {
             is_culture_group = THIS
             AND = {
-                THIS = { is_culture_group = iberian }
-                is_culture_group = latin_american_cultures
+                THIS = { has_pop_culture = african }
+                is_culture_group = colonial_african_culture
+            }
+			AND = {
+                THIS = { has_pop_culture = hispanic }
+                is_culture_group = colonial_african_culture
             }
             AND = {
-                THIS = { has_pop_culture = dutch }
-                primary_culture = boer
-            }
-            AND = {
-                THIS = { is_culture_group = french }
-                primary_culture = french_canadian
-            }
-            AND = {
-                THIS = { is_culture_group = british }
+                THIS = { has_pop_culture = frankish }
                 OR = {
-                    is_culture_group = american_cultures
-                    primary_culture = australian
-                    primary_culture = anglo_canadian
-                }
+					is_culture_group = colonial_frankish_culture
+					is_culture_group = old_world_colonial_franks
+				
+				}
+            }
+			AND = {
+                THIS = { has_pop_culture = saxon }
+                OR = {
+					is_culture_group = colonial_frankish_culture
+					is_culture_group = colonial_franks
+					is_culture_group = colonial_saxon_culture
+				}
+            }
+            AND = {
+                THIS = {  has_pop_culture = roman }
+                is_culture_group = colonial_roman_culture
+            }
+			AND = {
+                THIS = { is_culture_group = hellenes }
+                is_culture_group = colonial_greeks
             }
         }
     }
@@ -2603,7 +2615,7 @@ issues =
         }
         modifier = {
             factor = 0.5
-            is_culture_group = african_diaspora_cultures
+            is_culture_group = afro_diaspora
         }
         modifier = {
             factor = 1.1
@@ -2740,7 +2752,7 @@ issues =
         }
         modifier = {
             factor = 1.25
-            is_culture_group = african_diaspora_cultures
+            is_culture_group = afro_diaspora
         }
 
         modifier = {
@@ -3167,42 +3179,42 @@ issues =
                 country = { debt_law = serfdom }
             }
         }
-        modifier = {
-            factor = 0
-            is_culture_group = american_cultures
-            country = {
-                is_culture_group = american_cultures
-                government = democracy
-                OR = {
-                    upper_house_composition = appointed
-                    upper_house_composition = state_equal_weight
-                }
-            }
-        }
-        modifier = {
-            factor = 0
-            is_culture_group = british
-            country = {
-                primary_culture = british
-                OR = {
-                    government = hms_government
-                    government = prussian_constitutionalism
-                    government = absolute_monarchy
-                }
-            }
-        }
-        modifier = {
-            factor = 0
-            country = {
-                primary_culture = british
-                is_greater_power = yes
-                OR = {
-                    government = hms_government
-                    government = prussian_constitutionalism
-                    government = absolute_monarchy
-                }
-            }
-        }
+        #modifier = {
+        #    factor = 0
+        #    is_culture_group = american_cultures
+        #    country = {
+        #        is_culture_group = american_cultures
+        #        government = democracy
+        #        OR = {
+        #            upper_house_composition = appointed
+        #            upper_house_composition = state_equal_weight
+        #        }
+        #    }
+        #}
+        #modifier = {
+        #    factor = 0
+        #    is_culture_group = british
+        #    country = {
+        #        primary_culture = british
+        #        OR = {
+        #            government = hms_government
+        #            government = prussian_constitutionalism
+        #            government = absolute_monarchy
+        #        }
+        #    }
+        #}
+        #modifier = {
+        #    factor = 0
+        #    country = {
+        #        primary_culture = british
+        #        is_greater_power = yes
+        #        OR = {
+        #            government = hms_government
+        #            government = prussian_constitutionalism
+        #            government = absolute_monarchy
+        #        }
+        #    }
+        #}
         modifier = {
             factor = 0.25
             OR = {
@@ -6264,17 +6276,17 @@ rehabilitation = {
             }
         }
 
-        modifier = {
-            factor = 0
-            country = {
-                primary_culture = british
-                OR = {
-                    government = hms_government
-                    government = prussian_constitutionalism
-                    government = absolute_monarchy
-                }
-            }
-        }
+       # modifier = {
+       #     factor = 0
+       #     country = {
+       #         primary_culture = british
+       #         OR = {
+       #             government = hms_government
+       #             government = prussian_constitutionalism
+       #             government = absolute_monarchy
+       #         }
+       #     }
+       # }
 
         modifier = {
             factor = 0.25
@@ -6351,11 +6363,11 @@ rehabilitation = {
             }
         }
 
-        modifier = {
-            factor = 0
-            is_culture_group = american_cultures
-            country = { government = democracy }
-        }
+        #modifier = {
+        #    factor = 0
+        #    is_culture_group = american_cultures
+        #    country = { government = democracy }
+        #}
 
         modifier = {
             factor = 0.25
