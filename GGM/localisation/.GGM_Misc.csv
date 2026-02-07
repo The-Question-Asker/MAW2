@@ -171,8 +171,8 @@ HAVE_NOT_A_IN;An ocean borders ;;;;;;;;;;;;;x
 HAS_NO_COLONIES;has colonial territories.\n;x
 HAS_COLONIES;does not have colonial territories.\n;x
 HAS_GOODS;has goods;;;;;;;;;;;;;x
-YOU_LOST;Â§RBitter Defeat;x
-YOU_WON;Â§GImmortal Victory;x
+YOU_LOST;§RBitter Defeat;x
+YOU_WON;§GImmortal Victory;x
 POP_DAILY_EVENT;Windfalls: §Y$VAL$§W¤;;;;;;;;;;;;;;x
 ballsy;Temerarious;;;;;;;;;;;;;x
 ANY_POP_IN_PROVINCE_STARTS;Any pop in province;x
