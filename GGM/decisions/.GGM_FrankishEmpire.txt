@@ -15,7 +15,7 @@ political_decisions = {
             THIS = {
 				set_country_flag = cont_imp_amb
 				country_event = {
-					id = #####
+					id = 49993
 					days = 30
 				
 				}

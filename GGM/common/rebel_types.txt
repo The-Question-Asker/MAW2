@@ -1825,35 +1825,35 @@ nationalist_rebels = {
             factor = 2
             location = { has_province_modifier = nationalist_agitation }
         }
-        modifier = {
-            factor = 0
-            culture = south_andean
-            location = { is_core = BOL }
-            country = { tag = PBC }
-        }
-        modifier = {
-            factor = 0
-            culture = british
-            country = { primary_culture = boer }
-        }
-        modifier = {
-            factor = 0
-            OR = {
-                culture = catalan
-                culture = basque
-            }
-            OR = {
-                pop_majority_ideology = reactionary
-                pop_majority_ideology = conservative
-            }
-            country = {
-                tag = SPA
-                OR = {
-                    government = prussian_constitutionalism
-                    government = hms_government
-                }
-            }
-        }
+        #modifier = {
+        #    factor = 0
+        #    culture = south_andean
+        #    location = { is_core = BOL }
+        #    country = { tag = PBC }
+        #}
+       #modifier = {
+       #    factor = 0
+       #    culture = british
+       #    country = { primary_culture = boer }
+       #}
+      # modifier = {
+      #     factor = 0
+      #     OR = {
+      #         culture = catalan
+      #         culture = basque
+      #     }
+      #     OR = {
+      #         pop_majority_ideology = reactionary
+      #         pop_majority_ideology = conservative
+      #     }
+      #     country = {
+      #         tag = SPA
+      #         OR = {
+      #             government = prussian_constitutionalism
+      #             government = hms_government
+      #         }
+      #     }
+      # }
         modifier = {
             factor = 1.15
             country = {
@@ -1867,32 +1867,32 @@ nationalist_rebels = {
             factor = 1.2
             location = { is_colonial = yes }
         }
-        modifier = {
-            factor = 0
-            location = {
-                is_colonial = no
-                continent = africa
-            }
-            country = {
-                civilized = no
-                NOT = { tag = EGY }
-            }
-        }
-        modifier = {
-            factor = 1.05
-            culture = irish
-            country = { has_global_flag = no_help_for_the_irish }
-        }
-        modifier = {
-            factor = 0.1
-            culture = irish
-            country = { has_global_flag = help_for_the_irish }
-        }
-        modifier = {
-            factor = 1.5
-            culture = irish
-            location = { has_province_modifier = irish_republicans }
-        }
+       #modifier = {
+       #    factor = 0
+       #    location = {
+       #        is_colonial = no
+       #        continent = africa
+       #    }
+       #    country = {
+       #        civilized = no
+       #        NOT = { tag = EGY }
+       #    }
+       #}
+       #modifier = {
+       #    factor = 1.05
+       #    culture = irish
+       #    country = { has_global_flag = no_help_for_the_irish }
+       #}
+       #modifier = {
+       #    factor = 0.1
+       #    culture = irish
+       #    country = { has_global_flag = help_for_the_irish }
+       #}
+       #modifier = {
+       #    factor = 1.5
+       #    culture = irish
+       #    location = { has_province_modifier = irish_republicans }
+       #}
     }
 
      #This is checked for EACH province in the Area of Operations
@@ -2056,13 +2056,13 @@ pan_nationalist_rebels = {
             is_primary_culture = yes
             country = {
                 has_country_flag = rejected_pan_nationalism
-                OR = {
-                    primary_culture = breton
-                    primary_culture = occitan
-                    primary_culture = picard
-                    primary_culture = maltese
-                    is_culture_group = american_cultures
-                }
+               #OR = {
+               #    primary_culture = breton
+               #    primary_culture = occitan
+               #    primary_culture = picard
+               #    primary_culture = maltese
+               #    is_culture_group = american_cultures
+               #}
             }
         }
         modifier = {
@@ -2128,41 +2128,41 @@ pan_nationalist_rebels = {
             is_culture_group = south_asian
             cultural_union = { exists = no }
         }
-        modifier = {
-            factor = 0
-            is_culture_group = polish_culture_group
-            country = { tag = PLC }
-        }
+        #modifier = {
+        #    factor = 0
+        #    is_culture_group = polish_culture_group
+        #    country = { tag = PLC }
+        #}
+        #modifier = {
+        #    factor = 0
+        #    OR = {
+        #        culture = north_italian
+        #        culture = south_italian
+        #    }
+        #    ITA = { exists = no }
+        #    NOT = {
+        #        country = { has_global_flag = italian_call_to_union }
+        #    }
+        #}
+        #modifier = {
+        #    factor = 0
+        #    OR = {
+        #        culture = swedish
+        #        culture = danish
+        #        culture = norwegian
+        #        #culture = finnish
+        #        #culture = icelandic
+        #        #culture = sami
+        #    }
+        #    NOT = {
+        #        country = { has_global_flag = scandinavian_call_to_union }
+        #    }
+        #}
         modifier = {
             factor = 0
             OR = {
-                culture = north_italian
-                culture = south_italian
-            }
-            ITA = { exists = no }
-            NOT = {
-                country = { has_global_flag = italian_call_to_union }
-            }
-        }
-        modifier = {
-            factor = 0
-            OR = {
-                culture = swedish
-                culture = danish
-                culture = norwegian
-                #culture = finnish
-                #culture = icelandic
-                #culture = sami
-            }
-            NOT = {
-                country = { has_global_flag = scandinavian_call_to_union }
-            }
-        }
-        modifier = {
-            factor = 0
-            OR = {
-                culture = maghrebi
-                culture = misri
+				#culture = maghrebi
+                #culture = misri
                 culture = mashriqi
                 culture = bedouin
                 culture = berber
@@ -2300,50 +2300,47 @@ pan_nationalist_rebels = {
         political_reform = non_socialist
         political_reform = secret_ballots
         prestige_factor = -0.3
+       #random_owned = {
+       #    limit = {
+       #        owner = {
+       #            is_culture_group = italian
+       #            NOT = { exists = ITA }
+       #            has_country_flag = made_the_call_to_union
+       #        }
+       #    }
+       #    owner = { country_event = 11103 }
+       #}
+       #random_owned = {
+       #    limit = {
+       #        owner = {
+       #            is_culture_group = italian
+       #            NOT = { has_country_flag = made_the_call_to_union }
+       #        }
+       #    }
+       #    owner = { country_event = 96205 }
+       #}
+       #random_owned = {
+       #    limit = {
+       #        owner = { is_culture_group = germanic }
+       #    }
+       #    owner = { country_event = 96210 }
+       #}
+       #random_owned = {
+       #    limit = {
+       #        owner = { is_culture_group = scandinavian }
+       #    }
+       #    owner = { country_event = 96217 }
+       #}
+       #random_owned = {
+       #    limit = {
+       #        owner = { is_culture_group = pan_romanian }
+       #    }
+       #    owner = { country_event = 96220 }
+       #}
         random_owned = {
             limit = {
                 owner = {
-                    is_culture_group = italian
-                    NOT = { exists = ITA }
-                    has_country_flag = made_the_call_to_union
-                }
-            }
-            owner = { country_event = 11103 }
-        }
-        random_owned = {
-            limit = {
-                owner = {
-                    is_culture_group = italian
-                    NOT = { has_country_flag = made_the_call_to_union }
-                }
-            }
-            owner = { country_event = 96205 }
-        }
-        random_owned = {
-            limit = {
-                owner = { is_culture_group = germanic }
-            }
-            owner = { country_event = 96210 }
-        }
-        random_owned = {
-            limit = {
-                owner = { is_culture_group = scandinavian }
-            }
-            owner = { country_event = 96217 }
-        }
-        random_owned = {
-            limit = {
-                owner = { is_culture_group = pan_romanian }
-            }
-            owner = { country_event = 96220 }
-        }
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { is_culture_group = italian }
-                    NOT = { is_culture_group = germanic }
-                    NOT = { is_culture_group = pan_romanian }
-                    NOT = { is_culture_group = scandinavian }
+                    NOT = { is_culture_group = indigenous_peoples }
                 }
             }
             owner = { country_event = 96200 }
@@ -2459,23 +2456,12 @@ christino_rebels = {
         }
         modifier = {
             factor = 0
-            OR = {
-                culture = basque
-                culture = catalan
-            }
-        }
-        modifier = {
-            factor = 0
             NOT = {
                 OR = {
                     pop_majority_ideology = liberal
                     pop_majority_ideology = anarcho_liberal
                 }
             }
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_culture_group = iberian }
         }
         modifier = {
             factor = 0.8
@@ -2485,10 +2471,6 @@ christino_rebels = {
         modifier = {
             factor = 0
             country = { has_global_flag = carlists_pacified }
-        }
-        modifier = {
-            factor = 0
-            NOT = { has_pop_religion = catholic }
         }
         modifier = {
             factor = 0
