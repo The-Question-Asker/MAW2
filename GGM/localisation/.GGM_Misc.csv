@@ -7,7 +7,7 @@ galatian;Galatian;;;;;;;;;;;;;
 roman;Roman;;;;;;;;;;;;;
 wendish;Wendish;;;;;;;;;;;;;
 sclavenian;Sclavenian;;;;;;;;;;;;;
-llati;LlatÃ­;;;;;;;;;;;;;
+llati;Llatí;;;;;;;;;;;;;
 saxon;German;;;;;;;;;;;;;
 frankish;French;;;;;;;;;;;;;
 laaglander;Laaglander;;;;;;;;;;;;;
@@ -39,10 +39,10 @@ maxasekes;Maxasekes;;;;;;;;;;;;;
 animist;Pagan;;;;;;;;;;;;;
 colonial_frankish;Territoriale;;;;;;;;;;;;;
 afro_frankish;Gentil;;;;;;;;;;;;;
-frankish_creole;MÃ©tis;;;;;;;;;;;;;
+frankish_creole;Métis;;;;;;;;;;;;;
 colonial_saxon;Allmander;;;;;;;;;;;;;
 amorican_frank;Dusangois;;;;;;;;;;;;;
-afro_frankish_carrib;CaraÃ¯bes;;;;;;;;;;;;;
+afro_frankish_carrib;Caraïbes;;;;;;;;;;;;;
 tibetan;Thibetan;;;;;;;;;;;;;
 algonquian;Algonquian;;;;;;;;;;;;;
 iroquoian;Iroquoian;;;;;;;;;;;;;
@@ -120,9 +120,9 @@ AGRESSION_WAR_FREE_IMPERIAL_NAME;$ORDER$ Imperial Intervention for $STATE$;;;;;;
 free_peoples_imperial;Imperial Intervention;;;;;;;;x;;;;
 free_peoples_imperial_short;$THIRD$ acquires $STATE$;;;;;;;;x;;;;
 free_peoples_imperial_setup;Return $STATE$ to the empire and to $THIRD$ from $RECIPIENT$;;;;;;;;x;;;;
-free_peoples_imperial_desc;Liberate a Â§territoryÂ§W and restore the imperial borders.;;;;;;;;;;;;;
+free_peoples_imperial_desc;Liberate a §Yterritory§W and restore the imperial borders.;;;;;;;;;;;;;
 liberate_country_imperial;Imperial Restoration;;;;;;;;x;;;;
-liberate_country_imperial_desc;Liberate an Â§Yentire stateÂ§W and restore the imperial borders.;;;;;;;;;;;;;
+liberate_country_imperial_desc;Liberate an §Yentire state§W and restore the imperial borders.;;;;;;;;;;;;;
 liberate_country_imperial_short;$THIRD$ acquires $STATE$;;;;;;;;;;;;;
 liberate_country_imperial_setup;Return $STATE$ to the empire and to $THIRD$ from $RECIPIENT$;;;;;;;;;;;;;
 huacan;Huacan;;;;;;;;;;;;;
@@ -173,7 +173,7 @@ HAS_COLONIES;does not have colonial territories.\n;x
 HAS_GOODS;has goods;;;;;;;;;;;;;x
 YOU_LOST;Â§RBitter Defeat;x
 YOU_WON;Â§GImmortal Victory;x
-POP_DAILY_EVENT;Windfalls: Â§Y$VAL$Â§WÂ¤;;;;;;;;;;;;;;x
+POP_DAILY_EVENT;Windfalls: §Y$VAL$§W¤;;;;;;;;;;;;;;x
 ballsy;Temerarious;;;;;;;;;;;;;x
 ANY_POP_IN_PROVINCE_STARTS;Any pop in province;x
 MODIFIER_POP_CONSCIOUSNESS_MODIFIER;Pop consciousness;x
@@ -203,11 +203,11 @@ LOAD_EVENTS;Cleaving Good from Evil...;x
 ADAPTING_HISTORY;Identifying Contigent Phenomena...;x
 CALC_PATHS;Arranging Trans-World-Techno-Causal Laws;x
 DIPLOMACY_FILTER_NORTH_AMERICA;Lothaire;;;;;;;;;;;;;
-DIPLOMACY_FILTER_NORTH_AMERICA_TOOLTIP;List Â§YLotharingenÂ§W countries;;;;;;;;;;;;;
+DIPLOMACY_FILTER_NORTH_AMERICA_TOOLTIP;List §YLotharingen§W countries;;;;;;;;;;;;;
 DIPLOMACY_FILTER_SOUTH_AMERICA;Antipoedea;;;;;;;;;;;;;
-DIPLOMACY_FILTER_SOUTH_AMERICA_TOOLTIP;List Â§YAntipoedeanÂ§W countries;;;;;;;;;;;;;
+DIPLOMACY_FILTER_SOUTH_AMERICA_TOOLTIP;List §YAntipoedean§W countries;;;;;;;;;;;;;
 DIPLOMACY_FILTER_AFRICA;Libya;;;;;;;;;;;;;
-DIPLOMACY_FILTER_AFRICA_TOOLTIP;List Â§YLibyanÂ§W countries;;;;;;;;;;;;;
+DIPLOMACY_FILTER_AFRICA_TOOLTIP;List §YLibyan§W countries;;;;;;;;;;;;;
 bon_chrestien;Bon Chrestien;;;;;;;;;;;;;x
 thomasine;Thomasine;;;;;;;;;;;;;x
 cavalry_school;Horseman;;;;;;;;;;;;;x
