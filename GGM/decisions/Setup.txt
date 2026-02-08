@@ -2718,14 +2718,7 @@ political_decisions = {
                 diplomatic_influence = { who = AGC value = -400 }
             }
 
-            any_country = {
-                limit = {
-                    exists = yes
-                    is_greater_power = yes
-                    NOT = { is_our_vassal = NEH }
-                }
-                diplomatic_influence = { who = NEH value = -400 }
-            }
+            
 
             MEX = { add_country_modifier = { name = fight_the_power duration = 3650 } }
             1253 = { add_province_modifier = { name = local_economic_downturn duration = 8760 } }
