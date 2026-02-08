@@ -5,12 +5,8 @@ SIA = {
 
 army = {
     name = "Imperial Nguyen Army"
-    location = 1375
-    regiment = {
-        name= "1. Brigade"
-        type = irregular
-        home = 1375
-    }
+    location = 1369
+   
 
     regiment = {
         name= "2. Brigade"
@@ -18,12 +14,7 @@ army = {
         home = 1369
     }
 
-    regiment = {
-        name= "3. Brigade"
-        type = irregular
-        home = 1380
-    }
-
+   
     regiment = {
         name= "4. Brigade"
         type = irregular
@@ -48,16 +39,7 @@ army = {
         home = 1373
     }
 
-    regiment = {
-        name= "8. Brigade"
-        type = irregular
-        home = 1376
-    }
+    
 
-    regiment = {
-        name= "9. Brigade"
-        type = irregular
-        home = 1377
-    }
 
 }

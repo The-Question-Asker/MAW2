@@ -64,11 +64,7 @@ army = {
         type = cavalry
         home = 1657
     }
-    regiment = {
-        name= "2.Guard"
-        type = cavalry
-        home = 1676
-    }
+    
     regiment = {
         name= "3.Guard"
         type = cavalry

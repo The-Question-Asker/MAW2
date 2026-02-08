@@ -32,8 +32,5 @@ regiment = {
         home = 1808    }
 
 
-regiment = {
-        name= "Songhai Warriors"
-        type = irregular
-    home = 1805    }
+
 }

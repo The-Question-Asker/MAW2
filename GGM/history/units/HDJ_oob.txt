@@ -15,11 +15,7 @@ army = {
         home = 1153
     }
 
-    regiment = {
-        name= "2.Beni Atiya"
-        type = irregular
-        home = 1152
-    }
+   
 }
 
 army = {

@@ -41,17 +41,9 @@ army = {
 army = {
     name = "Annam Army"
     location = 1375
-    regiment = {
-        name= "7. Brigade"
-        type = irregular
-        home = 1375
-    }
+    
 
-    regiment = {
-        name= "8. Brigade"
-        type = irregular
-        home = 1375
-    }
+    
 
     regiment = {
         name= "9. Brigade"
@@ -65,33 +57,13 @@ army = {
         home = 1374
     }
 
-    regiment = {
-        name= "11. Brigade"
-        type = irregular
-        home = 1376
-    }
-
-    regiment = {
-        name= "12. Brigade"
-        type = irregular
-        home = 1376
-    }
+    
 
 }
 army = {
     name = "Cochin Army"
     location = 1381
-    regiment = {
-        name= "13. Brigade"
-        type = irregular
-        home = 1377
-    }
-
-    regiment = {
-        name= "14. Brigade"
-        type = irregular
-        home = 1377
-    }
+   
 
     regiment = {
         name= "15. Brigade"

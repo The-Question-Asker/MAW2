@@ -66,8 +66,3 @@ regiment = {
     }
 
 
-regiment = {
-        name= "3rd Massina Jihadis"
-        type = irregular
-    home = 1906    }
-}

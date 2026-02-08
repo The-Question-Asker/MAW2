@@ -19,11 +19,7 @@ army = {
 army = {
     name = "Tribal Army"
     location = 1154
-    regiment = {
-        name= "Bedouins"
-        type = cavalry
-        home = 1152
-    }
+
 
     regiment = {
         name= "Bedouins"
@@ -33,15 +29,7 @@ army = {
 
 }
 
-army = {
-    name = "Garrison of Jidda"
-    location = 1152
-    regiment = {
-        name= "Garrison of Jidda"
-        type = infantry
-        home = 1152
-    }
-}
+
 
 army = {
     name = "Garrison of Mecca"

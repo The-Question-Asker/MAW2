@@ -15,9 +15,5 @@ army = {
         type = cavalry
         home = 1157
     }
-    regiment = {
-        name = "3.Saudi"
-        type = cavalry
-        home = 1164
-    }
+    
 }

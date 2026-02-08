@@ -26,9 +26,4 @@ regiment = {
         type = irregular
     home = 1899
     }
-regiment = {
-        name= "Mande Warriors"
-        type = irregular
-    home = 1900
-    }
-}
+

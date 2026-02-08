@@ -28,10 +28,5 @@ regiment = {
 
 home = 1878    }
 
-
-regiment = {
-        name= "Mande Warriors"
-        type = irregular
-    home = 1792
-    }
 }
+

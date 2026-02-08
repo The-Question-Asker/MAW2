@@ -4179,7 +4179,11 @@ separatist_rebels = {
                 any_core = {
                     exists = yes
                     NOT = { is_primary_culture = THIS }
-                    NOT = { has_province_modifier = patriot_uprising }
+                    NOT = { 
+						any_owned_province = {
+							has_province_modifier = patriot_uprising
+						}
+					}
                 }
             }
             add_province_modifier = {
@@ -4727,7 +4731,7 @@ socialist_rebels = {
 						tag = AGS
 						tag = HNU
 						tag = NBS
-						tag = NSA
+						tag = NBA
 					
 					}
 				}
