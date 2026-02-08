@@ -5,7 +5,7 @@
 #####################################################
 
 
-country_event = {
+country_event = { #needs_loc_reskin
     id = 95250
     title = "EVTNAME95250" #The White Rajah
     desc = "EVTDESC95250"
@@ -46,7 +46,14 @@ country_event = {
         }
         random_country = {
             limit = {
-                tag = ENG
+				OR = {
+					capital_scope = {
+						continent = europe
+					}
+					capital_scope = {
+						continent = africa
+					}
+				}
                 exists = yes
             }
             diplomatic_influence = {
@@ -255,7 +262,14 @@ country_event = {
         }
         random_country = {
             limit = {
-                tag = ENG
+                OR = {
+					capital_scope = {
+						continent = europe
+					}
+					capital_scope = {
+						continent = africa
+					}
+				}
                 exists = yes
             }
             diplomatic_influence = {
@@ -562,68 +576,68 @@ country_event = {
 }
 
 
-country_event = {
-    id = 97125
-    title = "EVTNAME97125" #Flores Purchase
-    desc = "EVTDESC97125"
-    picture = "treaty"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVT97125OPTA"
-        prestige = 5
-        relation = { who = POR value = 200 }
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 100000 }
-                    check_variable = { which = owed_cash_money value = 9 }
-                }
-            }
-            owner = { change_variable = { which = owed_cash_money value = 100 } }
-        }
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 100000 }
-                    NOT = { check_variable = { which = owed_cash_money value = 1 } }
-                }
-            }
-            owner = { set_variable = { which = owed_cash_money value = 100 } }
-        }
-        random_owned = {
-            limit = { owner = { money = 100000 } }
-            owner = { treasury = -100000 }
-        }
-
-        POR = {
-            money = 100000
-            any_owned = {
-                limit = {
-                    OR = {
-                        province_id = 1439
-                        province_id = 1444
-                    }
-                }
-                secede_province = THIS
-            }
-        }
-        ai_chance = { factor = 95 }
-    }
-
-    option = {
-        name = "EVT97125OPTB"
-        prestige = -5
-        relation = {
-            who = POR
-            value = -15
-        }
-        ai_chance = {
-            factor = 5
-        }
-    }
-}
+#country_event = {
+#    id = 97125
+#    title = "EVTNAME97125" #Flores Purchase
+#    desc = "EVTDESC97125"
+#    picture = "treaty"
+#
+#    is_triggered_only = yes
+#
+#    option = {
+#        name = "EVT97125OPTA"
+#        prestige = 5
+#        relation = { who = POR value = 200 }
+#        random_owned = {
+#            limit = {
+#                owner = {
+#                    NOT = { money = 100000 }
+#                    check_variable = { which = owed_cash_money value = 9 }
+#                }
+#            }
+#            owner = { change_variable = { which = owed_cash_money value = 100 } }
+#        }
+#        random_owned = {
+#            limit = {
+#                owner = {
+#                    NOT = { money = 100000 }
+#                    NOT = { check_variable = { which = owed_cash_money value = 1 } }
+#                }
+#            }
+#            owner = { set_variable = { which = owed_cash_money value = 100 } }
+#        }
+#        random_owned = {
+#            limit = { owner = { money = 100000 } }
+#            owner = { treasury = -100000 }
+#        }
+#
+#        POR = {
+#            money = 100000
+#            any_owned = {
+#                limit = {
+#                    OR = {
+#                        province_id = 1439
+#                        province_id = 1444
+#                    }
+#                }
+#                secede_province = THIS
+#            }
+#        }
+#        ai_chance = { factor = 95 }
+#    }
+#
+#    option = {
+#        name = "EVT97125OPTB"
+#        prestige = -5
+#        relation = {
+#            who = POR
+#            value = -15
+#        }
+#        ai_chance = {
+#            factor = 5
+#        }
+#    }
+#}
 
 ## Indonesian colony spread
 province_event = {
@@ -1106,29 +1120,29 @@ country_event = {
 
 
 #End of the Padri War
-country_event = {
-    id = 971204
-    title = "EVTNAME971204"
-    desc = "EVTDESC971204"
-    picture = "aceh_jihad"
-
-    trigger = {
-        tag = NET
-        truce_with = ATJ
-        NOT = { year = 1845 }
-        ATJ = { has_recently_lost_war = yes }
-    }
-
-    fire_only_once = yes
-    mean_time_to_happen = { months = 1 }
-
-    option = {
-        name = "EVT971204OPTA"
-        prestige = -5
-        1408 = { secede_province = NET remove_core = ATJ }
-        1411 = { secede_province = NET remove_core = ATJ }
-    }
-}
+#country_event = {
+#    id = 971204
+#    title = "EVTNAME971204"
+#    desc = "EVTDESC971204"
+#    picture = "aceh_jihad"
+#
+#    trigger = {
+#        tag = NET
+#        truce_with = ATJ
+#        NOT = { year = 1845 }
+#        ATJ = { has_recently_lost_war = yes }
+#    }
+#
+#    fire_only_once = yes
+#    mean_time_to_happen = { months = 1 }
+#
+#    option = {
+#        name = "EVT971204OPTA"
+#        prestige = -5
+#        1408 = { secede_province = NET remove_core = ATJ }
+#        1411 = { secede_province = NET remove_core = ATJ }
+#    }
+#}
 
 #Integration of the Malay Minors 1/2
 country_event = {
