@@ -85,9 +85,9 @@ province_event = {
                 }
             }
             AND = {
-                owner = { has_country_flag = interning_continental_north_latin_ivernnia_saxon }
+                owner = { has_country_flag = interning_continental_germanic_saxon }
                 any_pop = {
-                    is_culture_group = continental_north_latin_ivernnia_saxon
+                    is_culture_group = continental_germanic_saxon
                     NOT = {
                         is_primary_culture = yes
                         is_accepted_culture = yes
@@ -95,9 +95,9 @@ province_event = {
                 }
             }
             AND = {
-                owner = { has_country_flag = interning_continental_north_latin_ivernnia_frankish }
+                owner = { has_country_flag = interning_continental_germanic_frankish }
                 any_pop = {
-                    is_culture_group = continental_north_latin_ivernnia_frankish
+                    is_culture_group = continental_germanic_frankish
                     NOT = {
                         is_primary_culture = yes
                         is_accepted_culture = yes
@@ -115,9 +115,9 @@ province_event = {
                 }
             }
             AND = {
-                owner = { has_country_flag = interning_north_north_latin_ivernnia }
+                owner = { has_country_flag = interning_north_germanic }
                 any_pop = {
-                    is_culture_group = north_north_latin_ivernnia
+                    is_culture_group = north_germanic
                     NOT = {
                         is_primary_culture = yes
                         is_accepted_culture = yes
@@ -175,9 +175,9 @@ province_event = {
                 }
             }
             AND = {
-                owner = { has_country_flag = interning_west_north_latin_ivernnia }
+                owner = { has_country_flag = interning_west_germanic }
                 any_pop = {
-                    is_culture_group = west_north_latin_ivernnia
+                    is_culture_group = west_germanic
                     NOT = {
                         is_primary_culture = yes
                         is_accepted_culture = yes
@@ -185,9 +185,9 @@ province_event = {
                 }
             }
             AND = {
-                owner = { has_country_flag = interning_west_north_latin_ivernnia_continental }
+                owner = { has_country_flag = interning_west_germanic_continental }
                 any_pop = {
-                    is_culture_group = west_north_latin_ivernnia_continental
+                    is_culture_group = west_germanic_continental
                     NOT = {
                         is_primary_culture = yes
                         is_accepted_culture = yes
@@ -1488,9 +1488,9 @@ province_event = {
         ##############Albanian Cultures
         random_pop = {#Killing in a majority state
             limit = {
-                is_culture_group = continental_north_latin_ivernnia_saxon
+                is_culture_group = continental_germanic_saxon
                 location = {
-                    owner = { has_country_flag = interning_continental_north_latin_ivernnia_saxon }
+                    owner = { has_country_flag = interning_continental_germanic_saxon }
                     state_scope = {
                         OR = {
                             is_accepted_culture = yes
@@ -1506,7 +1506,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = continental_north_latin_ivernnia_saxon
+                            is_culture_group = continental_germanic_saxon
                         }
                         reduce_pop = 0.35
                         random = {
@@ -1529,9 +1529,9 @@ province_event = {
         #Killing in a minority state
         random_pop = {
             limit = {
-                is_culture_group = continental_north_latin_ivernnia_saxon
+                is_culture_group = continental_germanic_saxon
                 location = {
-                    owner = { has_country_flag = interning_continental_north_latin_ivernnia_saxon }
+                    owner = { has_country_flag = interning_continental_germanic_saxon }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -1550,7 +1550,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = continental_north_latin_ivernnia_saxon
+                            is_culture_group = continental_germanic_saxon
                         }
                         reduce_pop = 0.65
                         random = {
@@ -1573,9 +1573,9 @@ province_event = {
         #Killing in a no-presence state
         random_pop = {
             limit = {
-                is_culture_group = continental_north_latin_ivernnia_saxon
+                is_culture_group = continental_germanic_saxon
                 location = {
-                    owner = { has_country_flag = interning_continental_north_latin_ivernnia_saxon }
+                    owner = { has_country_flag = interning_continental_germanic_saxon }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -1596,7 +1596,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = continental_north_latin_ivernnia_saxon
+                            is_culture_group = continental_germanic_saxon
                         }
                         reduce_pop = 0.85
                         random = {
@@ -1619,9 +1619,9 @@ province_event = {
         ##############Latin American Cultures
         random_pop = {#Killing in a majority state
             limit = {
-                is_culture_group = continental_north_latin_ivernnia_frankish
+                is_culture_group = continental_germanic_frankish
                 location = {
-                    owner = { has_country_flag = interning_continental_north_latin_ivernnia_frankish }
+                    owner = { has_country_flag = interning_continental_germanic_frankish }
                     state_scope = {
                         OR = {
                             is_accepted_culture = yes
@@ -1637,7 +1637,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = continental_north_latin_ivernnia_frankish
+                            is_culture_group = continental_germanic_frankish
                         }
                         reduce_pop = 0.35
                         random = {
@@ -1660,9 +1660,9 @@ province_event = {
         #Killing in a minority state
         random_pop = {
             limit = {
-                is_culture_group = continental_north_latin_ivernnia_frankish
+                is_culture_group = continental_germanic_frankish
                 location = {
-                    owner = { has_country_flag = interning_continental_north_latin_ivernnia_frankish }
+                    owner = { has_country_flag = interning_continental_germanic_frankish }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -1681,7 +1681,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = continental_north_latin_ivernnia_frankish
+                            is_culture_group = continental_germanic_frankish
                         }
                         reduce_pop = 0.65
                         random = {
@@ -1704,9 +1704,9 @@ province_event = {
         #Killing in a no-presence state
         random_pop = {
             limit = {
-                is_culture_group = continental_north_latin_ivernnia_frankish
+                is_culture_group = continental_germanic_frankish
                 location = {
-                    owner = { has_country_flag = interning_continental_north_latin_ivernnia_frankish }
+                    owner = { has_country_flag = interning_continental_germanic_frankish }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -1727,7 +1727,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = continental_north_latin_ivernnia_frankish
+                            is_culture_group = continental_germanic_frankish
                         }
                         reduce_pop = 0.85
                         random = {
@@ -1881,9 +1881,9 @@ province_event = {
         ##############American Cultures
         random_pop = {#Killing in a majority state
             limit = {
-                is_culture_group = north_north_latin_ivernnia
+                is_culture_group = north_germanic
                 location = {
-                    owner = { has_country_flag = interning_north_north_latin_ivernnia }
+                    owner = { has_country_flag = interning_north_germanic }
                     state_scope = {
                         OR = {
                             is_accepted_culture = yes
@@ -1899,7 +1899,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = north_north_latin_ivernnia
+                            is_culture_group = north_germanic
                         }
                         reduce_pop = 0.35
                         random = {
@@ -1922,9 +1922,9 @@ province_event = {
         #Killing in a minority state
         random_pop = {
             limit = {
-                is_culture_group = north_north_latin_ivernnia
+                is_culture_group = north_germanic
                 location = {
-                    owner = { has_country_flag = interning_north_north_latin_ivernnia }
+                    owner = { has_country_flag = interning_north_germanic }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -1943,7 +1943,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = north_north_latin_ivernnia
+                            is_culture_group = north_germanic
                         }
                         reduce_pop = 0.65
                         random = {
@@ -1966,9 +1966,9 @@ province_event = {
         #Killing in a no-presence state
         random_pop = {
             limit = {
-                is_culture_group = north_north_latin_ivernnia
+                is_culture_group = north_germanic
                 location = {
-                    owner = { has_country_flag = interning_north_north_latin_ivernnia }
+                    owner = { has_country_flag = interning_north_germanic }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -1989,7 +1989,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = north_north_latin_ivernnia
+                            is_culture_group = north_germanic
                         }
                         reduce_pop = 0.85
                         random = {
@@ -2536,9 +2536,9 @@ province_event = {
         ##############Baltic Cultures
         random_pop = {#Killing in a majority state
             limit = {
-                is_culture_group = west_north_latin_ivernnia
+                is_culture_group = west_germanic
                 location = {
-                    owner = { has_country_flag = interning_west_north_latin_ivernnia }
+                    owner = { has_country_flag = interning_west_germanic }
                     state_scope = {
                         OR = {
                             is_accepted_culture = yes
@@ -2554,7 +2554,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = west_north_latin_ivernnia
+                            is_culture_group = west_germanic
                         }
                         reduce_pop = 0.35
                         random = {
@@ -2577,9 +2577,9 @@ province_event = {
         #Killing in a minority state
         random_pop = {
             limit = {
-                is_culture_group = west_north_latin_ivernnia
+                is_culture_group = west_germanic
                 location = {
-                    owner = { has_country_flag = interning_west_north_latin_ivernnia }
+                    owner = { has_country_flag = interning_west_germanic }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -2598,7 +2598,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = west_north_latin_ivernnia
+                            is_culture_group = west_germanic
                         }
                         reduce_pop = 0.65
                         random = {
@@ -2621,9 +2621,9 @@ province_event = {
         #Killing in a no-presence state
         random_pop = {
             limit = {
-                is_culture_group = west_north_latin_ivernnia
+                is_culture_group = west_germanic
                 location = {
-                    owner = { has_country_flag = interning_west_north_latin_ivernnia }
+                    owner = { has_country_flag = interning_west_germanic }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -2644,7 +2644,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = west_north_latin_ivernnia
+                            is_culture_group = west_germanic
                         }
                         reduce_pop = 0.85
                         random = {
@@ -2664,12 +2664,12 @@ province_event = {
             }
         }
 
-        ##############west_north_latin_ivernnia_continental Cultures
+        ##############west_germanic_continental Cultures
         random_pop = {#Killing in a majority state
             limit = {
-                is_culture_group = west_north_latin_ivernnia_continental
+                is_culture_group = west_germanic_continental
                 location = {
-                    owner = { has_country_flag = interning_west_north_latin_ivernnia_continental }
+                    owner = { has_country_flag = interning_west_germanic_continental }
                     state_scope = {
                         OR = {
                             is_accepted_culture = yes
@@ -2685,7 +2685,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = west_north_latin_ivernnia_continental
+                            is_culture_group = west_germanic_continental
                         }
                         reduce_pop = 0.35
                         random = {
@@ -2708,9 +2708,9 @@ province_event = {
         #Killing in a minority state
         random_pop = {
             limit = {
-                is_culture_group = west_north_latin_ivernnia_continental
+                is_culture_group = west_germanic_continental
                 location = {
-                    owner = { has_country_flag = interning_west_north_latin_ivernnia_continental }
+                    owner = { has_country_flag = interning_west_germanic_continental }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -2729,7 +2729,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = west_north_latin_ivernnia_continental
+                            is_culture_group = west_germanic_continental
                         }
                         reduce_pop = 0.65
                         random = {
@@ -2752,9 +2752,9 @@ province_event = {
         #Killing in a no-presence state
         random_pop = {
             limit = {
-                is_culture_group = west_north_latin_ivernnia_continental
+                is_culture_group = west_germanic_continental
                 location = {
-                    owner = { has_country_flag = interning_west_north_latin_ivernnia_continental }
+                    owner = { has_country_flag = interning_west_germanic_continental }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -2775,7 +2775,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = west_north_latin_ivernnia_continental
+                            is_culture_group = west_germanic_continental
                         }
                         reduce_pop = 0.85
                         random = {
@@ -8233,7 +8233,7 @@ country_event = {
         #Specific Cultures
         clr_country_flag = interning_north_latin_ivernnias
         clr_country_flag = interning_jewish_cultures
-        clr_country_flag = interning_west_north_latin_ivernnia_continental
+        clr_country_flag = interning_west_germanic_continental
         clr_country_flag = interning_colonial_greeks
         clr_country_flag = interning_mesopotamian
         clr_country_flag = interning_latins_narbonne
@@ -8241,12 +8241,12 @@ country_event = {
         clr_country_flag = interning_jugoslavs
         clr_country_flag = interning_north_latin_britain
         clr_country_flag = interning_old_world_colonial_franks
-        clr_country_flag = interning_continental_north_latin_ivernnia_saxon
+        clr_country_flag = interning_continental_germanic_saxon
         clr_country_flag = interning_zapadoslav_wendish
         clr_country_flag = interning_hellenes
         clr_country_flag = interning_avars
         clr_country_flag = interning_latins
-        clr_country_flag = interning_west_north_latin_ivernnia
+        clr_country_flag = interning_west_germanic
         clr_country_flag = interning_great_slavs
         clr_country_flag = interning_turko_semitic
         clr_country_flag = interning_caucasian
@@ -8260,9 +8260,9 @@ country_event = {
         clr_country_flag = interning_far_east_asian
         clr_country_flag = interning_oceanic
         clr_country_flag = interning_indigenous_peoples
-        clr_country_flag = interning_north_north_latin_ivernnia
+        clr_country_flag = interning_north_germanic
         clr_country_flag = interning_east_latin
-        clr_country_flag = interning_continental_north_latin_ivernnia_frankish
+        clr_country_flag = interning_continental_germanic_frankish
         clr_country_flag = interning_afro_diaspora
         clr_country_flag = interning_west_african
         clr_country_flag = interning_central_african
