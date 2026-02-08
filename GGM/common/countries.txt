@@ -181,7 +181,7 @@ BHP        ="countries/Bahawalpur.txt"
 CHY        ="countries/Chechnya.txt"
 CHK        ="countries/Champasak.txt"
 #QNG        ="countries/Qing China.txt"
-MGH        ="countries/Maghreb.txt"
+#MGH        ="countries/Maghreb.txt"
 
 #HPM Africa
 BKF        ="countries/Burkina Faso.txt"
