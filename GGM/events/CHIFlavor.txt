@@ -24,19 +24,19 @@ country_event = {
         civilized = yes
         OR = {
             AND = {
-                tag = QNG
+                tag = MIN
                 TPG = { exists = no }
                 CHI = { exists = no }
             }
             AND = {
                 tag = TPG
-                QNG = { exists = no }
+                MIN = { exists = no }
                 CHI = { exists = no }
             }
             AND = {
                 tag = CHI
                 TPG = { exists = no }
-                QNG = { exists = no }
+                MIN = { exists = no }
             }
         }
 
@@ -123,7 +123,7 @@ country_event = {
         remove_country_modifier = totalitarian_system
         remove_country_modifier = political_education
         remove_country_modifier = cult_of_personality
-        QNG = { all_core = { remove_core = QNG } }
+        MIN = { all_core = { remove_core = MIN } }
         TPG = { all_core = { remove_core = TPG } }
         random_owned = {
             limit = {
@@ -265,8 +265,8 @@ country_event = {
     option = {
         name = "EVT164599OPTB"
         prestige = -25
-        QNG = {
-            all_core = { remove_core = QNG }
+        MIN = {
+            all_core = { remove_core = MIN }
         }
         TPG = {
             all_core = { remove_core = TPG }
@@ -406,19 +406,19 @@ country_event = {
     trigger = {
         OR = {
             AND = {
-                tag = QNG
+                tag = MIN
                 NOT = { exists = TPG }
                 NOT = { exists = CHI }
             }
             AND = {
                 tag = TPG
-                NOT = { exists = QNG }
+                NOT = { exists = MIN }
                 NOT = { exists = CHI }
             }
             AND = {
                 tag = CHI
                 NOT = { exists = TPG }
-                NOT = { exists = QNG }
+                NOT = { exists = MIN }
             }
         }
         civilized = yes
@@ -742,7 +742,7 @@ country_event = {
     desc = "EVTDESC1645092"
     fire_only_once = yes
     trigger = {
-         tag = QNG
+         tag = MIN
         has_global_flag = taiping_has_happened
         has_country_flag = mandate
         NOT = {    has_country_flag = has_lost_mandate }
@@ -785,7 +785,7 @@ country_event = {
     picture = "qing_emperor"
 
     trigger = {
-        tag = QNG
+        tag = MIN
         war = no
         is_disarmed = no
         part_of_sphere = yes
@@ -933,7 +933,7 @@ country_event = {
     picture = "qing_emperor"
 
     trigger = {
-        tag = QNG
+        tag = MIN
         war = no
         part_of_sphere = yes
         civilized = no
@@ -1126,7 +1126,7 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = QNG
+        tag = MIN
         civilized = no
         1493 = {
             owned_by = THIS
@@ -1170,7 +1170,7 @@ country_event = {
     picture = "Opiumwar"
 
     trigger = {
-        tag = QNG
+        tag = MIN
         part_of_sphere = no
         any_owned_province = { has_province_modifier = foreign_smugglers }
         owns = 1496
@@ -1795,7 +1795,7 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = QNG
+        tag = MIN
         has_global_flag = taiping_has_happened
         NOT = {
             any_greater_power = { war_with = ENG }
@@ -1982,7 +1982,7 @@ country_event = {
             limit = {
                 OR = {
                     tag = CHI
-                    tag = QNG
+                    tag = MIN
                     tag = TPG
                 }
                 OR = {
@@ -2125,19 +2125,19 @@ country_event = {
     trigger = {
         OR = {
             AND = {
-                tag = QNG
+                tag = MIN
                 TPG = { exists = no }
                 CHI = { exists = no }
             }
             AND = {
                 tag = TPG
-                QNG = { exists = no }
+                MIN = { exists = no }
                 CHI = { exists = no }
             }
             AND = {
                 tag = CHI
                 TPG = { exists = no }
-                QNG = { exists = no }
+                MIN = { exists = no }
             }
         }
         war = no
@@ -2216,10 +2216,10 @@ country_event = {
         1533 = { add_core = MCK }
         random_owned = {
             limit = {
-                owner = { NOT = { tag = QNG } }
+                owner = { NOT = { tag = MIN } }
             }
-            QNG = {
-                all_core = { remove_core = QNG }
+            MIN = {
+                all_core = { remove_core = MIN }
             }
         }
         random_owned = {
@@ -2301,7 +2301,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -2370,7 +2370,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -2439,7 +2439,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -2506,7 +2506,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -2575,7 +2575,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -2648,7 +2648,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -2725,7 +2725,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -2800,7 +2800,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -2872,7 +2872,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -2942,7 +2942,7 @@ province_event = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
         NOT = {
@@ -3033,7 +3033,7 @@ country_event = {
                 NOT = { exists = KMT }
             }
         }
-        NOT = { exists = QNG }
+        NOT = { exists = MIN }
         has_global_flag = the_new_army
         has_global_flag = spread_warlord_influence
         civilized = yes
@@ -5161,7 +5161,7 @@ country_event = {
             }
             modifier = {
                 factor = 0.25
-                FROM = { tag = QNG }
+                FROM = { tag = MIN }
             }
 
             modifier = {
@@ -5208,7 +5208,7 @@ country_event = {
             }
         modifier = {
                 factor = 0.5
-                FROM = { tag = QNG }
+                FROM = { tag = MIN }
             }
             modifier = {
                 factor = 0
@@ -5300,7 +5300,7 @@ country_event = {
             }
             modifier = {
                 factor = 5
-                FROM = { tag = QNG }
+                FROM = { tag = MIN }
             }
             modifier = {
                 factor = 3

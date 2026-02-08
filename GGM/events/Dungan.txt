@@ -12,15 +12,15 @@ province_event = {
 
     trigger = {
         OR = {
-            owned_by = QNG
-            owner = { substate_of = QNG }
+            owned_by = MIN
+            owner = { substate_of = MIN }
         }
         OR = {
-            controlled_by = QNG
-            controller = { substate_of = QNG }
+            controlled_by = MIN
+            controller = { substate_of = MIN }
         }
         NOT = { has_province_modifier = anti_manchu_sentiment }
-        QNG = {
+        MIN = {
             has_global_flag = hong
             has_country_flag = mandate
         }
@@ -106,7 +106,7 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = QNG
+        tag = MIN
         YNN = {
             substate_of = THIS
             NOT = { num_of_revolts = 1 }
@@ -173,7 +173,7 @@ country_event = {
     picture = "panthay_rebellion"
 
     trigger = {
-        tag = QNG
+        tag = MIN
         has_global_flag = panthay_rebellion
         is_our_vassal = PGG
     }
@@ -220,7 +220,7 @@ country_event = {
         tag = PGG
         has_global_flag = panthay_rebellion
         is_vassal = no
-        NOT = { war_with = QNG }
+        NOT = { war_with = MIN }
     }
 
     mean_time_to_happen = {
@@ -230,7 +230,7 @@ country_event = {
     option = {
         name = "EVT80123OPTA"
         prestige = 10
-        QNG = { prestige = -10 }
+        MIN = { prestige = -10 }
         clr_global_flag = panthay_rebellion
         PGG = { all_core = { remove_core = YNN } }
     }
@@ -245,7 +245,7 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = QNG
+        tag = MIN
         XIN = {
             substate_of = THIS
             NOT = { num_of_revolts = 1 }
@@ -357,7 +357,7 @@ country_event = {
     picture = "dungan_revolt_xinhai"
 
     trigger = {
-        tag = QNG
+        tag = MIN
         has_global_flag = dungan_rebellion
         is_our_vassal = UYG
     }
@@ -405,7 +405,7 @@ country_event = {
         tag = UYG
         has_global_flag = dungan_rebellion
         is_vassal = no
-        NOT = { war_with = QNG }
+        NOT = { war_with = MIN }
     }
 
     mean_time_to_happen = {
@@ -415,7 +415,7 @@ country_event = {
     option = {
         name = "EVT80123OPTA"
         prestige = 10
-        QNG = { prestige = -10 }
+        MIN = { prestige = -10 }
         clr_global_flag = dungan_rebellion
     }
 }
@@ -428,7 +428,7 @@ country_event = {
 
     trigger = {
         OR = {
-            tag = QNG
+            tag = MIN
             tag = TPG
         }
         OR = {

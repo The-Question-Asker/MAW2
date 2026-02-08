@@ -2447,7 +2447,7 @@ boxer_rebels = {
         }
         modifier = {
             factor = 0
-            country = { NOT = { tag = QNG } }
+            country = { NOT = { tag = MIN } }
         }
         modifier = {
             factor = 0
@@ -2554,7 +2554,7 @@ boxer_rebels = {
             factor = 2.0
             is_core = CHI
             is_colonial = yes
-            NOT = { owned_by = QNG }
+            NOT = { owned_by = MIN }
         }
         modifier = {
             factor = 0
@@ -2564,7 +2564,7 @@ boxer_rebels = {
             factor = 0
             is_core = CHI
             is_colonial = no
-            NOT = { owned_by = QNG }
+            NOT = { owned_by = MIN }
         }
     }
 
@@ -2581,13 +2581,13 @@ boxer_rebels = {
             AND = {
                 is_core = CHI
                 is_colonial = yes
-                NOT = { owned_by = QNG }
+                NOT = { owned_by = MIN }
             }
         }
      }
 
     siege_won_effect = {
-        QNG = { prestige = 2 }
+        MIN = { prestige = 2 }
         remove_province_modifier = western_presence
         remove_province_modifier = foreign_smugglers
         remove_province_modifier = foreign_trading_post
@@ -3835,7 +3835,7 @@ unciv_reactionary_rebels = {
         modifier = {
             factor = 0.01
             country = {
-                tag = QNG
+                tag = MIN
                 civilization_progress = 0.75
             }
         }

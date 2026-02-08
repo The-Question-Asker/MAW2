@@ -18,7 +18,7 @@ country_event = {
     picture = "boxers"
 
     trigger = {
-        tag = QNG
+        tag = MIN
         civilized = no
         civilization_progress = 0.75
         any_owned_province = {
@@ -153,7 +153,7 @@ province_event = {
             is_core = FJN
         }
         owner = {
-            tag = QNG
+            tag = MIN
             has_country_flag = boxers_appeared
             NOT = { has_country_flag = boxers_disbanded }
             NOT = { has_country_flag = boxers_attacked_capital }
@@ -227,7 +227,7 @@ province_event = {
             region = CHI_1616
         }
         owner = {
-            tag = QNG
+            tag = MIN
             civilized = no
             NOT = { has_country_flag = boxers_disbanded }
             NOT = { has_country_flag = boxers_attacked_capital }
@@ -355,7 +355,7 @@ country_event = {
     news_desc_short = "EVTDESC99010_NEWS_SHORT"
 
     trigger = {
-        tag = QNG
+        tag = MIN
         has_country_flag = boxers_appeared
         1616 = { controlled_by = THIS }
         any_owned_province = {
@@ -647,11 +647,11 @@ country_event = {
         name = "EVTOPTA13356"
         prestige = -2
         relation = {
-            who = QNG
+            who = MIN
             value = -50
         }
         casus_belli = {
-            target = QNG
+            target = MIN
             type = cut_down_to_size_boxer
             months = 12
         }
@@ -666,7 +666,7 @@ country_event = {
     picture = "boxers"
 
     trigger = {
-        tag = QNG
+        tag = MIN
         any_neighbor_country = {
             any_owned_province = {
                     has_province_modifier = boxer_rebellion
@@ -674,7 +674,7 @@ country_event = {
                     is_colonial = yes
                     controlled_by = REB
                     province_control_days = 120
-                    any_neighbor_province = { owned_by = QNG }
+                    any_neighbor_province = { owned_by = MIN }
                 state_scope = {
                     NOT = {
                         any_owned_province = {
@@ -704,7 +704,7 @@ country_event = {
                         is_core = CHI
                         is_colonial = yes
                         any_neighbor_province = {
-                            owned_by = QNG
+                            owned_by = MIN
                         }
                     }
                     NOT = {
@@ -718,8 +718,8 @@ country_event = {
                     limit = { is_core = CHI }
                     remove_province_modifier = boxer_rebellion
                     any_pop = { militancy = -4 }
-                    secede_province = QNG
-                    change_controller = QNG
+                    secede_province = MIN
+                    change_controller = MIN
                 }
             }
             relation = {
@@ -727,7 +727,7 @@ country_event = {
                 value = -50
             }
             casus_belli = {
-                target = QNG
+                target = MIN
                 type = treaty_port_casus_belli
                 months = 30
             }
@@ -747,7 +747,7 @@ country_event = {
                         province_control_days = 120
                         is_core = CHI
                         is_colonial = yes
-                        any_neighbor_province = { owned_by = QNG }
+                        any_neighbor_province = { owned_by = MIN }
                     }
                     NOT = {
                         any_owned_province = {

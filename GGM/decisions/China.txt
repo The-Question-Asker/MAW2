@@ -1,12 +1,12 @@
 political_decisions = {
     torching_of_the_summer_palace = {
         potential = {
-            NOT = { tag = QNG }
-            QNG = { owns = 1616 }
+            NOT = { tag = MIN }
+            MIN = { owns = 1616 }
             civilized = yes
             is_greater_power = yes
             state_n_government = 1
-            war_with = QNG
+            war_with = MIN
             NOT = { has_global_flag = summer_palace_torched }
         }
         allow = {
@@ -15,14 +15,14 @@ political_decisions = {
         effect = {
             set_global_flag = summer_palace_torched
             badboy = 3
-            QNG = { country_event = 13355 }
+            MIN = { country_event = 13355 }
         }
     }
 
     clear_out_the_manchu_elite = {
         picture = clear_out_the_manchu_elite
         potential = {
-            tag = QNG
+            tag = MIN
             government = absolute_monarchy
             is_greater_power = no
             civilized = no
@@ -53,7 +53,7 @@ political_decisions = {
 
     form_china = {
         potential = {
-            tag = QNG
+            tag = MIN
             NOT = { has_global_flag = china_formed }
             NOT = { has_country_flag = post_colonial_country }
         }
@@ -72,7 +72,7 @@ political_decisions = {
 
         effect = {
             prestige = 20
-            all_core = { remove_core = QNG }
+            all_core = { remove_core = MIN }
             change_tag = CHI
             primary_culture = beifaren
             add_accepted_culture = nanfaren
@@ -141,7 +141,7 @@ political_decisions = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
 
@@ -224,7 +224,7 @@ political_decisions = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
 
@@ -289,7 +289,7 @@ political_decisions = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
 
@@ -357,7 +357,7 @@ political_decisions = {
                 tag = CHI
                 tag = KMT
                 tag = TPG
-                tag = QNG
+                tag = MIN
             }
         }
 
@@ -1266,12 +1266,12 @@ political_decisions = {
         potential = {
             OR = {
                 AND = {
-                    tag = QNG
+                    tag = MIN
                     NOT = { exists = TPG }
                 }
                 AND = {
                     tag = TPG
-                    NOT = { exists = QNG }
+                    NOT = { exists = MIN }
                 }
             }
             civilized = no
@@ -1433,7 +1433,7 @@ political_decisions = {
         potential = {
             OR = {
                 tag = TPG
-                tag = QNG
+                tag = MIN
                 tag = CHI
             }
             1086 = { NOT = { is_core = THIS } }
@@ -1496,7 +1496,7 @@ political_decisions = {
             OR = {
                 2681 = { is_core = CHI }
                 2681 = { is_core = KMT }
-                2681 = { is_core = QNG }
+                2681 = { is_core = MIN }
                 2681 = { is_core = TPG }
             }
             has_global_flag = retreated_to_taiwan
@@ -1508,13 +1508,13 @@ political_decisions = {
             war = no
             OR = {
                 truce_with = CHI
-                truce_with = QNG
+                truce_with = MIN
                 truce_with = TPG
             }
         }
 
         effect = {
-            TAI = { all_core = { remove_core = QNG remove_core = CHI remove_core = TPG remove_core = FJN } }
+            TAI = { all_core = { remove_core = MIN remove_core = CHI remove_core = TPG remove_core = FJN } }
         }
 
         ai_will_do = { factor = 1 }
@@ -1524,12 +1524,12 @@ political_decisions = {
     picture = macao_city
         potential = {
             OR = {
-                QNG = { exists = yes owns = 1616 NOT = { TPG = { exists = yes } CHI = { exists = yes } } }
-                TPG = { exists = yes owns = 1616 NOT = { QNG = { exists = yes } CHI = { exists = yes } } }
-                CHI = { exists = yes owns = 1616 NOT = { TPG = { exists = yes } QNG = { exists = yes } } }
+                MIN = { exists = yes owns = 1616 NOT = { TPG = { exists = yes } CHI = { exists = yes } } }
+                TPG = { exists = yes owns = 1616 NOT = { MIN = { exists = yes } CHI = { exists = yes } } }
+                CHI = { exists = yes owns = 1616 NOT = { TPG = { exists = yes } MIN = { exists = yes } } }
             }
             OR = {
-                tag = QNG
+                tag = MIN
                 tag = TPG
                 tag = CHI
             }

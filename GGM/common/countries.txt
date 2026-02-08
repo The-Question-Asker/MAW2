@@ -180,7 +180,7 @@ BHP        ="countries/Bahawalpur.txt"
 #EZO        ="countries/EzoRep.txt"
 CHY        ="countries/Chechnya.txt"
 CHK        ="countries/Champasak.txt"
-QNG        ="countries/Qing China.txt"
+#QNG        ="countries/Qing China.txt"
 MGH        ="countries/Maghreb.txt"
 
 #HPM Africa

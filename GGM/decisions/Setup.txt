@@ -1856,11 +1856,11 @@ political_decisions = {
             any_country = { limit = { exists = yes } set_country_flag = existing_country }
 
             ################Starting Events###########################
-            MEX = { country_event = { id = 44805 days = 2 } }
-            UCA = { country_event = { id = 97550 days = 2 } }
-            QNG = { country_event = { id = 160009 days = 5 } }
-            ENG = { country_event = { id = 98200 days = 3 } }
-            HAI = { country_event = { id = 45106 days = 3 } }
+            #MEX = { country_event = { id = 44805 days = 2 } }
+            #UCA = { country_event = { id = 97550 days = 2 } }
+            #QNG = { country_event = { id = 160009 days = 5 } }
+            #ENG = { country_event = { id = 98200 days = 3 } }
+            #HAI = { country_event = { id = 45106 days = 3 } }
             ##########################################################
 
             ################Uncivs Close their borders###########################
@@ -1920,7 +1920,7 @@ political_decisions = {
 
             any_country = { limit = { exists = yes civilized = yes is_greater_power = no is_secondary_power = no number_of_states = 2 } treasury = 10000 }
             any_country = { limit = { exists = yes civilized = yes is_greater_power = no is_secondary_power = no NOT = { number_of_states = 2 } } treasury = 5000 }
-            any_country = { limit = { exists = yes civilized = no NOT = { tag = QNG } } treasury = 2500 }
+            #any_country = { limit = { exists = yes civilized = no NOT = { tag = QNG } } treasury = 2500 }
             #########Literate countries were usually well developed#########
 
             any_country = {
@@ -2321,7 +2321,7 @@ political_decisions = {
             #################Japan Setup######################
 
             #################Qing Setup######################
-            QNG = {
+            MIN = {
                 add_country_modifier = { name = global_baby_boom duration = 1065 }
                 add_country_modifier = { name = uncivilized_isolationism duration = -1 }
                 remove_country_modifier = western_influences
@@ -2414,7 +2414,7 @@ political_decisions = {
                     exists = yes
                     NOT = { tag = SIA }
                     NOT = { primary_culture = japanese }
-                    NOT = { tag = QNG }
+                    NOT = { tag = MIN }
                     OR = {
                         capital_scope = { continent = africa }
                         capital_scope = { continent = oceania }

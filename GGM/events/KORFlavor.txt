@@ -4,7 +4,7 @@
 #                                                                    #
 #####################################################################
 
-#The French-Korean Expedition of 1866
+The French-Korean Expedition of 1866
 country_event = {
     id = 85000
     title = "EVTNAME85000" #Catholics Slain in Korea
@@ -26,11 +26,11 @@ country_event = {
         KOR = {
             exists = yes
             civilized = no
-            vassal_of = QNG
+            vassal_of = MIN
         }
         NOT = {
             truce_with = KOR
-            truce_with = QNG
+            truce_with = MIN
         }
     }
 
@@ -44,7 +44,7 @@ country_event = {
 
     option = {
         name = "EVT85000OPTA"
-        QNG = { country_event = 85001 }
+        MIN = { country_event = 85001 }
         ai_chance = {
             factor = 95
         }
@@ -285,7 +285,7 @@ country_event = {
             civilized = no
             OR = {
                 has_country_modifier = uncivilized_isolationism
-                vassal_of = QNG
+                vassal_of = MIN
             }
         }
         NOT = {

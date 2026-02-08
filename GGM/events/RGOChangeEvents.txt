@@ -1621,7 +1621,7 @@ province_event = {
             OR = {
                 civilized = yes
                 tag = KOR
-                tag = QNG
+                tag = MIN
                 tag = TPG
                 tag = CHI
             }
@@ -1810,7 +1810,7 @@ province_event = {
             AND = {
                 owner = {
                     OR = {
-                        tag = QNG
+                        tag = MIN
                         tag = CHI
                         tag = TPG
                         tag = KOR
@@ -6428,7 +6428,7 @@ province_event = {
         NOT = { trade_goods = tea }
         NOT = { has_province_modifier = switched_production }
         owner = {
-            QNG = { war = no }
+            MIN = { war = no }
             war = no
             OR = {
                 any_owned_province = {

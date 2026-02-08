@@ -2852,9 +2852,9 @@ country_event = {
         is_vassal = no
         NOT = {
             has_country_modifier = rangaku
-            tag = QNG
-            vassal_of = QNG
-            substate_of = QNG
+            tag = MIN
+            vassal_of = MIN
+            substate_of = MIN
         }
     }
 
@@ -3881,7 +3881,7 @@ country_event = {
 
     trigger = {
         NOT = {
-            tag = QNG
+            tag = MIN
             tag = CHI
             tag = TPG
             AND = {

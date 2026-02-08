@@ -1381,7 +1381,7 @@ country_event = {
     picture = "asian_ruler"
 
     trigger = {
-        tag = QNG
+        tag = MIN
     }
 
     is_triggered_only = yes

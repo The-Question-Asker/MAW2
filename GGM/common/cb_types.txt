@@ -7993,7 +7993,7 @@ cut_down_to_size_boxer = {
     crisis = no
 
     can_use = {
-        tag = QNG
+        tag = MIN
         civilized = no
         has_country_flag = boxers_appeared
         NOT = { has_country_flag = boxers_disbanded }

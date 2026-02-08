@@ -15,7 +15,7 @@ country_event = {
         OR = {
             tag = CHI
             tag = TPG
-            tag = QNG
+            tag = MIN
         }
     }
 
@@ -481,11 +481,11 @@ country_event = {
             is_secondary_power = yes
         }
         OR = {
-            war_with = QNG
+            war_with = MIN
             war_with = TPG
         }
         OR = {
-            QNG = {
+            MIN = {
                 exists = yes
                 civilized = no
                 num_of_cities = 2
