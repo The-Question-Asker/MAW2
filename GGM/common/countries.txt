@@ -131,7 +131,7 @@ YSR        ="countries/Ysrael.txt"
 ##HPM
 PNK        ="countries/Pontianak.txt"
 GHN        ="countries/Ghana.txt"
-PPG        ="countries/Papua New Guinea.txt"
+PPG        ="countries/Papua New Guinea.txt" #reskin?
 VTU        ="countries/Vanuatu.txt"
 SMO        ="countries/Samoa.txt"
 #ATC        ="countries/Antillean Conf.txt"
@@ -153,13 +153,13 @@ MLD        ="countries/Maldives.txt"
 KAR        ="countries/Karen.txt"
 #PAK        ="countries/Pakistan.txt"
 CRL        ="countries/Chitral.txt"
-RDL        ="countries/Ardalan.txt"
-BTL        ="countries/Bitlis.txt"
-BDN        ="countries/Bahdinan.txt"
-BNB        ="countries/Baban.txt"
-MKN        ="countries/Mukriyan.txt"
-BHT        ="countries/Bohtan.txt"
-SRN        ="countries/Soran.txt"
+RDL        ="countries/Ardalan.txt" #kurds to be removed?
+BTL        ="countries/Bitlis.txt" #...
+BDN        ="countries/Bahdinan.txt" #...
+BNB        ="countries/Baban.txt" #...
+MKN        ="countries/Mukriyan.txt" #...
+BHT        ="countries/Bohtan.txt"  #...
+SRN        ="countries/Soran.txt"  #...
 #LBG        ="countries/Limburg.txt"
 #PNB        ="countries/Pernambuco.txt"
 #FIU        ="countries/Fiume.txt"
@@ -183,7 +183,7 @@ CHK        ="countries/Champasak.txt"
 #QNG        ="countries/Qing China.txt"
 #MGH        ="countries/Maghreb.txt"
 
-#HPM Africa
+#HPM Africa - these can be reskinned for GGM?
 BKF        ="countries/Burkina Faso.txt"
 ZBW        ="countries/Zimbabwe.txt"
 CMS        ="countries/Comoros.txt"
