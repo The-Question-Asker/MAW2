@@ -34,8 +34,8 @@ province_event = {
         }
         NOT = {
             has_province_modifier = nationalist_agitation
-            owner = { tag = HND }
-            owner = { tag = PAK }
+            owner = { tag = SEM }
+            owner = { tag = PRS }
         }
         OR = {
             owner = {
@@ -269,9 +269,7 @@ country_event = {
             }
         }
         NOT = {
-            tag = PAK
-            tag = HND
-            tag = MUG
+            tag = SEM
         }
         is_vassal = no
         revolution_n_counterrevolution = 1
@@ -740,7 +738,7 @@ country_event = {
             tag = SAF
             tag = HND
             tag = AFG
-            tag = PAK
+            tag = SEM
         }
     }
 

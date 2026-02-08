@@ -1704,61 +1704,61 @@ political_decisions = {
         }
     }
 
-    URU_1836_setup = {
-        potential = {
-            tag = URU
-            always = no
-        }
+   #URU_1836_setup = {
+   #    potential = {
+   #        tag = URU
+   #        always = no
+   #    }
+   #
+   #    allow = {
+   #        tag = URU
+   #    }
+   #
+   #    effect = {
+   #        any_pop = { limit = { has_pop_culture = brazilian } literacy = 0.06 }
+   #        2344 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.1 } } #Montevideo
+   #        ARC = { 2348 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.1 } } }
+   #    }
+   #}
 
-        allow = {
-            tag = URU
-        }
+    #BOL_1836_setup = {
+    #    potential = {
+    #        OR = {
+    #            tag = PBC
+    #            tag = BOL
+    #        }
+    #        always = no
+    #    }
+	#
+    #    allow = {
+    #    }
+	#
+    #    effect = {
+    #        2310 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.05 } } #La Paz - Bolivia
+    #        2313 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.05 } } #Chuquisaca/Sucre - Bolivia
+    #        activate_technology = flintlock_rifles
+    #        activate_technology = post_napoleonic_thought
+    #        activate_technology = post_nelsonian_thought
+    #    }
+    #}
 
-        effect = {
-            any_pop = { limit = { has_pop_culture = brazilian } literacy = 0.06 }
-            2344 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.1 } } #Montevideo
-            ARC = { 2348 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.1 } } }
-        }
-    }
-
-    BOL_1836_setup = {
-        potential = {
-            OR = {
-                tag = PBC
-                tag = BOL
-            }
-            always = no
-        }
-
-        allow = {
-        }
-
-        effect = {
-            2310 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.05 } } #La Paz - Bolivia
-            2313 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.05 } } #Chuquisaca/Sucre - Bolivia
-            activate_technology = flintlock_rifles
-            activate_technology = post_napoleonic_thought
-            activate_technology = post_nelsonian_thought
-        }
-    }
-
-    ECU_1836_setup = {
-        potential = {
-            tag = ECU
-            always = no
-        }
-
-        allow = {
-        }
-
-        effect = {
-            2279 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.05 } }
-                any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
-                activate_technology = flintlock_rifles
-                activate_technology = post_napoleonic_thought
-                activate_technology = post_nelsonian_thought
-        }
-    }
+    #ECU_1836_setup = {
+    #    potential = {
+    #        tag = ECU
+    #        always = no
+    #    }
+	#
+    #    allow = {
+    #    }
+	#
+    #    effect = {
+    #        2279 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.05 } }
+    #            any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+    #            activate_technology = flintlock_rifles
+    #            activate_technology = post_napoleonic_thought
+    #            activate_technology = post_nelsonian_thought
+    #    }
+    #}
 
     CHL_1836_setup = {
         potential = {
@@ -2705,9 +2705,9 @@ political_decisions = {
 
             #################Government Flags Setup######################
 
-            ENT = { add_country_modifier = { name = caudillo_leaders duration = 7300 } }
-            CRT = { add_country_modifier = { name = caudillo_leaders duration = 1825 } }
-            HAI = { add_country_modifier = { name = divided_society duration = 10950 } }
+            #ENT = { add_country_modifier = { name = caudillo_leaders duration = 7300 } }
+            #CRT = { add_country_modifier = { name = caudillo_leaders duration = 1825 } }
+            #HAI = { add_country_modifier = { name = divided_society duration = 10950 } }
 
             any_country = {
                 limit = {
