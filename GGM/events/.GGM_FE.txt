@@ -1,51 +1,51 @@
-country_event = {
-	id = 49994
-	title = "EVTNAME49994" 
-	desc = "EVTDESC49994"
-	#picture = "confedlot"
-	
-	trigger = {
-		has_country_flag = frankish_subject
-		THIS = {
-			NOT = { has_unclaimed_cores = no }
-		}
-		NOT = {
-			has_country_flag = core_loss_protested
-		}
-	}
-	
-	mean_time_to_happen = {
-		days = 3
-	
-	}
-	
-	option = {
-		name = "Communicate these matters to the emperor."
-		set_country_flag = core_loss_protested
-		any_country = {
-			limit = {
-				any_owned_province = {
-					is_core = THIS
-				
-				}
-				NOT = {
-					#has_country_flag = frankish_subject
-					has_country_flag = frankish_emperor
-				}
-			
-			}
-			set_country_flag = occupying_imperial_land
-			add_casus_belli = {
-				target = FRN
-				type = free_peoples_imperial
-				country = FROM
-				months = 24
-			}
-		}
-	}
-
-
-}
+#country_event = {
+#	id = 49994
+#	title = "EVTNAME49994" 
+#	desc = "EVTDESC49994"
+#	#picture = "confedlot"
+#	
+#	trigger = {
+#		has_country_flag = frankish_subject
+#		THIS = {
+#			NOT = { has_unclaimed_cores = no }
+#		}
+#		NOT = {
+#			has_country_flag = core_loss_protested
+#		}
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 3
+#	
+#	}
+#	
+#	option = {
+#		name = "Communicate these matters to the emperor."
+#		set_country_flag = core_loss_protested
+#		any_country = {
+#			limit = {
+#				any_owned_province = {
+#					is_core = THIS
+#				
+#				}
+#				NOT = {
+#					#has_country_flag = frankish_subject
+#					has_country_flag = frankish_emperor
+#				}
+#			
+#			}
+#			set_country_flag = occupying_imperial_land
+#			add_casus_belli = {
+#				target = FRN
+#				type = free_peoples_imperial
+#				country = FROM
+#				months = 24
+#			}
+#		}
+#	}
+#
+#
+#}
 
 country_event = {
 	id = 49993
