@@ -258,7 +258,7 @@ WES        = "countries/Westfalen.txt"
 #Russia
 AKH        = "countries/Astrakhan.txt"
 ALT        = "countries/Altai Republic.txt"
-CPL        = "countries/Congress Poland.txt"
+#CPL        = "countries/Congress Poland.txt"
 DON        = "countries/Cossackia.txt"
 IZH        = "countries/Ingria.txt"
 KAZ     = "countries/Kazakhstan.txt"

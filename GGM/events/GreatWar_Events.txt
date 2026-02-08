@@ -2626,7 +2626,6 @@ country_event = {
                 NOT = { is_core = RUS }
                 owner = { truce_with = RUS }
             }
-            add_core = CPL
             add_core = RUS
         }
 
