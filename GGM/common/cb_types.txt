@@ -11213,7 +11213,7 @@ claim_colonial_region_full = {
 }
 
 take_puppet_state = {
-    sprite_index = 6
+    sprite_index = 29
     is_triggered_only = yes
     months = 12
 
@@ -11326,7 +11326,7 @@ take_puppet_state = {
 }
 
 annex_small_puppet = {
-    sprite_index = 5
+    sprite_index = 23
     is_triggered_only = yes
     months = 12
 
