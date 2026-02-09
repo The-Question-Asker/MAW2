@@ -3700,6 +3700,59 @@ political_decisions = {
             }
         }
     }
+	
+	puppet_annex_setup = {
+        alert = yes
+        potential = {
+            ai = yes
+            has_country_flag = theft_victim
+			NOT = {
+				has_country_flag = theft_setup
+			}
+            war = no
+        }
+
+        allow = {
+
+        }
+
+        effect = {
+			set_country_flag = theft_setup
+            random_state = {
+				limit = {
+					NOT = {
+						has_province_modier = not_interested
+					}
+					OR = {
+						NOT = {
+							port = no
+						}
+						any_neighbor_province = {
+							owned_by = THIS
+						}
+					}
+				
+				}
+				
+				any_owned = {
+					add_province_modifier = {
+						name = annexation_candidate
+						duration = 365
+					}
+				}
+				
+			
+			}
+			
+			random_country = {
+				limit = {
+					has_country_flag = thief_country
+				}
+				country_event = 49994
+			
+			}
+        }
+    }
 
 
     partisan_flip_to_original_owner = {

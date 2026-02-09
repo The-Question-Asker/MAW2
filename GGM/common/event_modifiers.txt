@@ -12,6 +12,14 @@ colonial_militias = {
 	icon = 17
 }
 
+annexation_candidate = {
+    icon = 17
+}
+
+not_interested = {
+    icon = 17
+}
+
 #### HPM AND VANILLA ###
 
 ####AI Personalities

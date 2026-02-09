@@ -1,16 +1,99 @@
-#country_event = {
-#	id = 49994 
-#	title = "EVTNAME49984" 
-#	desc = "EVTDESC49984"
-#	#picture = "independence_dec"
-#
-#	is_triggered_only = yes
-#	
-#	option = {
-#		name = "Our empire grows ever larger."
-#		
-#		inherit = FROM
-#	
-#	}
-#
-#}
+country_event = {
+	id = 49994 
+	title = "EVTNAME49984" 
+	desc = "EVTDESC49984"
+	#picture = "independence_dec"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes, we will take this state."
+		
+		random_country = {
+			limit = {
+				has_country_flag = theft_victim
+			}
+			any_owned = {
+				limit = {
+					has_province_modifier = annexation_candidate
+				}
+				secede_province = THIS
+			}
+			
+			any_owned = {
+				limit = {
+					has_province_modier = not_interested
+				}
+				remove_province_modifier = not_interested
+			}
+			clr_country_flag = theft_victim
+			clr_country_flag = theft_setup
+		
+		}
+		
+		any_owned = {
+			limit = {
+				has_province_modier = annexation_candidate
+			}
+			remove_province_modifier = annexation_candidate
+		}
+	
+	}
+	
+	option = {
+		name = "No, this is not the state we want."
+		
+		random_country = {
+			limit = {
+				has_country_flag = theft_victim
+			}
+			any_owned = {
+				limit = {
+					has_province_modifier = annexation_candidate
+				}
+				remove_province_modifier = annexation_candidate
+				add_province_modifier = {
+					name = not_interested
+					duration = 365
+				}
+			}
+			
+			random_state = {
+				limit = {
+					NOT = {
+						has_province_modifier = not_interested
+					}
+					OR = {
+						NOT = {
+							port = no
+						}
+						any_neighbor_province = {
+							owned_by = THIS
+						}
+					}
+				
+				}
+				
+				any_owned = {
+					add_province_modifier = {
+						name = annexation_candidate
+						duration = 365
+					}
+				}
+				
+			
+			}
+		
+		}
+		
+		THIS = {
+			country_event = {
+				id = 49994
+				days = 3
+			
+			}
+		}
+		
+	}
+
+}
