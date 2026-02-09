@@ -1,0 +1,16 @@
+#country_event = {
+#	id = 49994 
+#	title = "EVTNAME49984" 
+#	desc = "EVTDESC49984"
+#	#picture = "independence_dec"
+#
+#	is_triggered_only = yes
+#	
+#	option = {
+#		name = "Our empire grows ever larger."
+#		
+#		inherit = FROM
+#	
+#	}
+#
+#}

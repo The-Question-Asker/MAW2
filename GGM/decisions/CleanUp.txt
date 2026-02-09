@@ -3658,6 +3658,48 @@ political_decisions = {
             }
         }
     }
+	
+	small_vassal_annex = {
+        alert = yes
+        potential = {
+            ai = yes
+            has_country_flag = annex_to_new_overlord
+            war = no
+        }
+
+        allow = {
+
+        }
+
+        effect = {
+            random_owned = {
+                limit = { owner = { is_vassal = yes } }
+                owner = { clr_country_flag = annex_to_new_overlord }
+            }
+
+            random_owned = {
+                limit = { owner = { is_vassal = no } }
+                owner = {
+                    clr_country_flag = annex_to_new_overlord
+                    any_country = {
+                        limit = {
+                            exists = yes
+                            has_country_flag = overlord_annexer
+                            truce_with = THIS
+							
+                            OR = {
+                                is_sphere_leader_of = THIS
+                                THIS = { part_of_sphere = no }
+                            }
+                        }
+						#country_event = 49994
+						inherit = THIS
+                        clr_country_flag = overlord_annexer
+                    }
+                }
+            }
+        }
+    }
 
 
     partisan_flip_to_original_owner = {
