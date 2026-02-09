@@ -17,7 +17,7 @@ annexation_candidate = {
 }
 
 not_interested = {
-    icon = 17
+    icon = 18
 }
 
 #### HPM AND VANILLA ###

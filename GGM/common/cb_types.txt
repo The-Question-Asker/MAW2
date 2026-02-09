@@ -98,7 +98,7 @@ unification_release_puppet_cb
 release_puppet
 release_puppet_AI
 steal_puppet
-great_game_cb
+#great_game_cb
 make_puppet
 install_fascism_make_puppet
 install_communism_make_puppet
@@ -110,6 +110,7 @@ humiliate
 place_in_the_sun
 dismantle_forts
 china_acquire_state
+take_puppet_state
 acquire_state
 acquire_any_state
 acquire_substate_region
@@ -4005,106 +4006,106 @@ cut_down_to_size = {
     }
 }
 
-great_game_cb = {
-    sprite_index = 22
-    is_triggered_only = yes
-    months = 12
-    crisis = no
-
-    construction_speed = 0.8
-
-    badboy_factor = 1
-    prestige_factor = 2
-    peace_cost_factor = 0.5
-    penalty_factor = 1
-
-    break_truce_prestige_factor = 1
-    break_truce_infamy_factor = 1
-    break_truce_militancy_factor = 1
-    truce_months = 48
-
-    good_relation_prestige_factor = 1
-    good_relation_infamy_factor = 1
-    good_relation_militancy_factor = 1
-
-    po_make_puppet = yes
-
-    war_name = WAR_PUPPET_NAME
-
-    can_use = {
-        is_vassal = no
-        civilized = no
-        NOT = {
-            has_global_flag = british_dismantled
-            is_our_vassal = THIS
-            truce_with = THIS
-        }
-        OR = {
-            neighbour = THIS
-            any_neighbor_country = { vassal_of = THIS }
-        }
-        OR = {
-            tag = SIN
-            tag = KAL
-            tag = MAK
-            tag = AFG
-            tag = KAS
-            tag = KOK
-            tag = KHI
-            tag = BUK
-            tag = CRL
-            tag = KAZ
-            tag = BDK
-            AND = {
-                tag = PNJ
-                has_country_flag = ranjit_singh_dead
-            }
-        }
-        ENG = { is_greater_power = yes }
-        RUS = { is_greater_power = yes }
-        THIS = {
-            OR = {
-                tag = ENG
-                tag = RUS
-            }
-            OR = {
-                government = absolute_monarchy
-                government = prussian_constitutionalism
-                government = hms_government
-            }
-            NOT = {
-                has_country_flag = no_more_great_game
-                has_country_modifier = punitive_effects
-            }
-        }
-        OR = {
-            war_with = THIS
-            THIS = { NOT = { has_country_modifier = no_more_war } }
-        }
-    }
-
-    on_add = {
-        random_country = {
-            limit = {
-                OR = {
-                    tag = RUS
-                    tag = ENG
-                }
-                NOT = { tag = THIS }
-            }
-            relation = { who = THIS value = -50 }
-        }
-        move_issue_percentage = {
-            from = jingoism
-            to = pro_military
-            value = 0.25
-        }
-    }
-
-    on_po_accepted = {
-        country_event = 19370
-    }
-}
+#great_game_cb = {
+#    sprite_index = 22
+#    is_triggered_only = yes
+#    months = 12
+#    crisis = no
+#
+#    construction_speed = 0.8
+#
+#    badboy_factor = 1
+#    prestige_factor = 2
+#    peace_cost_factor = 0.5
+#    penalty_factor = 1
+#
+#    break_truce_prestige_factor = 1
+#    break_truce_infamy_factor = 1
+#    break_truce_militancy_factor = 1
+#    truce_months = 48
+#
+#    good_relation_prestige_factor = 1
+#    good_relation_infamy_factor = 1
+#    good_relation_militancy_factor = 1
+#
+#    po_make_puppet = yes
+#
+#    war_name = WAR_PUPPET_NAME
+#
+#    can_use = {
+#        is_vassal = no
+#        civilized = no
+#        NOT = {
+#            has_global_flag = british_dismantled
+#            is_our_vassal = THIS
+#            truce_with = THIS
+#        }
+#        OR = {
+#            neighbour = THIS
+#            any_neighbor_country = { vassal_of = THIS }
+#        }
+#        OR = {
+#            tag = SIN
+#            tag = KAL
+#            tag = MAK
+#            tag = AFG
+#            tag = KAS
+#            tag = KOK
+#            tag = KHI
+#            tag = BUK
+#            tag = CRL
+#            tag = KAZ
+#            tag = BDK
+#            AND = {
+#                tag = PNJ
+#                has_country_flag = ranjit_singh_dead
+#            }
+#        }
+#        ENG = { is_greater_power = yes }
+#        RUS = { is_greater_power = yes }
+#        THIS = {
+#            OR = {
+#                tag = ENG
+#                tag = RUS
+#            }
+#            OR = {
+#                government = absolute_monarchy
+#                government = prussian_constitutionalism
+#                government = hms_government
+#            }
+#            NOT = {
+#                has_country_flag = no_more_great_game
+#                has_country_modifier = punitive_effects
+#            }
+#        }
+#        OR = {
+#            war_with = THIS
+#            THIS = { NOT = { has_country_modifier = no_more_war } }
+#        }
+#    }
+#
+#    on_add = {
+#        random_country = {
+#            limit = {
+#                OR = {
+#                    tag = RUS
+#                    tag = ENG
+#                }
+#                NOT = { tag = THIS }
+#            }
+#            relation = { who = THIS value = -50 }
+#        }
+#        move_issue_percentage = {
+#            from = jingoism
+#            to = pro_military
+#            value = 0.25
+#        }
+#    }
+#
+#    on_po_accepted = {
+#        country_event = 19370
+#    }
+#}
 
 #restore_british_raj = {
 #    sprite_index = 10
@@ -11216,7 +11217,7 @@ take_puppet_state = {
     is_triggered_only = yes
     months = 12
 
-    badboy_factor = 2
+    badboy_factor = 10
     prestige_factor = 0.7
     peace_cost_factor = 1
     penalty_factor = 1
@@ -11287,7 +11288,7 @@ take_puppet_state = {
         }
     }
 
-    po_status_quo
+    po_reparations
 
     war_name = WAR_NAME
 
@@ -11325,7 +11326,7 @@ take_puppet_state = {
 }
 
 annex_small_puppet = {
-    sprite_index = 6
+    sprite_index = 5
     is_triggered_only = yes
     months = 12
 

@@ -1,7 +1,7 @@
 country_event = {
 	id = 49994 
-	title = "EVTNAME49984" 
-	desc = "EVTDESC49984"
+	title = "EVTNAME49994" 
+	desc = "EVTDESC49994"
 	#picture = "independence_dec"
 
 	is_triggered_only = yes
