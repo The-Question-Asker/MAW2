@@ -13,6 +13,15 @@ country_event = {
 			limit = {
 				has_country_flag = theft_victim
 			}
+			random_state = {
+				limit = {
+					any_owned_province = {
+						has_province_modifier = annexation_candidate
+					}
+				}
+				
+			}
+			
 			any_owned = {
 				limit = {
 					has_province_modifier = annexation_candidate
@@ -22,7 +31,7 @@ country_event = {
 			
 			any_owned = {
 				limit = {
-					has_province_modier = not_interested
+					has_province_modifier = not_interested
 				}
 				remove_province_modifier = not_interested
 			}
@@ -33,7 +42,7 @@ country_event = {
 		
 		any_owned = {
 			limit = {
-				has_province_modier = annexation_candidate
+				has_province_modifier = annexation_candidate
 			}
 			remove_province_modifier = annexation_candidate
 		}
