@@ -113,3 +113,97 @@ country_event = {  #kateko_president
 	
 	
 }
+
+country_event = {  
+	id = 49978 
+	title = "EVTNAME49978" 
+	desc = "EVTDESC49978"
+	picture = "northwoods"
+	
+	trigger = {
+		59 = { empty = yes }
+		owns = 62
+		OR = {
+			AND = {
+				state_n_government = 1
+				medicine = 1
+			}
+			year = 1860
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 5
+	
+	}
+	
+	option = {
+		prestige = 5
+		59 = { secede_province = THIS add_core = THIS }
+		2593 = { secede_province = THIS add_core = THIS }
+		2592 = { secede_province = THIS add_core = THIS }
+		2625 = { secede_province = THIS add_core = THIS }
+	}
+}
+
+country_event = {  
+	id = 49977 
+	title = "EVTNAME49977" 
+	desc = "EVTDESC49977"
+	picture = "northwoods"
+	
+	trigger = {
+		49 = { empty = yes }
+		owns = 52
+		OR = {
+			AND = {
+				state_n_government = 1
+				medicine = 1
+			}
+			year = 1860
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 5
+	
+	}
+	
+	option = {
+		prestige = 5
+		49 = { secede_province = THIS add_core = THIS }
+	}
+}
+
+country_event = {  
+	id = 49976 
+	title = "EVTNAME49976" 
+	desc = "EVTDESC49976"
+	picture = "northwoods"
+	
+	trigger = {
+		47 = { empty = yes }
+		owns = 34
+		OR = {
+			AND = {
+				state_n_government = 1
+				medicine = 1
+			}
+			year = 1860
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 5
+	
+	}
+	
+	option = {
+		prestige = 5
+		47 = { secede_province = THIS add_core = THIS }
+		2594 = { secede_province = THIS add_core = THIS }
+		37 = { secede_province = THIS add_core = THIS }
+		27 = { secede_province = THIS add_core = THIS }
+		2595 = { secede_province = THIS add_core = THIS }
+	}
+}
