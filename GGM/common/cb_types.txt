@@ -11403,6 +11403,7 @@ annex_small_puppet = {
     }
 
     po_release_puppet = yes
+	po_add_to_sphere = yes
 
     war_name = WAR_NAME
 
