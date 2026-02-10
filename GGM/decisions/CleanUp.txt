@@ -3721,15 +3721,17 @@ political_decisions = {
 			set_country_flag = theft_setup
             random_state = {
 				limit = {
-					NOT = {
-						has_province_modier = not_interested
-					}
-					OR = {
+					any_owned_province = {
 						NOT = {
-							port = no
+							has_province_modifier = not_interested
 						}
-						any_neighbor_province = {
-							owned_by = THIS
+						OR = {
+							NOT = {
+								port = no
+							}
+							any_neighbor_province = {
+								owned_by = THIS
+							}
 						}
 					}
 				

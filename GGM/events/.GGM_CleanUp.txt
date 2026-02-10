@@ -69,17 +69,20 @@ country_event = {
 			
 			random_state = {
 				limit = {
-					NOT = {
-						has_province_modifier = not_interested
-					}
-					OR = {
+					any_owned_province = {
 						NOT = {
-							port = no
+							has_province_modifier = not_interested
 						}
-						any_neighbor_province = {
-							owned_by = THIS
+						OR = {
+							NOT = {
+								port = no
+							}
+							any_neighbor_province = {
+								owned_by = THIS
+							}
 						}
 					}
+					
 				
 				}
 				
