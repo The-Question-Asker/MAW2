@@ -743,16 +743,36 @@ assimilation_chance =
         has_culture_core = yes
     }
 
-    modifier = {
-        factor = 8
+    #modifier = {
+    #    factor = 8
+	#	is_accepted_culture = THIS
+    #    country = { has_country_flag = new_world_nation }
+    #    OR = {
+    #        location = { continent = north_america }
+    #        location = { continent = south_america }
+    #        location = { continent = australia_new_zealand }
+    #    }
+    #}
+	
+	modifier = {
+        factor = 4
 		is_accepted_culture = THIS
-        country = { has_country_flag = new_world_nation }
         OR = {
+			country = { has_country_flag = new_world_nation }
             location = { continent = north_america }
             location = { continent = south_america }
             location = { continent = australia_new_zealand }
+			
         }
     }
+	
+	modifier = {
+		factor = 3
+		is_culture_group = hellenes
+		country = {
+			tag = NEK
+		}
+	}
 
     modifier = {
         factor = -0.2
