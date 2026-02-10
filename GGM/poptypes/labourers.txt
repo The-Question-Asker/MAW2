@@ -131,7 +131,7 @@ country_migration_target = {
 		factor = 2
 		THIS = {
 			is_culture_group = hellenes
-			is_pop_religion = manichaean
+			has_pop_religion = manichaean
 		}
 		
 		tag = NEK
