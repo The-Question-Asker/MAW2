@@ -11302,6 +11302,7 @@ take_puppet_state = {
             limit = {
                 exists = yes
                 vassal_of = FROM
+				number_of_states = 2
                 is_substate = no
                 NOT = { total_pops = 5000000 }
                 NOT = { has_country_flag = unreleasable_country }

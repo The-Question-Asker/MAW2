@@ -3710,6 +3710,7 @@ political_decisions = {
 				has_country_flag = theft_setup
 			}
             war = no
+			
         }
 
         allow = {
