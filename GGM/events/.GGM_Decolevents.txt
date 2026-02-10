@@ -756,41 +756,41 @@ country_event = {  #central lothaire self-gov
 	
 		set_global_flag = CLT_RELEASED
 	
-		if = {
-			limit = {
-				THIS = {
-					owns = 2292
-				
-				}
-				
-			}
-			
-			NWR_92 = {
-					secede_province = TWT
-				
-			
-			
-			}
-		
-		}
-		
-		if = {
-			limit = {
-				THIS = {
-					owns = 2297
-				
-				}
-				
-			}
-			
-			NWR_93 = {
-					secede_province = TWT
-				
-				
-			
-			}
-		
-		}
+		#if = {
+		#	limit = {
+		#		THIS = {
+		#			owns = 2292
+		#		
+		#		}
+		#		
+		#	}
+		#	
+		#	NWR_92 = {
+		#			secede_province = TWT
+		#		
+		#	
+		#	
+		#	}
+		#
+		#}
+		#
+		#if = {
+		#	limit = {
+		#		THIS = {
+		#			owns = 2297
+		#		
+		#		}
+		#		
+		#	}
+		#	
+		#	NWR_93 = {
+		#			secede_province = TWT
+		#		
+		#		
+		#	
+		#	}
+		#
+		#}
 	
 		random_list = {
 			
@@ -1236,27 +1236,6 @@ country_event = {  #central lothaire self-gov
 					}
 				}
 				
-				release_vassal = ISB
-				release_vassal = NWM
-				release_vassal = ANK
-				
-				NWR_91 = {
-					remove_core = NWM
-				}
-				
-				ANK = {
-					government = democracy
-				
-				}
-				ISB = {
-					government = democracy
-				
-				}
-				NWM = {
-					government = democracy
-				
-				}
-				
 				NWR_79 = {
 					add_core = VDR
 				}
@@ -1339,6 +1318,29 @@ country_event = {  #central lothaire self-gov
 						add_core = VDR
 					}
 				}
+				
+				release_vassal = ISB
+				release_vassal = NWM
+				release_vassal = ANK
+				
+				NWR_91 = {
+					remove_core = NWM
+				}
+				
+				ANK = {
+					government = democracy
+				
+				}
+				ISB = {
+					government = democracy
+				
+				}
+				NWM = {
+					government = democracy
+				
+				}
+				
+				
 				
 				NWR_82 = {
 					add_core = ANK
@@ -1548,28 +1550,6 @@ country_event = {  #central lothaire self-gov
 					}
 				}
 				
-				#release_vassal = ISB
-				release_vassal = NWM
-				release_vassal = ANK
-				
-				NWR_91 = {
-					remove_core = NWM
-				
-				}
-				
-				ANK = {
-					government = democracy
-				
-				}
-				ISB = {
-					government = democracy
-				
-				}
-				NWM = {
-					government = democracy
-				
-				}
-				
 				NWR_79 = {
 					add_core = VDR
 				}
@@ -1652,6 +1632,30 @@ country_event = {  #central lothaire self-gov
 						add_core = VDR
 					}
 				}
+				
+				#release_vassal = ISB
+				release_vassal = NWM
+				release_vassal = ANK
+				
+				NWR_91 = {
+					remove_core = NWM
+				
+				}
+				
+				ANK = {
+					government = democracy
+				
+				}
+				ISB = {
+					government = democracy
+				
+				}
+				NWM = {
+					government = democracy
+				
+				}
+				
+				
 				
 				NWR_86 = {
 					add_core = NWM
@@ -2217,43 +2221,43 @@ country_event = {  #antipodea self-gov
 	
 		set_global_flag = NFA_RELEASED
 		
-		if = {
-			limit = {
-				THIS = {
-					owns = 2370
-				
-				}
-				
-			}
-			
-			NWR_95 = {
-
-					secede_province = TWT
-				
-				
-			
-			}
-		
-		}
-		
-		if = {
-			limit = {
-				THIS = {
-					owns = 2310
-				
-				}
-				
-			}
-			
-			NWR_94 = {
-
-					secede_province = TWT
-				
-				
-			
-			}
-		
-		}
+		#if = {
+		#	limit = {
+		#		THIS = {
+		#			owns = 2370
+		#		
+		#		}
+		#		
+		#	}
+		#	
+		#	NWR_95 = {
+		#
+		#			secede_province = TWT
+		#		
+		#		
+		#	
+		#	}
+		#
+		#}
+		#
+		#if = {
+		#	limit = {
+		#		THIS = {
+		#			owns = 2310
+		#		
+		#		}
+		#		
+		#	}
+		#	
+		#	NWR_94 = {
+		#
+		#			secede_province = TWT
+		#		
+		#		
+		#	
+		#	}
+		#
+		#}
 		
 		diplomatic_influence = {
 			who = TBJ
@@ -2603,77 +2607,6 @@ country_event = {  #antipodea self-gov
 				
 				}
 				
-				
-				
-				
-				#release_vassal = RGT
-				#release_vassal = NBM
-				release_vassal = HRU
-				release_vassal = AGS
-				release_vassal = NBS
-				
-				HRU = {
-					government = democracy
-				
-				}
-				AGS = {
-					government = democracy
-				
-				}
-				NBS = {
-					government = democracy
-				
-				}
-		
-				
-				NWR_110 = {
-					add_core = AGS
-				}
-				NWR_110 = {
-					add_core = NBS
-				}
-				NWR_107 = {
-					add_core = AGS
-				}
-				NWR_107 = {
-					add_core = HRU
-				}
-				
-				if = {
-					limit = {
-						THIS = {
-							owns = 2324
-						}
-
-					}
-					NWR_112 = {
-						add_core = AGS
-					}
-					NWR_112 = {
-						add_core = NBS
-					}
-				}
-				
-				if = {
-					limit = {
-						THIS = {
-							owns = 2353
-						}
-
-					}
-					NWR_113 = {
-						add_core = AGS
-					}
-					NWR_113 = {
-						add_core = NBS
-					}
-					
-				}
-				
-				
-				
-				
-				
 				NWR_106 = {
 					add_core = NBA
 				}
@@ -2826,6 +2759,77 @@ country_event = {  #antipodea self-gov
 					}
 				
 				}
+				
+				
+				#release_vassal = RGT
+				#release_vassal = NBM
+				release_vassal = HRU
+				release_vassal = AGS
+				release_vassal = NBS
+				
+				HRU = {
+					government = democracy
+				
+				}
+				AGS = {
+					government = democracy
+				
+				}
+				NBS = {
+					government = democracy
+				
+				}
+		
+				
+				NWR_110 = {
+					add_core = AGS
+				}
+				NWR_110 = {
+					add_core = NBS
+				}
+				NWR_107 = {
+					add_core = AGS
+				}
+				NWR_107 = {
+					add_core = HRU
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+
+					}
+					NWR_112 = {
+						add_core = AGS
+					}
+					NWR_112 = {
+						add_core = NBS
+					}
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+
+					}
+					NWR_113 = {
+						add_core = AGS
+					}
+					NWR_113 = {
+						add_core = NBS
+					}
+					
+				}
+				
+				
+				
+				
+				
+				
 				
 				
 			}
@@ -3275,89 +3279,6 @@ country_event = {  #antipodea self-gov
 				
 				}
 				
-				
-				
-				
-				release_vassal = RGT
-				release_vassal = NBM
-				release_vassal = HRU
-				release_vassal = AGS
-				release_vassal = NBS
-				
-				HRU = {
-					government = democracy
-				
-				}
-				
-				RGT = {
-					government = democracy
-				
-				}
-				
-				NBM = {
-					government = democracy
-				
-				}
-				AGS = {
-					government = democracy
-				
-				}
-				NBS = {
-					government = democracy
-				
-				}
-				
-				NWR_110 = {
-					add_core = AGS
-				}
-				NWR_110 = {
-					add_core = NBS
-				}
-				NWR_107 = {
-					add_core = AGS
-				}
-				NWR_107 = {
-					add_core = HRU
-				}
-				NWR_107 = {
-					add_core = RGT
-				}
-				
-				if = {
-					limit = {
-						THIS = {
-							owns = 2324
-						}
-
-					}
-					NWR_112 = {
-						add_core = AGS
-					}
-					NWR_112 = {
-						add_core = NBS
-					}
-				}
-				
-				if = {
-					limit = {
-						THIS = {
-							owns = 2353
-						}
-
-					}
-					NWR_113 = {
-						add_core = AGS
-					}
-					NWR_113 = {
-						add_core = NBM
-					}
-					
-				}
-				
-				
-				
-				
-				
 				NWR_106 = {
 					add_core = NBA
 				}
@@ -3510,6 +3431,89 @@ country_event = {  #antipodea self-gov
 					}
 				
 				}
+				
+				
+				release_vassal = RGT
+				release_vassal = NBM
+				release_vassal = HRU
+				release_vassal = AGS
+				release_vassal = NBS
+				
+				HRU = {
+					government = democracy
+				
+				}
+				
+				RGT = {
+					government = democracy
+				
+				}
+				
+				NBM = {
+					government = democracy
+				
+				}
+				AGS = {
+					government = democracy
+				
+				}
+				NBS = {
+					government = democracy
+				
+				}
+				
+				NWR_110 = {
+					add_core = AGS
+				}
+				NWR_110 = {
+					add_core = NBS
+				}
+				NWR_107 = {
+					add_core = AGS
+				}
+				NWR_107 = {
+					add_core = HRU
+				}
+				NWR_107 = {
+					add_core = RGT
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2324
+						}
+
+					}
+					NWR_112 = {
+						add_core = AGS
+					}
+					NWR_112 = {
+						add_core = NBS
+					}
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2353
+						}
+
+					}
+					NWR_113 = {
+						add_core = AGS
+					}
+					NWR_113 = {
+						add_core = NBM
+					}
+					
+				}
+				
+				
+				
+				
+				
+				
 				
 				
 				
@@ -3743,36 +3747,6 @@ country_event = {  #antipodea self-gov
 				
 
 				
-				
-				
-				
-				release_vassal = HRU
-				release_vassal = AGS
-				
-				
-				HRU = {
-					government = democracy
-				
-				}
-				AGS = {
-					government = democracy
-				
-				}
-
-				NWR_107 = {
-					add_core = AGS
-				}
-				NWR_107 = {
-					add_core = HRU
-				}
-
-				
-
-				
-				
-				
-				
-				
 				NWR_106 = {
 					add_core = NBA
 				}
@@ -3925,6 +3899,36 @@ country_event = {  #antipodea self-gov
 					}
 				
 				}
+				
+				
+				release_vassal = HRU
+				release_vassal = AGS
+				
+				
+				HRU = {
+					government = democracy
+				
+				}
+				AGS = {
+					government = democracy
+				
+				}
+
+				NWR_107 = {
+					add_core = AGS
+				}
+				NWR_107 = {
+					add_core = HRU
+				}
+
+				
+
+				
+				
+				
+				
+				
+				
 				
 				
 				
