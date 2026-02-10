@@ -756,41 +756,7 @@ country_event = {  #central lothaire self-gov
 	
 		set_global_flag = CLT_RELEASED
 	
-		#if = {
-		#	limit = {
-		#		THIS = {
-		#			owns = 2292
-		#		
-		#		}
-		#		
-		#	}
-		#	
-		#	NWR_92 = {
-		#			secede_province = TWT
-		#		
-		#	
-		#	
-		#	}
-		#
-		#}
-		#
-		#if = {
-		#	limit = {
-		#		THIS = {
-		#			owns = 2297
-		#		
-		#		}
-		#		
-		#	}
-		#	
-		#	NWR_93 = {
-		#			secede_province = TWT
-		#		
-		#		
-		#	
-		#	}
-		#
-		#}
+		
 	
 		random_list = {
 			
@@ -2221,43 +2187,9 @@ country_event = {  #antipodea self-gov
 	
 		set_global_flag = NFA_RELEASED
 		
-		#if = {
-		#	limit = {
-		#		THIS = {
-		#			owns = 2370
-		#		
-		#		}
-		#		
-		#	}
-		#	
-		#	NWR_95 = {
-		#
-		#			secede_province = TWT
-		#		
-		#		
-		#	
-		#	}
-		#
-		#}
-		#
-		#if = {
-		#	limit = {
-		#		THIS = {
-		#			owns = 2310
-		#		
-		#		}
-		#		
-		#	}
-		#	
-		#	NWR_94 = {
-		#
-		#			secede_province = TWT
-		#		
-		#		
-		#	
-		#	}
-		#
-		#}
+		
+		
+		
 		
 		diplomatic_influence = {
 			who = TBJ
@@ -2279,6 +2211,18 @@ country_event = {  #antipodea self-gov
 			
 			30 = {
 				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2370
+						}
+					}
+			
+					NWR_95 = {
+						add_core = NBS
+					}
+		
+				}
 				
 				
 				NWR_106 = {
@@ -2767,6 +2711,10 @@ country_event = {  #antipodea self-gov
 				release_vassal = AGS
 				release_vassal = NBS
 				
+				NWR_95 = {
+					remove_core = NBS
+				}
+				
 				HRU = {
 					government = democracy
 				
@@ -2835,6 +2783,20 @@ country_event = {  #antipodea self-gov
 			}
 			
 			40 = {
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2370
+						}
+					}
+			
+					NWR_95 = {
+						add_core = NBS
+					}
+		
+				}
+			
 				NWR_106 = {
 					add_core = RGT
 				}
@@ -3439,6 +3401,11 @@ country_event = {  #antipodea self-gov
 				release_vassal = AGS
 				release_vassal = NBS
 				
+				NWR_95 = {
+					remove_core = NBS
+				
+				}
+				
 				HRU = {
 					government = democracy
 				
@@ -3520,6 +3487,20 @@ country_event = {  #antipodea self-gov
 			}
 			
 			20 = {
+			
+				if = {
+					limit = {
+						THIS = {
+							owns = 2370
+						}
+					}
+			
+					NWR_95 = {
+						add_core = AGS
+					}
+		
+				}
+				
 				NWR_106 = {
 					add_core = AGS
 				}
@@ -3904,6 +3885,11 @@ country_event = {  #antipodea self-gov
 				release_vassal = HRU
 				release_vassal = AGS
 				
+				NWR_95 = {
+					remove_core = AGS
+				
+				}
+				
 				
 				HRU = {
 					government = democracy
@@ -3936,6 +3922,19 @@ country_event = {  #antipodea self-gov
 			}
 			
 			10 = {
+			
+				if = {
+					limit = {
+						THIS = {
+							owns = 2370
+						}
+					}
+			
+					NWR_95 = {
+						add_core = NBA
+					}
+		
+				}
 				
 				NWR_106 = {
 					add_core = NBA
@@ -4093,6 +4092,10 @@ country_event = {  #antipodea self-gov
 				}
 				
 				release_vassal = NBA
+				
+				NWR_95 = {
+					remove_core = NBA
+				}
 				
 				NBA = {
 					government = democracy
@@ -4767,6 +4770,172 @@ country_event = {  #liberate_recolonised_land_trigger
 	
 	
 }
+
+country_event = {
+	id = 49979
+	title = "EVTNAME49979" 
+	desc = "EVTDESC49979"
+	#picture = "independence_dec"
+
+	trigger = {
+		tag = HNU
+		AND = {
+			has_global_flag = NFA_RELEASED
+			has_global_flag = CLT_RELEASED
+		}
+		
+		OR = {
+			owns = 2310
+			owns = 2292
+			owns = 2297
+		}
+	}
+	
+	mean_time_to_happen = {
+		monthts = 1
+	
+	}
+	
+	option = {
+		name = "Those Incan Dogs!"
+		prestige = -10
+		
+		if = {
+			limit = {
+				THIS = {
+					owns = 2299
+					NOT = {
+						owns = 2310
+						owns = 2294
+					
+					}
+				}
+			}
+			THIS = {
+				set_global_flag = peaceful_incan_resumption
+			}
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					NOT = {
+						has_global_flag = peaceful_incan_resumption
+					}
+				
+				}
+			
+			}
+			
+			any_country = {
+				limit = {
+					OR = {
+						tag = VDR
+						tag = ISB
+						tag = NWM
+						tag = ANK
+						tag = RGT
+						tag = NBM
+						tag = AGS
+						tag = HRU
+						tag = NBS
+						tag = NSA
+					}
+					OR = {
+						owns = 2282
+						owns = 2313
+					}
+				
+				}
+				country_event = {
+					id = 49975
+					days = 5
+				
+				}
+			}
+		
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					owns = 2292
+				}
+				
+			}
+			NWR_92 = {
+				secede_province = TWT
+			}
+		
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					owns = 2297
+				}
+			}
+			NWR_93 = {
+					secede_province = TWT
+			}
+		
+		}
+		if = {
+			limit = {
+				THIS = {
+					owns = 2310
+				}
+			}
+			NWR_94 = {
+				secede_province = TWT
+			}
+		
+		}
+		
+	
+	}
+	
+	
+
+}
+
+country_event = {
+	id = 49975
+	title = "EVTNAME49975" 
+	desc = "EVTDESC49975"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "We have inherited the Hispano-Numidic claims to this region!"
+		prestige = 5
+		
+		TWT = {
+			add_casus_belli = {
+				target = THIS
+				type = conquest_any
+				months = 12
+			}
+		}
+		THIS = {
+			war = {
+				target = TWT
+				attacker_goal = { casus_belli = conquest_any }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = yes
+			}
+		}
+	
+	}
+	
+	option = {
+		name = "They deserve liberty, just as we do."
+		prestige = -5
+	
+	}
+
+}
+
 
 
 

@@ -96,6 +96,18 @@ NORMAL_WAR_CONQUEST_ANY_NAME_HNU_NBS;$ORDER$$SECOND$ War of Indpendence;x
 AGRESSION_WAR_CONQUEST_ANY_NAME_HNU_NBS;$ORDER$$SECOND$ War of Indpendence;x
 NORMAL_WAR_CONQUEST_ANY_NAME_HNU_NBM;$ORDER$$SECOND$ War of Indpendence;x
 AGRESSION_WAR_CONQUEST_ANY_NAME_HNU_NBM;$ORDER$$SECOND$ War of Indpendence;x
+NORMAL_WAR_CONQUEST_ANY_NAME_NBA_TWT;$FIRST$ Suppression of Incan Revolt;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_NBA_TWT;$FIRST$ Suppression of Incan Revolt;x
+NORMAL_WAR_CONQUEST_ANY_NAME_NBS_TWT;$FIRST$ Suppression of Incan Revolt;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_NBS_TWT;$FIRST$ Suppression of Incan Revolt;x
+NORMAL_WAR_CONQUEST_ANY_NAME_NWM_TWT;$FIRST$ Suppression of Incan Revolt;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_NWM_TWT;$FIRST$ Suppression of Incan Revolt;x
+NORMAL_WAR_CONQUEST_ANY_NAME_VDR_TWT;$FIRST$ Suppression of Incan Revolt;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_VDR_TWT;$FIRST$ Suppression of Incan Revolt;x
+NORMAL_WAR_CONQUEST_ANY_NAME_AGS_TWT;$FIRST$ Suppression of Incan Revolt;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_AGS_TWT;$FIRST$ Suppression of Incan Revolt;x
+NORMAL_WAR_CONQUEST_ANY_NAME_ISB_TWT;$FIRST$ Suppression of Incan Revolt;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_ISB_TWT;$FIRST$ Suppression of Incan Revolt;x
 if;If the following is true;;;;;;;;;;;;;
 for4;For four;;;;;;;;;;;;;
 for2;two;;;;;;;;;;;;;
