@@ -3601,23 +3601,23 @@ political_decisions = {
     #    }
     #}
 
-    annex_to_master_not_vassal_cleanup = {
-        alert = no
-        potential = {
-            ai = yes
-            has_country_flag = annex_to_master
-            is_vassal = no
-        }
-
-        allow = {
-            war = no
-            is_mobilised = no
-        }
-
-        effect = {
-            clr_country_flag = annex_to_master
-        }
-    }
+    #annex_to_master_not_vassal_cleanup = {
+    #    alert = no
+    #    potential = {
+    #        ai = yes
+    #        has_country_flag = annex_to_master
+    #        is_vassal = no
+    #    }
+	#
+    #    allow = {
+    #        war = no
+    #        is_mobilised = no
+    #    }
+	#
+    #    effect = {
+    #        clr_country_flag = annex_to_master
+    #    }
+    #}
 
     transfer_vassalage = {
         alert = yes
@@ -3749,7 +3749,13 @@ political_decisions = {
 			
 			random_country = {
 				limit = {
+					exists = yes
 					has_country_flag = thief_country
+					truce_with = THIS
+					 OR = {
+                         is_sphere_leader_of = THIS
+                         THIS = { part_of_sphere = no }
+                    }
 				}
 				country_event = 49994
 			
