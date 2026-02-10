@@ -1,7 +1,7 @@
 capital = 1458
 primary_culture = maxasekes
 religion = manichaean
-government = democracy
+government = presidential_dictatorship
 plurality = 5.0
 nationalvalue = nv_liberty
 literacy = 0.06
