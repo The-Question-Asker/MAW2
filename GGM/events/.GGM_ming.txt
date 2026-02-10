@@ -1,0 +1,233 @@
+country_event = {  
+	id = 49980 
+	title = "EVTNAME49980" 
+	desc = "EVTDESC49980"
+	major = yes
+	
+	trigger = {
+		tag = MIN
+	}
+	
+	mean_time_to_happen = {
+		months = 45
+		#modifier = {
+        #    factor = 0.8
+        #    year = 1837
+        #    NOT = { 1838 }
+        #}
+		#modifier = {
+        #    factor = 0.7
+        #    year = 1838
+        #    NOT = { 1839 }
+        #}
+		#modifier = {
+        #    factor = 0.6
+        #    year = 1839
+        #    NOT = { 1840 }
+        #}
+		#modifier = {
+        #    factor = 0.3
+        #    year = 1840
+        #}
+	}
+	
+	option = {
+		name = "Fuck"
+		
+		###Huang-He###
+		random_list = {
+			34 = { 1570 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1570 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1570 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1567 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1567 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1567 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1568 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1568 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1568 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1563 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1563 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1563 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1564 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1564 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1564 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1515 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1515 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1515 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1509 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1509 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1509 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1508 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1508 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1508 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1511 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1511 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1511 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1510 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1510 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1510 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1575 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1575 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1575 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 2062 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 2062 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 2062 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		###Yangtze###
+		
+		random_list = {
+			34 = { 1540 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1540 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1540 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1541 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1541 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1541 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1538 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1538 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1538 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1539 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1539 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1539 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1537 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1537 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1537 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1544 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1544 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1544 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1543 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1543 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1543 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 2221 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 2221 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 2221 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1477 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1477 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1477 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1475 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1475 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1475 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1474 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1474 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1474 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1471 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1471 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1471 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1470 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1470 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1470 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1549 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1549 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1549 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1518 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1518 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1518 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1549 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1549 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1549 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1522 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1522 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1522 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1516 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1516 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1516 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1528 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1528 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1528 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+		random_list = {
+			34 = { 1520 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1520 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+			33 = { 1520 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+		}
+		
+	}
+}
