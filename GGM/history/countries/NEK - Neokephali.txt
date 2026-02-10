@@ -1,9 +1,9 @@
 capital = 1458
 primary_culture = maxasekes
 religion = manichaean
-government = absolute_monarchy
+government = democracy
 plurality = 5.0
-nationalvalue = nv_autocracy
+nationalvalue = nv_liberty
 literacy = 0.06
 non_state_culture_literacy = 0.01
 civilized = yes
