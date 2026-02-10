@@ -756,8 +756,43 @@ country_event = {  #central lothaire self-gov
 	
 		set_global_flag = CLT_RELEASED
 	
-		random_list = {
+		if = {
+			limit = {
+				THIS = {
+					owns = 2292
+				
+				}
+				
+			}
 			
+			NWR_92 = {
+					secede_province = TWT
+				
+			
+			
+			}
+		
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					owns = 2297
+				
+				}
+				
+			}
+			
+			NWR_93 = {
+					secede_province = TWT
+				
+				
+			
+			}
+		
+		}
+	
+		random_list = {
 			
 			40 = {
 				NWR_79 = {
@@ -843,6 +878,91 @@ country_event = {  #central lothaire self-gov
 						}
 					
 					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2183
+						
+						}
+					
+					
+					}
+					
+					random_list = {
+					50 = {
+						for2 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_83
+										any_neighbor_province = { 
+											is_core = ISB
+										
+										}
+										NOT = {
+											is_core = ISB
+										}
+									}
+									add_core = ISB
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_83
+									NOT = {
+										is_core = ISB
+									}
+								}
+								add_core = ANK
+							}
+						
+						}
+						
+					
+					}
+					
+					50 = {
+						
+						for2 = {
+							THIS = {
+								random_owned = {
+									limit = {
+										region = NWR_83
+										any_neighbor_province = { 
+											is_core = ANK
+										
+										}
+										NOT = {
+											is_core = ANK
+										}
+									}
+									add_core = ANK
+								}
+							}
+						
+						}
+						THIS = {
+							any_owned = {
+								limit = {
+									region = NWR_83
+									NOT = {
+										is_core = ANK
+									}
+								}
+								add_core = ISB
+							}
+						
+						}
+					
+					}
+				
+				}
 				
 				}
 			
@@ -942,6 +1062,17 @@ country_event = {  #central lothaire self-gov
 				if = {
 					limit = {
 						THIS = {
+							owns = 2415
+						}
+					}
+					NWR_91 = {
+						add_core = NWM
+					}
+				}
+				
+				if = {
+					limit = {
+						THIS = {
 							owns = 2266
 						}
 					}
@@ -987,7 +1118,6 @@ country_event = {  #central lothaire self-gov
 					}
 					
 					50 = {
-						set_global_flag = prio_nwm_amz
 						
 						for4 = {
 							THIS = {
@@ -1110,6 +1240,9 @@ country_event = {  #central lothaire self-gov
 				release_vassal = NWM
 				release_vassal = ANK
 				
+				NWR_91 = {
+					remove_core = NWM
+				}
 				
 				ANK = {
 					government = democracy
@@ -1258,6 +1391,17 @@ country_event = {  #central lothaire self-gov
 				NWR_82 = {
 					add_core = ANK
 				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2183
+						}
+					}
+					NWR_83 = {
+						add_core = ANK
+					}
+				}
 			
 			
 				NWR_90 = {
@@ -1355,6 +1499,18 @@ country_event = {  #central lothaire self-gov
 				if = {
 					limit = {
 						THIS = {
+							owns = 2415
+						}
+					}
+					NWR_91 = {
+						add_core = NWM
+					}
+				}
+				
+				
+				if = {
+					limit = {
+						THIS = {
 							owns = 2266
 						}
 					}
@@ -1384,6 +1540,11 @@ country_event = {  #central lothaire self-gov
 				#release_vassal = ISB
 				release_vassal = NWM
 				release_vassal = ANK
+				
+				NWR_91 = {
+					remove_core = NWM
+				
+				}
 				
 				ANK = {
 					government = democracy
@@ -1535,6 +1696,28 @@ country_event = {  #central lothaire self-gov
 					}
 				}
 				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2415
+						}
+					}
+					NWR_91 = {
+						add_core = VDR
+					}
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2183
+						}
+					}
+					NWR_83 = {
+						add_core = VDR
+					}
+				}
+				
 				NWR_89 = {
 					add_core = VDR
 				}
@@ -1554,6 +1737,10 @@ country_event = {  #central lothaire self-gov
 				}
 				
 				release_vassal = VDR
+				
+				NWR_91 = {
+					remove_core = VDR
+				}
 				
 				VDR = {
 					government = democracy
@@ -2008,6 +2195,43 @@ country_event = {  #antipodea self-gov
 	
 		set_global_flag = NFA_RELEASED
 		
+		if = {
+			limit = {
+				THIS = {
+					owns = 2370
+				
+				}
+				
+			}
+			
+			NWR_95 = {
+
+					secede_province = TWT
+				
+				
+			
+			}
+		
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					owns = 2310
+				
+				}
+				
+			}
+			
+			NWR_94 = {
+
+					secede_province = TWT
+				
+				
+			
+			}
+		
+		}
 		
 		diplomatic_influence = {
 			who = TBJ
