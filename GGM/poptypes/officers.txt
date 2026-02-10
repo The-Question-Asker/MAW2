@@ -170,7 +170,7 @@ country_migration_target = {
 	}
 	
 	modifier = {
-        factor = 1.5
+        factor = 2.1
         number_of_states = 2
         has_country_flag = new_world_nation
         OR = {
@@ -179,13 +179,14 @@ country_migration_target = {
             capital_scope = { is_colonial = no continent = australia_new_zealand }
         }
         OR = {
+			government = absolute_monarchy
             government = prussian_constitutionalism
             government = hms_government
         }
     }
 	
 	modifier = {
-        factor = 0.7
+        factor = 1.8
         NOT = { total_pops = 500000 }
         NOT = { number_of_states = 2 }
         has_country_flag = new_world_nation
@@ -195,13 +196,19 @@ country_migration_target = {
             capital_scope = { is_colonial = no continent = australia_new_zealand }
         }
         OR = {
+			government = absolute_monarchy
             government = prussian_constitutionalism
             government = hms_government
         }
     }
 
     modifier = {
-        factor = 4.0
+        factor = 0
+        government = proletarian_dictatorship
+    }
+
+    modifier = {
+        factor = 2.8
         number_of_states = 2
         has_country_flag = new_world_nation
         OR = {
@@ -217,7 +224,7 @@ country_migration_target = {
     }
 
     modifier = {
-        factor = 3.7
+        factor = 2.5
         NOT = { total_pops = 500000 }
         NOT = { number_of_states = 2 }
         has_country_flag = new_world_nation
@@ -232,6 +239,131 @@ country_migration_target = {
             government = hms_government
         }
     }
+	
+	modifier = {
+        factor = 0.1
+		wage_reform = low_minimum_wage 
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+		
+	}
+	
+	modifier = {
+        factor = 0.2
+		wage_reform = good_minimum_wage
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
+	
+	modifier = {
+        factor = 0.1
+		safety_regulations = low_safety
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
+	modifier = {
+        factor = 0.2
+		safety_regulations = good_safety 
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
+	
+	modifier = {
+        factor = 0.1
+		unemployment_subsidies = low_subsidies
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
+	
+	modifier = {
+        factor = 0.2
+		unemployment_subsidies = good_subsidies
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
+	
+	
+	
+	modifier = {
+        factor = 0.2
+		citizens_rights = all_voting_pops
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
+	
+	
+	modifier = {
+        factor = 0.1
+		penal_system = incarceration
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
+	
+	modifier = {
+        factor = 0.2
+		penal_system = rehabilitation
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
+	
+	
+	modifier = {
+        factor = 0.1
+		health_care = acceptable_health_care
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
+	
+	modifier = {
+        factor = 0.2
+		health_care = good_health_care
+		has_country_flag = new_world_nation
+        OR = {
+            capital_scope = { is_colonial = no continent = north_america }
+            capital_scope = { is_colonial = no continent = south_america }
+            capital_scope = { is_colonial = no continent = australia_new_zealand }
+        }
+	}
 }
 
 
