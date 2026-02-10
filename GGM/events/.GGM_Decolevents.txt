@@ -1311,6 +1311,17 @@ country_event = {  #central lothaire self-gov
 					}
 				}
 				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2183
+						}
+					}
+					NWR_83 = {
+						add_core = VDR
+					}
+				}
+				
 				NWR_89 = {
 					add_core = VDR
 				}
@@ -1609,6 +1620,17 @@ country_event = {  #central lothaire self-gov
 						}
 					}
 					NWR_96 = {
+						add_core = VDR
+					}
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2183
+						}
+					}
+					NWR_83 = {
 						add_core = VDR
 					}
 				}
