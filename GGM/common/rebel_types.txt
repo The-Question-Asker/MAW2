@@ -906,6 +906,42 @@ communist_rebels = {
             factor = 0
             type = slaves
         }
+		
+		modifier = {
+            factor = 1.2
+            type = craftsmen
+        }
+		
+		modifier = {
+            factor = 1.2
+            type = labourers
+        }
+		
+		modifier = { #roter hauptstadt
+            factor = 1.5
+            location = {
+                total_pops = 1000000
+            }
+        }
+		
+		modifier = { #cities tend to be RED
+            factor = 1
+            location = {
+                total_pops = 500000
+            }
+        }
+		
+		modifier = { #the peasantry is not a class
+            factor = 0.2
+            location = {
+                NOT = { total_pops = 20000 }
+            }
+			country = {
+				NOT = {
+					has_country_flag = peasant_worker_solidarity
+				}
+			}
+        }
 
         modifier = {
             factor = 0
@@ -3188,12 +3224,16 @@ liberal_rebels = {
             type = slaves
         }
 
-        modifier = {
-            factor = 2
+        modifier = { #a hotbed of liberalism, usually
+            factor = 3
             location = {
-                has_province_modifier = colorado_sympathies
+                is_capital = yes 
             }
         }
+		
+		
+		
+		
 
         modifier = {
             factor = 0
