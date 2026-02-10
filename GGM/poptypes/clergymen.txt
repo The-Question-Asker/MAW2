@@ -167,48 +167,6 @@ country_migration_target = {
             }
         }
     }
-	
-	modifier = {
-		factor = 2
-		THIS = {
-			is_culture_group = hellenes
-			is_pop_religion = manichaean
-		}
-		
-		tag = NEK
-	
-	}
-	
-	modifier = {
-        factor = 1.5
-        number_of_states = 2
-        has_country_flag = new_world_nation
-        OR = {
-            capital_scope = { is_colonial = no continent = north_america }
-            capital_scope = { is_colonial = no continent = south_america }
-            capital_scope = { is_colonial = no continent = australia_new_zealand }
-        }
-        OR = {
-            government = prussian_constitutionalism
-            government = hms_government
-        }
-    }
-	
-	modifier = {
-        factor = 0.7
-        NOT = { total_pops = 500000 }
-        NOT = { number_of_states = 2 }
-        has_country_flag = new_world_nation
-        OR = {
-            capital_scope = { is_colonial = no continent = north_america }
-            capital_scope = { is_colonial = no continent = south_america }
-            capital_scope = { is_colonial = no continent = australia_new_zealand }
-        }
-        OR = {
-            government = prussian_constitutionalism
-            government = hms_government
-        }
-    }
 
     modifier = {
         factor = 4.0
