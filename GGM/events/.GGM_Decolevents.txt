@@ -1025,16 +1025,7 @@ country_event = {  #central lothaire self-gov
 					add_core = NWM
 				}
 				
-				if = {
-					limit = {
-						THIS = {
-							owns = 2415
-						}
-					}
-					NWR_91 = {
-						add_core = NWM
-					}
-				}
+				
 				
 				if = {
 					limit = {
@@ -1289,8 +1280,15 @@ country_event = {  #central lothaire self-gov
 				release_vassal = NWM
 				release_vassal = ANK
 				
-				NWR_91 = {
-					remove_core = NWM
+				if = {
+					limit = {
+						THIS = {
+							owns = 2415
+						}
+					}
+					NWR_91 = {
+						secede_province = NWM
+					}
 				}
 				
 				ANK = {
@@ -1475,16 +1473,7 @@ country_event = {  #central lothaire self-gov
 					add_core = NWM
 				}
 				
-				if = {
-					limit = {
-						THIS = {
-							owns = 2415
-						}
-					}
-					NWR_91 = {
-						add_core = NWM
-					}
-				}
+				
 				
 				
 				if = {
@@ -1603,10 +1592,18 @@ country_event = {  #central lothaire self-gov
 				release_vassal = NWM
 				release_vassal = ANK
 				
-				NWR_91 = {
-					remove_core = NWM
 				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2415
+						}
+					}
+					NWR_91 = {
+						secede_province = NWM
+					}
 				}
+				
 				
 				ANK = {
 					government = democracy
@@ -1688,16 +1685,7 @@ country_event = {  #central lothaire self-gov
 					}
 				}
 				
-				if = {
-					limit = {
-						THIS = {
-							owns = 2415
-						}
-					}
-					NWR_91 = {
-						add_core = VDR
-					}
-				}
+				
 				
 				if = {
 					limit = {
@@ -1730,8 +1718,15 @@ country_event = {  #central lothaire self-gov
 				
 				release_vassal = VDR
 				
-				NWR_91 = {
-					remove_core = VDR
+				if = {
+					limit = {
+						THIS = {
+							owns = 2415
+						}
+					}
+					NWR_91 = {
+						secede_province = VDR
+					}
 				}
 				
 				VDR = {
@@ -2211,18 +2206,7 @@ country_event = {  #antipodea self-gov
 			
 			30 = {
 				
-				if = {
-					limit = {
-						THIS = {
-							owns = 2370
-						}
-					}
-			
-					NWR_95 = {
-						add_core = NBS
-					}
-		
-				}
+				
 				
 				
 				NWR_106 = {
@@ -2711,8 +2695,17 @@ country_event = {  #antipodea self-gov
 				release_vassal = AGS
 				release_vassal = NBS
 				
-				NWR_95 = {
-					remove_core = NBS
+				if = {
+					limit = {
+						THIS = {
+							owns = 2370
+						}
+					}
+			
+					NWR_95 = {
+						secede_province = NBS
+					}
+		
 				}
 				
 				HRU = {
@@ -2784,18 +2777,7 @@ country_event = {  #antipodea self-gov
 			
 			40 = {
 				
-				if = {
-					limit = {
-						THIS = {
-							owns = 2370
-						}
-					}
-			
-					NWR_95 = {
-						add_core = NBS
-					}
-		
-				}
+				
 			
 				NWR_106 = {
 					add_core = RGT
@@ -3401,9 +3383,17 @@ country_event = {  #antipodea self-gov
 				release_vassal = AGS
 				release_vassal = NBS
 				
-				NWR_95 = {
-					remove_core = NBS
-				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2370
+						}
+					}
+			
+					NWR_95 = {
+						secede_province = NBS
+					}
+		
 				}
 				
 				HRU = {
@@ -3488,18 +3478,7 @@ country_event = {  #antipodea self-gov
 			
 			20 = {
 			
-				if = {
-					limit = {
-						THIS = {
-							owns = 2370
-						}
-					}
-			
-					NWR_95 = {
-						add_core = AGS
-					}
-		
-				}
+				
 				
 				NWR_106 = {
 					add_core = AGS
@@ -3885,9 +3864,17 @@ country_event = {  #antipodea self-gov
 				release_vassal = HRU
 				release_vassal = AGS
 				
-				NWR_95 = {
-					remove_core = AGS
-				
+				if = {
+					limit = {
+						THIS = {
+							owns = 2370
+						}
+					}
+			
+					NWR_95 = {
+						secede_province = AGS
+					}
+		
 				}
 				
 				
@@ -3923,18 +3910,7 @@ country_event = {  #antipodea self-gov
 			
 			10 = {
 			
-				if = {
-					limit = {
-						THIS = {
-							owns = 2370
-						}
-					}
-			
-					NWR_95 = {
-						add_core = NBA
-					}
-		
-				}
+				
 				
 				NWR_106 = {
 					add_core = NBA
@@ -4093,8 +4069,17 @@ country_event = {  #antipodea self-gov
 				
 				release_vassal = NBA
 				
-				NWR_95 = {
-					remove_core = NBA
+				if = {
+					limit = {
+						THIS = {
+							owns = 2370
+						}
+					}
+			
+					NWR_95 = {
+						secede_province = NBA
+					}
+		
 				}
 				
 				NBA = {
@@ -4920,6 +4905,22 @@ country_event = {
 		THIS = {
 			war = {
 				target = TWT
+				attacker_goal = { casus_belli = conquest_any }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = yes
+			}
+		}
+		
+		THIS = {
+				add_casus_belli = {
+					target = HNU
+					type = conquest_any
+					months = 12
+				}
+			}
+		HNU = {
+			war = {
+				target = THIS
 				attacker_goal = { casus_belli = conquest_any }
 				defender_goal = { casus_belli = status_quo }
 				call_ally = yes
