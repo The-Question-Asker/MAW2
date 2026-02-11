@@ -1915,8 +1915,8 @@ country_event = {  #cent_lot ind_trig
 
 country_event = {
 	id = 49995 
-	title = "EVTNAME49995" 
-	desc = "EVTDESC49995"
+	title = "EVTNAME49998" 
+	desc = "EVTDESC49998"
 	picture = "independence_dec"
 	
 	is_triggered_only = yes
