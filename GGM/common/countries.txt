@@ -127,6 +127,7 @@ TOE		   ="countries/Toeritz.txt"
 PLE		   ="countries/Pleifstein.txt"
 GRM		   ="countries/Germania.txt"
 YSR        ="countries/Ysrael.txt"
+EUL		   ="countries/EtatsUnis.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"
