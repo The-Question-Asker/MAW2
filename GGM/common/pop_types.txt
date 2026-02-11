@@ -886,7 +886,18 @@ assimilation_chance =
     modifier = {
         factor = -0.35
         country = {
-            has_country_flag = new_world_nation
+            OR = {
+				has_country_flag = new_world_nation
+				capital_scope = {
+					continent = north_america
+				}
+				capital_scope = {
+					continent = south_america
+				}
+				capital_scope = {
+					continent = australia_new_zealand
+				}
+			}
             has_country_flag = native_assimilation_enacted
         }
         OR = {
@@ -903,7 +914,18 @@ assimilation_chance =
     modifier = {
         factor = -80
         country = {
-            has_country_flag = new_world_nation
+			OR = {
+				has_country_flag = new_world_nation
+				capital_scope = {
+					continent = north_america
+				}
+				capital_scope = {
+					continent = south_america
+				}
+				capital_scope = {
+					continent = australia_new_zealand
+				}
+			}
             NOT = { has_country_flag = native_assimilation_enacted }
 			NOT = { primary_culture = colonial_african_mixed }
         }
