@@ -38,7 +38,7 @@ border_policy = open_borders
 set_country_flag = manichaean_country
 set_country_flag = new_world_nation
 
-ruling_party = dominion_conservative
+ruling_party = PHO_liberal_0
 upper_house = { # inherit
     fascist = 0
     liberal = 45
