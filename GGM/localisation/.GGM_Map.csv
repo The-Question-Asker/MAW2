@@ -589,13 +589,13 @@ PROV94;Chaudron d'Ahriman;;;;;;;;;;;;;x
 PROV82;Nousopolis;;;;;;;;;;;;;x
 PROV83;Fort Sisis;;;;;;;;;;;;;x
 PROV91;Azruasville;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
+PROV80;Champierre;;;;;;;;;;;;;x
+PROV79;Neuchapelle;;;;;;;;;;;;;x
+PROV78;Magistis;;;;;;;;;;;;;x
+PROV14;Île Ev. Faust;;;;;;;;;;;;;x
+PROV96;Gloire;;;;;;;;;;;;;x
+PROV95;Palais du Soleil;;;;;;;;;;;;;x
+PROV110;Gardien;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
@@ -852,9 +852,9 @@ NWR_5;X;;;;;;;;;;;;;x
 NWR_6;X;;;;;;;;;;;;;x
 NWR_7;X;;;;;;;;;;;;;x
 NWR_8;X;;;;;;;;;;;;;x
-NWR_9;X;;;;;;;;;;;;;x
-NWR_10;X;;;;;;;;;;;;;x
-NWR_11;X;;;;;;;;;;;;;x
+NWR_9;Côte de la Splendeur;;;;;;;;;;;;;x
+NWR_10;Pinsterre;;;;;;;;;;;;;x
+NWR_11;Sud Egregoria;;;;;;;;;;;;;x
 NWR_12;Nouveau Canaan;;;;;;;;;;;;;x
 NWR_13;X;;;;;;;;;;;;;x
 NWR_14;X;;;;;;;;;;;;;x

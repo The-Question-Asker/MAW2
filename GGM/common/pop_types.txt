@@ -616,7 +616,18 @@ emigration_chance =
     modifier = {
         factor = -1.0
         country = {
-            has_country_flag = new_world_nation
+            OR = {
+				has_country_flag = new_world_nation
+				capital_scope = {
+					continent = north_america
+				}
+				capital_scope = {
+					continent = south_america
+				}
+				capital_scope = {
+					continent = australia_new_zealand
+				}
+			}
             government = democracy
         }
     }
@@ -757,13 +768,20 @@ assimilation_chance =
 	modifier = {
         factor = 4
 		is_accepted_culture = THIS
-        OR = {
-			country = { has_country_flag = new_world_nation }
-            location = { continent = north_america }
-            location = { continent = south_america }
-            location = { continent = australia_new_zealand }
-			
-        }
+		country = {
+			OR = {
+				has_country_flag = new_world_nation
+				capital_scope = {
+					continent = north_america
+				}
+				capital_scope = {
+					continent = south_america
+				}
+				capital_scope = {
+					continent = australia_new_zealand
+				}
+			}
+		}
     }
 	
 	modifier = {
