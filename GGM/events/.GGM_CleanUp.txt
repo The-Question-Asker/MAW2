@@ -109,3 +109,297 @@ country_event = {
 	}
 
 }
+
+country_event = {
+	id = 49974 
+	title = "EVTNAME49974" 
+	desc = "EVTDESC49974"
+	
+	allow_multiple_instances = no
+
+	trigger = {
+		ai = yes
+		OR = {
+			any_owned_province = {
+				OR = {
+					is_core = CAP
+					is_core = CLT
+				}
+				any_core = {
+					NOT = {
+						tag = CAP
+						tag = CLT
+					}
+				}
+			}
+			any_neighbor_country = {
+				any_owned_province = {
+					OR = {
+						is_core = CAP
+						is_core = CLT
+					}
+					any_core = {
+						NOT = {
+							tag = CAP
+							tag = CLT
+						}
+					}
+				}
+			
+			}
+			any_greater_power = {
+				any_owned_province = {
+					OR = {
+						is_core = CAP
+						is_core = CLT
+					}
+					any_core = {
+						NOT = {
+							tag = CAP
+							tag = CLT
+						}
+					}
+				}
+			
+			}
+		
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	
+	}
+	
+	option = {
+		name = "Colonial Cores Cleanup Fired"
+	
+		any_country = {
+			limit = {
+				any_owned_province = {
+					OR = {
+						is_core = CAP
+						is_core = CLT
+					}
+					any_core = {
+						NOT = {
+							tag = CAP
+							tag = CLT
+						}
+					}
+				}
+			}
+			
+			any_owned = {
+				limit = {
+					AND = {
+						OR = {
+							is_core = CAP
+							is_core = CLT
+						}
+						any_core = {
+							NOT = {
+								tag = CAP
+								tag = CLT
+							}
+						}
+					}
+				
+				}
+				remove_core = CAP
+				remove_core = CLT
+			
+			}
+		
+		}
+	
+	}
+	
+	
+}
+
+country_event = {
+	id = 49973 
+	title = "EVTNAME49973" 
+	desc = "EVTDESC49973"
+	
+	allow_multiple_instances = no
+
+	trigger = {
+		ai = yes
+		NOT = {
+			has_global_flag = colonial_reg_setup
+		}
+	
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	
+	}
+
+	option = {
+		name = "Colonial_Reg_Setup"
+		set_global_flag = colonial_reg_setup
+		
+		NWR_106 = {
+			add_core = CAP
+		}	
+		NWR_110 = {
+			add_core = CAP
+		}
+		NWR_107 = {
+			add_core = CAP
+		}
+		NWR_112 = {
+			add_core = CAP
+		}
+		NWR_113 = {
+			add_core = CAP
+		}
+		NWR_108 = {
+			add_core = CAP
+		}
+		NWR_102 = {
+			add_core = CAP
+		}
+		NWR_103 = {
+			add_core = CAP
+		}
+		NWR_101 = {
+			add_core = CAP
+		}
+		NWR_99 = {
+			add_core = CAP
+		}	
+		NWR_98 = {
+			add_core = CAP
+		}	
+		NWR_100 = {
+			add_core = CAP
+		}	
+		NWR_112 = {
+			add_core = CAP
+		}
+		NWR_113 = {
+			add_core = CAP
+		}
+		NWR_109 = {
+			add_core = CAP
+		}
+		NWR_111 = {
+			add_core = CAP
+		}
+		2333 = {
+			add_core = CAP
+		}
+		2399 = {
+			add_core = CAP
+		}
+		2334 = {
+			add_core = CAP
+		}
+		NWR_79 = {
+			add_core = CLT
+		}
+		NWR_78 = {
+			add_core = CLT
+		}
+		NWR_81 = {
+			add_core = CLT
+		}
+		NWR_80 = {
+			add_core = CLT
+		}
+		NWR_82 = {
+			add_core = CLT
+		}
+		#NWR_90 = {
+		#	add_core = CLT
+		#}
+		NWR_85 = {
+			add_core = CLT
+		}
+		NWR_84 = {
+			add_core = CLT
+		}
+		
+		NWR_86 = {
+			add_core = CLT
+		}
+		
+		NWR_88 = {
+			add_core = CLT
+		}
+		NWR_87 = {
+			add_core = CLT
+		}
+		NWR_96 = {
+			add_core = CLT
+		}
+		NWR_83 = {
+			add_core = CLT
+		}
+		NWR_89 = {
+			add_core = CLT
+		}
+		NWR_97 = {
+			add_core = CLT
+		}
+		NWR_72 = {
+			add_core = CLT
+		}
+		NWR_71 = {
+			add_core = CLT
+		}
+		NWR_70 = {
+			add_core = CLT
+		}
+		NWR_69 = {
+			add_core = CLT
+		}
+		NWR_13 = {
+			add_core = CLT
+		}
+		113 = {
+			add_core = CLT
+		}
+		
+		114 = {
+			add_core = CLT
+		}
+		#111 = {
+		#	add_core = CLT
+		#}
+		NWR_8 = {
+			add_core = CLT
+		}
+		NWR_14 = {
+			add_core = CLT
+		}
+		NWR_16 = {
+			add_core = CLT
+		}
+		NWR_15 = {
+			add_core = CLT
+		}
+		NWR_25 = {
+			add_core = CLT
+		}
+		NWR_26 = {
+			add_core = CLT
+		}
+		NWR_27 = {
+			add_core = CLT
+		}
+		NWR_28 = {
+			add_core = CLT
+		}
+		NWR_29 = {
+			add_core = CLT
+		}
+			
+	
+	}
+
+}

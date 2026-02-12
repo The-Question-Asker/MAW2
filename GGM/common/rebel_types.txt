@@ -1781,6 +1781,13 @@ nationalist_rebels = {
             factor = 0
             type = slaves
         }
+		
+		 modifier = {
+            factor = 0
+            country = { has_country_flag = colonial_region }
+        }
+		
+
 
         modifier = {
             factor = 0.01

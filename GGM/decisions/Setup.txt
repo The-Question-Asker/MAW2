@@ -2232,25 +2232,25 @@ political_decisions = {
             #################Class Literacy Setup######################
 
             #################Provinces Setup######################
-            2509 = { add_province_modifier = { name = province_small_immigration_boom duration = 10950 } }    #Auckland, NZ
-            46 = { add_province_modifier = { name = province_small_immigration_boom duration = 10950 } }        #Toronto, CA
-            56 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }        #Kingston, CA
-            58 = { add_province_modifier = { name = province_small_immigration_boom duration = 10950 } }        #Montreal, CA
-            65 = { add_province_modifier = { name = province_small_immigration_boom duration = 10950 } }        #Quebec City,CA
-            2476 = { add_province_modifier = { name = province_small_immigration_boom duration = 3650 } }    #Kingston, CA
-            2477 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Melbourne, AU
-            2479 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Sale, AU
-            2472 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Eden, AU
-            2468 = { add_province_modifier = { name = province_small_immigration_boom duration = 3650 } }    #Sydney, AU
-            2469 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Newcastle, AU
-            2470 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Port Macquarie, AU
-            2483 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Brisbane, AU
-            2482 = { add_province_modifier = { name = province_small_immigration_boom duration = 3650 } }    #Tasmania, AU
-            2484 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Gladstone, AU
-            2491 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Adelaide, AU
-            372 = { add_province_modifier = { name = sound_dues_toll duration = -1 } } #Copenhagen
-            2172 = { set_province_flag = mexico_city }
-            1616 = { set_province_flag = summer_palace }
+            #2509 = { add_province_modifier = { name = province_small_immigration_boom duration = 10950 } }    #Auckland, NZ
+            #46 = { add_province_modifier = { name = province_small_immigration_boom duration = 10950 } }        #Toronto, CA
+            #56 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }        #Kingston, CA
+            #58 = { add_province_modifier = { name = province_small_immigration_boom duration = 10950 } }        #Montreal, CA
+            #65 = { add_province_modifier = { name = province_small_immigration_boom duration = 10950 } }        #Quebec City,CA
+            #2476 = { add_province_modifier = { name = province_small_immigration_boom duration = 3650 } }    #Kingston, CA
+            #2477 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Melbourne, AU
+            #2479 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Sale, AU
+            #2472 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Eden, AU
+            #2468 = { add_province_modifier = { name = province_small_immigration_boom duration = 3650 } }    #Sydney, AU
+            #2469 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Newcastle, AU
+            #2470 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Port Macquarie, AU
+            #2483 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Brisbane, AU
+            #2482 = { add_province_modifier = { name = province_small_immigration_boom duration = 3650 } }    #Tasmania, AU
+            #2484 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Gladstone, AU
+            #2491 = { add_province_modifier = { name = province_small_immigration_boom duration = 7300 } }    #Adelaide, AU
+            #372 = { add_province_modifier = { name = sound_dues_toll duration = -1 } } #Copenhagen
+            #2172 = { set_province_flag = mexico_city }
+            #1616 = { set_province_flag = summer_palace }
             #################Provinces Setup######################
 
             #################Hawaii Setup######################
@@ -2499,19 +2499,19 @@ political_decisions = {
             #################Romanian Pops Setup######################
 
             #################Italian Swiss Pops Setup######################
-            any_country = {
-                limit = {
-                    exists = yes
-                    OR = {
-                        primary_culture = north_italian
-                        primary_culture = south_italian
-                    }
-                }
-                any_pop = {
-                    limit = { has_pop_culture = swiss }
-                    literacy = 0.4
-                }
-            }
+            #any_country = {
+            #    limit = {
+            #        exists = yes
+            #        OR = {
+            #            primary_culture = north_italian
+            #            primary_culture = south_italian
+            #        }
+            #    }
+            #    any_pop = {
+            #        limit = { has_pop_culture = swiss }
+            #        literacy = 0.4
+            #    }
+            #}
             #################Italian Swiss Pops Setup######################
 
             #################Government Flags Setup######################
@@ -2595,49 +2595,49 @@ political_decisions = {
                 clr_country_flag = anarcho_liberal_gov
             }
 
-            any_country = {
-                limit = {
-                    OR = {
-                        has_country_flag = sunni_country
-                        has_country_flag = shiite_country
-                        has_country_flag = ibadi_country
-                    }
-                }
-                set_country_flag = umar_pact
-            }
-
-            any_country = {
-                limit = {
-                    exists = yes
-                    OR = {
-                        has_country_flag = sunni_country
-                        has_country_flag = shiite_country
-                        has_country_flag = ibadi_country
-                    }
-                    any_owned_province = {
-                        any_pop = {
-                            OR = {
-                                has_pop_religion = catholic
-                                has_pop_religion = protestant
-                                has_pop_religion = mormon
-                                has_pop_religion = orthodox
-                                has_pop_religion = coptic
-                                has_pop_religion = druze
-                                has_pop_religion = jewish
-                                has_pop_religion = yazidi
-                                has_pop_religion = mahayana
-                                has_pop_religion = gelugpa
-                                has_pop_religion = theravada
-                                has_pop_religion = hindu
-                                has_pop_religion = shinto
-                                has_pop_religion = sikh
-                                has_pop_religion = animist
-                            }
-                        }
-                    }
-                }
-                add_country_modifier = { name = jizya duration = -1 }
-            }
+           #any_country = {
+           #    limit = {
+           #        OR = {
+           #            has_country_flag = sunni_country
+           #            has_country_flag = shiite_country
+           #            has_country_flag = ibadi_country
+           #        }
+           #    }
+           #    set_country_flag = umar_pact
+           #}
+		   #
+           #any_country = {
+           #    limit = {
+           #        exists = yes
+           #        OR = {
+           #            has_country_flag = sunni_country
+           #            has_country_flag = shiite_country
+           #            has_country_flag = ibadi_country
+           #        }
+           #        any_owned_province = {
+           #            any_pop = {
+           #                OR = {
+           #                    has_pop_religion = catholic
+           #                    has_pop_religion = protestant
+           #                    has_pop_religion = mormon
+           #                    has_pop_religion = orthodox
+           #                    has_pop_religion = coptic
+           #                    has_pop_religion = druze
+           #                    has_pop_religion = jewish
+           #                    has_pop_religion = yazidi
+           #                    has_pop_religion = mahayana
+           #                    has_pop_religion = gelugpa
+           #                    has_pop_religion = theravada
+           #                    has_pop_religion = hindu
+           #                    has_pop_religion = shinto
+           #                    has_pop_religion = sikh
+           #                    has_pop_religion = animist
+           #                }
+           #            }
+           #        }
+           #    }
+           #    add_country_modifier = { name = jizya duration = -1 }
+           #}
 
             any_country = {
                 limit = {
@@ -2709,19 +2709,19 @@ political_decisions = {
             #CRT = { add_country_modifier = { name = caudillo_leaders duration = 1825 } }
             #HAI = { add_country_modifier = { name = divided_society duration = 10950 } }
 
-            any_country = {
-                limit = {
-                    exists = yes
-                    is_greater_power = yes
-                }
-                diplomatic_influence = { who = GAZ value = -400 }
-                diplomatic_influence = { who = AGC value = -400 }
-            }
+           # any_country = {
+           #     limit = {
+           #         exists = yes
+           #         is_greater_power = yes
+           #     }
+           #     diplomatic_influence = { who = GAZ value = -400 }
+           #     diplomatic_influence = { who = AGC value = -400 }
+           # }
 
             
 
-            MEX = { add_country_modifier = { name = fight_the_power duration = 3650 } }
-            1253 = { add_province_modifier = { name = local_economic_downturn duration = 8760 } }
+            #MEX = { add_country_modifier = { name = fight_the_power duration = 3650 } }
+            #1253 = { add_province_modifier = { name = local_economic_downturn duration = 8760 } }
 
             any_country = {
                 limit = {
@@ -2744,6 +2744,11 @@ political_decisions = {
                     owner = { set_country_flag = reactionary_party_in_power }
                 }
             }
+			
+			
+			############## COLONIAL REGIONS SETUP ##########
+			
+			
         }
     }
 

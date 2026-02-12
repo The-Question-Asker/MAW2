@@ -41,6 +41,7 @@ on_quarterly_pulse = {
     100 = 70005
     100 = 70006
     75 = 6016825
+	75 = 49974 #colonial_cores_cleanup
 }
 
 on_battle_won = {
