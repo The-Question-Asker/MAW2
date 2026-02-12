@@ -1782,10 +1782,14 @@ nationalist_rebels = {
             type = slaves
         }
 		
-		 modifier = {
-            factor = 0
-            country = { has_country_flag = colonial_region }
-        }
+		# modifier = { #perhaps not needed
+       #    factor = 0
+       #    location = {
+		#		any_core = {
+		#			has_country_flag = colonial_region
+		#		}
+		#	}
+       #}
 		
 
 
