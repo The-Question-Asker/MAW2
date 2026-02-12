@@ -1994,8 +1994,14 @@
 
     farmers = {
         culture = brutonian
+        religion = bon_chrestien
+        size = 5660
+    }
+
+    farmers = {
+        culture = brutonian
         religion = orthodox
-        size = 30660
+        size = 25660
     }
 
 }
@@ -2040,13 +2046,13 @@
 
     farmers = {
         culture = brutonian
-        religion = arian
+        religion = bon_chrestien
         size = 9600
     }
 
     farmers = {
         culture = brutonian
-        religion = arian
+        religion = bon_chrestien
         size = 6000
     }
 
@@ -2106,7 +2112,7 @@
 
     serfs  = {
         culture = brutonian
-        religion = orthodox
+        religion = bon_chrestien
         size = 2400
     }
 
@@ -2118,19 +2124,19 @@
 
     artisans = {
         culture = brutonian
-        religion = orthodox
+        religion = bon_chrestien
         size = 1200
     }
 
-    farmers = {
+    artisans = {
         culture = greek
         religion = manichaean
         size = 630
     }
 
-    farmers = {
+    artisans = {
         culture = frankish
-        religion = orthodox
+        religion = bon_chrestien
         size = 540
     }
 
@@ -2159,7 +2165,13 @@
     artisans = {
         culture = brutonian
         religion = arian
-        size = 2400
+        size = 2000
+    }
+	
+    artisans = {
+        culture = brutonian
+        religion = bon_chrestien
+        size = 400
     }
 
     soldiers = {
@@ -2171,7 +2183,13 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 20375
+        size = 15375
+    }
+	
+    labourers = {
+        culture = brutonian
+        religion = bon_chrestien
+        size = 5375
     }
 	
     serfs = {
@@ -2227,13 +2245,25 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 20500
+        size = 16500
     }
 	
     serfs = {
         culture = brutonian
         religion = arian
-        size = 20500
+        size = 12500
+    }
+	
+    labourers = {
+        culture = brutonian
+        religion = bon_chrestien
+        size = 4500
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = bon_chrestien
+        size = 8500
     }
 	
     serfs = {
@@ -2283,13 +2313,25 @@
     labourers = {
         culture = brutonian
         religion = arian
-        size = 13800
+        size = 12800
     }
 	
     serfs = {
         culture = brutonian
         religion = arian
-        size = 30800
+        size = 28000
+    }
+	
+    labourers = {
+        culture = brutonian
+        religion = bon_chrestien
+        size = 1800
+    }
+	
+    serfs = {
+        culture = brutonian
+        religion = bon_chrestien
+        size = 2800
     }
 
     serfs = {

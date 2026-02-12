@@ -100,26 +100,26 @@
 #Dunkirk (396000/99000 POPS)
 400 = {
     aristocrats = {
-        culture = frankish
-        religion = orthodox
+        culture = brutonian
+        religion = arian
         size = 480
     }
 
     clergymen = {
-        culture = laaglander
-        religion = orthodox
+        culture = brutonian
+        religion = arian
         size = 510
     }
 
     artisans = {
-        culture = frankish
-        religion = orthodox
+        culture = brutonian
+        religion = arian
         size = 3000
     }
 
     soldiers = {
-        culture = frankish
-        religion = orthodox
+        culture = brutonian
+        religion = arian
         size = 1800
     }
 
@@ -173,7 +173,7 @@
 
     serfs = {
         culture = laaglander
-        religion = orthodox
+        religion = arian
         size = 9000
     }
 }
