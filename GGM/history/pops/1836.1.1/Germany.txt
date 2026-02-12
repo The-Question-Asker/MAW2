@@ -4609,7 +4609,7 @@
     }
 
     farmers = {
-        culture = byeloruthenian
+        culture = ruthenian
         religion = orthodox
         size = 3390
     }

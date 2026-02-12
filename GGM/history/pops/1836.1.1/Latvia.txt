@@ -266,25 +266,25 @@
 #Daugavpils (136000/34000 POPS)
 356 = {
     clergymen = {
-        culture = byeloruthenian
+        culture = ruthenian
         religion = orthodox
         size = 105
     }
 
     artisans = {
-        culture = byeloruthenian
+        culture = ruthenian
         religion = orthodox
         size = 390
     }
 
     soldiers = {
-        culture = byeloruthenian
+        culture = ruthenian
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = byeloruthenian
+        culture = ruthenian
         religion = orthodox
         size = 11880
     }

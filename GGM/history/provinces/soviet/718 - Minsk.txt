@@ -1,7 +1,7 @@
 owner = RTH
 controller = KPD
 add_core = RTH
-add_core = BYR
+
 trade_goods = timber
 life_rating = 40
 
