@@ -51,3 +51,7 @@ EVTNAME49976;Trade and Settlement in Aprusia;;;;;;;;;;;;;
 EVTDESC49976;x;;;;;;;;;;;;;
 EVTNAME49975;The Incan Revolt of $YEAR$;;;;;;;;;;;;;
 EVTDESC49975;x;;;;;;;;;;;;;
+EVTNAME49974;AI_colonial_cleanup;;;;;;;;;;;;;
+EVTDESC49974;x;;;;;;;;;;;;;
+EVTNAME49973;AI_colonial_setup;;;;;;;;;;;;;
+EVTDESC49973;x;;;;;;;;;;;;;
