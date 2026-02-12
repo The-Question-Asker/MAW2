@@ -10,13 +10,13 @@
 
     bureaucrats = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 400
     }
 
     officers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 250
     }
 
@@ -32,9 +32,9 @@
         size = 9000
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 8200
     }
 
@@ -94,19 +94,19 @@
 
     artisans = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 7700
     }
 
     soldiers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 300
     }
 
     farmers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 5775
     }
 
@@ -128,7 +128,7 @@
         size = 100
     }
 
-    craftsmen = {
+    farmers = {
         culture = ashkenazi
         religion = jewish
         size = 200
@@ -166,7 +166,7 @@
         size = 4450
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
         religion = orthodox
         size = 100
@@ -180,14 +180,20 @@
 
     farmers = {
         culture = wendish
-        religion = orthodox
-        size = 62950
+        religion = antipaederian
+        size = 42950
     }
 
     serfs = {
         culture = wendish
+        religion = antipaederian
+        size = 20000
+    }
+	
+    serfs = {
+        culture = wendish
         religion = orthodox
-        size = 30000
+        size = 10000
     }
 
     aristocrats = {
@@ -198,20 +204,20 @@
 
     clergymen = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 150
     }
 
     artisans = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 900
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
         religion = orthodox
-        size = 100
+        size = 20000
     }
 
     soldiers = {
@@ -238,7 +244,7 @@
         size = 1400
     }
 
-    craftsmen = {
+    farmers = {
         culture = ashkenazi
         religion = jewish
         size = 100
@@ -276,22 +282,22 @@
         size = 250
     }
 
-    craftsmen = {
+    serfs = {
         culture = wendish
         religion = orthodox
-        size = 100
+        size = 1000
     }
 
     farmers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 5800
     }
 
     serfs = {
         culture = wendish
-        religion = orthodox
-        size = 10000
+        religion = antipaederian
+        size = 9000
     }
 
     aristocrats = {
@@ -318,7 +324,7 @@
         size = 1250
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
         religion = orthodox
         size = 100
@@ -360,7 +366,7 @@
         size = 100
     }
 
-    craftsmen = {
+    farmers = {
         culture = ashkenazi
         religion = jewish
         size = 100
@@ -392,7 +398,7 @@
         size = 100
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
         religion = orthodox
         size = 100
@@ -400,14 +406,14 @@
 
     farmers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 1000
     }
 
     serfs = {
         culture = wendish
         religion = orthodox
-        size = 7225
+        size = 5225
     }
 
     aristocrats = {
@@ -428,10 +434,10 @@
         size = 3250
     }
 
-    craftsmen = {
+    serfs = {
         culture = wendish
-        religion = orthodox
-        size = 100
+        religion = antipaederian
+        size = 2000
     }
 
     soldiers = {
@@ -478,7 +484,7 @@
         size = 200
     }
 
-    craftsmen = {
+    farmers = {
         culture = ashkenazi
         religion = jewish
         size = 100
@@ -493,7 +499,7 @@
 }
 #Pilsen (490400/122600 POPS)
 629 = {
-    capitalists = {
+    aristocrats = {
         culture = wendish
         religion = orthodox
         size = 50
@@ -511,9 +517,9 @@
         size = 2900
     }
 
-    craftsmen = {
+    serfs = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 100
     }
 
@@ -559,10 +565,10 @@
         size = 6150
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
-        religion = orthodox
-        size = 100
+        religion = antipaederian
+        size = 30100
     }
 
     soldiers = {
@@ -574,7 +580,7 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 64850
+        size = 34850
     }
 
     clergymen = {
@@ -595,7 +601,7 @@
         size = 100
     }
 
-    craftsmen = {
+    farmers = {
         culture = ashkenazi
         religion = jewish
         size = 100
@@ -617,19 +623,19 @@
 
     clergymen = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 400
     }
 
     artisans = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 1250
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 300
     }
 
@@ -647,8 +653,8 @@
 
     farmers = {
         culture = wendish
-        religion = orthodox
-        size = 4000
+        religion = antipaederian
+        size = 24000
     }
 
     serfs = {
@@ -681,9 +687,9 @@
         size = 5500
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 100
     }
 
@@ -696,7 +702,7 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 71075
+        size = 51075
     }
 
     clergymen = {
@@ -717,7 +723,7 @@
         size = 100
     }
 
-    craftsmen = {
+    farmers = {
         culture = ashkenazi
         religion = jewish
         size = 100
@@ -757,9 +763,9 @@
         size = 17450
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 100
     }
 
@@ -784,7 +790,13 @@
     serfs = {
         culture = wendish
         religion = orthodox
-        size = 53000
+        size = 20000
+    }
+	
+    serfs = {
+        culture = wendish
+        religion = antipaederian
+        size = 33000
     }
 
     aristocrats = {
@@ -813,25 +825,25 @@
 
     artisans = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 3900
     }
 
     soldiers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 700
     }
 
-    craftsmen = {
+    farmers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 100
     }
 
     farmers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 32925
     }
 
@@ -847,7 +859,7 @@
         size = 1900
     }
 
-    craftsmen = {
+    farmers = {
         culture = ashkenazi
         religion = jewish
         size = 100
@@ -887,7 +899,7 @@
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 20700
     }
 

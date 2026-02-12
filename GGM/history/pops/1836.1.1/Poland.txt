@@ -558,13 +558,13 @@
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 1140
     }
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 600
     }
 
@@ -576,7 +576,7 @@
 
     clergymen = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 75
     }
 
@@ -594,7 +594,7 @@
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 7875
     }
 
@@ -752,7 +752,7 @@
 
     clergymen = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
@@ -764,7 +764,7 @@
 
     soldiers = {
         culture = wendish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
@@ -810,7 +810,13 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 32229
+        size = 2229
+    }
+
+    farmers = {
+        culture = polish
+        religion = antipaederian
+        size = 30229
     }
 
     serfs = {
@@ -821,37 +827,37 @@
 
     aristocrats = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     officers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     clergymen = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 150
     }
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 1005
     }
 }
@@ -1748,41 +1754,47 @@
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 1200
     }
 
     farmers = {
         culture = polish
         religion = orthodox
-        size = 28710
+        size = 10710
+    }
+	
+    farmers = {
+        culture = polish
+        religion = antipaederian
+        size = 18710
     }
 
     serfs = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 3000
     }
 
     clergymen = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 300
     }
 
-    farmers = {
+    serfs = {
         culture = polish
         religion = orthodox
         size = 5655
@@ -1796,19 +1808,19 @@
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 135
     }
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 2220
     }
 
@@ -1888,43 +1900,43 @@
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 90
     }
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 1680
     }
 
     clergymen = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 120
     }
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 2250
     }
 
@@ -1959,43 +1971,43 @@
 703 = {
     aristocrats = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 480
     }
 
     bureaucrats = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 102
     }
 
     officers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 42
     }
 
     clergymen = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 180
     }
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 2736
     }
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 660
     }
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 13200
     }
 
@@ -2131,7 +2143,13 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 27000
+        size = 10000
+    }
+	
+    farmers = {
+        culture = polish
+        religion = antipaederian
+        size = 17000
     }
 
     serfs = {
@@ -2167,7 +2185,13 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 10920
+        size = 5920
+    }
+	
+    farmers = {
+        culture = wendish
+        religion = antipaederian
+        size = 4920
     }
 
     aristocrats = {
@@ -2252,8 +2276,14 @@
 
     farmers = {
         culture = polish
+        religion = antipaederian
+        size = 30000
+    }
+	
+    farmers = {
+        culture = polish
         religion = orthodox
-        size = 36000
+        size = 6000
     }
 
     serfs = {
@@ -2264,8 +2294,14 @@
 
     serfs = {
         culture = polish
+        religion = antipaederian
+        size = 30000
+    }
+	
+    serfs = {
+        culture = polish
         religion = orthodox
-        size = 42000
+        size = 12000
     }
 
     clergymen = {
@@ -2294,25 +2330,25 @@
 
     clergymen = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 552
     }
 }
@@ -3015,25 +3051,25 @@
 
     clergymen = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 165
     }
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 1614
     }
 }
@@ -3163,25 +3199,25 @@
 
     clergymen = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     soldiers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 60
     }
 
     artisans = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 150
     }
 
     farmers = {
         culture = polish
-        religion = orthodox
+        religion = antipaederian
         size = 1035
     }
 }
