@@ -11288,7 +11288,7 @@ take_puppet_state = {
         }
     }
 
-    po_reparations
+    po_reparations = yes
 
     war_name = WAR_NAME
 
