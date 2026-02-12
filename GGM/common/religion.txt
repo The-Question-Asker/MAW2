@@ -29,7 +29,7 @@ christian = {
     }
 	
 	antipaederian = { 		 #anti-clerical pedobaptists 
-        icon = 17
+        icon = 4
         color = { 0.6 0.5 0.0  }
 
     }
