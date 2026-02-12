@@ -35069,7 +35069,11 @@
 
 2188 = {
 
-
+	farmers = {
+		 culture = colonial_african_mixed
+		 religion = thomasine
+		 size = 700
+	}
 
 	officers = {
 		culture = mayan
@@ -35177,7 +35181,11 @@
 
 2189 = {
 
-
+	farmers = {
+		 culture = colonial_african_mixed
+		 religion = thomasine
+		 size = 200
+	}
 
 	officers = {
 		culture = mayan
@@ -35285,7 +35293,11 @@
 
 2190 = {
 
-
+	farmers = {
+		 culture = colonial_african_mixed
+		 religion = thomasine
+		 size = 150
+	}
 
 	officers = {
 		culture = mayan
@@ -35496,12 +35508,22 @@
 		 religion = orthodox
 		 size = 0
 	}
+	
+	farmers = {
+		 culture = colonial_african_mixed
+		 religion = thomasine
+		 size = 400
+	}
 
 }
 
 2185 = {
 
-
+	farmers = {
+		 culture = colonial_african_mixed
+		 religion = thomasine
+		 size = 30
+	}
 
 	officers = {
 		culture = mayan
@@ -35712,6 +35734,12 @@
 		 religion = orthodox
 		 size = 2
 	}
+	
+	farmers = {
+		 culture = colonial_african_mixed
+		 religion = thomasine
+		 size = 50
+	}
 
 }
 
@@ -35812,6 +35840,12 @@
 		 culture = amorican_frank
 		 religion = orthodox
 		 size = 362
+	}
+	
+	farmers = {
+		 culture = colonial_african_mixed
+		 religion = thomasine
+		 size = 200
 	}
 
 
