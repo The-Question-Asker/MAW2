@@ -89,6 +89,7 @@ ad_hoc_money_bill_printing = 1
 late_classical_theory = 1
 market_structure = 1
 hot_blast = 1
+piston_steam_engine = 1
 
 # Inventions
 #corvettes = yes
