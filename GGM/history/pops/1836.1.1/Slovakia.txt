@@ -92,12 +92,6 @@
         size = 750
     }
 
-    soldiers = {
-        culture = wendish
-        religion = antipaederian
-        size = 135
-    }
-
     farmers = {
         culture = wendish
         religion = orthodox
@@ -310,12 +304,6 @@
         size = 400
     }
 
-    soldiers = {
-        culture = wendish
-        religion = antipaederian
-        size = 100
-    }
-
     farmers = {
         culture = wendish
         religion = antipaederian
@@ -514,14 +502,9 @@
     artisans = {
         culture = wendish
         religion = antipaederian
-        size = 150
+        size = 250
     }
 
-    soldiers = {
-        culture = wendish
-        religion = antipaederian
-        size = 100
-    }
 
     farmers = {
         culture = sclavenian
@@ -630,13 +613,7 @@
     artisans = {
         culture = wendish
         religion = antipaederian
-        size = 250
-    }
-
-    soldiers = {
-        culture = wendish
-        religion = antipaederian
-        size = 100
+        size = 350
     }
 
     farmers = {
@@ -654,13 +631,7 @@
     artisans = {
         culture = polish
         religion = antipaederian
-        size = 100
-    }
-
-    soldiers = {
-        culture = polish
-        religion = antipaederian
-        size = 100
+        size = 200
     }
 
     farmers = {
@@ -784,13 +755,7 @@
     artisans = {
         culture = wendish
         religion = antipaederian
-        size = 1300
-    }
-
-    soldiers = {
-        culture = wendish
-        religion = antipaederian
-        size = 237
+        size = 1500
     }
 
     farmers = {
@@ -880,13 +845,7 @@
     artisans = {
         culture = polish
         religion = antipaederian
-        size = 200
-    }
-
-    soldiers = {
-        culture = polish
-        religion = antipaederian
-        size = 100
+        size = 300
     }
 
     serfs = {

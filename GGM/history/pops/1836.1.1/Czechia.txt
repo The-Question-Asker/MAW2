@@ -98,11 +98,7 @@
         size = 7700
     }
 
-    soldiers = {
-        culture = wendish
-        religion = antipaederian
-        size = 300
-    }
+   
 
     farmers = {
         culture = wendish
@@ -826,14 +822,9 @@
     artisans = {
         culture = wendish
         religion = antipaederian
-        size = 3900
+        size = 4500
     }
 
-    soldiers = {
-        culture = wendish
-        religion = antipaederian
-        size = 700
-    }
 
     farmers = {
         culture = wendish

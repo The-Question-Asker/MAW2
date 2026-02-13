@@ -562,11 +562,6 @@
         size = 1140
     }
 
-    soldiers = {
-        culture = polish
-        religion = antipaederian
-        size = 600
-    }
 
     farmers = {
         culture = polish
@@ -589,7 +584,7 @@
     soldiers = {
         culture = polish
         religion = orthodox
-        size = 600
+        size = 1200
     }
 
     farmers = {
@@ -2009,12 +2004,6 @@
         culture = polish
         religion = antipaederian
         size = 2736
-    }
-
-    soldiers = {
-        culture = polish
-        religion = antipaederian
-        size = 660
     }
 
     farmers = {
