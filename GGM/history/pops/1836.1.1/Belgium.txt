@@ -114,13 +114,13 @@
     labourers = {
         culture = laaglander
         religion = orthodox
-        size = 20435
+        size = 15435
     }
 	
     serfs = {
         culture = laaglander
         religion = orthodox
-        size = 17435
+        size = 12435
     }
 
     aristocrats = {
@@ -182,6 +182,54 @@
         religion = orthodox
         size = 3390
     }
+	
+    clergymen = {
+        culture = frankish
+        religion = bon_chrestien
+        size = 60
+    }
+	
+    artisans = {
+        culture = frankish
+        religion = bon_chrestien
+        size = 250
+    }
+
+    farmers = {
+        culture = frankish
+        religion = bon_chrestien
+        size = 1000
+    }
+	
+    serfs = {
+        culture = frankish
+        religion = bon_chrestien
+        size = 500
+    }
+	
+    clergymen = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 60
+    }
+	
+    artisans = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 250
+    }
+
+    farmers = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 6000
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 5500
+    }
 }
 #Bruges (456000/114000 POPS)
 388 = {
@@ -218,8 +266,33 @@
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 60315
+        size = 55315
     }
+	
+    clergymen = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 60
+    }
+	
+    artisans = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 250
+    }
+
+    farmers = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 6000
+    }
+	
+    serfs = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 500
+    }
+
 }
 #Ghent (704000/176000 POPS)
 389 = {
@@ -288,6 +361,25 @@
         religion = orthodox
         size = 33800
     }
+	
+    clergymen = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 60
+    }
+	
+    artisans = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 250
+    }
+
+    farmers = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 1500
+    }
+
 }
 #Antwerp (354000/88500 POPS)
 390 = {
@@ -395,6 +487,24 @@
         size = 300
     }
     ########
+	
+    clergymen = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 60
+    }
+	
+    artisans = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 250
+    }
+
+    farmers = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 1500
+    }
 }
 #Hasselt (272000/68000 POPS)
 391 = {
