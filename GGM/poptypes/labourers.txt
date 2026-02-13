@@ -1062,7 +1062,7 @@ serfs = {
 		modifier = {
 			factor = -100
 			has_pop_religion = antipaederian
-			NOT = { has_country_flag = pressed_objecters_to_service }
+			country = { country = { NOT = { has_country_flag = pressed_objecters_to_service } } }
 		
 		}
     }
