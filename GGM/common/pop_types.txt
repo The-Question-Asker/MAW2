@@ -1055,6 +1055,21 @@ conversion_chance =
         }
     }
 	
+	modifier = {  #various resolutions and edicts protect dissenters
+		factor -0.6
+		OR = {
+			has_pop_religion = bon_chrestien
+			has_pop_religion = antipaederian
+		}
+		country = {
+			OR = {
+				has_country_flag = arian_country
+				has_country_flag = orthodox_country
+			}
+		}
+	
+	}
+	
 	modifier = {
 		factor = 0.2 #highly syncretic
 		OR = {
@@ -1064,6 +1079,8 @@ conversion_chance =
 			has_pop_religion = theravada
 			has_pop_religion = shinto
 			has_pop_religion = thomasine
+			has_pop_religion = bon_chrestien
+			has_pop_religion = antipaederian
 		}
 		country = {
 			has_country_flag = manichaean_country
