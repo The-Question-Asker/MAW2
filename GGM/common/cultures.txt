@@ -421,9 +421,9 @@ zapadoslavs = {
 							Kochan Ketyl Krzeszel Larysz Malomir Manomir Marczurko Markiel 
 							Micek Merkusz Nelko Oliwir Olrzyk Pachnik Pawlik Pietran Przemir
 							Przybywoj Roszko Suledo Sulej Sulibrat Suliwoj Tebrich Turold Tybald 
-							Wlodzimir Zbrowslaw Zbywoj Zyndram }
+							Wlodzimir Zbrowslaw Zbywoj Zyndram Tomasz }
 
-			last_names = {	}
+			last_names = {	Balcerkiewicz }
     }
 	
 	letts = {
