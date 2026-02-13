@@ -63,7 +63,7 @@
     bureaucrats = {
         culture = laaglander
         religion = orthodox
-        size = 1466.3999999999998
+        size = 1466
     }
     clergymen = {
         culture = laaglander
@@ -78,7 +78,7 @@
     artisans = {
         culture = laaglander
         religion = orthodox
-        size = 11280
+        size = 7280
     }
 
     artisans = {
@@ -99,12 +99,12 @@
     soldiers = {
         culture = laaglander
         religion = orthodox
-        size = 1353.6
+        size = 1353
     }
     farmers = {
         culture = laaglander
         religion = orthodox
-        size = 12746
+        size = 6746
     }
 	
     serfs = {
@@ -122,12 +122,31 @@
     serfs = {
         culture = saxon
         religion = orthodox
-        size = 3546.6
+        size = 3546
     }
     artisans = {
         culture = saxon
         religion = orthodox
         size = 4794
+    }
+	
+	
+    clergymen = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 60
+    }
+	
+    artisans = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 4250
+    }
+
+    farmers = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 6500
     }
 }
 #Rotterdam (567000/141750 POPS)
@@ -216,6 +235,23 @@
         size = 654
     }
     ########
+    clergymen = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 60
+    }
+	
+    artisans = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 250
+    }
+
+    farmers = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 1500
+    }
 }
 #Utrecht (152000/38000 POPS)
 377 = {
@@ -260,6 +296,23 @@
         culture = laaglander
         religion = orthodox
         size = 4031
+    }
+    clergymen = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 60
+    }
+	
+    artisans = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 250
+    }
+
+    farmers = {
+        culture = laaglander
+        religion = bon_chrestien
+        size = 1500
     }
 }
 #Middelburg (170000/42500 POPS)

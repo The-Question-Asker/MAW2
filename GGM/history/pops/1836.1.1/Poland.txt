@@ -3408,8 +3408,8 @@
     }
 
     farmers = {
-        culture = tatar
-        religion = manichaean
+        culture = polish
+        religion = antipaederian
         size = 2040
     }
 
