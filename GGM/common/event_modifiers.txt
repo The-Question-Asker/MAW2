@@ -26,7 +26,7 @@ desolation = {
 	local_RGO_output = -0.5
 	pop_consciousness_modifier = 0.01
 	population_growth = -0.01
-	icon = 10
+	icon = 40
 }
 
 #### HPM AND VANILLA ###
@@ -175,14 +175,14 @@ severe_homeland_drought = {
     farm_RGO_eff = -0.45
     farm_rgo_size = -0.25
     pop_militancy_modifier = 0.02
-    icon = 14
+    icon = 28
 }
 
 homeland_drought = {
     farm_RGO_eff = -0.25
     farm_rgo_size = -0.15
     pop_militancy_modifier = 0.01
-    icon = 14
+    icon = 28
 }
 
 disable_conquest_cb = {
@@ -343,7 +343,7 @@ earthquake_devastation = {
     immigrant_attract = -0.25
     immigrant_push = 0.25
     pop_militancy_modifier = 0.03
-    icon = 18
+    icon = 40
 }
 
 #MM Modifiers
@@ -1964,7 +1964,7 @@ war_torn = {
     immigrant_attract = -0.25
     immigrant_push = 0.5
     population_growth = -0.001
-    icon = 4
+    icon = 40
 }
 
 no_freedom = {
