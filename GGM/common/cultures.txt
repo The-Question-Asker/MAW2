@@ -54,7 +54,11 @@ continental_germanic_frankish = {
 							Vaefar Willigod Wulmar Chlodwig Genobaud Theodemer 
 							Chararic Chlodio Childeric Sigobert Theuderic 
 							Theudebald Charibert Guntram Chilperic Clothar 
-							Dagobert }
+							Dagobert Gilles Godfrey Gontran Achille Agénor Aymeric Balthazar Bardil Bertrand Isarn Carolus
+							Clovis Enguerrand Fernand Foulques Floribert Fulbert Gaspard Hipolyte Gaston Geoffrey Gerbaud Godefroy
+							Herménégilde Honoré Homère Horace Lazare Lothaire Luitpold Ludovic Nicodème Louis Prospero Raimond
+							Raymond Reynald Théodore Ulysse 
+							}
 
 			last_names = { "fon Abelen" "fon Abbink" "fon Aerts" "fon Ahlers" 
 							"fon Heimans" "fon Agilolfings" "fon Ahalolfing" 
@@ -168,7 +172,10 @@ latins_narbonne = {
 							Gangulphus Gommarus Leodegarius Remaclus Ursmarus 
 							Wildradus }
 
-			last_names = {	}
+			last_names = {	
+				Agassiz Berlioz Bernaz Cullaz Deletraz Destraz Devouassoux Droz Gattaz 
+				Gex Mermoz PrazSandoz Thovex Vieusseux Vouilloz Vuillermoz
+			}
     }
 	union = NRB
 	
@@ -591,16 +598,39 @@ colonial_frankish_culture = {
 	
 	colonial_frankish = {
 	  color = { 18 52 115 }
-        	first_names = { }
+         	first_names = { Gilles Godfrey Gontran Achille Agénor Aymeric Balthazar Bardil Bertrand Isarn Carolus
+			Clovis Enguerrand Fernand Foulques Floribert Fulbert Gaspard Hipolyte Gaston Geoffrey Gerbaud Godefroy
+			Herménégilde Honoré Homère Horace Lazare Lothaire Luitpold Ludovic Nicodème Louis Prospero Raimond
+			Raymond Reynald Théodore Ulysse
+			}
 
-			last_names = {  }
+			last_names = { "fon Alard" "fon Aubin" "fon Geffroy" Batteaux Belhomme Boësset Camusat
+			Chaucer Coundray Ecochard Godeau Gauthier "fon Honnorat" Izambard "La Cour" Lalande "fon Lovinfosse"
+			Mandrillon Mandeville Marchand Outhier Ouvard "fon Pepin" Pomeroy Regnault Regnard Salles Thaon Vaugrenard
+			Vignaud Trintignant
+
+			}
     }
 	
 	amorican_frank = {
 	  color = { 99 148 166 }
-        	first_names = { }
+        	first_names = { 
+				Gilles Godfrey Gontran Achille Agénor Aymeric Balthazar Bardil Bertrand Isarn Carolus
+			Clovis Enguerrand Fernand Foulques Floribert Fulbert Gaspard Hipolyte Gaston Geoffrey Gerbaud Godefroy
+			Herménégilde Honoré Homère Horace Lazare Lothaire Luitpold Ludovic Nicodème Louis Prospero Raimond
+			Raymond Reynald Théodore Ulysse Ingerman Ingalramnus Isarn 
+			Liphardus Mariwig Ragenfrid Richomer Ursmar Vaefar 
+			Vaefar Willigod Wulmar Chlodwig Genobaud Theodemer 
+			Chararic Chlodio Childeric Sigobert Theuderic 
+			Theudebald Charibert Guntram
+				}
 
-			last_names = {  }
+			last_names = {  
+				"fon Vignaud" "fon Badril" "fon Isarn" "fon Carolus" "fon Vandame" "fon Rohand" "fon Rollin"
+				Roquebert Prevel Raynault Pillard Pascal Monrel Monroi Morin Morlighem Marnat Lavaud Laval
+				Goulart Hurault Laframboise Guéymard Godin Duport Abras Ardouin Bellocq Batteux Audebert
+			
+			}
     }
 }
 

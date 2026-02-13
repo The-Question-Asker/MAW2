@@ -294,7 +294,22 @@ country_event = {  #witlian self-gov
 				NWR_28 = {
 					add_core = CFL
 				}
-				NWR_29 = {
+				210 = {
+					add_core = CFL
+				}
+				205 = {
+					add_core = CFL
+				}
+				209 = {
+					add_core = CFL
+				}
+				216 = {
+					add_core = CFL
+				}
+				76 = {
+					add_core = CFL
+				}
+				206 = {
 					add_core = CFL
 				}
 				

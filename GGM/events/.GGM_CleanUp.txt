@@ -395,7 +395,22 @@ country_event = {
 		NWR_28 = {
 			add_core = CLT
 		}
-		NWR_29 = {
+		210 = {
+			add_core = CLT
+		}
+		205 = {
+			add_core = CLT
+		}
+		209 = {
+			add_core = CLT
+		}
+		216 = {
+			add_core = CLT
+		}
+		76 = {
+			add_core = CLT
+		}
+		206 = {
 			add_core = CLT
 		}
 			
