@@ -1056,7 +1056,7 @@ conversion_chance =
     }
 	
 	modifier = {  #various resolutions and edicts protect dissenters
-		factor -0.6
+		factor = -0.6
 		OR = {
 			has_pop_religion = bon_chrestien
 			has_pop_religion = antipaederian
