@@ -747,7 +747,13 @@
     farmers = {
         culture = polish
         religion = orthodox
-        size = 30605
+        size = 20605
+    }
+	
+    farmers = {
+        culture = polish
+        religion = antipaederian
+        size = 10605
     }
 
     clergymen = {
@@ -771,7 +777,13 @@
     farmers = {
         culture = wendish
         religion = orthodox
-        size = 15610
+        size = 10610
+    }
+	
+    farmers = {
+        culture = wendish
+        religion = antipaederian
+        size = 5610
     }
 }
 #under the rule of Austria in 1836
@@ -2565,14 +2577,26 @@
 
     farmers = {
         culture = polish
+        religion = antipaederian
+        size = 20760
+    }
+
+    serfs = {
+        culture = polish
+        religion = antipaederian
+        size = 16000
+    }
+	
+    farmers = {
+        culture = polish
         religion = orthodox
-        size = 29760
+        size = 9760
     }
 
     serfs = {
         culture = polish
         religion = orthodox
-        size = 24000
+        size = 8000
     }
 
     soldiers = {
