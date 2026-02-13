@@ -1,0 +1,30 @@
+
+
+leader = {
+    name = "Horace La Cour"
+    type = land
+    date="1833.1.1"
+    personality = earnest
+    background = disgraced
+}
+
+
+
+
+army = {
+    name = "Armée de la République"
+    location = 55
+    regiment = {
+        name= "1. Brigade d'Infanterie"
+        type = infantry
+        home = 55
+    }
+	
+	regiment = {
+        name= "2. Brigade d'Infanterie"
+        type = infantry
+        home = 178
+    }
+
+}
+

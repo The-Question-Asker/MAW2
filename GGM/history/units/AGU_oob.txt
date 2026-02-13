@@ -1,0 +1,30 @@
+
+
+leader = {
+    name = "Lazare fon Lovinfosse"
+    type = land
+    date="1833.1.1"
+    personality = inept
+    background = incompetent
+}
+
+
+
+
+army = {
+    name = "Armée du Roi"
+    location = 230
+    regiment = {
+        name= "1. Brigade d'Infanterie"
+        type = infantry
+        home = 223
+    }
+	
+	regiment = {
+        name= "2. Brigade d'Infanterie"
+        type = infantry
+        home = 234
+    }
+
+}
+
