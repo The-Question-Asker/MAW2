@@ -47,7 +47,8 @@ continental_germanic_frankish = {
 	
 	frankish = {
 	  color = { 29 29 59 }
-        	first_names = { Acfred Aclefrid Aclulf Adald Amblard Angalramnus 
+        	first_names = { Ade Chrischan Frider Hainri Guschti Jokeb Lippes Loidani Schosef
+							Gebert Beri Elje Franz Alfred Arthur Acfred Aclefrid Aclulf Adald Amblard Angalramnus 
 							Berchar Bertbert Boso Chariulf Fardinanth Hadelin 
 							Hildirik Hlodowig Ingerman Ingalramnus Isarn 
 							Liphardus Mariwig Ragenfrid Richomer Ursmar Vaefar 
@@ -150,9 +151,13 @@ west_germanic_continental = {
 	
 	laaglander = {
 	  color = { 224 204 130 }
-        	first_names = { }
+        	first_names = { Ambros Batty Charel Fern Frank Flepp Jang Klos Lull 
+	Pitt Stoffel Uedem Peiter Nuckes Nikla Luss Lois Josy Jeek Haans Ferd
+	Chrescht Bros Battes Baltes Aloyse Alluis Abbi Albar Ames Ander Carl }
 
-			last_names = {	}
+			last_names = { Biever Doos Hintgen Kilburg Krier Laures Luxenberg Pevsner
+	Schaus Thimmesch Thorn Trausch Wachs Zeimet Waite Hoffmann Adrovic
+	Lux Haas Steichen	}
     }
     union = LAA
 	
@@ -423,7 +428,10 @@ zapadoslavs = {
 							Przybywoj Roszko Suledo Sulej Sulibrat Suliwoj Tebrich Turold Tybald 
 							Wlodzimir Zbrowslaw Zbywoj Zyndram Tomasz }
 
-			last_names = {	Balcerkiewicz }
+			last_names = {	Balcerkiewicz Bogorii Duninowie Swiebodzic Odrowaz Ostoya Kur Jastrzebiec 
+				Leliwa Jelita
+				
+			}
     }
 	
 	letts = {
