@@ -1057,6 +1057,12 @@ promote_to = {
                 soldiers = 0.05
             }
         }
+		modifier = {
+			factor = -100
+			has_pop_religion = antipaederian
+			NOT = { has_country_flag = pressed_objecters_to_service }
+		
+		}
     }
     clerks = {
         factor = 0.01

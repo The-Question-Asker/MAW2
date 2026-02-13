@@ -212,6 +212,11 @@ reactionary_rebels = {
                 pop_majority_ideology = conservative
             }
         }
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		
+		}
     }
 
      #This is checked for EACH province in the Area of Operations
@@ -617,6 +622,11 @@ fascist_rebels = {
                 }
             }
         }
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		
+		}
     }
 
      #This is checked for EACH province in the Area of Operations
@@ -1044,6 +1054,11 @@ communist_rebels = {
                 }
             }
         }
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		
+		}
     }
 
      #This is checked for EACH province in the Area of Operations
@@ -1336,6 +1351,11 @@ anarcho_liberal_rebels = {
     spawn_chance = {
         factor = 1.01
 
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		
+		}
         modifier = {
             factor = 0
             NOT = {
@@ -1776,6 +1796,12 @@ nationalist_rebels = {
     # The rebel type with the highest modifier for this pop gets picked
     spawn_chance = {
         factor = 3
+		
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		
+		}
 
         modifier = {
             factor = 0
@@ -2084,6 +2110,12 @@ pan_nationalist_rebels = {
     # The rebel type with the highest modifier for this pop gets picked
     spawn_chance = {
         factor = 1.1
+		
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		
+		}
 
         modifier = {
             factor = 0
@@ -2483,6 +2515,11 @@ boxer_rebels = {
     spawn_chance = {
         factor = 1.1
 
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
+		
         modifier = {
             factor = 0
             type = slaves
@@ -2738,6 +2775,11 @@ indian_sepoys = {
     # The rebel type with the highest modifier for this pop gets picked
     spawn_chance = {
         factor = 1.1
+		
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
 
         modifier = {
             factor = 0
@@ -3026,6 +3068,12 @@ indian_nationalists = {
     spawn_chance = {
         factor = 1.1
 
+
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
+		
         modifier = {
             factor = 0
             type = slaves
@@ -3243,7 +3291,10 @@ liberal_rebels = {
         }
 		
 		
-		
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
 		
 
         modifier = {
@@ -3830,6 +3881,11 @@ unciv_reactionary_rebels = {
             factor = 0
             type = slaves
         }
+		
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
 
         modifier = {
             factor = 0
@@ -4062,6 +4118,11 @@ separatist_rebels = {
     # The rebel type with the highest modifier for this pop gets picked
     spawn_chance = {
         factor = 3
+
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
 
         modifier = {
             factor = 0
@@ -4326,6 +4387,11 @@ socialist_rebels = {
             factor = 0
             type = slaves
         }
+		
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
 
         modifier = {
             factor = 0
@@ -4917,6 +4983,11 @@ independence_rebels = {
     spawn_chance = {
         factor = 1.2
 
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
+		
         modifier = {
             factor = 0
             type = slaves
@@ -5086,6 +5157,11 @@ native_rebels = {
     spawn_chance = {
         factor = 3
 
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
+
         modifier = {
             factor = 0
             type = slaves
@@ -5253,7 +5329,7 @@ slave_revolt = {
 
     will_rise = {
         factor = 1
-
+		
         modifier = {
             war = yes
             factor = 0.8
@@ -5279,6 +5355,12 @@ slave_revolt = {
     # The rebel type with the highest modifier for this pop gets picked
     spawn_chance = {
         factor = 0.25
+		
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
+		
         modifier = {
             factor = 0
             OR = {
@@ -5450,6 +5532,11 @@ partisan_rebels = {
     # The rebel type with the highest modifier for this pop gets picked
     spawn_chance = {
         factor = 5
+
+		modifier = {
+			factor = 0
+			has_pop_religion = antipaederian
+		}
 
         modifier = {
             factor = 0

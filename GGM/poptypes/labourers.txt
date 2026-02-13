@@ -1059,6 +1059,12 @@ serfs = {
             NOT = { has_pop_religion = animist }
             country = { has_country_flag = colonial_armies }
         }
+		modifier = {
+			factor = -100
+			has_pop_religion = antipaederian
+			NOT = { has_country_flag = pressed_objecters_to_service }
+		
+		}
     }
 
     craftsmen = {
