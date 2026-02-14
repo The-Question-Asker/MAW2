@@ -100,4 +100,5 @@ precision_work = yes
 consciousness = 3
 nonstate_consciousness = 1
 
+oob = "AEG_oob.txt"
 
