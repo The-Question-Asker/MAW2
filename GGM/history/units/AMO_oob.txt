@@ -32,7 +32,7 @@ army = {
     location = 45
     regiment = {
         name= "Les Garçons d'Isarn"
-        type = infantry
+        type = irregular
         home = 45
     }
 
