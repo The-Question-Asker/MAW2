@@ -125,7 +125,7 @@
     }
 
     aristocrats = {
-        culture = temarundian
+        culture = polish
         religion = orthodox
         size = 780
     }
@@ -149,15 +149,27 @@
     }
 
     farmers = {
-        culture = temarundian
+        culture = polish
         religion = orthodox
-        size = 27405
+        size = 20405
     }
 
     serfs = {
         culture = vlach
         religion = orthodox
         size = 12000
+    }
+	
+    serfs = {
+        culture = polish
+        religion = orthodox
+        size = 8405
+    }
+
+    farmers = {
+        culture = vlach
+        religion = orthodox
+        size = 8000
     }
 
     clergymen = {

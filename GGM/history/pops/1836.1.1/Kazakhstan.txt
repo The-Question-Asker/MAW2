@@ -3,32 +3,32 @@
 #Guryev (19000/4750 POPS)
 1182 = {
     bureaucrats = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 20
     }
 
     clergymen = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 15
     }
 
     artisans = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 35
     }
 
     soldiers = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 15
     }
 
     farmers = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 665
     }
 

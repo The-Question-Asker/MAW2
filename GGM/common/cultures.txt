@@ -960,39 +960,8 @@ indigenous_peoples = {
 turko_semitic = {
     leader = persian
     is_overseas = no
-    unit = OttomanGC
-
-    kurdish = {
-        color = {160  30  154}
-        first_names = {
-            Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
-            }
-
-        last_names = {
-            Badirkhan Barzani Khan Shilak
-        }
-        radicalism = 10
-    }
-}
-
-iranian_turanian = {
-    leader = persian
-    is_overseas = no
     unit = MiddleEasternGC
-	
-    persian = {
-        color = { 186 159 76 } #144 88 81
-        first_names = {
-			Xerxes Artaxerxes Cambyses Mithridates Ariobarzanes Yazdegerd Hormizd Anoshazad
-			Gystaspes Tigranes Bagadata Hydarnes Zopyrus Mani Avesta Ardashir Arash Kavad
-			Bahram Babak Kourosh Daryush Esfandiar Khosrow Mihr Rostam Siyaveash Shapur
-			Narseh Balash Vistahm Shahrbaraz Boran Farshid Iraj Sohrab Shahriar 
-			}
 
-        last_names = {
-			Mihran Ispahbudhan Varaz Karen Spandiyadh Zik Suren Dabuyid Sasan 
-            }
-    }
     uzbek = {
         color = {152 67 56}
         first_names = {
@@ -1097,6 +1066,49 @@ iranian_turanian = {
         }
         last_names = {
             Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+        }
+        radicalism = 10
+    }
+    khazar = {
+        color = { 255 201 51 }
+        first_names = {
+
+        }
+        last_names = {
+
+        }
+        radicalism = 10
+    }
+
+}
+
+iranian = {
+    leader = persian
+    is_overseas = no
+    unit = OttomanGC
+	
+    persian = {
+        color = { 186 159 76 } #144 88 81
+        first_names = {
+			Xerxes Artaxerxes Cambyses Mithridates Ariobarzanes Yazdegerd Hormizd Anoshazad
+			Gystaspes Tigranes Bagadata Hydarnes Zopyrus Mani Avesta Ardashir Arash Kavad
+			Bahram Babak Kourosh Daryush Esfandiar Khosrow Mihr Rostam Siyaveash Shapur
+			Narseh Balash Vistahm Shahrbaraz Boran Farshid Iraj Sohrab Shahriar 
+			}
+
+        last_names = {
+			Mihran Ispahbudhan Varaz Karen Spandiyadh Zik Suren Dabuyid Sasan 
+            }
+    }
+	
+    kurdish = {
+        color = {160  30  154}
+        first_names = {
+            Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+            }
+
+        last_names = {
+            Badirkhan Barzani Khan Shilak
         }
         radicalism = 10
     }

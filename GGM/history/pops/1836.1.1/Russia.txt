@@ -663,6 +663,12 @@
     artisans = {
         culture = temarundian
         religion = orthodox
+        size = 530
+    }
+	
+    artisans = {
+        culture = yahudim
+        religion = jewish
         size = 630
     }
 
@@ -679,73 +685,79 @@
     }
 
     aristocrats = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 81
     }
 
     bureaucrats = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 135
     }
 
     officers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 108
     }
 
     clergymen = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 36
     }
 
     artisans = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 162
     }
 
     soldiers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 36
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
-        size = 6282
+        culture = temarundian
+        religion = manichaean
+        size = 4282
+    }
+	
+    farmers = {
+        culture = khazar
+        religion = jewish
+        size = 2000
     }
 
     aristocrats = {
-        culture = tatar
+        culture = greek
         religion = manichaean
         size = 18
     }
 
     clergymen = {
-        culture = tatar
+        culture = greek
         religion = manichaean
         size = 18
     }
 
     artisans = {
-        culture = tatar
+        culture = greek
         religion = manichaean
         size = 36
     }
 
     soldiers = {
-        culture = tatar
+        culture = greek
         religion = manichaean
         size = 9
     }
 
     farmers = {
-        culture = tatar
+        culture = greek
         religion = manichaean
         size = 639
     }
@@ -845,32 +857,38 @@
     }
 
     aristocrats = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 54
     }
 
     clergymen = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 27
     }
 
     artisans = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 144
+    }
+	
+    artisans = {
+        culture = yahudim
+        religion = jewish
+        size = 744
     }
 
     soldiers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 36
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 2619
     }
 
@@ -881,25 +899,25 @@
     }
 
     clergymen = {
-        culture = mongol
+        culture = circassian
         religion = manichaean
         size = 18
     }
 
     artisans = {
-        culture = mongol
+        culture = circassian
         religion = manichaean
         size = 90
     }
 
     soldiers = {
-        culture = mongol
+        culture = circassian
         religion = manichaean
         size = 18
     }
 
     farmers = {
-        culture = mongol
+        culture = circassian
         religion = manichaean
         size = 1638
     }
@@ -943,86 +961,92 @@
     }
 
     aristocrats = {
-        culture = ruthenian
-        religion = orthodox
+        culture = circassian
+        religion = manichaean
         size = 108
     }
 
     clergymen = {
-        culture = ruthenian
-        religion = orthodox
+        culture = circassian
+        religion = manichaean
         size = 36
     }
 
     artisans = {
-        culture = ruthenian
-        religion = orthodox
+        culture = circassian
+        religion = manichaean
         size = 270
     }
 
     soldiers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = circassian
+        religion = manichaean
         size = 36
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = circassian
+        religion = manichaean
         size = 6390
     }
 
     aristocrats = {
-        culture = tatar
+        culture = greek
         religion = manichaean
         size = 18
     }
 
     clergymen = {
-        culture = tatar
+        culture = greek
         religion = manichaean
         size = 18
     }
 
     artisans = {
-        culture = tatar
+        culture = greek
         religion = manichaean
+        size = 306
+    }
+	
+    artisans = {
+        culture = khazar
+        religion = jewish
         size = 306
     }
 
     soldiers = {
-        culture = tatar
+        culture = greek
         religion = manichaean
         size = 9
     }
 
     farmers = {
-        culture = tatar
+        culture = greek
         religion = manichaean
         size = 387
     }
 
     clergymen = {
-        culture = greek
-        religion = orthodox
+        culture = yahudim
+        religion = jewish
         size = 9
     }
 
     artisans = {
-        culture = greek
-        religion = orthodox
+        culture = yahudim
+        religion = jewish
         size = 270
     }
 
     soldiers = {
-        culture = greek
-        religion = orthodox
+        culture = yahudim
+        religion = jewish
         size = 9
     }
 
     farmers = {
-        culture = greek
-        religion = orthodox
+        culture = yahudim
+        religion = jewish
         size = 72
     }
 }
@@ -4143,33 +4167,45 @@
 #Syzran (540000/135000 POPS)
 1035 = {
     aristocrats = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 774
     }
 
     clergymen = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 486
     }
 
     artisans = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 2430
     }
 
     soldiers = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 486
     }
 
     farmers = {
+        culture = temarundian
+        religion = orthodox
+        size = 21424
+    }
+	
+    serfs = {
+        culture = temarundian
+        religion = orthodox
+        size = 19424
+    }
+	
+    serfs = {
         culture = ruthenian
         religion = orthodox
-        size = 44424
+        size = 4424
     }
 }
 #Astrakhan Region (1900000)
@@ -4177,75 +4213,75 @@
 #Astrakhan (76000/19000 POPS)
 1036 = {
     aristocrats = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 36
     }
 
     bureaucrats = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 198
     }
 
     officers = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 180
     }
 
     clergymen = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 27
     }
 
     artisans = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 1620
     }
 
     soldiers = {
-        culture = temarundian
-        religion = orthodox
-        size = 27
+        culture = khazar
+        religion = jewish
+        size = 327
     }
 
     farmers = {
-        culture = temarundian
-        religion = orthodox
+        culture = yahudim
+        religion = jewish
         size = 432
     }
 
     aristocrats = {
-        culture = ruthenian
-        religion = manichaean
+        culture = yahudim
+        religion = jewish
         size = 90
     }
 
     clergymen = {
-        culture = ruthenian
+        culture = circassian
         religion = manichaean
         size = 45
     }
 
     artisans = {
-        culture = ruthenian
-        religion = manichaean
+        culture = yahudim
+        religion = jewish
         size = 1980
     }
 
     soldiers = {
-        culture = ruthenian
+        culture = circassian
         religion = manichaean
         size = 45
     }
 
     farmers = {
-        culture = temarundian
-        religion = orthodox
-        size = 1800
+        culture = khazar
+        religion = jewish
+        size = 2800
     }
 
     farmers = {
@@ -4257,73 +4293,73 @@
 #Saratov (252000/83000 POPS)
 1037 = {
     aristocrats = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 1656
     }
 
     clergymen = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 198
     }
 
     artisans = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 2340
     }
 
     soldiers = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 360
     }
 
     farmers = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 14886
     }
 
     clergymen = {
-        culture = ruthenian
+        culture = temarundian
         religion = manichaean
         size = 54
     }
 
     artisans = {
-        culture = ruthenian
+        culture = temarundian
         religion = manichaean
         size = 1080
     }
 
     soldiers = {
-        culture = ruthenian
+        culture = temarundian
         religion = manichaean
         size = 72
     }
 
     farmers = {
-        culture = ruthenian
+        culture = temarundian
         religion = manichaean
         size = 5274
     }
 
     clergymen = {
-        culture = ruthenian
+        culture = temarundian
         religion = manichaean
         size = 36
     }
 
     artisans = {
-        culture = ruthenian
+        culture = temarundian
         religion = manichaean
         size = 720
     }
 
     soldiers = {
-        culture = ruthenian
+        culture = temarundian
         religion = manichaean
         size = 36
     }
@@ -4347,45 +4383,45 @@
     }
 
     soldiers = {
-        culture = ruthenian
+        culture = temarundian
         religion = manichaean
         size = 36
     }
 
     farmers = {
-        culture = ruthenian
-        religion = manichaean
+        culture = khazar
+        religion = jewish
         size = 513
     }
 }
 #Novo Usensk (340000/85000 POPS)
 1038 = {
     aristocrats = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 486
     }
 
     clergymen = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 297
     }
 
     artisans = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 1530
     }
 
     soldiers = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 306
     }
 
     farmers = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 27981
     }
@@ -4393,57 +4429,69 @@
 #Tsaritsyn (1072000/268000 POPS)
 1039 = {
     aristocrats = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 2160
     }
 
     clergymen = {
-        culture = ruthenian
-        religion = orthodox
+        culture = temarundian
+        religion = manichaean
         size = 900
     }
 
     artisans = {
-        culture = ruthenian
-        religion = orthodox
+        culture = circassian
+        religion = manichaean
         size = 3600
     }
 
     artisans = {
-        culture = ruthenian
-        religion = orthodox
+        culture = yahudim
+        religion = jewish
         size = 3600
     }
 
     artisans = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 1260
     }
 
     soldiers = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 3600
     }
 
     farmers = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
-        size = 40986
+        size = 36986
     }
 
     serfs = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
-        size = 50400
+        size = 49400
+    }
+	
+    farmers = {
+        culture = khazar
+        religion = jewish
+        size = 3986
+    }
+
+    serfs = {
+        culture = khazar
+        religion = jewish
+        size = 1400
     }
 	
     serfs = {
         culture = temarundian
         religion = orthodox
-        size = 15166.199999999998.399999999997
+        size = 15166
     }
 
     clergymen = {
@@ -4465,7 +4513,7 @@
     }
 
     farmers = {
-        culture = temarundian
+        culture = ruthenian
         religion = orthodox
         size = 7047
     }
@@ -4473,57 +4521,63 @@
 #Zarevka (36000/9000 POPS)
 1040 = {
     aristocrats = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 18
     }
 
     clergymen = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 27
     }
 
     artisans = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 72
     }
 
     soldiers = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 396
     }
 
     aristocrats = {
-        culture = ruthenian
-        religion = manichaean
+        culture = khazar
+        religion = jewish
         size = 36
     }
 
     clergymen = {
-        culture = ruthenian
-        religion = manichaean
+        culture = yahudim
+        religion = jewish
         size = 18
     }
 
     artisans = {
-        culture = ruthenian
-        religion = manichaean
+        culture = yahudim
+        religion = jewish
         size = 810
     }
 
     soldiers = {
-        culture = ruthenian
-        religion = manichaean
+        culture = yahudim
+        religion = jewish
         size = 18
     }
 
     farmers = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 1638
+    }
+	
+    farmers = {
+        culture = temarundian
+        religion = manichaean
+        size = 938
     }
 }
 #Elitsa (124000/31000 POPS)
@@ -4583,32 +4637,62 @@
     }
 
     aristocrats = {
-        culture = mongol
-        religion = manichaean
+        culture = yahudim
+        religion = jewish
+        size = 9
+    }
+
+    clergymen = {
+        culture = yahudim
+        religion = jewish
+        size = 9
+    }
+
+    artisans = {
+        culture = yahudim
+        religion = jewish
+        size = 18
+    }
+
+    soldiers = {
+        culture = yahudim
+        religion = jewish
+        size = 9
+    }
+
+    farmers = {
+        culture = yahudim
+        religion = jewish
+        size = 315
+    }
+
+    aristocrats = {
+        culture = khazar
+        religion = jewish
         size = 234
     }
 
     clergymen = {
-        culture = mongol
-        religion = manichaean
+        culture = khazar
+        religion = jewish
         size = 99
     }
 
     artisans = {
-        culture = mongol
-        religion = manichaean
+        culture = khazar
+        religion = jewish
         size = 522
     }
 
     soldiers = {
-        culture = mongol
-        religion = manichaean
+        culture = khazar
+        religion = jewish
         size = 108
     }
 
     farmers = {
-        culture = mongol
-        religion = manichaean
+        culture = khazar
+        religion = jewish
         size = 3717
     }
 	
@@ -4745,33 +4829,45 @@
 #Busuluk (164000/41000 POPS)
 1043 = {
     aristocrats = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 189
     }
 
     clergymen = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 144
     }
 
     artisans = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 720
     }
 
     soldiers = {
-        culture = ruthenian
+        culture = temarundian
         religion = orthodox
         size = 144
     }
 
     farmers = {
+        culture = temarundian
+        religion = orthodox
+        size = 10163
+    }
+	
+    serfs = {
+        culture = temarundian
+        religion = orthodox
+        size = 5163
+    }
+	
+    serfs = {
         culture = ruthenian
         religion = orthodox
-        size = 17163
+        size = 2163
     }
 }
 #Orenburg (124000/31000 POPS)
@@ -4874,146 +4970,145 @@
 #Stavropol (188000/47000 POPS)
 1050 = {
     clergymen = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 36
     }
 
     artisans = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 234
     }
 
     soldiers = {
-        culture = temarundian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 54
     }
 
     farmers = {
         culture = temarundian
-        religion = orthodox
-        size = 4356
+        religion = manichaean
+        size = 2356
+    }
+	
+    farmers = {
+        culture = khazar
+        religion = jewish
+        size = 2056
     }
 
     aristocrats = {
-        culture = ruthenian
-        religion = orthodox
+        culture = yahudim
+        religion = jewish
         size = 180
     }
 
     bureaucrats = {
-        culture = ruthenian
-        religion = orthodox
+        culture = yahudim
+        religion = jewish
         size = 54
     }
 
     officers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 27
     }
 
     clergymen = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 72
     }
 
     artisans = {
-        culture = ruthenian
-        religion = orthodox
+        culture = yahudim
+        religion = jewish
         size = 396
     }
 
     soldiers = {
-        culture = ruthenian
-        religion = orthodox
+        culture = khazar
+        religion = jewish
         size = 720
     }
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
-        size = 2187
+        culture = circassian
+        religion = manichaean
+        size = 1187
     }
 
     aristocrats = {
         culture = circassian
         religion = manichaean
         size = 90
-        militancy = 3
     }
 
     officers = {
         culture = circassian
         religion = manichaean
         size = 18
-        militancy = 3
     }
 
     clergymen = {
         culture = circassian
         religion = manichaean
         size = 45
-        militancy = 3
     }
 
     artisans = {
         culture = circassian
         religion = manichaean
         size = 234
-        militancy = 3
     }
 
     farmers = {
-        culture = ruthenian
-        religion = manichaean
+        culture = khazar
+        religion = jewish
         size = 3114
-        militancy = 3
     }
 
     soldiers = {
         culture = circassian
         religion = manichaean
         size = 414
-        militancy = 3
     }
 
     farmers = {
         culture = circassian
         religion = manichaean
-        size = 4599
-        militancy = 3
+        size = 5599
     }
 
     aristocrats = {
-        culture = mongol
+        culture = greek
         religion = manichaean
         size = 5.3999999999999995
     }
 
     clergymen = {
-        culture = mongol
+        culture = greek
         religion = manichaean
         size = 9
     }
 
     artisans = {
-        culture = mongol
+        culture = greek
         religion = manichaean
         size = 18
     }
 
     soldiers = {
-        culture = mongol
+        culture = greek
         religion = manichaean
-        size = 3.5999999999999996
+        size = 3
     }
 
     farmers = {
-        culture = mongol
+        culture = greek
         religion = manichaean
         size = 324
     }

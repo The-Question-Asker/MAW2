@@ -265,3 +265,4 @@ NORMAL_WAR_CONQUEST_LOW_NAME;$ORDER$Lowly Conquest of $SECOND_COUNTRY$;;;;;;;;;;
 conquest_low_short;Annex $RECIPIENT$;;;;;;;;;;;;;x
 conquest_low_setup;Annex $RECIPIENT$;;;;;;;;;;;;;x
 conquest_low_desc;Annex a single-state §Ycountry§W with less than 550,000 pops;;;;;;;;;;;;;x
+khazar;Khazar;;;;;;;;;;;;;
