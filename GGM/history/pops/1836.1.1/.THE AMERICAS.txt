@@ -33188,7 +33188,7 @@
 	soldiers = {
 		 culture = amorican_frank
 		 religion = orthodox
-		 size = 401
+		 size = 3400
 	}
 
 

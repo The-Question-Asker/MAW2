@@ -1,0 +1,73 @@
+
+
+leader = {
+    name = "Isarn Batteux"
+    type = land
+    date= "1833.1.1"
+    personality = vicious
+    background = drillmaster
+}
+
+leader = {
+    name = "Prospero 'Les Haineux' fon Rohand"
+    type = land
+    date= "1833.1.1"
+    personality = harsh
+    background = cursed_luck
+}
+
+leader = {
+    name = "Genobaud Prevel"
+    type = sea
+    date= "1833.1.1"
+    personality = clever
+    background = bigoted
+}
+
+
+
+
+army = {
+    name = "Milice Principale"
+    location = 45
+    regiment = {
+        name= "Les Garçons d'Isarn"
+        type = infantry
+        home = 45
+    }
+
+}
+
+army = {
+    name = "Garnison de Cobaus"
+    location = 2209
+    regiment = {
+        name= "Chasseurs d'Esclaves"
+        type = hussar
+        home = 45
+    }
+
+}
+
+navy = {
+    name = "Marine Amoricaine"
+    location = 2213
+	ship = {
+        name= "St. Jean"
+        type = frigate
+    }
+	ship = {
+        name= "Dragon"
+        type = frigate
+    }
+    ship = {
+        name= "Fleur"
+        type = clipper_transport
+    }
+	ship = {
+        name= "Belle"
+        type = clipper_transport
+    }
+
+}
+
