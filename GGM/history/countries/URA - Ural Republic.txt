@@ -1,7 +1,5 @@
 capital = 1058
 primary_culture = ruthenian
-culture = byeloruthenian
-culture = temarundian
 culture = ugrian
 religion = orthodox
 government = democracy

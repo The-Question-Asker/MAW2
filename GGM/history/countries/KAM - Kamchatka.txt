@@ -1,7 +1,5 @@
 capital = 1078 #Chita
 primary_culture = ruthenian
-culture = byeloruthenian
-culture = temarundian
 culture = siberian
 religion = orthodox
 government = absolute_monarchy
