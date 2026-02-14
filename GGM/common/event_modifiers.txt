@@ -29,6 +29,11 @@ desolation = {
 	icon = 40
 }
 
+suspected_child_sacrifice = {
+	pop_militancy_modifier = 0.01
+	icon = 22
+}
+
 #### HPM AND VANILLA ###
 
 ####AI Personalities
@@ -1134,12 +1139,12 @@ colonial_recruitment = {
 
 small_baby_boom = {
     population_growth = 0.001
-    icon = 19
+    icon = 21
 }
 
 baby_boom = {
     population_growth = 0.005
-    icon = 19
+    icon = 21
 }
 
 global_baby_boom = {
