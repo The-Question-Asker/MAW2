@@ -39,7 +39,7 @@ army = {
 }
 
 army = {
-    name = "Garnison de Cobaus"
+    name = "Garnison de Cobau"
     location = 2209
     regiment = {
         name= "Chasseurs d'Esclaves"
