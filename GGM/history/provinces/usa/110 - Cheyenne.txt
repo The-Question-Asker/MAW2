@@ -2,6 +2,5 @@ owner = PHO
 controller = PHO
 add_core = PHO
 trade_goods = grain
-terrain = mountain
 life_rating = 35
 
