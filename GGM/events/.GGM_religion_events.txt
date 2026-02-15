@@ -36,7 +36,7 @@ country_event = {
 	id = 49971 
 	title = "EVTNAME49971" 
 	desc = "EVTDESC49971"
-	#picture = "confedlot"
+	picture = "tissot_temple"
 
 	major = yes
 
