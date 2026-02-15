@@ -64,12 +64,16 @@ political_decisions = {
 			
 			any_country = {
 				limit = {
-					OR = {
-						has_country_flag = arian_country
-						has_country_flag = orthodox_country
-						has_country_flag = thomasine_country
-						has_country_flag = bon_chrestien_country
-						has_country_flag = antipaederian_country
+					any_owned_province = {
+						any_pop = {
+							OR = {
+								has_pop_religion = arian
+								has_pop_religion = orthodox
+								has_pop_religion = thomasine
+								has_pop_religion = bon_chrestien
+								has_pop_religion = antipaederian
+							}
+						}
 					}
 					exists = yes
 				}
