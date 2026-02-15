@@ -65,107 +65,175 @@ country_event = {
 
 }
 
-#country_event = {
-#	id = 49970 
-#	title = "EVTNAME49970" 
-#	desc = "EVTDESC49970"
-#	#picture = "confedlot"
-#
-#	trigger = {
-#		NOT = {
-#			has_country_flag = pagan_country
-#			has_country_flag = huacan_country
-#		}
-#		
-#		any_pop = {
-#			has_pop_religion = thomasine
-#		}
-#	}
-#	
-#	mean_time_to_happen = {
-#		months = 170
-#		
-#		modifier = {
-#			factor = 0.9
-#			OR = {
-#				religious_policy = moralism
-#				religious_policy = pro_atheism 
-#			}
-#		}
-#	}
-#	
-#	option = {
-#		name = ""
-#		random_owned = {
-#			limit = {
-#				any_pop = {	
-#					has_pop_religion = thomasine	
-#				}
-#				any_pop = {
-#					NOT = {
-#						has_pop_religion = thomasine
-#					}
-#				}
-#			}
-#			add_province_modifier = {
-#				name = suspected_child_sacrifice
-#				duration = 320
-#			}
-#		}
-#		
-#	}
-#	
-#	option = {
-#		name = ""
-#		random_owned = {
-#			limit = {
-#				any_pop = {	
-#					has_pop_religion = thomasine	
-#				}
-#				any_pop = {
-#					NOT = {
-#						has_pop_religion = thomasine
-#					}
-#				}
-#			}
-#			any_pop = {
-#				limit = {
-#					has_pop_religion = thomasine
-#				}
-#			
-#			}
-#			reduce_pop = 0.98
-#		}
-#		
-#		any_pop 
-#		
-#		
-#	
-#	}
-#	
-#	option = {
-#		name = ""
-#		random_owned = {
-#			limit = {
-#				any_pop = {	
-#					has_pop_religion = thomasine	
-#				}
-#				any_pop = {
-#					NOT = {
-#						has_pop_religion = thomasine
-#					}
-#				}
-#			}
-#			
-#			add_province_modifier = {
-#				name = suspected_child_sacrifice
-#				duration = 320
-#		
-#			}
-#		
-#		}
-#		
-#	
-#	}
-#
-#}
+country_event = {
+	id = 49970 
+	title = "EVTNAME49970" 
+	desc = "EVTDESC49970"
+	picture = "tulum_temple"
+
+	trigger = {
+		NOT = {
+			has_country_flag = pagan_country
+			has_country_flag = huacan_country
+		}
+		any_owned_province = {
+			any_pop = {
+				has_pop_religion = thomasine
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 170
+		
+		modifier = {
+			factor = 0.9
+			OR = {
+				religious_policy = moralism
+				religious_policy = pro_atheism 
+			}
+		}
+	}
+	
+	option = {
+		name = "Try to defuse the situation by conducting an official investigation."
+		random_province = {
+			limit = {
+				OR = {
+					continent = north_america
+					continent = south_america
+				}
+				any_pop = {	
+					has_pop_religion = thomasine	
+				}
+				any_pop = {
+					OR = {
+						has_pop_religion = arian
+					}
+				}
+			}
+			
+			add_province_modifier = {
+				name = suspected_child_sacrifice
+				duration = 320
+		
+			}
+			
+			any_pop = {
+				limit = {
+					has_pop_religion = thomasine
+				}
+				
+				militancy = 2
+				consciousness = 2
+			}
+				
+				
+			any_pop = {
+				limit = {
+					NOT = { has_pop_religion = thomasine }
+				}
+				militancy = 2
+				consciousness = -1
+			}
+		
+		}
+		
+	
+	}
+	
+	
+	option = {
+		name = "Thomasines know of Isaac. Make sure the arian parishoners do not do something rash."
+		random_province = {
+			limit = {
+				OR = {
+					continent = north_america
+					continent = south_america
+				}
+				any_pop = {	
+					has_pop_religion = thomasine	
+				}
+				any_pop = {
+					OR = {
+						has_pop_religion = arian
+					}
+				}
+			}
+			add_province_modifier = {
+				name = suspected_child_sacrifice
+				duration = 320
+			}
+			
+			any_pop = {
+				limit = {
+					has_pop_religion = thomasine
+				}
+				
+				militancy = -1
+			}
+				
+				
+			any_pop = {
+				limit = {
+					NOT = { has_pop_religion = thomasine }
+				}
+				militancy = 5
+				consciousness = 5
+			}
+		}
+		
+	}
+	
+	option = {
+		name = "Let the people do as they will with these Thomasine heretics."
+		
+		random = {
+			chance = 50
+			random_province = {
+				limit = {
+					OR = {
+						continent = north_america
+						continent = south_america
+					}
+					any_pop = {	
+						has_pop_religion = thomasine	
+					}
+					any_pop = {
+						OR = {
+							has_pop_religion = arian
+						}
+					}
+				}
+				any_pop = {
+					limit = {
+						has_pop_religion = thomasine
+					}
+					reduce_pop = 0.92
+					militancy = 7
+				}
+				
+				
+				any_pop = {
+					limit = {
+						NOT = { has_pop_religion = thomasine }
+					}
+					militancy = -1
+					consciousness = 1
+				}
+			}
+			
+			any_pop = {
+				limit = {
+					has_pop_religion = thomasine
+				}
+				militancy = 5
+			}
+		}
+		
+	
+	}
+	
+	
+
+}
