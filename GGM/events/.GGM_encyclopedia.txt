@@ -1,0 +1,178 @@
+country_event = {
+	id = 49969 
+	title = "EVTNAME49969" 
+	desc = "EVTDESC49969"
+	#picture = "tulum_temple"
+	
+	is_triggered_only = yes
+	
+	
+	option = {
+		name = "Next Entry"
+		
+		if = {
+			limit = {
+				THIS = {
+					any_owned_province = {
+						any_pop = {
+							has_pop_religion = arian
+						}
+					}
+					NOT = {
+						has_country_flag = learned_of_arians
+						has_country_flag = new_entry_loaded
+					}
+				}
+			
+			}
+			THIS = {
+				country_event = 49968
+				set_country_flag = learned_of_arians
+				set_country_flag = new_entry_loaded
+			
+			}
+		
+		
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					any_owned_province = {
+						any_pop = {
+							has_pop_religion = thomasine
+						}
+					}
+					NOT = {
+						has_country_flag = learned_of_thomasines
+						has_country_flag = new_entry_loaded
+					}
+				}
+			
+			}
+			THIS = {
+				country_event = 49967
+				set_country_flag = learned_of_thomasines
+				set_country_flag = new_entry_loaded
+			
+			}
+		
+		
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					NOT = {
+						has_country_flag = new_entry_loaded
+					}
+				}
+			
+			}
+			THIS = {
+				clr_country_flag = learned_of_thomasines
+				clr_country_flag = learned_of_arians
+			
+			}
+		
+		
+		}
+	
+	}
+
+}
+
+country_event = {
+	id = 49968 
+	title = "EVTNAME49968" 
+	desc = "EVTDESC49968"
+	#picture = "tulum_temple"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "Next Entry"
+		
+		clr_country_flag = new_entry_loaded
+		
+		if = {
+			limit = {
+				THIS = {
+					any_owned_province = {
+						any_pop = {
+							has_pop_religion = thomasine
+						}
+					}
+					NOT = {
+						has_country_flag = learned_of_thomasines
+						has_country_flag = new_entry_loaded
+					}
+				}
+			
+			}
+			THIS = {
+				country_event = 49967
+				set_country_flag = learned_of_thomasines
+				set_country_flag = new_entry_loaded
+			
+			}
+		
+		
+		}
+		
+		if = {
+			limit = {
+				THIS = {
+					NOT = {
+						has_country_flag = new_entry_loaded
+					}
+				}
+			
+			}
+			THIS = {
+				clr_country_flag = learned_of_thomasines
+				clr_country_flag = learned_of_arians
+			
+			}
+		
+		
+		}
+	
+	}
+
+}
+
+country_event = {
+	id = 49967
+	title = "EVTNAME49967" 
+	desc = "EVTDESC49967"
+	#picture = "tulum_temple"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "Next Entry"
+		
+		clr_country_flag = new_entry_loaded
+		
+		if = {
+			limit = {
+				THIS = {
+					NOT = {
+						has_country_flag = new_entry_loaded
+					}
+				}
+			
+			}
+			THIS = {
+				clr_country_flag = learned_of_thomasines
+				clr_country_flag = learned_of_arians
+			
+			}
+		
+		
+		}
+	
+	}
+
+}
