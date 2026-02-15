@@ -1,6 +1,6 @@
 owner = RTH
 controller = RTH
 add_core = TEM
-add_core = AKH
+add_core = KHK
 trade_goods = wool
 life_rating = 35

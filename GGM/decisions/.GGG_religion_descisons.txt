@@ -4,14 +4,14 @@ political_decisions = {
 		#picture = circassia
 	
 		potential = {
-            has_country_flag = jewish_nation
+            has_country_flag = jewish_country
 			NOT = { has_global_flag = third_temple_building }
         }
         allow = {
 			owns = 917
 			is_indepedant = yes
 			war = no
-			treasury = 750000
+			money = 750000
 			NOT = {
 				ruling_party_ideology = reactionary
 				ruling_party_ideology = communist

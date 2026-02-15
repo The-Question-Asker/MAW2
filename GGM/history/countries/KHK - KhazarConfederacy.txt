@@ -1,7 +1,7 @@
 capital = 1036
 primary_culture = khazar
 culture = circassian
-culture = dagestani
+culture = yahudim
 religion = jewish
 government = absolute_monarchy
 plurality = 5.0

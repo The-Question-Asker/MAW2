@@ -61,21 +61,111 @@ country_event = {
 		}
 		
 		clr_country_flag = building_the_temple
-		
-		if = {
-			limit = {
-				THIS = {
-					NOT = {
-						has_global_flag = jewish_homeland_established
-					}
-				}
-			
-			}
-			THIS = {
-				set_country_flag = jewish_homeland
-				set_global_flag = jewish_homeland_established
-			}
-		}
 	}
 
 }
+
+#country_event = {
+#	id = 49970 
+#	title = "EVTNAME49970" 
+#	desc = "EVTDESC49970"
+#	#picture = "confedlot"
+#
+#	trigger = {
+#		NOT = {
+#			has_country_flag = pagan_country
+#			has_country_flag = huacan_country
+#		}
+#		
+#		any_pop = {
+#			has_pop_religion = thomasine
+#		}
+#	}
+#	
+#	mean_time_to_happen = {
+#		months = 170
+#		
+#		modifier = {
+#			factor = 0.9
+#			OR = {
+#				religious_policy = moralism
+#				religious_policy = pro_atheism 
+#			}
+#		}
+#	}
+#	
+#	option = {
+#		name = ""
+#		random_owned = {
+#			limit = {
+#				any_pop = {	
+#					has_pop_religion = thomasine	
+#				}
+#				any_pop = {
+#					NOT = {
+#						has_pop_religion = thomasine
+#					}
+#				}
+#			}
+#			add_province_modifier = {
+#				name = suspected_child_sacrifice
+#				duration = 320
+#			}
+#		}
+#		
+#	}
+#	
+#	option = {
+#		name = ""
+#		random_owned = {
+#			limit = {
+#				any_pop = {	
+#					has_pop_religion = thomasine	
+#				}
+#				any_pop = {
+#					NOT = {
+#						has_pop_religion = thomasine
+#					}
+#				}
+#			}
+#			any_pop = {
+#				limit = {
+#					has_pop_religion = thomasine
+#				}
+#			
+#			}
+#			reduce_pop = 0.98
+#		}
+#		
+#		any_pop 
+#		
+#		
+#	
+#	}
+#	
+#	option = {
+#		name = ""
+#		random_owned = {
+#			limit = {
+#				any_pop = {	
+#					has_pop_religion = thomasine	
+#				}
+#				any_pop = {
+#					NOT = {
+#						has_pop_religion = thomasine
+#					}
+#				}
+#			}
+#			
+#			add_province_modifier = {
+#				name = suspected_child_sacrifice
+#				duration = 320
+#		
+#			}
+#		
+#		}
+#		
+#	
+#	}
+#
+#}

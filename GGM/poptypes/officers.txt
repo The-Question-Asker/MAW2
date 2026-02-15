@@ -158,16 +158,52 @@ country_migration_target = {
         }
     }
 	
-	modifier = { #aliyah
-		factor = 2.2
+	modifier = { #flight from persecution
+		factor = 1.5
 		THIS = {
 			OR = {
-				is_culture_group = jewish_cultures
-				has_pop_culture = khazar
+				AND = {
+					OR = {
+						is_culture_group = jewish_cultures
+						has_pop_culture = khazar
+						has_pop_religion = jewish
+					}
+					NOT = {
+						country = { 
+							has_country_flag = lifted_jewish_descrimination
+						}
+					}
+				}
 				has_pop_religion = jewish
 			}
+			country = {
+				OR = {
+					has_country_flag = arian_country
+					has_country_flag = orthodox_country
+					has_country_flag = antipaederian_country
+				}
+			}
 		}
-		has_country_flag = jewish_homeland
+		has_country_flag = jewish_nation
+		NOT = {
+			AND = {
+				tag = YSR
+				has_country_flag = holds_third_temple
+			}
+		}
+	}
+	
+	modifier = { #aliyah
+		factor = 2
+		THIS = {
+			has_pop_religion = jewish
+			NOT = {
+				pop_majority_ideology = reactionary
+				pop_majority_ideology = communist
+			}
+		}
+		tag = YSR
+		has_country_flag = holds_third_temple
 	}
 	
 	modifier = {
