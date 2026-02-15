@@ -9,21 +9,23 @@ country_event = {
 	option = {
 		name = "Is this the beginning of the end times?"
 		
-		any_pop = {
-			limit = {
-				OR = {
-					has_pop_religion = arian
-					has_pop_religion = orthodox
-					has_pop_religion = thomasine
-					has_pop_religion = bon_chrestien
-					has_pop_religion = antipaederian
+		any_owned_province = {
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_religion = arian
+						has_pop_religion = orthodox
+						has_pop_religion = thomasine
+						has_pop_religion = bon_chrestien
+						has_pop_religion = antipaederian
+					}
+				
 				}
+				
+				militancy = 2
+				consciousness = 2
 			
 			}
-			
-			militancy = 2
-			consciousness = 2
-		
 		}
 	
 	}
@@ -36,9 +38,11 @@ country_event = {
 	desc = "EVTDESC49971"
 	#picture = "confedlot"
 
+	major = yes
+
 	trigger = {
 		has_country_flag = building_the_temple
-		has_country_modifier = building_third_temple
+		NOT = { has_country_modifier = building_third_temple }
 	}
 	
 	mean_time_to_happen = {
