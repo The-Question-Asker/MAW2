@@ -1,0 +1,81 @@
+country_event = {
+	id = 49972 
+	title = "EVTNAME49972" 
+	desc = "EVTDESC49972"
+	#picture = "confedlot"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "Is this the beginning of the end times?"
+		
+		any_pop = {
+			limit = {
+				OR = {
+					has_pop_religion = arian
+					has_pop_religion = orthodox
+					has_pop_religion = thomasine
+					has_pop_religion = bon_chrestien
+					has_pop_religion = antipaederian
+				}
+			
+			}
+			
+			militancy = 2
+			consciousness = 2
+		
+		}
+	
+	}
+
+}
+
+country_event = {
+	id = 49971 
+	title = "EVTNAME49971" 
+	desc = "EVTDESC49971"
+	#picture = "confedlot"
+
+	trigger = {
+		has_country_flag = building_the_temple
+		has_country_modifier = building_third_temple
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "After two thousand years, worship can resume here."
+		prestige = 20
+		
+		set_country_flag = holds_third_temple
+		set_global_flag = third_temple_built
+		
+		917 = {
+			add_province_modifier = {
+				name = the_third_temple
+				duration = -1
+			
+			}
+		}
+		
+		clr_country_flag = building_the_temple
+		
+		if = {
+			limit = {
+				THIS = {
+					NOT = {
+						has_global_flag = jewish_homeland_established
+					}
+				}
+			
+			}
+			THIS = {
+				set_country_flag = jewish_homeland
+				set_global_flag = jewish_homeland_established
+			}
+		}
+	}
+
+}

@@ -150,6 +150,18 @@ country_migration_target = {
         }
     }
 	
+	modifier = { #aliyah
+		factor = 2.2
+		THIS = {
+			OR = {
+				is_culture_group = jewish_cultures
+				has_pop_culture = khazar
+				has_pop_religion = jewish
+			}
+		}
+		has_country_flag = jewish_homeland
+	}
+	
 	modifier = {
 		factor = 2
 		THIS = {

@@ -34,6 +34,16 @@ suspected_child_sacrifice = {
 	icon = 22
 }
 
+building_third_temple = {
+	icon = 37
+}
+
+the_third_temple = {
+	assimilation_rate = 0.05
+	immigrant_attract = 0.1
+	icon = 39
+}
+
 #### HPM AND VANILLA ###
 
 ####AI Personalities

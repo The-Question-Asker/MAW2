@@ -130,6 +130,7 @@ YSR        ="countries/Ysrael.txt"
 EUL		   ="countries/EtatsUnis.txt"
 CAP		   ="countries/ColonialAntipodea.txt"
 CLT		   ="countries/ColonialLothaire.txt"
+KHK		   ="countries/KhazarConfederacy.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

@@ -1,0 +1,87 @@
+political_decisions = {
+
+	build_the_third_temple = {
+		#picture = circassia
+	
+		potential = {
+            has_country_flag = jewish_nation
+			NOT = { has_global_flag = third_temple_building }
+        }
+        allow = {
+			owns = 917
+			is_indepedant = yes
+			war = no
+			treasury = 750000
+			NOT = {
+				ruling_party_ideology = reactionary
+				ruling_party_ideology = communist
+				ruling_party_ideology = socialist
+				religious_policy = secularized
+				religious_policy = pro_atheism
+			}
+        }
+		
+        effect = {
+			set_global_flag = third_temple_building
+			set_country_flag = building_the_temple
+			treasury = -750000
+			add_country_modifier = {
+				name = building_third_temple
+				duration = 3600
+			
+			}
+			add_accepted_culture = ysraelite
+			add_accepted_culture = sephardic
+			add_accepted_culture = yahudim
+			add_accepted_culture = ashkenazi
+			
+			any_pop = {
+				limit = {
+					has_pop_religion = jewish
+				}
+				
+				scaled_consciousness = {
+					factor = 3
+					ideology = conservative
+				}
+				
+				scaled_militancy = {
+					factor = 3
+					ideology = conservative
+				}
+				
+				scaled_consciousness = {
+					factor = 4
+					ideology = reactionary
+				}
+				
+				scaled_militancy = {
+					factor = 4
+					ideology = reactionary
+				}
+			
+			}
+			
+			any_country = {
+				limit = {
+					OR = {
+						has_country_flag = arian_country
+						has_country_flag = orthodox_country
+						has_country_flag = thomasine_country
+						has_country_flag = bon_chrestien_country
+						has_country_flag = antipaederian_country
+					}
+					exists = yes
+				}
+				country_event = {
+					id = 49972
+					days = 10
+				
+				}
+				
+			
+			}
+        }
+	}
+
+}
