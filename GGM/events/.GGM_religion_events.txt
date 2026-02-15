@@ -144,7 +144,7 @@ country_event = {
 	
 	
 	option = {
-		name = "Thomasines know of Isaac. Make sure the arian parishoners do not do something rash."
+		name = "Thomasines know of Isaac. Make sure the Arian parishoners do not do something rash."
 		random_province = {
 			limit = {
 				OR = {
