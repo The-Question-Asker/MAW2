@@ -377,7 +377,7 @@ PROV2134;Insulas Akiptre;;;;;;;;;;;;;x
 PROV1784;Kartage Ultima;;;;;;;;;;;;;x
 PROV1783;Domo Serbenis;;;;;;;;;;;;;x
 PROV1785;Bankulo;;;;;;;;;;;;;x
-PROV1999;Urbe St. Saul;;;;;;;;;;;;;x
+PROV1999;Orbe St. Saul;;;;;;;;;;;;;x
 PROV2003;Mirekis Kikongo;;;;;;;;;;;;;x
 PROV2003;Namibe;;;;;;;;;;;;;x
 PROV1894;Colona Basama;;;;;;;;;;;;;x
@@ -386,7 +386,7 @@ PROV517;Porto Irkulas;;;;;;;;;;;;;x
 PROV2131;Nobva Britana and St. Linus;;;;;;;;;;;;;x
 PROV854;Melites;;;;;;;;;;;;;x
 PROV1498;Aeomonos;;;;;;;;;;;;;x
-PROV2647;Urbe Okuse;;;;;;;;;;;;;x
+PROV2647;Orbe Okuse;;;;;;;;;;;;;x
 PROV420;Le Nouchâteau;;;;;;;;;;;;;x
 PROV422;Condate;;;;;;;;;;;;;x
 PROV458;Bordèu;;;;;;;;;;;;;x
@@ -608,17 +608,17 @@ PROV1;Poste Cephalie;;;;;;;;;;;;;x
 PROV17;Chaîne de Mani;;;;;;;;;;;;;x
 PROV92;Montmar;;;;;;;;;;;;;x
 PROV21;Maramonville;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
+PROV2264;Kartage de Katekes;;;;;;;;;;;;;x
+PROV2267;Hg. St. Tomas;;;;;;;;;;;;;x
+PROV2269;Datanokos;;;;;;;;;;;;;x
+PROV2265;Orbokospes;;;;;;;;;;;;;x
+PROV2262;Ikopo;;;;;;;;;;;;;x
+PROV2249;Portoiflumenes;;;;;;;;;;;;;x
+PROV2272;Litu de Bente;;;;;;;;;;;;;x
+PROV2270;Nobve Mogadore;;;;;;;;;;;;;x
+PROV2255;Orberikes;;;;;;;;;;;;;x
+PROV2273;Ipalido;;;;;;;;;;;;;x
+PROV2271;Domo de Kobalo;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
@@ -790,8 +790,8 @@ PROV3138;Pavelya Plain;;;;;;;;;;;;;x
 PROV3012;Bowhead Strait;;;;;;;;;;;;;x
 PROV3133;Morskiye Sudyi;;;;;;;;;;;;;x
 PROV3277;Lac Serpent;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2973;Mare Wismares;;;;;;;;;;;;;x
+PROV2972;Sinus Wismarus;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
@@ -955,8 +955,8 @@ NWR_83;X;;;;;;;;;;;;;x
 NWR_84;X;;;;;;;;;;;;;x
 NWR_85;X;;;;;;;;;;;;;x
 NWR_86;X;;;;;;;;;;;;;x
-NWR_87;X;;;;;;;;;;;;;x
-NWR_88;X;;;;;;;;;;;;;x
+NWR_87;Baliskipas;;;;;;;;;;;;;x
+NWR_88;Notokampos;;;;;;;;;;;;;x
 NWR_89;X;;;;;;;;;;;;;x
 NWR_90;North Chinchay Suyu;;;;;;;;;;;;;x
 NWR_91;X;;;;;;;;;;;;;x
