@@ -9,7 +9,7 @@ country_event = {
 	option = {
 		name = "Is this the beginning of the end times?"
 		
-		any_owned_province = {
+		any_owned = {
 			any_pop = {
 				limit = {
 					OR = {
