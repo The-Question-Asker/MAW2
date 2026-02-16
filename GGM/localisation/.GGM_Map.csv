@@ -599,11 +599,15 @@ PROV110;Gardien;;;;;;;;;;;;;x
 PROV2631;Ungalaqliit;;;;;;;;;;;;;x
 PROV5;Ivanogrod;;;;;;;;;;;;;x
 PROV2599;Tanana;;;;;;;;;;;;;x
-NWR_1;Pavelya Zemlya;;;;;;;;;;;;x
 PROV6;Yukaihan;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
+PROV20;Pansette;;;;;;;;;;;;;x
+PROV81;Molier;;;;;;;;;;;;;x
+PROV16;Père Jaques;;;;;;;;;;;;;x
+PROV15;Port des Mages;;;;;;;;;;;;;x
+PROV1;Poste Cephalie;;;;;;;;;;;;;x
+PROV17;Chaîne de Mani;;;;;;;;;;;;;x
+PROV92;Montmar;;;;;;;;;;;;;x
+PROV21;Maramonville;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
@@ -785,13 +789,7 @@ PROV3113;Ivanogrod Bay;;;;;;;;;;;;;x
 PROV3138;Pavelya Plain;;;;;;;;;;;;;x
 PROV3012;Bowhead Strait;;;;;;;;;;;;;x
 PROV3133;Morskiye Sudyi;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV3277;Lac Serpent;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
@@ -871,13 +869,13 @@ ENG_2505;Gulumerrgin;;;;;;;;;;;;;x #Northern Territory
 AST_1111;Tjukaruru West;;;;;;;;;;;;;x
 AST_2222;Tjukaruru East;;;;;;;;;;;;;x
 PROV1153;Yathrib;;;;;;;;;;;;;x
-NWR_1;X;;;;;;;;;;;;;x
-NWR_2;X;;;;;;;;;;;;;x
-NWR_3;X;;;;;;;;;;;;;x
+NWR_1;Pavelya Zemlya;;;;;;;;;;;;x
+NWR_2;Awokanak;;;;;;;;;;;;;x
+NWR_3;Sekanes;;;;;;;;;;;;;x
 NWR_4;Aprusia;;;;;;;;;;;;;x
-NWR_5;X;;;;;;;;;;;;;x
-NWR_6;X;;;;;;;;;;;;;x
-NWR_7;X;;;;;;;;;;;;;x
+NWR_5;Denesques;;;;;;;;;;;;;x
+NWR_6;Novaya Nenetsia;;;;;;;;;;;;;x
+NWR_7;Les Egregores;;;;;;;;;;;;;x
 NWR_8;X;;;;;;;;;;;;;x
 NWR_9;Côte de la Splendeur;;;;;;;;;;;;;x
 NWR_10;Pinsterre;;;;;;;;;;;;;x
