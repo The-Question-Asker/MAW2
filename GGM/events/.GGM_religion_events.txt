@@ -2,7 +2,7 @@ country_event = {
 	id = 49972 
 	title = "EVTNAME49972" 
 	desc = "EVTDESC49972"
-	#picture = "confedlot"
+	picture = "building_temple"
 
 	is_triggered_only = yes
 	

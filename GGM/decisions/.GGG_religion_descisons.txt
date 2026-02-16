@@ -1,7 +1,7 @@
 political_decisions = {
 
 	build_the_third_temple = {
-		#picture = circassia
+		picture = build_third_temp
 	
 		potential = {
             has_country_flag = jewish_country
