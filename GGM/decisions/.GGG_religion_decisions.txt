@@ -87,5 +87,26 @@ political_decisions = {
 			}
         }
 	}
+	
+#	press_antipaederians_into_service = {
+#		picture = oppressing_religious_minorities
+#		alert = no
+#	
+#		potential = {
+#			has_pop_religion = antipaederians
+#			OR = {
+#				NOT = { has_country_flag = pressed_objecters_to_service }
+#				NOT = { has_country_flag = freedom_of_religion }
+#			}
+#        }
+#        allow = {
+#
+#        }
+#		
+#        effect = {
+#			set_country_flag = pressed_objecters_to_service
+#			
+#        }
+#	}
 
 }
