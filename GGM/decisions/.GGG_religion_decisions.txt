@@ -104,7 +104,8 @@ political_decisions = {
 			}
         }
         allow = {
-
+			war = yes
+			state_n_government = 1
         }
 		
         effect = {
