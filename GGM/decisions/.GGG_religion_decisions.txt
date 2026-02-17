@@ -90,7 +90,7 @@ political_decisions = {
 	
 	press_antipaederians_into_service = {
 		picture = oppressing_religious_minorities
-		alert = no
+		#alert = no
 	
 		potential = {
 			any_owned_province = {
