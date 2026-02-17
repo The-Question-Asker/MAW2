@@ -466,10 +466,17 @@ great_slavs = {
 				Mikhail Nakhoslav Mirad Polochko Stanilo Vladimiru Vatslav Voron
 				Vyshata Yaroshko Zvenislav Mischka Dmitri Alexei Feodorit Kurilu Nifont 
 				Sofon Sosipatr Nikolai Akhav Apollion Irod Leviy Oziya Yuriel Ivan Agafangel 
-				Gofoniel
+				Gofoniel Pyotr Afanasiy Simon Stepan Nikita Pepin Yaroslav
 			}
 
-			last_names = {	}
+			last_names = { Vernadsky Annikov Antipov Fedorov Ivanov Voronov Yarikov Bakulin
+				Gofonieyev Dmitryev Alexyev Stanilov Vyashtav Barsov Charodeev Chebotaryov
+				Cherniaev Demidov Dishel Drobyshev Fyodorovtsev Golovin Glavnyy Grushkin Yakushev
+				Karamazin Irodov Nikolaiyev Kolovrat Kosmen "Kozar Bakulin" Kraina Krasilkov Kurilov
+				Lavrentyev Letov Leonov Krasheninikov Molchanov Myshkin Nemetsev Nikitov Pepinov Privetkin
+				Pugachev Svidrigailov Reznikov Sazonov Smolin Sokolnikov Solorev Talinov Troshev Urusov Velikov
+				Verischagin Voronstov Volkovsky Yaroslavtsev
+				}
     }
 	
 	byeloruthenian = {
