@@ -129,6 +129,215 @@ army = {
 
 }
 
+army = {
+    name = "2ye Druzhina"
+    location = 969
+    regiment = {
+        name= "1ya Pechotnaya Brigada"
+        type = infantry
+        home = 969
+    }
+	regiment = {
+        name= "2ye Pechotnaya Brigada"
+        type = infantry
+        home = 961
+    }
+	regiment = {
+        name= "3ye Pechotnaya Brigada"
+        type = infantry
+        home = 955
+    }
+	regiment = {
+        name= "4ye Pechotnaya Brigada"
+        type = infantry
+        home = 977
+    }
+	
+	regiment = {
+        name= "1ya Artilleriyaskaya Brigada"
+        type = artillery
+        home = 1019
+    }
+	regiment = {
+        name= "2ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 1019
+    }
+	regiment = {
+        name= "3ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 990
+    }
+	regiment = {
+        name= "4ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 979
+    }
+	
+	regiment = {
+        name= "1ya Kavaleriyaskaya Brigada"
+        type = hussar
+        home = 364
+    }
+	regiment = {
+        name= "2ye Kavaleriyaskaya Brigada"
+        type = hussar
+        home = 361
+    }
+
+}
+
+army = {
+    name = "3ye Druzhina"
+    location = 962
+    regiment = {
+        name= "1ya Pechotnaya Brigada"
+        type = infantry
+        home = 962
+    }
+	regiment = {
+        name= "2ye Pechotnaya Brigada"
+        type = infantry
+        home = 941
+    }
+	regiment = {
+        name= "3ye Pechotnaya Brigada"
+        type = irregular
+        home = 959
+    }
+	regiment = {
+        name= "4ye Pechotnaya Brigada"
+        type = irregular
+        home = 960
+    }
+	
+	regiment = {
+        name= "5ye Pechotnaya Brigada"
+        type = irregular
+        home = 978
+    }
+	
+	regiment = {
+        name= "1ya Artilleriyaskaya Brigada"
+        type = artillery
+        home = 980
+    }
+	regiment = {
+        name= "2ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 1012
+    }
+	regiment = {
+        name= "3ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 1012
+    }
+	
+	
+	regiment = {
+        name= "1ya Kavaleriyaskaya Brigada"
+        type = hussar
+        home = 361
+    }
+
+}
+
+army = {
+    name = "4ye Druzhina"
+    location = 997
+    regiment = {
+        name= "1ya Pechotnaya Brigada"
+        type = infantry
+        home = 997
+    }
+	regiment = {
+        name= "2ye Pechotnaya Brigada"
+        type = infantry
+        home = 355
+    }
+	regiment = {
+        name= "3ye Pechotnaya Brigada"
+        type = infantry
+        home = 1009
+    }
+	regiment = {
+        name= "4ye Pechotnaya Brigada"
+        type = infantry
+        home = 1014
+    }
+	
+	
+	regiment = {
+        name= "1ya Artilleriyaskaya Brigada"
+        type = artillery
+        home = 1016
+    }
+	regiment = {
+        name= "2ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 1012
+    }
+	regiment = {
+        name= "3ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 946
+    }
+	
+	
+	regiment = {
+        name= "1ya Kavaleriyaskaya Brigada"
+        type = hussar
+        home = 946
+    }
+
+}
+
+army = {
+    name = "5ye Druzhina"
+    location = 1063
+    regiment = {
+        name= "1ya Pechotnaya Brigada"
+        type = infantry
+        home = 1022
+    }
+	regiment = {
+        name= "2ye Pechotnaya Brigada"
+        type = infantry
+        home = 1013
+    }
+	
+	regiment = {
+        name= "1ya Kavaleriyaskaya Brigada"
+        type = hussar
+        home = 938
+    }
+
+}
+
+army = {
+    name = "6ye Druzhina"
+    location = 1072
+    regiment = {
+        name= "1ya Pechotnaya Brigada"
+        type = infantry
+        home = 937
+    }
+	regiment = {
+        name= "2ye Pechotnaya Brigada"
+        type = infantry
+        home = 940
+    }
+	
+	regiment = {
+        name= "1ya Kavaleriyaskaya Brigada"
+        type = hussar
+        home = 957
+    }
+
+}
+
+
+
 ## Navy
 
 navy = {
@@ -153,7 +362,7 @@ navy = {
 	name = "Vostokniy Flot"
 	location = 1074
 	ship = {
-		name= "Moscow"
+		name= "Moskovya"
 		type = manowar
 	}
 }
