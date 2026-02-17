@@ -347,6 +347,63 @@ navy = {
 		name= "Tsaritsyn"
 		type = manowar
 	}
+	
+	ship = {
+		name= "Prins Oleg"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Vladmir"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Uskapyn"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Kamschatka"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Tsarevitch"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Nikon"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Novgorod"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	
 }
 
 navy = {
@@ -356,6 +413,18 @@ navy = {
 		name= "Artemis"
 		type = manowar
 	}
+	
+	ship = {
+		name= "Suomstrani"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Petropavelsky"
+		type = frigate
+	}
+	
+	
 }
 
 navy = {
@@ -364,6 +433,26 @@ navy = {
 	ship = {
 		name= "Moskovya"
 		type = manowar
+	}
+	
+	ship = {
+		name= "Warsaw"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Clipper Transport"
+		type = clipper_transport
 	}
 }
 
