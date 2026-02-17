@@ -449,9 +449,9 @@ zapadoslav_wendish = {
 	
 	wendish = {
 	  color = { 111 199 181 }
-        	first_names = { }
+        	first_names = { Czaldavek }
 
-			last_names = {	}
+			last_names = {"The Bane" }
     }	
     union = WND
 }
@@ -462,7 +462,12 @@ great_slavs = {
 
 	ruthenian = {
 	  color = { 9 115 80 }
-        	first_names = { }
+        	first_names = { Evpaty Fedor Gremislav Grigorije Izyaslav Yarik Kurilu
+				Mikhail Nakhoslav Mirad Polochko Stanilo Vladimiru Vatslav Voron
+				Vyshata Yaroshko Zvenislav Mischka Dmitri Alexei Feodorit Kurilu Nifont 
+				Sofon Sosipatr Nikolai Akhav Apollion Irod Leviy Oziya Yuriel Ivan Agafangel 
+				Gofoniel
+			}
 
 			last_names = {	}
     }
@@ -476,7 +481,7 @@ great_slavs = {
 	
 	temarundian = {
 	  color = { 43 166 145 }
-        	first_names = { }
+        	first_names = {  }
 
 			last_names = {	}
     }
