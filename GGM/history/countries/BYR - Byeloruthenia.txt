@@ -1,5 +1,5 @@
 capital = 718
-primary_culture = byeloruthenian
+primary_culture = ruthenian
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0

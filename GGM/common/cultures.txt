@@ -475,15 +475,8 @@ great_slavs = {
 				Karamazin Irodov Nikolaiyev Kolovrat Kosmen "Kozar Bakulin" Kraina Krasilkov Kurilov
 				Lavrentyev Letov Leonov Krasheninikov Molchanov Myshkin Nemetsev Nikitov Pepinov Privetkin
 				Pugachev Svidrigailov Reznikov Sazonov Smolin Sokolnikov Solorev Talinov Troshev Urusov Velikov
-				Verischagin Voronstov Volkovsky Yaroslavtsev
+				Verischagin Voronstov Volkovsky Yaroslavtsev Zhekov
 				}
-    }
-	
-	byeloruthenian = {
-	  color = { 240 235 223 }
-        	first_names = { }
-
-			last_names = {	}
     }
 	
 	temarundian = {

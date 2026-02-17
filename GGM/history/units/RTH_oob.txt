@@ -1,0 +1,115 @@
+
+SUO = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+
+
+# LEADERS
+
+leader = {
+    name = "Yaroslav Kolovrat"
+    type = land
+    date="1833.1.1"
+    personality = diplomatic
+    background = sycophant
+}
+
+
+
+
+
+## ARMYS
+
+army = {
+    name = "1ya Druzhina"
+    location = 948
+    regiment = {
+        name= "1ya Pechotnaya Brigada"
+        type = infantry
+        home = 1025
+    }
+	regiment = {
+        name= "2ye Pechotnaya Brigada"
+        type = infantry
+        home = 1025
+    }
+	regiment = {
+        name= "3ye Pechotnaya Brigada"
+        type = infantry
+        home = 354
+    }
+	regiment = {
+        name= "4ye Pechotnaya Brigada"
+        type = infantry
+        home = 1010
+    }
+	
+	regiment = {
+        name= "1ya Artilleriyaskaya Brigada"
+        type = artillery
+        home = 1010
+    }
+	regiment = {
+        name= "2ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 943
+    }
+	regiment = {
+        name= "3ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 1039
+    }
+	regiment = {
+        name= "4ye Artilleriyaskaya Brigada"
+        type = artillery
+        home = 1039
+    }
+	
+	regiment = {
+        name= "1ya Kavaleriyaskaya Brigada"
+        type = hussar
+        home = 963
+    }
+	regiment = {
+        name= "2ye Kavaleriyaskaya Brigada"
+        type = hussar
+        home = 963
+    }
+
+}
+
+## Navy
+
+navy = {
+	name = "Baltiyskiy Flot"
+	location = 355
+	ship = {
+		name= "Tsaritsyn"
+		type = manowar
+	}
+}
+
+navy = {
+	name = "Evksinskiy Flot"
+	location = 968
+	ship = {
+		name= "Artemis"
+		type = manowar
+	}
+}
+
+navy = {
+	name = "Vostokniy Flot"
+	location = 1074
+	ship = {
+		name= "Moscow"
+		type = manowar
+	}
+}
+
+
+
+
+
