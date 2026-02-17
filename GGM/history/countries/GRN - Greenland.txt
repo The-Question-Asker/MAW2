@@ -1,11 +1,11 @@
 capital = 251
-primary_culture = danish
+primary_culture = norse
 culture = inuit
-religion = protestant
-government = democracy
+religion = orthodox
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.8
+literacy = 0.08
 non_state_culture_literacy = 0.1
 civilized = yes
 
