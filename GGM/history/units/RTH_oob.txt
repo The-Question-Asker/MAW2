@@ -6,7 +6,7 @@ SUO = {
 }
 
 
-# LEADERS
+# Generals
 
 leader = {
     name = "Yaroslav Kolovrat"
@@ -16,7 +16,56 @@ leader = {
     background = sycophant
 }
 
+leader = {
+    name = "Nikita Voronstov"
+    type = land
+    date="1833.1.1"
+    personality = gutsy
+    background = cavalry_school
+}
 
+leader = {
+    name = "Yarik Velikov"
+    type = land
+    date="1833.1.1"
+    personality = spirited
+    background = disgraced
+}
+
+leader = {
+    name = "Pyotr Kolovrat"
+    type = land
+    date="1833.1.1"
+    personality = spineless
+    background = aristocrat
+}
+
+
+# Admirals 
+
+leader = {
+    name = "Afanasiy Golovin"
+    type = sea
+    date="1833.1.1"
+    personality = competent
+    background = bootlicker
+}
+
+leader = {
+    name = "Leviy Nikolaiyev"
+    type = sea
+    date="1833.1.1"
+    personality = keen
+    background = spoiled
+}
+
+leader = {
+    name = "Vatslav Bakulin"
+    type = sea
+    date="1833.1.1"
+    personality = timid
+    background = incompetent
+}
 
 
 
