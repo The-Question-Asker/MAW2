@@ -1,5 +1,82 @@
 country_event = {
-	id = 12345
+	id = 12345 
+	title = "militancy and consciousness debug"
+	desc = "10 militancy and 10 consciousness"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "THANKS BUDDY"
+		any_pop = {
+			militancy = 10
+			consciousness = 10
+		}
+	}
+}
+
+
+country_event = {
+	id = 2468 
+	desc = "rebels control everything"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "THANKS BUDDY"			
+		any_owned = {
+			change_controller = REB
+		}
+	}
+}
+
+country_event = {
+	id = 11111 
+	title = "infamy lose"
+	desc = "reduce infamy"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "THANKS BUDDY"			
+		badboy = -3
+	}
+	
+	option = {
+		name = "THANKS BUDDY"			
+		badboy = -6
+	}
+	
+	option = {
+		name = "THANKS BUDDY"			
+		badboy = -9
+	}
+}
+
+country_event = {
+	id = 22222
+	title = "prestige lose"
+	desc = "reduce prestige"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "THANKS BUDDY"			
+		prestige = -1
+	}
+
+	option = {
+		name = "THANKS BUDDY"			
+		prestige = -5
+	}
+	
+	option = {
+		name = "THANKS BUDDY"			
+		prestige = -10
+	}
+}
+
+country_event = {
+	id = 45454
 	title = "ally all"
 	desc = "ally all"
 	
@@ -64,5 +141,58 @@ country_event = {
 	option = {
 		name = "Fascist Dictatorship"			
 		government = fascist_dictatorship
+	}
+}
+
+country_event = {
+	id = 44444
+	title = "change upperhouse"
+	desc = "change upperhouse"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "communist"
+		ruling_party_ideology = communist		
+		upper_house = {
+			ideology = communist
+			value = 5
+		}
+	}
+	
+	option = {
+		name = "reactionary"
+		ruling_party_ideology = reactionary	
+		upper_house = {
+			ideology = reactionary
+			value = 5
+		}
+	}
+	
+	option = {
+		name = "fascist"	
+	ruling_party_ideology = fascist			
+		upper_house = {
+			ideology = fascist
+			value = 5
+		}
+	}
+}
+
+country_event = {
+	id = 61616
+	title = "infinite genocide"
+	desc = "reduce all pops (within countries) by 99.99% to take screenshots without units. Spam this event multiple times."
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "THANKS BUDDY"
+		any_country = {
+			any_pop = { reduce_pop = 0.01 }
+			treasury = -10000000
+		}
+		any_pop = { reduce_pop = 0.01 }
+		#treasury = -10000000
 	}
 }
