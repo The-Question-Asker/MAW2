@@ -1,0 +1,68 @@
+country_event = {
+	id = 12345
+	title = "ally all"
+	desc = "ally all"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "YAAAY"
+		any_country = {
+			#limit = {}
+			create_alliance = THIS
+		}
+	}
+}
+
+country_event = {
+	id = 33333
+	title = "change government"
+	desc = "change government"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "Republic"			
+		government = democracy
+	}
+	
+	option = {
+		name = "Absolute Monarchy"			
+		government = absolute_monarchy
+	}
+	
+	option = {
+		name = "Semi-Constituional Monarchy"			
+		government = prussian_constitutionalism
+	}
+	
+	option = {
+		name = "Theocracy"			
+		government = theocracy
+	}
+	
+	option = {
+		name = "HMS Government"			
+		government = hms_government
+	}
+	
+	option = {
+		name = "Presidental Dictatorship"			
+		government = presidential_dictatorship
+	}
+	
+	option = {
+		name = "Bourgeois Dictatorship"			
+		government = bourgeois_dictatorship
+	}
+	
+	option = {
+		name = "Proletarian Dictatorship"			
+		government = proletarian_dictatorship
+	}
+	
+	option = {
+		name = "Fascist Dictatorship"			
+		government = fascist_dictatorship
+	}
+}

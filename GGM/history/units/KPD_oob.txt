@@ -1,0 +1,117 @@
+
+
+leader = {
+    name = "Bogodar Ostoya"
+    type = land
+    date="1833.1.1"
+    personality = hellbent
+    background = nationalist
+}
+
+leader = {
+    name = "Kazimier Swiebodzic"
+    type = land
+    date="1833.1.1"
+    personality = meticulous
+    background = aristocrat
+}
+
+
+
+
+army = {
+    name = "Armia Bogodara"
+    location = 718
+    regiment = {
+        name= "1. Brygada Piechoty"
+        type = infantry
+        home = 682
+    }
+	
+	regiment = {
+        name= "2. Brygada Piechoty"
+        type = infantry
+        home = 696
+    }
+	
+	regiment = {
+        name= "1. Zespól Rebeliantów"
+        type = irregular
+        home = 546
+    }
+	
+	regiment = {
+        name= "2. Zespól Rebeliantów"
+        type = irregular
+        home = 695
+    }
+	
+	regiment = {
+        name= "1. Brygada Artylerii"
+        type = artillery
+        home = 952
+    }
+	
+	regiment = {
+        name= "2. Brygada Artylerii"
+        type = artillery
+        home = 549
+    }
+	
+	regiment = {
+        name= "4. Brygada Artylerii"
+        type = artillery
+        home = 549
+    }
+	
+	regiment = {
+        name= "Wasale Bogodan"
+        type = hussar
+        home = 684
+    }
+	
+	regiment = {
+        name= "Wasale Doboroja"
+        type = hussar
+        home = 682
+    }
+
+}
+
+army = {
+    name = "Armia Kazimiera"
+    location = 695
+    regiment = {
+        name= "1. Brygada Piechoty"
+        type = infantry
+        home = 681
+    }
+	
+	regiment = {
+        name= "1. Zespól Rebeliantów"
+        type = irregular
+        home = 550
+    }
+	
+	regiment = {
+        name= "2. Zespól Rebeliantów"
+        type = irregular
+        home = 558
+    }
+	
+	regiment = {
+        name= "1. Brygada Artylerii"
+        type = artillery
+        home = 552
+    }
+	
+	regiment = {
+        name= "Wasale Kazimiera"
+        type = hussar
+        home = 362
+    }
+
+}
+
+
+

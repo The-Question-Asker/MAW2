@@ -396,9 +396,9 @@ jugoslavs = {
 
 	sclavenian = {
 	  color = { 154 176 123 }
-        	first_names = { }
+        	first_names = { Mihailo }
 
-			last_names = {	}
+			last_names = { 	}
     }
 
 	
