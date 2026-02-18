@@ -1821,6 +1821,18 @@ free_peoples_imperial = {
 			has_country_flag = frankish_emperor
 		}
 		
+		OR = {
+			has_country_flag = occupying_imperial_land
+			AND = {
+				any_owned_province = {
+					any_core = {
+						has_country_flag = frankish_subject
+						NOT = { has_unclaimed_cores = no }
+					}
+				}
+			}
+		}
+		
     }
 
     # THIS - us
@@ -2211,6 +2223,18 @@ liberate_country_imperial = {
 		
 		THIS = {
 			has_country_flag = frankish_emperor
+		}
+		
+		OR = {
+			has_country_flag = occupying_imperial_land
+			AND = {
+				any_owned_province = {
+					any_core = {
+						has_country_flag = frankish_subject
+						NOT = { has_unclaimed_cores = no }
+					}
+				}
+			}
 		}
     }
 
