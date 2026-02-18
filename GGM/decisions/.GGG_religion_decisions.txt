@@ -98,9 +98,9 @@ political_decisions = {
 					has_pop_religion = antipaederian
 				}					
 			}
-			OR = {
-				NOT = { has_country_flag = pressed_objecters_to_service }
-				NOT = { has_country_flag = freedom_of_religion }
+			NOT = {
+				has_country_flag = pressed_objecters_to_service 
+				has_country_flag = freedom_of_religion
 			}
         }
         allow = {
