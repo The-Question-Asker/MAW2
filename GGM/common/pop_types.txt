@@ -453,8 +453,23 @@ colonialmigration_chance =
     #}
 
     modifier = {
-        factor = 0.2
+        factor = 0.3
+		OR = {
+			militancy = 1
+			unemployment = 0.1
+			is_accepted_culture = no
+		}
         country = { penal_system = colonial_transportation }
+    }
+	
+	 modifier = {
+        factor = 0.3
+		OR = {
+			militancy = 1
+			unemployment = 0.1
+			is_accepted_culture = no
+		}
+        country = { has_country_flag = has_penal_colonies }
     }
 
     group = {

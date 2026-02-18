@@ -119,6 +119,16 @@ country_event = {
             name = penal_colonies
             duration = -1
         }
+		set_country_flag = has_penal_colonies
+		random_owned = {
+			limit = {
+				is_colonial = yes
+			}
+			add_country_modifier = {
+				name = penal_colonies
+				duration = -1
+			}
+		}
     }
 
     option = {
@@ -151,6 +161,10 @@ country_event = {
     option = {
         name = "EVTOPTA22011"
         remove_country_modifier = penal_colonies
+		clr_country_flag = has_penal_colonies
+		any_owned = {
+			remove_province_modifier = penal_colony
+		}
     }
 }
 
