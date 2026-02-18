@@ -70,7 +70,7 @@ country_event = {
     title = "EVTNAME22010"
     desc = "EVTDESC22010"
     news = yes
-    news_desc_long = "EVTDESC22010_NEWS_LONG"
+    news_desc_long = "EVTDESC22010_NEWS_LONG" #missing?
     news_desc_medium = "EVTDESC22010_NEWS_MEDIUM"
     news_desc_short = "EVTDESC22010_NEWS_SHORT"
     picture = "penal_colony"
@@ -120,6 +120,16 @@ country_event = {
             duration = -1
         }
 		set_country_flag = has_penal_colonies
+		random_owned = {
+			limit = {
+				is_colonial = yes
+			}
+			add_country_modifier = {
+				name = penal_colonies
+				duration = -1
+			}
+		}
+		
 		random_owned = {
 			limit = {
 				is_colonial = yes
