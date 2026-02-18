@@ -805,6 +805,30 @@ political_decisions = {
             564 = { any_pop = { limit = { has_pop_religion = catholic } literacy = -0.05 } }
         }
     }
+	
+	HNU_and_old_setup = {
+		picture = constantinople
+	
+		potential = {
+			tag = HNU
+			always = no
+		
+		}
+		
+		allow = {
+			tag = HNU
+		
+		}
+		
+		effect = {
+			enable_canal = 4
+            enable_canal = 5
+			enable_canal = 6
+		}
+		
+		ai_will_do = { factor = 1 }
+	
+	}
 
     ottoman_1836_setup = {
         picture = constantinople
