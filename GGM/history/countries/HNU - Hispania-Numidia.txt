@@ -41,7 +41,7 @@ border_policy = closed_borders
 
 set_country_flag = arian_country
 
-#decision = HNU_and_old_setup
+decision = HNU_and_old_setup
 
 ruling_party = HNU_conservative_3
 upper_house = { # inherit

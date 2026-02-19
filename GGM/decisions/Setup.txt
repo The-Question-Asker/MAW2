@@ -806,29 +806,29 @@ political_decisions = {
         }
     }
 	
-	#HNU_and_old_setup = {
-	#	picture = constantinople
-	#
-	#	potential = {
-	#		tag = HNU
-	#		always = no
-	#	
-	#	}
-	#	
-	#	allow = {
-	#		tag = HNU
-	#	
-	#	}
-	#	
-	#	effect = {
-	#		enable_canal = 4
-    #        enable_canal = 5
-	#		enable_canal = 6
-	#	}
-	#	
-	#	ai_will_do = { factor = 1 }
-	#
-	#}
+	HNU_and_old_setup = {
+		picture = constantinople
+	
+		potential = {
+			tag = HNU
+			always = no
+		
+		}
+		
+		allow = {
+			tag = HNU
+		
+		}
+		
+		effect = {
+			enable_canal = 7
+            enable_canal = 8
+			#enable_canal = 9
+		}
+		
+		ai_will_do = { factor = 1 }
+	
+	}
 
     ottoman_1836_setup = {
         picture = constantinople
