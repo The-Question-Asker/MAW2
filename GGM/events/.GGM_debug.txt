@@ -197,3 +197,37 @@ country_event = {
 		#treasury = -10000000
 	}
 }
+
+country_event = {
+	id = 62626
+	title = "canal test1"
+	desc = "to test cansl"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "bitte"
+		enable_canal = 2
+	}
+	
+	option = {
+		name = "Closed"
+		2402 = {
+			change_controller = REB
+		
+		}
+	
+	
+	}
+	
+	option = {
+		name = "Open"
+		2402 = {
+			change_controller = ---
+		
+		}
+	
+	
+	}
+
+}

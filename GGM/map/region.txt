@@ -1130,6 +1130,12 @@ NWR_114 = { 2333 2334 2399 2131 }
 
 ENG_2132 = { 2132 2129 2130 } #South Atlantic Islands
 
+#### CLOSED REGIONS ####
+
+CNL_1 = { 2402 }
+
+CNL_2 = { 2431 }
+
 #### METAREGIONS
 
 if = { 3243 }

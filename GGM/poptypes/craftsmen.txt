@@ -40,6 +40,11 @@ luxury_needs = {
 
 country_migration_target = {
     factor = 1
+	
+	modifier = {
+		factor = -100
+		has_country_flag = canal_company
+	}
 
     modifier = {
         factor = 0

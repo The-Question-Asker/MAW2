@@ -743,7 +743,7 @@ PROV3207;Cape Antipodes Basin;;;;;;;;;;;;;x
 PROV3031;Dog Island Approach;;;;;;;;;;;;;x
 PROV3020;Sea of the Acriptines;;;;;;;;;;;;;x
 PROV2745;Gulf of Sitania;;;;;;;;;;;;;x
-PROV2746;Portas Irkulas;;;;;;;;;;;;;x
+PROV2746;Kolmnas Irkulas;;;;;;;;;;;;;x
 PROV3053;West Rikes Sea;;;;;;;;;;;;;x
 PROV3054;East Rikes Sea;;;;;;;;;;;;;x
 PROV3058;Coast of St. Aksentis;;;;;;;;;;;;;x
@@ -870,7 +870,12 @@ ENG_2505;Gulumerrgin;;;;;;;;;;;;;x #Northern Territory
 AST_1111;Tjukaruru West;;;;;;;;;;;;;x
 AST_2222;Tjukaruru East;;;;;;;;;;;;;x
 PROV1153;Yathrib;;;;;;;;;;;;;x
+PROV2402;Arsinoe River;;;;;;;;;;;;x
+PROV2431;Darien River;;;;;;;;;;;;x # needs rename
 GGM_1;Porto Irkulas;;;;;;;;;;;;x
+CNL_1;Arsinoe Canal;;;;;;;;;;;;x
+CNL_2;Darien Canal;;;;;;;;;;;;x #needs rename
+PROV2429;Kolmnas Irkulas;;;;;;;;;;;x
 NWR_1;Pavelya Zemlya;;;;;;;;;;;;x
 NWR_2;Awokanak;;;;;;;;;;;;;x
 NWR_3;Sekanes;;;;;;;;;;;;;x
@@ -1060,7 +1065,7 @@ FRA_1700;Numida;;;;;;;;;;;;;
 ALD_1704;East Martana;;;;;;;;;;;;;
 MOR_1686;West Martana;;;;;;;;;;;;;
 MOR_1688;Tingitana;;;;;;;;;;;;;
-MOR_1693;Wisimaria;;;;;;;;;;;;;
+MOR_1693;Wismara;;;;;;;;;;;;;
 BAD_586;West Swabia;;;;;;;;;;;;;
 WUR_589;East Swabia;;;;;;;;;;;;;
 PROV250;Nouvelle Avoine;;;;;;;;;;;;;x
