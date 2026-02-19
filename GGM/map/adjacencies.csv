@@ -254,6 +254,8 @@ From;To;Type;Through;Data;Comment
 #2724;2723;canal;301;6;English Channel
 #517;2590;canal;2746;6;Pillars of Herakles - Irkules to Septem
 2429;2144;canal;517;7;Strait of Gibraltar #Irkules
-2746;2429;canal;512;8;Strait of Gibraltar #Cadiz
+2746;2429;canal;517;8;Strait of Gibraltar #Irkules
+2746;2429;canal;2590;9;Strait of Gibraltar #Septem
+2429;2144;canal;2590;10;Strait of Gibraltar #Septem
 
 
