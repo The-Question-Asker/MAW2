@@ -449,13 +449,15 @@ zapadoslav_wendish = {
 	
 	wendish = {
 	  color = { 111 199 181 }
-        	first_names = { Cžaldavec Arnošt Božidar Jan Jurij Kito Ota Andras Alojs Bartiš Blažij Bogumer
+        	first_names = { Czaldavec Arnošt Božidar Jan Jurij Kito Ota Andras Alojs Bartiš Blažij Bogumer
 				Bohacesc Bohachwal Boscij Cescimer Chrystof Dytar Dytarey Gerat Hadam Handroš Handrijas Hawštyn
-				Jaromer Kašpor Mercin Matuš Miklawuš Natuš Nišan Pawol Pec Radomer Sylwijo Wjaclaw Wjelemer
+				Jaromer Kašpor Mercin Matuš Miklawuš Natuš Nišan Pawol Pec Radomer Sylwijo Wjaclaw Wjelemer Bereza Borzywoj
+				Božetech Derwan Kocel Wuk Wojslav
 			}
 
 			last_names = {"Ton Poklece" Andrack Huschka Dejka Gnuschke Brodžicka Janiš Jenc Krawcik Krawc Kubik
-				Lattke Mješicy Nadolny Pludra Skoko Welk Krescan "Ton Nemska" "Ton Zaklese"
+				Lattke Mješicy Nadolny Pludra Skoko Welk Krescan "Ton Nemska" "Ton Zaklese" Lužicane Cišinsk Radyserb
+				Wojnar Jokiš
 			}
     }	
     union = WND
@@ -486,7 +488,13 @@ great_slavs = {
 	
 	temarundian = {
 	  color = { 43 166 145 }
-        	first_names = {  }
+        	first_names = { Akakiy Alusian Andronik Asparukh Asparuh Bogoris Kubrat Bagryan Boril
+				Deksip Delyan Despot Dezideriy Dionisii Dobre Dobroliub Egey Epafrodit Epifaniy Evdoksiy 
+				Evtim Filaret Galab Galabin Gheorghi Glavk Hermogen Hesihiy Hrisant Hristodor Hristodul
+				Ignati Irod Karamfil Krastan Krum Lachezar Martinian Mina Neron Okean Panayot Petroslav 
+				Takvor Teodosij Tsetsiliy Zhorzh
+
+			}
 
 			last_names = {	}
     }
