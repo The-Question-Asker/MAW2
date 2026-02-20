@@ -449,9 +449,14 @@ zapadoslav_wendish = {
 	
 	wendish = {
 	  color = { 111 199 181 }
-        	first_names = { Czaldavek }
+        	first_names = { Cžaldavec Arnošt Božidar Jan Jurij Kito Ota Andras Alojs Bartiš Blažij Bogumer
+				Bohacesc Bohachwal Boscij Cescimer Chrystof Dytar Dytarey Gerat Hadam Handroš Handrijas Hawštyn
+				Jaromer Kašpor Mercin Matuš Miklawuš Natuš Nišan Pawol Pec Radomer Sylwijo Wjaclaw Wjelemer
+			}
 
-			last_names = {"The Bane" }
+			last_names = {"Ton Poklece" Andrack Huschka Dejka Gnuschke Brodžicka Janiš Jenc Krawcik Krawc Kubik
+				Lattke Mješicy Nadolny Pludra Skoko Welk Krescan "Ton Nemska" "Ton Zaklese"
+			}
     }	
     union = WND
 }
