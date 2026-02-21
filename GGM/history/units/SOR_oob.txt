@@ -6,6 +6,7 @@ leader = {
     date="1835.1.1"
     personality = imperious
     background = adventurer
+	prestige = 0.2
 }
 
 
