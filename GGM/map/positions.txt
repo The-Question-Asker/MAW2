@@ -7357,43 +7357,14 @@
 # Duluth
 158 = {
     text_position = {
-        x = 1381.566667
-        y = 1776.513333
+        x = 3247.450000
+        y = 1448.700000
     }
 
-    text_rotation = 0.456921
-    text_scale = 3.199999
+    text_scale = 2.7
     unit = {
-        x = 1376.000000
-        y = 1779.000000
-    }
-
-    city = {
-        x = 1379.273333
-        y = 1776.366667
-    }
-
-    factory = {
-        x = 1384.720000
-        y = 1783.626667
-    }
-
-    building_construction = {
-        x = 1370.033333
-        y = 1786.120000
-    }
-
-    military_construction = {
-        x = 1393.573333
-        y = 1783.113333
-    }
-
-    building_position = {
-        fort = {
-            x = 1371.080000
-            y = 1768.813333
-        }
-
+        x = 3247.341667
+        y = 1450.122807
     }
 
 }
@@ -93546,42 +93517,14 @@
 # Delicias
 2144 = {
     text_position = {
-        x = 1170.380000
-        y = 1429.213333
+        x = 2735.417544
+        y = 1361.494737
     }
 
-    text_scale = 3.099999
+    text_scale = 2
     unit = {
-        x = 1172.386667
-        y = 1429.500000
-    }
-
-    factory = {
-        x = 1163.858333
-        y = 1431.793333
-    }
-
-    building_construction = {
-        x = 1160.776667
-        y = 1426.848333
-    }
-
-    military_construction = {
-        x = 1178.765000
-        y = 1425.128333
-    }
-
-    building_position = {
-        fort = {
-            x = 1176.328333
-            y = 1430.073333
-        }
-
-        railroad = {
-            x = 1170.093333
-            y = 1427.278333
-        }
-
+        x = 2735.875439
+        y = 1360.273684
     }
 
 }
@@ -105082,30 +105025,76 @@
 # Manaus
 2402 = {
     text_position = {
-        x = 1879.000000
-        y = 920.000000
+        x = 3309.589474
+        y = 1276.585526
     }
 
-    text_scale = 5.399997
-    building_construction = {
-        x = 1867.000000
-        y = 936.000000
+    text_scale = 0
+    unit = {
+        x = 3309.426316
+        y = 1276.707895
     }
 
-    military_construction = {
-        x = 1880.000000
-        y = 916.000000
+    city = {
+        x = 3313.505263
+        y = 1254.396053
     }
 
     factory = {
-        x = 1878.000000
-        y = 949.000000
+        x = 3309.548684
+        y = 1276.667105
+    }
+
+    building_construction = {
+        x = 3313.464474
+        y = 1254.355263
+    }
+
+    military_construction = {
+        x = 3313.464474
+        y = 1254.436842
     }
 
     building_position = {
         fort = {
             x = 1912.000000
             y = 923.000000
+        }
+
+        railroad = {
+            x = 3309.344737
+            y = 1276.544737
+        }
+
+        naval_base = {
+            x = 3309.548684
+            y = 1276.544737
+        }
+
+    }
+
+    building_nudge = {
+        fort = {
+            x = 3309.548684
+            y = 1276.503947
+        }
+
+        railroad = {
+            x = 3309.548684
+            y = 1276.789474
+        }
+
+        naval_base = {
+            x = 3313.178947
+            y = 1254.518421
+        }
+
+    }
+
+    spawn_railway_track = {
+        empty = {
+            x = 3309.263158
+            y = 1276.300000
         }
 
     }
@@ -105947,167 +105936,82 @@
 
 # Paraiba
 2428 = {
-    unit = {
-        x = 2240.000000
-        y = 842.000000
-    }
-
     text_position = {
-        x = 2240.199951
-        y = 836.500000
+        x = 3220.150000
+        y = 1439.750000
     }
 
-    text_scale = 3.699999
-    building_construction = {
-        x = 2221.000000
-        y = 844.000000
-    }
-
-    military_construction = {
-        x = 2248.000000
-        y = 845.000000
-    }
-
-    factory = {
-        x = 2209.000000
-        y = 848.000000
-    }
-
-    building_position = {
-        fort = {
-            x = 2256.000000
-            y = 848.000000
-        }
-
-        naval_base = {
-            x = 2263.500000
-            y = 841.700012
-        }
-
-        railroad = {
-            x = 2232.699951
-            y = 839.200012
-        }
-
-    }
-
-    building_rotation = {
-        naval_base = 3.141593
+    text_rotation = 0.803064
+    text_scale = 0.7
+    unit = {
+        x = 3226.107456
+        y = 1444.094298
     }
 
 }
 
 # Fortaleza
 2429 = {
-    unit = {
-        x = 2189.000000
-        y = 890.000000
-    }
-
     text_position = {
-        x = 2191.000000
-        y = 880.799988
+        x = 2722.600000
+        y = 1362.350000
     }
 
-    text_scale = 4.199998
-    building_construction = {
-        x = 2209.000000
-        y = 884.000000
-    }
-
-    military_construction = {
-        x = 2176.000000
-        y = 891.000000
-    }
-
-    factory = {
-        x = 2212.000000
-        y = 877.000000
-    }
-
-    building_position = {
-        fort = {
-            x = 2175.000000
-            y = 904.000000
-        }
-
-        naval_base = {
-            x = 2194.800049
-            y = 904.000000
-        }
-
-    }
-
-    building_rotation = {
-        naval_base = 2.268929
+    text_scale = 0.3
+    unit = {
+        x = 2723.600000
+        y = 1362.200000
     }
 
 }
 
 # Crato
 2430 = {
-    unit = {
-        x = 2190.000000
-        y = 855.000000
-    }
-
     text_position = {
-        x = 2189.000000
-        y = 846.599976
+        x = 3259.933333
+        y = 1456.066667
     }
 
-    text_scale = 3.999998
-    building_construction = {
-        x = 2199.000000
-        y = 864.000000
-    }
-
-    military_construction = {
-        x = 2181.000000
-        y = 844.099976
-    }
-
-    factory = {
-        x = 2178.000000
-        y = 854.900024
-    }
-
-    building_position = {
-        fort = {
-            x = 2196.000000
-            y = 840.000000
-        }
-
+    text_rotation = 1.120571
+    text_scale = 0.7
+    unit = {
+        x = 3259.063158
+        y = 1454.396491
     }
 
 }
 
 # Natal
 2431 = {
-    unit = {
-        x = 2237.000000
-        y = 867.000000
-    }
-
     text_position = {
-        x = 2237.500000
-        y = 858.400024
+        x = 1557.405263
+        y = 1104.310526
     }
 
-    text_scale = 3.799999
-    building_construction = {
-        x = 2227.000000
-        y = 867.000000
+    text_scale = 0
+    unit = {
+        x = 1557.342105
+        y = 1104.310526
     }
 
-    military_construction = {
-        x = 2247.000000
-        y = 868.000000
+    city = {
+        x = 1557.689474
+        y = 1104.578947
     }
 
     factory = {
-        x = 2222.000000
-        y = 874.000000
+        x = 1557.689474
+        y = 1104.578947
+    }
+
+    building_construction = {
+        x = 1557.594737
+        y = 1104.500000
+    }
+
+    military_construction = {
+        x = 1560.657895
+        y = 1097.410526
     }
 
     building_position = {
@@ -106116,20 +106020,46 @@
             y = 858.000000
         }
 
-        naval_base = {
-            x = 2256.100098
-            y = 868.700012
-        }
-
         railroad = {
             x = 2228.000000
             y = 860.000000
+        }
+
+        naval_base = {
+            x = 2256.100098
+            y = 868.700012
         }
 
     }
 
     building_rotation = {
         naval_base = 2.617994
+    }
+
+    building_nudge = {
+        fort = {
+            x = 1557.215789
+            y = 1104.610526
+        }
+
+        railroad = {
+            x = 1557.594737
+            y = 1104.531579
+        }
+
+        naval_base = {
+            x = 1557.436842
+            y = 1104.642105
+        }
+
+    }
+
+    spawn_railway_track = {
+        empty = {
+            x = 1560.436842
+            y = 1097.757895
+        }
+
     }
 
 }
@@ -119268,18 +119198,18 @@
 
 # Straits of Gibraltar
 2746 = {
-    unit = {
-        x = 2695.000000
-        y = 1353.000000
-    }
-
     text_position = {
-        x = 2695.199951
-        y = 1353.800049
+        x = 2695.256579
+        y = 1352.501316
     }
 
     text_rotation = 6.283185
     text_scale = 2.400000
+    unit = {
+        x = 2695.812281
+        y = 1350.199123
+    }
+
 }
 
 # Gulf of Almeira
@@ -119682,18 +119612,18 @@
 
 # Sea of Marmara
 2773 = {
-    unit = {
-        x = 3248.000000
-        y = 1448.000000
-    }
-
     text_position = {
-        x = 3248.600098
-        y = 1448.300049
+        x = 3209.310000
+        y = 1444.570000
     }
 
-    text_rotation = 6.283185
-    text_scale = 2.000000
+    text_rotation = 5.297606
+    text_scale = 1.5
+    unit = {
+        x = 3211.045614
+        y = 1444.189035
+    }
+
 }
 
 # Gulf of Varna
