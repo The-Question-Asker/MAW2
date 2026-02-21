@@ -1,7 +1,5 @@
 AFG = { value = 400 }
 
-PER = { value = 300 }
-
 leader = {
     name = "Muhammad Rahim Quli"
     type = land

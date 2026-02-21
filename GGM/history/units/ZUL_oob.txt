@@ -14,9 +14,7 @@ XHO = {
     value = -70
 }
 
-POR = {
-    value = 30
-}
+
 
 leader = {
    name = "Dingane"

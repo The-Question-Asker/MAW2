@@ -1,6 +1,3 @@
-EGY = {
-    value = 30
-}
 
 SHW = {
     value = 50

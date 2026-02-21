@@ -2,9 +2,6 @@ KOK = {
     value = 100
 }
 
-PER = {
-    value = 50
-}
 
 
 

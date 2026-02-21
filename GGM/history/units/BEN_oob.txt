@@ -1,10 +1,4 @@
-NET = {
-    value = 40
-}
 
-POR = {
-    value = 50
-}
 
 ARO = {
     value = 50

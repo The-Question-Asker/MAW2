@@ -1,6 +1,4 @@
-KAZ = {
-    value = -200
-}
+
 
 army = {
     name = "Kokand Army"
