@@ -1,0 +1,72 @@
+
+
+leader = {
+    name = "Andras Lattke"
+    type = land
+    date="1835.1.1"
+    personality = brutish
+    background = cursed_luck
+}
+
+
+
+
+army = {
+    name = "Wójsko Karantanijav"
+    location = 768
+    regiment = {
+        name= "1ja Stalpa Hajnik"
+        type = infantry
+        home = 619
+    }
+	
+	regiment = {
+        name= "2ja Stalpa Hajnik"
+        type = infantry
+        home = 624
+    }
+	regiment = {
+        name= "3ja Stalpa Hajnik"
+        type = infantry
+        home = 616
+    }
+	
+	regiment = {
+        name= "4ja Stalpa Hajnik"
+        type = infantry
+        home = 621
+    }
+	
+	
+	regiment = {
+        name= "1ja Stalpa Artilerija"
+        type = artillery
+        home = 617
+    }
+	
+	regiment = {
+        name= "2ja Stalpa Artilerija"
+        type = artillery
+        home = 633
+    }
+	
+	regiment = {
+        name= "3ja Stalpa Artilerija"
+        type = artillery
+        home = 622
+    }
+	regiment = {
+        name= "4ja Stalpa Artilerija"
+        type = artillery
+        home = 617
+    }
+	
+	
+	regiment = {
+        name= "1ja Stalpa Jezdny"
+        type = hussar
+        home = 768
+    }
+
+}
+

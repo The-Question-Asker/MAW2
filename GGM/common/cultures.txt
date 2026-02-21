@@ -452,7 +452,7 @@ zapadoslav_wendish = {
         	first_names = { Czaldavec Arnošt Božidar Jan Jurij Kito Ota Andras Alojs Bartiš Blažij Bogumer
 				Bohacesc Bohachwal Boscij Cescimer Chrystof Dytar Dytarey Gerat Hadam Handroš Handrijas Hawštyn
 				Jaromer Kašpor Mercin Matuš Miklawuš Natuš Nišan Pawol Pec Radomer Sylwijo Wjaclaw Wjelemer Bereza Borzywoj
-				Božetech Derwan Kocel Wuk Wojslav
+				Božetech Derwan Kocel Wuk Wojslav Stojmir Semik Samo
 			}
 
 			last_names = {"Ton Poklece" Andrack Huschka Dejka Gnuschke Brodžicka Janiš Jenc Krawcik Krawc Kubik

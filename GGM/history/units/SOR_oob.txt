@@ -1,0 +1,42 @@
+
+
+leader = {
+    name = "Czaldavec 'Ton Poklece'"
+    type = land
+    date="1835.1.1"
+    personality = imperious
+    background = adventurer
+}
+
+
+
+
+army = {
+    name = "Wójsko Czaldavecov"
+    location = 601
+    regiment = {
+        name= "1ja Stalpa Hajnik"
+        type = infantry
+        home = 599
+    }
+	
+	regiment = {
+        name= "2ja Stalpa Hajnik"
+        type = infantry
+        home = 599
+    }
+	
+	regiment = {
+        name= "1ja Stalpa Artilerija"
+        type = artillery
+        home = 601
+    }
+	
+	regiment = {
+        name= "1ja Stalpa Jezdny"
+        type = hussar
+        home = 602
+    }
+
+}
+
