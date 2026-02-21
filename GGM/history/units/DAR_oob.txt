@@ -1,6 +1,4 @@
-EGY = {
-    value = 80
-}
+
 
 DND = {
     value = 10

@@ -1,6 +1,4 @@
-NET = {
-    value = -100
-}
+
 
 army = {
 

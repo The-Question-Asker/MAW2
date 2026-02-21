@@ -1,10 +1,4 @@
-POR = {
-    value = 75
-}
 
-NET = {
-    value = 30
-}
 
 KON = {
     value = 50

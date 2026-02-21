@@ -22,9 +22,7 @@ TUR = {
     value = 50
 }
 
-EGY = {
-    value = 60
-}
+
 
 GEL = {
     value = 50

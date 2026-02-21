@@ -1,6 +1,4 @@
-ENG = {
-    value = -50
-}
+
 
 army = {
 

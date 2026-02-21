@@ -1,5 +1,5 @@
 army = {
-    name = "Army of Tibet"
+    name = "Army of Thibet"
     location = 1587
     regiment = {
         name= "1st Infantry"

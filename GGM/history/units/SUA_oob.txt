@@ -1,6 +1,4 @@
-POR = {
-    value = 100
-}
+
 
 XHO = {
     value = -30

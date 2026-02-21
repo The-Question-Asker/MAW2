@@ -1,10 +1,4 @@
-POR = {
-    value = 125
-}
 
-NET = {
-    value = 40
-}
 
 LOA = {
     value = 50

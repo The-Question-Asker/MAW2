@@ -18,9 +18,7 @@ ZUL = {
     value = -30
 }
 
-ENG = {
-    value = 75
-}
+
 
 leader = {
    name = "Moshoeshoe I"

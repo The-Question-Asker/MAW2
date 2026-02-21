@@ -1,6 +1,3 @@
-ENG = {
-    value = 150
-}
 
 army = {
     name = "Army of the Sultan of Selangor"

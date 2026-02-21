@@ -1,10 +1,4 @@
-NET = {
-    value = 40
-}
 
-POR = {
-    value = 200
-}
 
 SEG = {
     value = 50
