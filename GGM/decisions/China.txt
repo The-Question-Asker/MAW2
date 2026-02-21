@@ -19,37 +19,6 @@ political_decisions = {
         }
     }
 
-    clear_out_the_manchu_elite = {
-        picture = clear_out_the_manchu_elite
-        potential = {
-            tag = MIN
-            government = absolute_monarchy
-            is_greater_power = no
-            civilized = no
-            has_global_flag = taiping_has_happened
-            NOT = { has_country_flag = manchu_elite_cleared_out }
-        }
-
-        allow = { average_consciousness = 3 }
-
-        effect = {
-            years_of_research = 0.1
-            add_accepted_culture = beifaren
-            any_pop = {
-                limit = { has_pop_culture = manchu }
-                militancy = 2
-                consciousness = 1
-            }
-            any_pop = {
-                limit = {
-                    NOT = { has_pop_culture = manchu }
-                }
-                militancy = -2
-                consciousness = -1
-            }
-            set_country_flag = manchu_elite_cleared_out
-        }
-    }
 
     form_china = {
         potential = {
