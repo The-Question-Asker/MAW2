@@ -2,6 +2,7 @@ owner = WTL
 controller = WTL
 add_core =  HNU
 add_core = HIS
+add_core = WTL
 terrain = urban
 trade_goods = fish
 life_rating = 35
