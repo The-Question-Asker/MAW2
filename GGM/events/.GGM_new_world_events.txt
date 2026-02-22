@@ -138,6 +138,7 @@ country_event = {
 	}
 	
 	option = {
+		name = "These lands are ours by right!"
 		prestige = 5
 		59 = { secede_province = THIS add_core = THIS }
 		2593 = { secede_province = THIS add_core = THIS }
@@ -170,6 +171,7 @@ country_event = {
 	}
 	
 	option = {
+		name = "These lands are ours by right!"
 		prestige = 5
 		49 = { secede_province = THIS add_core = THIS }
 	}
@@ -199,6 +201,7 @@ country_event = {
 	}
 	
 	option = {
+		name = "These lands are ours by right!"
 		prestige = 5
 		47 = { secede_province = THIS add_core = THIS }
 		2594 = { secede_province = THIS add_core = THIS }
@@ -207,3 +210,386 @@ country_event = {
 		2595 = { secede_province = THIS add_core = THIS }
 	}
 }
+
+country_event = {  
+	id = 49965 
+	title = "EVTNAME49965" 
+	desc = "EVTDESC49965"
+	picture = "pidgeonriver"
+	
+	trigger = {
+		NOT = {
+			has_global_flag = pidgeon_river_debate
+		}
+		240 = { empty = yes }
+		year = 1838
+		OR = {
+			owns = 234
+			owns = 239
+			NOT = {
+				AND = {
+					owns = 234
+					owns = 239
+				}
+			}
+		}
+		234 = {
+			owner = {
+				war = no 
+			}
+		}
+		
+		239 = {
+			owner = {
+				war = no 
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 5
+	
+	}
+	
+	option = {
+		name = "Negotiation be damned! Occupy it now!"
+		set_global_flag = pidgeon_river_debate
+		prestige = 3
+		240 = { secede_province = THIS add_core = THIS }
+		any_country = {
+			limit = {
+				OR = {
+					owns = 234
+					owns = 239
+				}
+				any_owned_province = {
+					NOT = {
+						owned_by = THIS
+					}
+				}
+			}
+			country_event = {
+				id = 49964
+				days = 2
+			}
+			
+			relation = {
+				who = THIS
+				value = -75
+			}
+		}
+	}
+	
+	option = {
+		name = "We should submit to cartographic adjudication."
+		set_global_flag = pidgeon_river_debate
+		any_country = {
+			limit = {
+				OR = {
+					owns = 234
+					owns = 239
+				}
+				any_owned_province = {
+					NOT = {
+						owned_by = THIS
+					}
+				}
+			}
+			country_event = {
+				id = 49963
+				days = 2
+			}
+			
+			relation = {
+				who = THIS
+				value = 100
+			}
+		}
+	}
+	
+	option = {
+		name = "This region is too much trouble for what it's worth. Renounce our claims."
+		set_global_flag = pidgeon_river_debate
+		prestige = -2
+		badboy = -1
+		any_country = {
+			limit = {
+				OR = {
+					owns = 234
+					owns = 239
+				}
+				any_owned_province = {
+					NOT = {
+						owned_by = THIS
+					}
+				}
+			}
+			country_event = {
+				id = 49962
+				days = 2
+			}
+			
+			relation = {
+				who = THIS
+				value = 100
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 49964 
+	title = "EVTNAME49964" 
+	desc = "EVTDESC49964"
+	picture = "fort_snelling"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Those $FROMCOUNTRY_ADJ$ dogs cannot be allowed to do this! To war! By Jingo!"
+	
+		240 = { add_core = THIS }
+		
+		relation = {
+			who = FROM
+			value = -100
+		}
+		
+		FROM = {
+			add_casus_belli = {
+				target = THIS
+				type = acquire_core_state
+				state_province_id = NWR_35
+				months = 12
+			}
+		}
+	
+	}
+	
+	option = {
+		name = "What can we do, they've already moved in...?"
+		
+		relation = {
+			who = FROM
+			value = -50
+		}
+		
+		prestige = -2
+		
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+			
+			}
+			
+			scaled_consciousness = {
+				issue = pro_military
+				factor = 1
+			
+			}
+			
+			scaled_consciousness = {
+				issue = jingoism
+				factor = 2
+			
+			}
+			
+			scaled_consciousness = {
+				issue = anti_military
+				factor = -1
+			
+			}
+			
+			scaled_consciousness = {
+				issue = pacifism
+				factor = -2
+			
+			}
+		
+		}
+	}
+
+
+}
+
+country_event = {
+	id = 49963 
+	title = "EVTNAME49963" 
+	desc = "EVTDESC49963"
+	picture = "colonial_treaty"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "I guess we shall submit to negotation..."
+		random_list = {
+			40 = {
+				any_country = {
+					limit = {
+						OR = {
+							owns = 234
+							owns = 239
+						}
+						any_owned_province = {
+							NOT = {
+								owned_by = THIS
+							}
+						}
+					}
+					country_event = {
+						id = 49961
+						days = 15
+					}
+					relation = {
+						who = THIS
+						value = 50
+					}
+				}
+				
+				240 = { secede_province = THIS add_core = THIS }
+			
+			}
+			
+			60 = {
+				any_country = {
+					limit = {
+						OR = {
+							owns = 234
+							owns = 239
+						}
+						any_owned_province = {
+							NOT = {
+								owned_by = THIS
+							}
+						}
+					}
+					country_event = {
+						id = 49960
+						days = 15
+					}
+					relation = {
+						who = THIS
+						value = 50
+					}
+				}
+				
+			
+			
+			}
+		
+		}
+	
+	}
+	
+	option = {
+		name = "Hah! The fools! Move to occupy it now!"
+		240 = { secede_province = THIS add_core = THIS }
+		any_country = {
+			limit = {
+				OR = {
+					owns = 234
+					owns = 239
+				}
+				any_owned_province = {
+					NOT = {
+						owned_by = THIS
+					}
+				}
+				
+				relation = {
+					who = THIS
+					value = -75
+				}
+			}
+			country_event = {
+				id = 49964
+				days = 2
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 49962 
+	title = "EVTNAME49962" 
+	desc = "EVTDESC49962"
+	picture = "fort_snelling"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "Hah! The yellow-bellied fools... More space for us!"
+		
+		240 = { secede_province = THIS add_core = THIS }
+	
+	}
+	
+}
+
+country_event = {
+	id = 49961 
+	title = "EVTNAME49961" 
+	desc = "EVTDESC49961"
+	picture = "colonial_treaty"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "Oh well. I guess we will have to live with this."
+	
+	}
+	
+}
+
+country_event = {
+	id = 49960 
+	title = "EVTNAME49960" 
+	desc = "EVTDESC49960"
+	picture = "colonial_treaty"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "Excellent! Justice always prevails!"
+		
+		240 = { secede_province = THIS add_core = THIS }
+	
+	}
+	
+}
+
+country_event = {  
+	id = 49959 
+	title = "EVTNAME49959" 
+	desc = "EVTDESC49959"
+	picture = "pidgeonriver"
+	
+	trigger = {
+		240 = { empty = yes }
+		NOT = {
+			has_global_flag = pidgeon_river_debate
+		}
+		year = 1838
+		owns = 234
+		owns = 239
+		war = no
+	}
+	
+	mean_time_to_happen = {
+		months = 5
+	
+	}
+	
+	option = {
+		name = "This land is naturally part of our state."
+		prestige = 3
+		240 = { secede_province = THIS add_core = THIS }
+		
+	}
+	
+	
+	
+	
+}
+
+

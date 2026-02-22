@@ -4,6 +4,8 @@ country_event = {  #witlian self-gov
 	desc = "EVTDESC50001"
 	picture = "confedlot"
 	
+	major = yes
+	
 	trigger = {
 		tag = WTL
 		OR = { 
@@ -489,6 +491,9 @@ country_event = {  #witlian ind_trig
 		#war = no
 		has_global_flag = IT_RELEASED
 		
+		NOT = {
+			has_country_flag = autonomy_peaceful
+		}
 	
 	}
 	
@@ -784,6 +789,8 @@ country_event = {  #central lothaire self-gov
 	title = "EVTNAME49997" 
 	desc = "EVTDESC49997"
 	picture = "tenconf"
+	
+	major = yes
 	
 	trigger = {
 		tag = HNU
@@ -1859,7 +1866,9 @@ country_event = {  #cent_lot ind_trig
 			is_our_vassal = THIS
 		}
 		#war = no
-		
+		NOT = {
+			has_country_flag = autonomy_peaceful
+		}
 	
 	}
 	
@@ -2212,6 +2221,8 @@ country_event = {  #antipodea self-gov
 	title = "EVTNAME49985" 
 	desc = "EVTDESC49985"
 	picture = "tenconf"
+	
+	major = yes
 	
 	trigger = {
 		tag = HNU
@@ -5022,6 +5033,8 @@ country_event = {  #witlian self-gov gibralar
 	title = "EVTNAME49966" 
 	desc = "EVTDESC49966"
 	picture = "irkulas"
+	
+	major = yes
 	
 	trigger = {
 		tag = WTL
