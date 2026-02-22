@@ -27,6 +27,76 @@ country_event = {  #witlian self-gov
 		NOT = {
 			has_global_flag = IT_RELEASED
 		}
+		
+		#OR = {
+		#	NOT = {
+		#		AND = {
+		#			NWR_28 = {
+		#				country_units_in_state = THIS
+		#			}
+		#			THIS = {
+		#				owns = 145
+		#			}
+		#		}
+		#		AND = {
+		#			NWR_27 = {
+		#				country_units_in_state = THIS
+		#			}
+		#			THIS = {
+		#				owns = 204
+		#			}
+		#		}
+		#	}
+		#	
+		#	NOT = {
+		#		AND = {
+		#			NWR_26 = {
+		#				country_units_in_state = THIS
+		#			}
+		#			THIS = {
+		#				owns = 195
+		#			}
+		#		}
+		#		AND = {
+		#			NWR_15 = {
+		#				country_units_in_state = THIS
+		#			}
+		#			THIS = {
+		#				owns = 141
+		#			}
+		#		}
+		#	}
+		#	
+		#	NOT = {
+		#		AND = {
+		#			NWR_72 = {
+		#				country_units_in_state = THIS
+		#			}
+		#			THIS = {
+		#				owns = 2163
+		#			}
+		#		}
+		#		AND = {
+		#			NWR_70 = {
+		#				country_units_in_state = THIS
+		#			}
+		#			THIS = {
+		#				owns = 2160
+		#			}
+		#		}
+		#		
+		#		AND = {
+		#			NWR_71 = {
+		#				country_units_in_state = THIS
+		#			}
+		#			THIS = {
+		#				owns = 2167
+		#			}
+		#		}
+		#	}
+		#	
+		#}
+		
 	
 	}
 	
@@ -4946,6 +5016,409 @@ country_event = {
 	}
 
 }
+
+country_event = {  #witlian self-gov gibralar
+	id = 49966
+	title = "EVTNAME49966" 
+	desc = "EVTDESC49966"
+	picture = "irkulas"
+	
+	trigger = {
+		tag = WTL
+		war = yes
+		OR = { 
+			owns = 197
+			owns = 204
+			owns = 145
+			owns = 206
+			owns = 139
+		}
+		WTL = {
+			war_countries = { 
+				AND = {
+					controls = 517
+					controls = 2590
+				}
+			
+			
+			}
+		}
+		NOT = {
+			has_global_flag = IT_RELEASED
+		}
+	
+	}
+	
+	mean_time_to_happen = {
+		months = 45
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 10
+		
+		}
+	
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 20
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 30
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			national_provinces_occupied = 50
+		
+		}
+		
+		modifier = {
+			factor = 0.8
+			war_exhaustion = 50
+		
+		}
+	
+	
+	}
+	
+	option = {
+		name = "Worrying..."
+	
+		set_global_flag = IT_RELEASED
+	
+		clr_country_flag = must_revolt_colonials
+		
+		random_list = {
+			
+			
+			25 = {
+				
+				NWR_72 = {
+					add_core = RPM
+				}
+				NWR_71 = {
+					add_core = RPM
+				}
+				NWR_70 = {
+					add_core = RPM
+				}
+				NWR_69 = {
+					add_core = RPM
+				}
+				NWR_13 = {
+					add_core = RPM
+				}
+				
+				113 = {
+					add_core = CFL
+				}
+				
+				114 = {
+					add_core = CFL
+				}
+				111 = {
+					add_core = CFL
+				}
+				
+				NWR_8 = {
+					add_core = CFL
+				}
+				NWR_14 = {
+					add_core = CFL
+				}
+				NWR_16 = {
+					add_core = CFL
+				}
+				NWR_15 = {
+					add_core = CFL
+				}
+				NWR_25 = {
+					add_core = CFL
+				}
+				NWR_26 = {
+					add_core = CFL
+				}
+				NWR_27 = {
+					add_core = CFL
+				}
+				NWR_28 = {
+					add_core = CFL
+				}
+				206 = {
+					add_core = CFL
+				}
+				76 = {
+					add_core = CFL
+				}
+				216 = {
+					add_core = CFL
+				}
+				209 = {
+					add_core = CFL
+				}
+				205 = {
+					add_core = CFL
+				}
+				210 = {
+					add_core = CFL
+				}
+				
+				
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 92
+						}
+						
+					
+					}
+					
+					92 = {
+							add_core = PHO
+						}
+						21 = {
+							add_core = PHO
+						}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 93
+						}
+					
+					}
+					
+					NWR_5 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 5
+						}
+					
+					}
+					
+					NWR_1 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 15
+						}
+					
+					}
+					
+					NWR_6 = {
+						add_core = PHO
+					}
+				
+				}
+				if = {
+					limit = {
+						THIS = {
+							any_owned_province = {
+								is_core = RPM
+							
+							}
+						}
+					
+					}
+					THIS = {
+						release_vassal = RPM
+					}
+				
+				}
+				
+				RPM = {
+					government = democracy
+				
+				}
+				
+				CFL = {
+					government = democracy
+				
+				}
+				
+				any_owned = {
+					limit = {
+						is_core = PHO
+					
+					}
+					secede_province = PHO
+				}
+						
+				
+				release_vassal = CFL
+			
+			}
+			
+			75 = {
+			
+				NWR_72 = {
+					add_core = CFL
+				}
+				NWR_71 = {
+					add_core = CFL
+				}
+				NWR_70 = {
+					add_core = CFL
+				}
+				NWR_69 = {
+					add_core = CFL
+				}
+				NWR_13 = {
+					add_core = CFL
+				}
+				113 = {
+					add_core = CFL
+				}
+				
+				114 = {
+					add_core = CFL
+				}
+				111 = {
+					add_core = CFL
+				}
+				NWR_8 = {
+					add_core = CFL
+				}
+				NWR_14 = {
+					add_core = CFL
+				}
+				NWR_16 = {
+					add_core = CFL
+				}
+				NWR_15 = {
+					add_core = CFL
+				}
+				NWR_25 = {
+					add_core = CFL
+				}
+				NWR_26 = {
+					add_core = CFL
+				}
+				NWR_27 = {
+					add_core = CFL
+				}
+				NWR_28 = {
+					add_core = CFL
+				}
+				210 = {
+					add_core = CFL
+				}
+				205 = {
+					add_core = CFL
+				}
+				209 = {
+					add_core = CFL
+				}
+				216 = {
+					add_core = CFL
+				}
+				76 = {
+					add_core = CFL
+				}
+				206 = {
+					add_core = CFL
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 92
+						}
+						
+					
+					}
+					
+					92 = {
+							add_core = PHO
+						}
+						21 = {
+							add_core = PHO
+						}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 93
+						}
+					
+					}
+					
+					NWR_5 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 5
+						}
+					
+					}
+					
+					NWR_1 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				if = {
+					limit = {
+						THIS = {
+							owns = 15
+						}
+					
+					}
+					
+					NWR_6 = {
+						add_core = PHO
+					}
+				
+				}
+				
+				any_owned = {
+					limit = {
+						is_core = PHO
+					
+					}
+					secede_province = PHO
+				}
+				
+				release_vassal = CFL
+				
+				CFL = {
+					government = democracy
+				
+				}
+			}
+		
+		}
+	}
+	
+	
+	
+	}
 
 
 
