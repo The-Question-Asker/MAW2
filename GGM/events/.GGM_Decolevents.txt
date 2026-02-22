@@ -3,9 +3,7 @@ country_event = {  #witlian self-gov
 	title = "EVTNAME50001" 
 	desc = "EVTDESC50001"
 	picture = "confedlot"
-	
-	major = yes
-	
+
 	trigger = {
 		tag = WTL
 		OR = { 
@@ -789,8 +787,6 @@ country_event = {  #central lothaire self-gov
 	title = "EVTNAME49997" 
 	desc = "EVTDESC49997"
 	picture = "tenconf"
-	
-	major = yes
 	
 	trigger = {
 		tag = HNU
@@ -2221,8 +2217,7 @@ country_event = {  #antipodea self-gov
 	title = "EVTNAME49985" 
 	desc = "EVTDESC49985"
 	picture = "tenconf"
-	
-	major = yes
+
 	
 	trigger = {
 		tag = HNU
@@ -5033,8 +5028,6 @@ country_event = {  #witlian self-gov gibralar
 	title = "EVTNAME49966" 
 	desc = "EVTDESC49966"
 	picture = "irkulas"
-	
-	major = yes
 	
 	trigger = {
 		tag = WTL
