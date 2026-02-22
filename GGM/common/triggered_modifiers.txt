@@ -3,6 +3,25 @@
 #
 # Effects are fully scriptable here.
 
+
+#GGM
+
+international_sanctions = {
+        trigger = {
+			badboy = 1.3 #36.4
+        }
+
+    import_cost = 0.5
+    diplomatic_points_modifier = -0.6
+    non_accepted_pop_militancy_modifier = 0.2
+    prestige = -0.3
+    war_exhaustion = 2.0
+    core_pop_militancy_modifier = 0.1
+    icon = 6
+}
+
+#HPM
+
 trinket_health_care_fully_funded = {
     trigger = {
         exists = yes

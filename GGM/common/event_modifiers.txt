@@ -44,7 +44,7 @@ the_third_temple = {
 	icon = 39
 }
 
-international_sanctions = {
+international_sanctions = { #not used, in trigmod
     import_cost = 0.5
     diplomatic_points_modifier = -0.6
     non_accepted_pop_militancy_modifier = 0.2
