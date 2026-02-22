@@ -13,13 +13,16 @@ country_event = {  #witlian self-gov
 			owns = 206
 			owns = 139
 		}
-		capital_scope = {
-			continent = europe
-			NOT = {
-				
-				controlled_by = THIS
+		OR = {
+			capital_scope = {
+				continent = europe
+				NOT = {
+					
+					controlled_by = THIS
+				}
+			
 			}
-		
+			has_country_flag = must_revolt_colonials
 		}
 		NOT = {
 			has_global_flag = IT_RELEASED
@@ -68,6 +71,8 @@ country_event = {  #witlian self-gov
 	
 		set_global_flag = IT_RELEASED
 	
+		clr_country_flag = must_revolt_colonials
+		
 		random_list = {
 			
 			
@@ -717,12 +722,15 @@ country_event = {  #central lothaire self-gov
 			owns = 2194
 			owns = 2264
 		}
-		capital_scope = {
-			continent = africa
-			NOT = {
-				controlled_by = THIS
+		OR = {
+			capital_scope = {
+				continent = africa
+				NOT = {
+					controlled_by = THIS
+				}
+			
 			}
-		
+			has_country_flag = must_revolt_colonials
 		}
 		NOT = {
 			has_global_flag = CLT_RELEASED
@@ -771,7 +779,7 @@ country_event = {  #central lothaire self-gov
 	
 		set_global_flag = CLT_RELEASED
 	
-		
+		clr_country_flag = must_revolt_colonials
 	
 		random_list = {
 			
@@ -2143,12 +2151,15 @@ country_event = {  #antipodea self-gov
 			owns = 2361
 			owns = 2525
 		}
-		capital_scope = {
-			continent = africa
-			NOT = {
-				controlled_by = THIS
+		OR = {
+			capital_scope = {
+				continent = africa
+				NOT = {
+					controlled_by = THIS
+				}
+			
 			}
-		
+			has_country_flag = must_revolt_colonials
 		}
 		NOT = {
 			has_global_flag = NFA_RELEASED
@@ -2197,7 +2208,7 @@ country_event = {  #antipodea self-gov
 	
 		set_global_flag = NFA_RELEASED
 		
-		
+		clr_country_flag = must_revolt_colonials
 		
 		
 		
@@ -2514,6 +2525,10 @@ country_event = {  #antipodea self-gov
 					limit = {
 						2396 = {
 							is_core = AGS
+							
+						}
+						THIS = {
+							owns = 2399
 						
 						}
 					
@@ -2534,6 +2549,9 @@ country_event = {  #antipodea self-gov
 					limit = {
 						2396 = {
 							NOT = { is_core = AGS }
+						}
+						THIS = {
+							owns = 2399
 						
 						}
 					
@@ -2562,13 +2580,7 @@ country_event = {  #antipodea self-gov
 					add_core = NBA
 				}
 				
-				NWR_112 = {
-					add_core = NBA
-				}
 				
-				NWR_113 = {
-					add_core = NBA
-				}
 				
 				NWR_108 = {
 					add_core = NBA
@@ -2661,7 +2673,7 @@ country_event = {  #antipodea self-gov
 				if = {
 					limit = {
 						THIS = {
-							owns = 2333
+							owns = 2399
 						}
 					
 					}
@@ -3204,6 +3216,10 @@ country_event = {  #antipodea self-gov
 							is_core = AGS
 						
 						}
+						THIS = {
+							owns = 2399
+						
+						}
 					
 					}
 					2333 = {
@@ -3222,6 +3238,10 @@ country_event = {  #antipodea self-gov
 					limit = {
 						2396 = {
 							NOT = { is_core = AGS }
+						
+						}
+						THIS = {
+							owns = 2399
 						
 						}
 					
@@ -3250,13 +3270,8 @@ country_event = {  #antipodea self-gov
 					add_core = NBA
 				}
 				
-				NWR_112 = {
-					add_core = NBA
-				}
 				
-				NWR_113 = {
-					add_core = NBA
-				}
+
 				
 				NWR_108 = {
 					add_core = NBA
@@ -3706,6 +3721,10 @@ country_event = {  #antipodea self-gov
 							is_core = AGS
 						
 						}
+						THIS = {
+							owns = 2399
+						
+						}
 					
 					}
 					2333 = {
@@ -3734,13 +3753,7 @@ country_event = {  #antipodea self-gov
 					add_core = NBA
 				}
 				
-				NWR_112 = {
-					add_core = NBA
-				}
-				
-				NWR_113 = {
-					add_core = NBA
-				}
+
 				
 				NWR_108 = {
 					add_core = NBA
@@ -3944,14 +3957,6 @@ country_event = {  #antipodea self-gov
 				}
 				
 				NWR_111 = {
-					add_core = NBA
-				}
-				
-				NWR_112 = {
-					add_core = NBA
-				}
-				
-				NWR_113 = {
 					add_core = NBA
 				}
 				
