@@ -73,7 +73,7 @@ leader = {
 
 army = {
     name = "1ya Druzhina"
-    location = 948
+    location = 944
     regiment = {
         name= "1ya Pechotnaya Brigada"
         type = infantry

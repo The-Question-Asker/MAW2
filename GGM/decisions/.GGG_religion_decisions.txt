@@ -113,5 +113,31 @@ political_decisions = {
 			
         }
 	}
+	
+	press_bon_chrestiens_into_service = {
+		picture = oppressing_religious_minorities
+		#alert = no
+	
+		potential = {
+			any_owned_province = {
+				any_pop = {
+					has_pop_religion = bon_chrestien
+				}					
+			}
+			NOT = {
+				has_country_flag = pressed_objecters_to_service 
+				has_country_flag = freedom_of_religion
+			}
+        }
+        allow = {
+			war = yes
+			state_n_government = 1
+        }
+		
+        effect = {
+			set_country_flag = pressed_objecters_to_service
+			
+        }
+	}
 
 }
