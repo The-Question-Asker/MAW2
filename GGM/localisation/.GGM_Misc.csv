@@ -325,9 +325,9 @@ communist_rebels_desc;The Red Army are communists who have risen in open rebelli
 communist_rebels_desc;Red Brigade;;;;;;;;;;;;;
 reactionary_rebels_army;White Brigade;;;;;;;;;;;;;
 nationalist_rebels_army;$INDEP$ Citizen Army;;;;;;;;;x;;;;
-patriot_rebels_title;Seperatist;;;;;;;;;x;;;;
-patriot_rebels_name;$CULTURE$ Seperatists;;;;;;;;;x;;;;
-patriot_rebels_desc;Seperatist rebels dream of unification with their cultural kin under a free banner. Beware, for provinces taken by them may defect.;;;;;;;;;x;;;;
+patriot_rebels_title;Separatist;;;;;;;;;x;;;;
+patriot_rebels_name;$CULTURE$ Separatists;;;;;;;;;x;;;;
+patriot_rebels_desc;Separatist rebels dream of unification with their cultural kin under a free banner. Beware, for provinces taken by them may defect.;;;;;;;;;x;;;;
 patriot_rebels_army;$CULTURE$ Citizen Army;;;;;;;;;x;;;;
 khazar;Khazar;;;;;;;;;;;;;
 khazar;Khazar;;;;;;;;;;;;;
