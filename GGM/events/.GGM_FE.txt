@@ -51,7 +51,7 @@ country_event = {
 	id = 49993
 	title = "EVTNAME49993" 
 	desc = "EVTDESC49993"
-	#picture = "confedlot"
+	picture = "bow_to_emperor"
 	
 	is_triggered_only = yes
 	
@@ -67,7 +67,7 @@ country_event = {
 	id = 49992
 	title = "EVTNAME49992" 
 	desc = "EVTDESC49992"
-	#picture = "confedlot"
+	picture = "imperial_diet"
 	
 	is_triggered_only = yes
 	
@@ -83,7 +83,7 @@ country_event = {
 	id = 49991
 	title = "EVTNAME49991" 
 	desc = "EVTDESC49991"
-	#picture = "confedlot"
+	picture = "bow_to_emperor"
 	
 	is_triggered_only = yes
 	
@@ -140,12 +140,12 @@ country_event = {
 	id = 49989
 	title = "EVTNAME49989" 
 	desc = "EVTDESC49989"
-	#picture = "confedlot"
+	picture = "bow_to_emperor"
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = "Salve Caesar Francorum! Vivat Imperium Francorum!"
+		name = "Salve Caesare Francorum! Vivat Imperium Francorum!"
 	}
 	
 
@@ -385,7 +385,7 @@ country_event = {
 	id = 49986
 	title = "EVTNAME49986" 
 	desc = "EVTDESC49986"
-	#picture = "confedlot"
+	picture = "departing_horseman"
 	
 	is_triggered_only = yes
 	

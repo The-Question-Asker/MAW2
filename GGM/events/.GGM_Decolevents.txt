@@ -4197,7 +4197,7 @@ country_event = {  #hnu_colonial_congress_pres
 	id = 49984 
 	title = "EVTNAME49984" 
 	desc = "EVTDESC49984"
-	picture = "independence_dec"
+	picture = "independence_mov1"
 	
 	trigger = {
 		OR = {
@@ -4468,7 +4468,7 @@ country_event = {  #hnu_colonial_congress_dem
 	id = 49983 
 	title = "EVTNAME49983" 
 	desc = "EVTDESC49983"
-	picture = "independence_dec"
+	picture = "independence_mov1"
 	
 	trigger = {
 		OR = {
@@ -4688,7 +4688,7 @@ country_event = {  #liberate_recolonised_land_trigger
 	id = 49982
 	title = "EVTNAME49982" 
 	desc = "EVTDESC49982"
-	#picture = "independence_dec"
+	picture = "disgruntled_mob"
 	
 	trigger = {
 		
@@ -4856,7 +4856,7 @@ country_event = {
 	id = 49979
 	title = "EVTNAME49979" 
 	desc = "EVTDESC49979"
-	#picture = "independence_dec"
+	picture = "new_sapa_inca"
 
 	trigger = {
 		NOT = {	
@@ -4989,6 +4989,7 @@ country_event = {
 	id = 49975
 	title = "EVTNAME49975" 
 	desc = "EVTDESC49975"
+	picture = "new_sapa_inca"
 	
 	is_triggered_only = yes
 	
