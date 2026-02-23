@@ -1,0 +1,55 @@
+country_event = { #Become Numidia after losing Hispania
+	id = 49958 
+	title = "EVTNAME49958" 
+	desc = "EVTDESC49958"
+	#picture = "building_temple"
+
+	trigger = {
+		tag = HNU
+		OR = {
+			AND = {
+				exists = HIS
+				NOT = { is_our_vassal = HIS }
+			}
+			NOT = { HIS = { any_core = { owned_by = HNU } } }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVT49958OPTA"
+		change_tag = NUM
+		remove_accepted_culture = hispanic
+        HIS = { all_core = { remove_core = NUM } }
+	}
+	
+}
+
+country_event = { #Become Hispania-Numidia again after reconquering ALL of Hispania
+	id = 49957 
+	title = "EVTNAME49957" 
+	desc = "EVTDESC49957"
+	#picture = "building_temple"
+
+	trigger = {
+		tag = NUM
+		NOT = { exists = HIS }
+		HIS = { any_core = { owned_by = NUM } }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVT49957OPTA"
+		change_tag = HNU
+		add_accepted_culture = hispanic
+        HNU = { all_core = { remove_core = NUM } }
+	}
+	
+}
+
