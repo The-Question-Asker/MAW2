@@ -487,7 +487,7 @@ great_slavs = {
     }
 	
 	temarundian = {
-	  color = { 43 166 145 }
+	  color = { 163 157 96 }
         	first_names = { Akakiy Alusian Andronik Asparukh Asparuh Bogoris Kubrat Bagryan Boril
 				Deksip Delyan Despot Dezideriy Dionisii Dobre Dobroliub Egey Epafrodit Epifaniy Evdoksiy 
 				Evtim Filaret Galab Galabin Gheorghi Glavk Hermogen Hesihiy Hrisant Hristodor Hristodul
@@ -504,7 +504,7 @@ great_slavs = {
 #MISCELLANEOUS
 
 mesopotamian = {
-    leader = european
+    leader = persian
     unit = EuropeanGC
 
 	babylonian = {

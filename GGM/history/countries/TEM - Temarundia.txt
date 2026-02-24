@@ -1,4 +1,4 @@
-capital = 718
+capital = 1039
 primary_culture = temarundian
 religion = orthodox
 government = absolute_monarchy
