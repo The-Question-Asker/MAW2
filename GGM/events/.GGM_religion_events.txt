@@ -238,3 +238,31 @@ country_event = {
 	
 	}
 }
+
+
+
+
+
+
+
+
+
+#			random_state = {
+#				limit = {
+#					is_colonial = no
+#					any_pop = {	
+#						has_pop_religion = antipaederian	
+#					}
+#				}
+#				any_owned = {
+#					any_pop = {
+#						has_pop_religion = antipaederian
+#						militancy = 10
+#						random_list = {
+#							34 = { 1570 = { any_pop = { reduce_pop = 0.98 } add_province_modifier = { name = desolation duration = 182 } } }
+#							33 = { 1570 = { any_pop = { reduce_pop = 0.97 } add_province_modifier = { name = desolation duration = 182 } } }
+#							33 = { 1570 = { any_pop = { reduce_pop = 0.96 } add_province_modifier = { name = desolation duration = 182 } } }
+#						}
+#					}
+#				}
+#			}
