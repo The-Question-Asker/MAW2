@@ -4425,6 +4425,48 @@
         religion = orthodox
         size = 27981
     }
+	
+    aristocrats = {
+        culture = temarundian
+        religion = orthodox
+        size = 189
+    }
+
+    clergymen = {
+        culture = temarundian
+        religion = orthodox
+        size = 144
+    }
+
+    artisans = {
+        culture = temarundian
+        religion = orthodox
+        size = 720
+    }
+
+    soldiers = {
+        culture = temarundian
+        religion = orthodox
+        size = 144
+    }
+
+    farmers = {
+        culture = temarundian
+        religion = orthodox
+        size = 10163
+    }
+	
+    serfs = {
+        culture = temarundian
+        religion = orthodox
+        size = 5163
+    }
+	
+    serfs = {
+        culture = ruthenian
+        religion = orthodox
+        size = 2163
+    }
 }
 #Tsaritsyn (1072000/268000 POPS)
 1039 = {
@@ -4829,45 +4871,38 @@
 #Busuluk (164000/41000 POPS)
 1043 = {
     aristocrats = {
-        culture = temarundian
-        religion = orthodox
-        size = 189
+        culture = kazak
+        religion = manichaean
+        size = 75
     }
 
     clergymen = {
-        culture = temarundian
-        religion = orthodox
-        size = 144
+        culture = kazak
+        religion = manichaean
+        size = 50
     }
 
     artisans = {
-        culture = temarundian
-        religion = orthodox
-        size = 720
+        culture = kazak
+        religion = manichaean
+        size = 250
     }
 
     soldiers = {
-        culture = temarundian
-        religion = orthodox
-        size = 144
+        culture = kazak
+        religion = manichaean
+        size = 50
     }
 
     farmers = {
-        culture = temarundian
-        religion = orthodox
-        size = 10163
+        culture = kazak
+        religion = manichaean
+        size = 775
     }
-	
-    serfs = {
-        culture = temarundian
-        religion = orthodox
-        size = 5163
-    }
-	
-    serfs = {
-        culture = ruthenian
-        religion = orthodox
-        size = 2163
+    farmers = {
+        culture = khazar
+        religion = manichaean
+        size = 275
     }
 }
 #Orenburg (124000/31000 POPS)
