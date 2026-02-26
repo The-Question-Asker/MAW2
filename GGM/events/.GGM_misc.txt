@@ -71,3 +71,30 @@ province_event = {
 	}
 }
 
+###########
+### AGGRO AI EVENTS
+###########
+
+# Acquire A State
+country_event = {
+	id = 123123
+	title = "EVTNAME123123"
+	desc = "EVTDESC123123"
+	
+	trigger = {
+		ai = yes
+		NOT = { war_exhaustion = 30 }
+		war = no
+		total_amount_of_divisions = 5
+	}
+	
+	mean_time_to_happen = {
+		months = 360 #180
+
+	}
+	
+	option = {
+		name = "EVT123123OPTA"
+		add_core = THIS
+	}
+}

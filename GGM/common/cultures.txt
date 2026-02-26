@@ -345,7 +345,7 @@ north_latin_ivernnia = {
 ##HELLENES##
 
 hellenes = {
-    leader = european
+    leader = aegyptian
     unit = EuropeanGC
 
 	greek = { #hellenic
