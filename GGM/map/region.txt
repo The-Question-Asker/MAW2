@@ -116,11 +116,13 @@ FRA_458 = { 458 459 442 444 } #Aquitaine
 
 FRA_461 = { 461 463 464 } #Languedoc
 
-SAR_466 = { 465 466 472 454 469 471 } #Savoie
+SAR_466 = { 472 454 469 471 } #Savoie
 
 FRA_467 = { 467 468 470 453 } #Provence
 
 FRA_448 = { 456 462 450 } #Auvergne
+
+FRA_1111 = { 465 466 721 609 607 608 }
 
 ### Spain & Portugal
 
@@ -189,7 +191,7 @@ BAV_595 = { 595 597 569 590 2560 } #Franconia
 
 BAV_599 = { 599 600 601 602 } #Upper Bavaria
 
-SWI_603 = { 603 606 611 2568 605 604 607 608 614 } #Switzerland
+SWI_603 = { 603 606 611 2568 605 604 614 } #Switzerland
 
 PRU_682 = { 682 683 684 685 } #Silesia
 
@@ -255,7 +257,7 @@ AUS_780 = { 780 781 782 774 2582 } #Dalmatia
 
 ### Italy
 
-SAR_720 = { 720 721 722 723 724 725 609 } #Piemonte
+SAR_720 = { 720 722 723 724 725 } #Piemonte
 
 #MOD_739 = { 739 738 740 } #Emilia
 
