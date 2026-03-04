@@ -2,46 +2,46 @@
 1049 = {
         clergymen = {
         culture = temarundian
-        religion = orthodox
+        religion = manichaean
         size = 50
     }
 
     artisans = {
         culture = temarundian
-        religion = orthodox
-        size = 350
-    }
-
-
-    farmers = {
-        culture = temarundian
-        religion = orthodox
-        size = 6600
-    }
-
-    aristocrats = {
-        culture = ruthenian
-        religion = orthodox
-        size = 150
-    }
-
-    clergymen = {
-        culture = ruthenian
-        religion = orthodox
-        size = 75
-    }
-
-    artisans = {
-        culture = ruthenian
         religion = manichaean
         size = 350
     }
 
 
     farmers = {
-        culture = ruthenian
-        religion = orthodox
-        size = 6525
+        culture = temarundian
+        religion = manichaean
+        size = 4600
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = manichaean
+        size = 150
+    }
+
+    clergymen = {
+        culture = greek
+        religion = manichaean
+        size = 75
+    }
+
+    artisans = {
+        culture = greek
+        religion = manichaean
+        size = 350
+    }
+
+
+    farmers = {
+        culture = greek
+        religion = manichaean
+        size = 8525
     }
 
     aristocrats = {
