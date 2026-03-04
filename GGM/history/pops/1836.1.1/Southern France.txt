@@ -395,6 +395,12 @@
         size = 11000
     }
 	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 1196
+    }
+	
     farmers = {
         culture = narbonne
         religion = arian
@@ -520,6 +526,12 @@
         religion = arian
         size = 5950
     }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 1196
+    }
 
     farmers = {
         culture = roman
@@ -564,6 +576,13 @@
         religion = orthodox
         size = 7600
     }
+	
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 896
+    }
 }
 #Nice (Sardinian until 1860) (170800/42700 POPS)
 472 = {
@@ -601,6 +620,13 @@
         culture = narbonne
         religion = orthodox
         size = 18825
+    }
+	
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 396
     }
 
 }
@@ -671,6 +697,13 @@
         culture = roman
         religion = arian
         size = 8300
+    }
+	
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 1196
     }
 
 }

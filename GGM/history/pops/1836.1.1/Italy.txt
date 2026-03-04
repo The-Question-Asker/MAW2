@@ -1996,6 +1996,12 @@
         religion = orthodox
         size = 207113
     }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 6196
+    }
 
     clergymen = {
         culture = ashkenazi
@@ -2047,6 +2053,12 @@
         size = 2000
     }
 
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 3196
+    }
+
     farmers = {
         culture = roman
         religion = orthodox
@@ -2084,6 +2096,7 @@
         religion = orthodox
         size = 1100
     }
+
 
     farmers = {
         culture = roman
@@ -2135,6 +2148,12 @@
         culture = roman
         religion = orthodox
         size = 128650
+    }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 1196
     }
 
     farmers = {
@@ -2270,6 +2289,12 @@
         religion = orthodox
         size = 6000
     }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 4196
+    }
 
     farmers = {
         culture = greek
@@ -2346,6 +2371,12 @@
         religion = orthodox
         size = 134175
     }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 1196
+    }
 }
 #Sicily Region (1816000)
 #under the rule of Two Sicilies in 1836
@@ -2404,6 +2435,12 @@
         religion = orthodox
         size = 155172
     }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 4196
+    }
 
     farmers = {
         culture = greek
@@ -2441,6 +2478,12 @@
         culture = roman
         religion = orthodox
         size = 86196
+    }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 9196
     }
 
     farmers = {
@@ -2492,6 +2535,12 @@
         culture = roman
         religion = orthodox
         size = 154046
+    }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 8196
     }
 
     farmers = {
@@ -2557,6 +2606,12 @@
         religion = arian
         size = 10895
     }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 1196
+    }
 }
 #Sassari (188000/47000 POPS)
 766 = {
@@ -2600,6 +2655,12 @@
         culture = catalan
         religion = arian
         size = 4814
+    }
+	
+    slaves = {
+        culture = akan
+        religion = orthodox
+        size = 996
     }
 
 }
