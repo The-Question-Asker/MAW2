@@ -131,6 +131,7 @@ EUL		   ="countries/EtatsUnis.txt"
 CAP		   ="countries/ColonialAntipodea.txt"
 CLT		   ="countries/ColonialLothaire.txt"
 KHK		   ="countries/KhazarConfederacy.txt"
+YHN		   ="countries/Yahanids.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

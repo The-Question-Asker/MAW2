@@ -1,6 +1,6 @@
 owner = PRS
 controller = PRS
-add_core = BHR
+add_core = YHN
 trade_goods = fruit
 terrain = semidesert
 life_rating = 34

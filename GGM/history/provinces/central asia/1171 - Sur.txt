@@ -1,5 +1,5 @@
-owner = OMA
-controller = OMA
-add_core = OMA
+owner = YHN
+controller = YHN
+add_core = YHN
 trade_goods = fruit
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = ABU
-controller = ABU
-add_core = ABU
+owner = YHN
+controller = YHN
+add_core = YHN
 trade_goods = fruit
 life_rating = 31
 terrain = semidesert
