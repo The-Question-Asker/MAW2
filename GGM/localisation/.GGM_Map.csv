@@ -1,5 +1,5 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-PROV521;Lisboa;;;;;;;;;;;;;
+PROV521;Holipso;;;;;;;;;;;;;
 PROV926;Ctesiphon;;;;;;;;;;;;;
 TUR_935;Asoristan;;;;;;;;;;;;;
 TUR_805;Macedonia;;;;;;;;;;;;;
@@ -161,15 +161,15 @@ PROV1682;Bolublis;;;;;;;;;;;;;x
 PROV1731;Trasamundu;;;;;;;;;;;;;x #Leptis Magna
 PROV1733;Traktis;;;;;;;;;;;;;x
 PROV1732;Tento;;;;;;;;;;;;;x
-SPA_477;Cantabria;;;;;;;;;;;;;x
-POR_525;Sitana Mins;;;;;;;;;;;;;x
-SPA_492;West Tarracon;;;;;;;;;;;;;x
+SPA_477;Tswedia;;;;;;;;;;;;;x
+POR_525;Sidania Minte;;;;;;;;;;;;;x
+SPA_492;Saqsente Tarracon;;;;;;;;;;;;;x
 FRA_455;Vasconia;;;;;;;;;;;;;x
-POR_521;East Tarracon;;;;;;;;;;;;;x
-SPA_512;West Batika;;;;;;;;;;;;;x
-SPA_513;East Batika;;;;;;;;;;;;;x
-SPA_484;Sitana;;;;;;;;;;;;;x
-SPA_503;Cartagena;;;;;;;;;;;;;x
+POR_521;Urente Taraicon;;;;;;;;;;;;;x
+SPA_512;SaqsenteVaetica;;;;;;;;;;;;;x
+SPA_513;Urente  Vaetica;;;;;;;;;;;;;x
+SPA_484;Sidania;;;;;;;;;;;;;x
+SPA_503;Ghartensos;;;;;;;;;;;;;x
 AUS_619;North Karantanija;;;;;;;;;;;;;x
 AUS_768;South Karantanija;;;;;;;;;;;;;x
 AUS_623;Pannonia;;;;;;;;;;;;;x
@@ -245,11 +245,11 @@ PROV304;Monapia;;;;;;;;;;;;;x
 PROV304;Monapia;;;;;;;;;;;;;x
 PROV304;Monapia;;;;;;;;;;;;;x
 PROV304;Monapia;;;;;;;;;;;;;x
-PROV523;Avrantes;;;;;;;;;;;;;x
-PROV524;Porta Santa Ubes;;;;;;;;;;;;;x
-PROV525;Leoviglian Ebora;;;;;;;;;;;;;x
-PROV526;Paca;;;;;;;;;;;;;x
-PROV527;Maria;;;;;;;;;;;;;x
+PROV523;Auerante;;;;;;;;;;;;;x
+PROV524;Viesurbes;;;;;;;;;;;;;x
+PROV525;Leowiclia;;;;;;;;;;;;;x
+PROV526;Pagha;;;;;;;;;;;;;x
+PROV527;Buarmaria;;;;;;;;;;;;;x
 PROV65;Vitré;;;;;;;;;;;;;x
 PROV50;Boulaies;;;;;;;;;;;;;x
 PROV239;Petit Fresnay;;;;;;;;;;;;;x
@@ -572,7 +572,6 @@ PROV1694;Igdire;;;;;;;;;;;;;x
 PROV1695;Alago Cruts;;;;;;;;;;;;;x
 PROV1699;Wartsatsa;;;;;;;;;;;;;x
 PROV1698;Imturne;;;;;;;;;;;;;x
-PROV495;Sargossas;;;;;;;;;;;;;x
 PROV1693;Mogadore;;;;;;;;;;;;;x
 PROV1177;Dioskouridou;;;;;;;;;;;;;x
 PROV1757;Mysormos;;;;;;;;;;;;;x
@@ -629,30 +628,30 @@ PROV621;Starjeska;;;;;;;;;;;;;x
 PROV619;Weksija;;;;;;;;;;;;;x
 PROV633;Mjecslava;;;;;;;;;;;;;x
 PROV624;Samohrod;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
-PROV417;Orne;;;;;;;;;;;;;x
+PROV506;Gharteno;;;;;;;;;;;;;x
+PROV507;Moartea;;;;;;;;;;;;;x
+PROV508;Jugbaurges;;;;;;;;;;;;;x
+PROV505;Loaghento;;;;;;;;;;;;;x
+PROV503;Walentia;;;;;;;;;;;;;x
+PROV504;Eiynakuno;;;;;;;;;;;;;x
+PROV497;Ghella;;;;;;;;;;;;;x
+PROV495;Ghaisarnosta;;;;;;;;;;;;;x
+PROV488;Sigonta;;;;;;;;;;;;;x
+PROV490;Arahrota;;;;;;;;;;;;;x
+PROV487;Ghompledo;;;;;;;;;;;;;x
+PROV489;Tonoata;;;;;;;;;;;;;x
+PROV491;Yudaihaimo;;;;;;;;;;;;;x
+PROV486;Tsorba;;;;;;;;;;;;;x
+PROV485;Owisbaure;;;;;;;;;;;;;x
+PROV484;Willplaudo;;;;;;;;;;;;;x
+PROV511;Sarissa;;;;;;;;;;;;;x
+PROV512;Catitana;;;;;;;;;;;;;x
+PROV509;Wispales;;;;;;;;;;;;;x
+PROV510;Ghordoabe;;;;;;;;;;;;;x
+PROV514;Malana;;;;;;;;;;;;;x
+PROV513;Magahelo;;;;;;;;;;;;;x
+PROV515;Adra;;;;;;;;;;;;;x
+PROV516;Ghatolo;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
@@ -799,7 +798,7 @@ PROV3277;Lac Serpent;;;;;;;;;;;;;x
 PROV2973;Mare Wismares;;;;;;;;;;;;;x
 PROV2972;Sinus Wismarus;;;;;;;;;;;;;x
 PROV2970;Central Amorican Sea;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2748;Marka Ghartenos;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
