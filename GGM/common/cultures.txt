@@ -179,7 +179,7 @@ latins_narbonne = {
 
 			last_names = {	
 				Agassiz Berlioz Bernaz Cullaz Deletraz Destraz Devouassoux Droz Gattaz 
-				Gex Mermoz PrazSandoz Thovex Vieusseux Vouilloz Vuillermoz
+				Gex Mermoz Praz Sandoz Thovex Vieusseux Vouilloz Vuillermoz
 			}
     }
 	union = NRB
@@ -193,20 +193,21 @@ latins = {
 	hispanic = {
 	  color = { 255 201 64 }
         	first_names = {
-				Abelardo Adolfo Alonso Turismundo Eurico Teudiselo Tuedismondo
-				Conrado Ernesto Francisco Hernando Carlitos Paco Ramon Rodolfo Alvaro
-				Ronaldo "Don Rodolfo" Franco Ataulfo Filadelfo "Don Alfonso" Teodoredeo
-				Hermenegildo Theodoric Ramiro Ferdinand Ildefonso Totila Ferdonando
-				Wallia Alarico Gesaleico Amalarico Teudis Agioa Antagildo Leoviglio
-				Recaredo Witerico Gundemaro Sisebuto Chindavinto Ervigio Rodrigo Teodorico Karlo Don
-				Luivo Ludowigo Agila Thuedigilo 
+				Abelardo Adolfo Alonso Toarismondo Horigho Toadiselo Toadismondo
+				Ghonrado Ernesto Francisco Hernando Gharlos Pagho Ramon Rodolfo Alwaro
+				"Frauj Rodolfo" Frangho Ataolfo Filadelfo "Frauj Alfonso" Toadoredo
+				Hermenegildo Thoadoric Ramiro Ferdinand Ildefonso Ferdonando
+				Vallia Alarigho Gesaleigo Amalarigo Taodis Agioa Antanildo Leowiglio
+				Regaredo Viterigo Gundemaro Sisebuto Rhindavinto Erwinio Rodrino Toadorico
+				Loadowino Anila Toadigilo Isidore Juliano Reghredo Josepo Jesos Ulfila Linoa 
+                Abrahamo Joanes Issac David Gabrielo Angelo Marco Mateos 
+				Alexandro Simon Mose Ghaisar Jamo Bartolomeo
+				Saul Samoal
 			}
 
 			last_names = {	
-				Bermudez Guerra Guerrero Suevos Alvarez Mendez
-				Parra "de Rosas" Ramos Ortiz Oribe Blanco Serrano Ruiz "el Alto" Guzman
-				Sosa Cervantes Echigues Guicoi Ufes Belfaguer Gundisalvus Rodriguez
-				Alonso Serrano Morales Moreno Garcia Ruigomes Grelle Alves Vela Velgila
+				Hispano Tarkino Rusto Goto Tswedo Walghaviro Pindario Wandalio Hoptio Soghio Pisgharato
+                Datoro
 			}
     }
 
