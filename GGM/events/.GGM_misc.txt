@@ -76,27 +76,112 @@ province_event = {
 ###########
 
 # Acquire A State
+#country_event = {
+#	id = 123123
+#	title = "EVTNAME123123"
+#	desc = "EVTDESC123123"
+#	
+#	trigger = {
+#		ai = yes
+#		NOT = { war_exhaustion = 30 }
+#		war = no
+#		total_amount_of_divisions = 5
+#	}
+#	
+#	mean_time_to_happen = {
+#		months = 360 #180
+#
+#	}
+#	
+#	option = {
+#		name = "EVT123123OPTA"
+#		add_core = THIS
+#	}
+#}
+
+# STARTUP GENERAL EVENTS
+
+# Great Power
 country_event = {
-	id = 123123
-	title = "EVTNAME123123"
-	desc = "EVTDESC123123"
+	id = 49955
+	title = "EVTNAME49955"
+	desc = "EVTDESC49955"
 	
 	trigger = {
-		ai = yes
-		NOT = { war_exhaustion = 30 }
-		war = no
-		total_amount_of_divisions = 5
+		is_greater_power = yes
+		NOT = { has_country_flag = given_starting_leadership }
 	}
 	
 	mean_time_to_happen = {
-		months = 360 #180
-
+		months = 1
+		#modifier = {
+		#	factor = 0.1
+		#	NOT = {
+		#		year = 1837
+		#	}
+		#}
 	}
 	
 	option = {
-		name = "EVT123123OPTA"
-		add_core = THIS
+		name = "EVT49955OPTA"
+		leadership = 80
+		set_country_flag = given_starting_leadership
 	}
 }
 
+# Secondary Power
+country_event = {
+	id = 49954
+	title = "EVTNAME49954"
+	desc = "EVTDESC49954"
+	
+	trigger = {
+		is_secondary_power = yes
+		NOT = { has_country_flag = given_starting_leadership }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		#modifier = {
+		#	factor = 0.1
+		#	NOT = {
+		#		year = 1837
+		#	}
+		#}
+	}
+	
+	option = {
+		name = "EVT49954OPTA"
+		leadership = 60
+		set_country_flag = given_starting_leadership
+	}
+}
 
+# Everyone Else
+country_event = {
+	id = 49953
+	title = "EVTNAME49953"
+	desc = "EVTDESC49953"
+	
+	trigger = {
+		is_secondary_power = no
+		is_greater_power = no
+		NOT = { has_country_flag = given_starting_leadership }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		#modifier = {
+		#	factor = 0.1
+		#	NOT = {
+		#		year = 1837
+		#	}
+		#}
+	}
+	
+	option = {
+		name = "EVT49953OPTA"
+		leadership = 40
+		set_country_flag = given_starting_leadership
+	}
+}
