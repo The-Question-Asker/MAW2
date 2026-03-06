@@ -1,6 +1,6 @@
-owner = VLT
-controller = VLT
-add_core = VLT
+owner = KRJ
+controller = KRJ
+add_core = KRJ
 add_core = WND
 trade_goods = fruit
 life_rating = 35

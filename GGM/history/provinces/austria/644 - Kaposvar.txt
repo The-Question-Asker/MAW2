@@ -1,6 +1,6 @@
-owner = BLA
-controller = BLA
-add_core = BLA
+owner = KRJ
+controller = KRJ
+add_core = KRJ
 add_core = WND
 trade_goods = cattle
 life_rating = 35
