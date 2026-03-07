@@ -106,6 +106,7 @@ country_event = {
 	id = 49955
 	title = "EVTNAME49955"
 	desc = "EVTDESC49955"
+	picture = "a_meeting_of_officers"
 	
 	trigger = {
 		is_greater_power = yes
@@ -134,6 +135,7 @@ country_event = {
 	id = 49954
 	title = "EVTNAME49954"
 	desc = "EVTDESC49954"
+	picture = "a_meeting_of_officers"
 	
 	trigger = {
 		is_secondary_power = yes
@@ -162,6 +164,7 @@ country_event = {
 	id = 49953
 	title = "EVTNAME49953"
 	desc = "EVTDESC49953"
+	picture = "a_meeting_of_officers"
 	
 	trigger = {
 		is_secondary_power = no
