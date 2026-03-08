@@ -140,7 +140,14 @@ west_germanic = {
 							Ulf Ulferth Wæbheard Uhtred Wynstan Wynræd Winenoth 
 							Wulflaf Wynhelm Wihtmund Wiglaf Raginmund Fredegear }
 
-			last_names = { "af Wealda" Bolger }
+			last_names = { "af Wælda" Bolger Aker Æppelhem Æscmann Atwater Bannes 
+                 Beorclaeh Bærnet Blæcwulf Blithworth Bruhlaw Borhus Dælmann Dictun 
+                 Dorweard Ieorling Fenning Grafmann Halhem Heordwic Hafoc Hagweard "af Holt"
+                 "af Ieorls" Ulfmann Adalmann Godmann Cyning Cnicht Hlawlard Luflaes Milling
+                Coeling Botulfing Bregoling Osling Molling Odding Raginling Ocden Pennman Penn
+                Penning Hraecmann Ridder Suheird Skeaga Snither "af Cyning" "af Pennarman" 
+                "af Strod" Sumorfeld Tolner Tunsende Underhyll Wicman Hwitæcer Wildling Geochahl
+            }
 	}
 	
 }
@@ -201,36 +208,46 @@ latins = {
 				Regaredo Viterigo Gundemaro Sisebuto Rhindavinto Erwinio Rodrino Toadorico
 				Loadowino Anila Toadigilo Isidore Juliano Reghredo Josepo Jesos Ulfila Linoa 
                 Abrahamo Joanes Issac David Gabrielo Angelo Marco Mateos 
-				Alexandro Simon Mose Ghaisar Jamo Bartolomeo
+				Alexandro Simon Mose Ghaisar Jamo Bartolomeo Augoasto Esekiel
 				Saul Samoal
 			}
 
 			last_names = {	
-				Hispano Tarkino Rusto Goto Tswedo Walghaviro Pindario Wandalio Hoptio Soghio Pisgharato
-                Datoro
+				Hispano Tarkino Rusto Goto Tswedo Walghawiro Pindario Wandalio Hoptio Soghio Pisgharato
+                Datoro Godo Romawiro Afroviro Julia Santjagho 
+				Claudia Soapino Tarqino Toalios Antonio Arighos Miles Plebos Soalpicos 
+				Wisigoto Asneio Servio "Julia Soapino" "Asneio Soghio" Viegho Laborno Akoala 
+                Ekwairo Ostrogoto Agoastofilo Wairstwaro Molinao Mornane Werdagoar Holore
 			}
     }
 
     catalan = {
         color = {220 110 30}
         first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Carles Cassià Dalmau
-        David Eduard Enric Enrique Federico Felip Fernando Ferran Francesc Gaspar
+        David Eduard Enric Felip Fernando Ferran Francesc Gaspar
         Gerard Isaac Jacint Jaume Joan Jordi José Josep Juan Llorenç
         Lluis Manel Manuel Marc Miquel Narcís Pasqual Pau Pedro Pere
-        Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Valntí Victor Xavier }
+        Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Valntí Victor Xavier Teudismondo 
+        Gunmero Fransc Rhithavindo Amlaric Gesalac Leovigol Angilde   }
 
-        last_names = { Albéniz Almirall Bacardí Batet Berenguer Borrás Borrell Cadafall Carner Casals
-        Casanova Castelló Claramunt Cucala Cugat Despujol Domènech Escotet Fabra Fages
-        "Folc de Cardona" Gumerà Irla Llauder Macià Maragall Margall "Milans del Bosch" Miró Mompou
+        last_names = { Albéniz Almirall Batet Berenguer Borrás Borrell Cadafall Carner Casals
+        Casanova Castelló Claramunt Cucala Cugat Domènech Escotet Fabra Fages
+        Gumeràda Irla Llauder Maragall Margall Mompou
         Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba
         Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
     }
 	
 	galician = {
 	  color = { 25 120 25 }
-        	first_names = { }
+        	first_names = { 
+                Alfonso Alberte Dominik Vinkenz Innozenzo Terenz Marko Emilio Yohanno Tsverin Yachimo Beato 
+                Franko Marzell Saul Tsilvano Tsilas Viktorio Pazcal Alfonz Henrico Gaspar Lorenz Lion    
+                Leonard Yulio Yusto Yignatzo Recardo Isaac Yacinto Gerardo 
+            }
 
-			last_names = {	}
+			last_names = {	
+                Lauder Tsalique 
+            }
     }
 	
 	vasconian = {
@@ -271,11 +288,11 @@ latins = {
 				Ludowigo Agila Todigile Kaseriku Uneriku Guntamundo Trasamundo Ilderike Glimero
 				Wisimaru Gunderike Godgitelo Segfrodo Segmondo Lobmondo Lobfodo Bados Badofrodo
 				Regsmundo Ragomundo Patrobalo Mattano Itorege Amlikaro Ugerto Massano Kartele
-				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto Bado Gunta Ifroia 
+				Tseksto Julo Clado Aplo Atlo Ijarbo Ulises Arturo Roberto Bado Gunta Ifroio 
 				"Froi Lodobigo" "Froi Ragomund" "Froi Anbalo" Iosepe Iosus Petros Linos Ulfila 
 				Abramo Abrentos Ionanes Isak Dabid Gabreleke Angelos Gabrele Markos Matteios 
 				Aleksandros Nikodemos Isidore Didimos Simone Iotsuia Motses Kasar Iames Bartolomo
-				Tselotos Tadeio Sal Samul Itsekel Bodo
+				Tselotos Tadeio Sal Samul Itsekel Bodo 
 				}
 
 			last_names = { "de Ippo" "de Roma" "de Kasas" "de Utika" "de Jula" "de Belano" "de Mare"
@@ -283,7 +300,7 @@ latins = {
 				"de Tarkino" "de Tula" "Barka" "Magona" "Markia" "Antona" "Agro" "Miletekes" "Ruste"
 				"Plebe" "Geteke" "Biro" "Didomo" "Pindaro" "Sulpiko" "de Ifrogatere" "de Badotere"
 				"de Provinkes" Prikepeke Bloma "de Astra" Tulus Wilaia Wulta "de Walla" Wallabiro
-				Tulabiro Romabiro Punobiro "de Maria" "de Anna"
+				Tulabiro Romabiro Punobiro "de Maria" "de Anna" Imolines Alabore Hirla Markala Oler
  
 			}
     }
