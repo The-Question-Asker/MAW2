@@ -163,10 +163,10 @@ PROV1733;Traktis;;;;;;;;;;;;;x
 PROV1732;Tento;;;;;;;;;;;;;x
 SPA_477;Tswedia;;;;;;;;;;;;;x
 POR_525;Sidania Minte;;;;;;;;;;;;;x
-SPA_492;Saqsente Tarracon;;;;;;;;;;;;;x
+SPA_492;Tayacon;;;;;;;;;;;;;x
 FRA_455;Vasconia;;;;;;;;;;;;;x
-POR_521;Urente Taraicon;;;;;;;;;;;;;x
-SPA_512;SaqsenteVaetica;;;;;;;;;;;;;x
+POR_521;Taraicon;;;;;;;;;;;;;x
+SPA_512;Saqsente Vaetica;;;;;;;;;;;;;x
 SPA_513;Urente  Vaetica;;;;;;;;;;;;;x
 SPA_484;Sidania;;;;;;;;;;;;;x
 SPA_503;Ghartensos;;;;;;;;;;;;;x
@@ -641,7 +641,7 @@ PROV490;Arahrota;;;;;;;;;;;;;x
 PROV487;Ghompledo;;;;;;;;;;;;;x
 PROV489;Tonoata;;;;;;;;;;;;;x
 PROV491;Judaihaimo;;;;;;;;;;;;;x
-PROV486;Tsorba;;;;;;;;;;;;;x
+PROV486;Sorba;;;;;;;;;;;;;x
 PROV485;Owisbaure;;;;;;;;;;;;;x
 PROV484;Willplaudo;;;;;;;;;;;;;x
 PROV511;Sarissa;;;;;;;;;;;;;x
@@ -652,6 +652,52 @@ PROV514;Malana;;;;;;;;;;;;;x
 PROV513;Magahelo;;;;;;;;;;;;;x
 PROV515;Adra;;;;;;;;;;;;;x
 PROV516;Ghatolo;;;;;;;;;;;;;x
+PROV522;Hemíniyo;;;;;;;;;;;;;x
+PROV518;Pfoysoale;;;;;;;;;;;;;x
+PROV476;Tobuyes;;;;;;;;;;;;;x
+PROV474;Golonya;;;;;;;;;;;;;x
+PROV519;Tsantyáno;;;;;;;;;;;;;x
+PROV520;Enia;;;;;;;;;;;;;x
+SPA_474;Calicya;;;;;;;;;;;;;x
+PROV475;Tísayl;;;;;;;;;;;;;x
+PROV478;Vassapoyo;;;;;;;;;;;;;x
+PROV477;Hasona;;;;;;;;;;;;;x
+PROV480;Cinsoayás;;;;;;;;;;;;;x
+PROV482;Tsan Isidio;;;;;;;;;;;;;x
+PROV483;Habila;;;;;;;;;;;;;x
+PROV479;Buyes;;;;;;;;;;;;;x
+PROV492;Pfavyoina;;;;;;;;;;;;;x
+PROV494;Filhanos;;;;;;;;;;;;;x
+PROV481;Malaico;;;;;;;;;;;;;x
+PROV493;Victoco;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
+PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
 PROV417;Orne;;;;;;;;;;;;;x
@@ -708,7 +754,7 @@ PROV2722;Coast of Laagland;;;;;;;;;;;;;x
 PROV2724;Claudian Narrows;;;;;;;;;;;;;x
 PROV2725;Môr Udd;;;;;;;;;;;;;x
 PROV2727;Coast of Amorica;;;;;;;;;;;;;x
-PROV2730;Bay of Vascay;;;;;;;;;;;;;x
+PROV2730;Bay of Guienne;;;;;;;;;;;;;x
 PROV2732;The Verda;;;;;;;;;;;;;x
 PROV2733;Merrindeu Sea;;;;;;;;;;;;;x
 PROV2735;Morrowshire Firth;;;;;;;;;;;;;x
@@ -762,7 +808,7 @@ PROV2759;Melites Channel;;;;;;;;;;;;;x
 PROV2776;Maeotic Lake;;;;;;;;;;;;;x
 PROV2777;East Euxine;;;;;;;;;;;;;x
 PROV2774;Gulf of Pomorie;;;;;;;;;;;;;x
-PROV2744;Sea of Sitana;;;;;;;;;;;;;x
+PROV2744;Sea of Calicya;;;;;;;;;;;;;x
 PROV3019;Hispanic Shelf;;;;;;;;;;;;;x
 PROV2923;Coast of Zenagia;;;;;;;;;;;;;x
 PROV3027;Current of the Dog;;;;;;;;;;;;;x
@@ -799,8 +845,8 @@ PROV2973;Mare Wismares;;;;;;;;;;;;;x
 PROV2972;Sinus Wismarus;;;;;;;;;;;;;x
 PROV2970;Central Amorican Sea;;;;;;;;;;;;;x
 PROV2748;Marka Ghartenos;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
-PROV2785;Cape Elephas;;;;;;;;;;;;;x
+PROV2731;Sea of Cansabrya;;;;;;;;;;;;;x
+PROV2743;Cape Oysbello;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x
 PROV2785;Cape Elephas;;;;;;;;;;;;;x

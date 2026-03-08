@@ -36,7 +36,7 @@ debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
-border_policy = closed_borders
+border_policy = open_borders
 
 set_country_flag = orthodox_country
 
@@ -76,4 +76,6 @@ hot_blast = 1
 basic_chemistry = 1
 piston_steam_engine = 1
 #hot_blast = 1
+
+oob = "TRR_oob.txt"
 
