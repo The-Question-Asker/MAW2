@@ -231,7 +231,7 @@ latins = {
         Gunmero Fransc Rhithavindo Amlaric Gesalac Leovigol Angilde   }
 
         last_names = { Albéniz Almirall Batet Berenguer Borrás Borrell Cadafall Carner Casals
-        Casanova Castelló Claramunt Cucala Cugat Domènech Escotet Fabra Fages
+        Castelló Claramunt Cucala Cugat Domènech Escotet Fabra Fages
         Gumeràda Irla Llauder Maragall Margall Mompou
         Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba
         Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
@@ -240,13 +240,14 @@ latins = {
 	galician = {
 	  color = { 25 120 25 }
         	first_names = { 
-                Alfonso Alberte Dominik Vinkenz Innozenzo Terenz Marko Emilio Yohanno Tsverin Yachimo Beato 
-                Franko Marzell Saul Tsilvano Tsilas Viktorio Pazcal Alfonz Henrico Gaspar Lorenz Lion    
-                Leonard Yulio Yusto Yignatzo Recardo Isaac Yacinto Gerardo 
+                Alfonso Alberte Dominik Vinkenz Innozenzo Terenz Mayrko Emilio Yohanno Tsverin Yachimo Beato 
+                Franko Marzell Saul Tsilvano Tsilas Viktorio Pazcál Alfonz Henrico Gaspar Loyenz Lion    
+                Leonard Yulio Yusto Yignatzo Ysecardo Isaac Yacinto Gerardo 
             }
 
 			last_names = {	
-                Lauder Tsalique 
+                Lauder Tsàlique Porrás Pratzo Mayrnallo Tswedoviya Cadfryol Mollino Ysoig Fabyaro 
+                Tsantyáno Pindayo Goto Yusta Cayado Borel Carlofilyo Pastforyer Vascalorye
             }
     }
 	
