@@ -899,7 +899,7 @@ guiTypes = {
 			windowType = {
 				name = "political_parties"
 				backGround =""
-				position = { x = 843 y = 219 }
+				position = { x = 843 y = 220 }
 				size = { x=151 y=100 }
 				moveable = 0
 				dontRender = ""
