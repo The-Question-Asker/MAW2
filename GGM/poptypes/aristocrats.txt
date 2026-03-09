@@ -342,7 +342,7 @@ country_migration_target = {
 	
 	modifier = {
         factor = 0.2
-		unemployment_subsidies = good_subsidies
+		unemployment_subsidies = acceptable_subsidies
 		has_country_flag = new_world_nation
         OR = {
             capital_scope = { is_colonial = no continent = north_america }
@@ -4882,87 +4882,7 @@ issues =
             consciousness = 9
         }
     }
-    good_subsidies = {
-        factor = 1
-        modifier = {
-            factor = 0
-            OR = {
-                poor_strata_luxury_needs = 1.0
-                state_scope = { NOT = { unemployment = 0.01 } }
-                NOT = { consciousness = 6 }
-                NOT = { is_next_reform = good_subsidies }
-                NOT = { is_ideology_enabled = socialist }
-                country = { civilized = no }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            state_scope = {
-                not = { poor_strata_life_needs = 1 }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            state_scope = {
-                not = { poor_strata_life_needs = 0.75 }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            state_scope = {
-                not = { poor_strata_life_needs = 0.5 }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            state_scope = {
-                not = { poor_strata_life_needs = 0.25 }
-            }
-        }
-
-        modifier = {
-            factor = 1.25
-            state_scope = {
-                unemployment = 0.02
-            }
-        }
-        modifier = {
-            factor = 1.25
-            state_scope = {
-                unemployment = 0.04
-            }
-        }
-        modifier = {
-            factor = 1.25
-            state_scope = {
-                unemployment = 0.08
-            }
-        }
-        modifier = {
-            factor = 1.25
-            state_scope = {
-                unemployment = 0.1
-            }
-        }
-        modifier = {
-            factor = 1.25
-            state_scope = {
-                unemployment = 0.2
-            }
-        }
-        modifier = {
-            factor = 1.25
-            consciousness = 7
-        }
-        modifier = {
-            factor = 1.25
-            consciousness = 8
-        }
-        modifier = {
-            factor = 1.25
-            consciousness = 9
-        }
-    }
+  
     trinket_pensions = {
         factor = 1
         modifier = {
@@ -6445,7 +6365,7 @@ rehabilitation = {
                 NOT = { safety_regulations = good_safety }
                 NOT = { work_hours = eight_hours }
                 NOT = { wage_reform = good_minimum_wage }
-                NOT = { unemployment_subsidies = good_subsidies }
+                NOT = { unemployment_subsidies = acceptable_subsidies }
                 NOT = { pensions = good_pensions }
                 NOT = { health_care = good_health_care }
                 NOT = { school_reforms = good_schools }

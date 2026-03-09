@@ -204,6 +204,71 @@ party_issues = {
 
 political_reforms = {
 
+    federalisation = {
+        next_step_only = yes
+
+		centralised = {
+
+
+        }
+
+        devolution_of_powers = {
+            
+
+        }
+		
+        federal_union = {
+            
+        }
+		
+        confederation = {
+           
+
+        }
+		
+        negotiated_unity = {
+           
+        }
+		
+      
+    }
+
+    land_reform_civ = {
+        next_step_only = yes
+		
+		usufruct_prioritised = {
+		
+		
+		}
+
+        encolsure_of_commons = {
+       
+			allow = {
+				NOT = { has_country_flag = locked_usu }
+			
+			}
+        }
+
+
+        private_landownership = {
+            rgo_throughput = 0.03
+
+        }
+
+
+        farm_cooperatives = {
+            rgo_throughput = 0.05
+
+        }
+
+        collectivized_farming = {
+            rgo_throughput = 0.2
+            rgo_output = 0.05
+
+        }
+    }
+
+
     slavery = {
 
         yes_slavery = {
@@ -511,18 +576,6 @@ political_reforms = {
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }
-        one_year_draft = {
-            mobilisation_size = 0.01
-            global_immigrant_attract = 0.01
-            land_unit_start_experience = -2
-            allow = {
-                NOT = { has_country_flag = government_busy_with_something }
-                OR = {
-                    NOT = { war_policy = jingoism }
-                    NOT = { war_policy = pro_military}
-                }
-            }
-        }
         no_draft = {
             global_immigrant_attract = 0.03
             land_unit_start_experience = -5
@@ -632,6 +685,87 @@ political_reforms = {
 # Social reforms.
 ##########################################
 social_reforms = {
+
+    centralisation = {
+        administrative = yes
+        next_step_only = yes
+
+		federalised = {
+
+
+        }
+
+        legislative_unity = {
+            
+
+        }
+		
+        common_fiscal_code = {
+            
+        }
+		
+        secret_policing = {
+           
+
+        }
+		
+        police_state = {
+           
+        }
+		
+      
+    }
+
+    
+	usufruct_law = {
+		administrative = yes
+        next_step_only = yes
+		
+		realty_prioritised = {
+		
+		
+		}
+
+        commons_system = {
+            rgo_throughput = -0.05
+            rgo_output = -0.02
+			allow = {
+				NOT = { has_country_flag = locked_real }
+			
+			}
+
+        }
+
+        land_covenants = {
+			rgo_throughput = -0.06
+			poor_income_modifier = 0.02
+
+        }
+
+        commoning_bills = {
+            rgo_throughput = -0.07
+			rgo_output = -0.02
+			tax_efficiency = -0.01
+			global_population_growth = 0.001
+			global_pop_militancy_modifier = -0.01
+			poor_income_modifier = 0.04
+
+        }
+
+
+        common_courts = {
+			rgo_throughput = -0.08
+			rgo_output = -0.03
+			tax_efficiency = -0.02
+			global_population_growth = 0.001
+			global_pop_militancy_modifier = -0.01
+			global_pop_consciousness_modifier = 0.01 
+			poor_income_modifier = 0.06
+			poor_life_needs = -0.01
+
+        }
+
+    }
 
     wage_reform = {
         administrative = yes
@@ -810,13 +944,7 @@ social_reforms = {
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }
-        good_subsidies = {
-            unemployment_benefit = 2.0
-            global_immigrant_attract = 0.04
-            allow = {
-                NOT = { has_country_flag = government_busy_with_something }
-            }
-        }
+        
     }
     pensions = {
         next_step_only = yes

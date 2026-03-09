@@ -1070,62 +1070,7 @@ country_event = {
     }
 }
 
-#Withdrawing Privileges of the Unemployed
-country_event = {
-    id = 3402
-    title = "EVTNAME3402"
-    desc = "EVTDESC3402"
-    picture = "Poor"
 
-    trigger = {
-        civilized = yes
-        unemployment_subsidies = acceptable_subsidies
-        unemployment = 0.05
-        is_ideology_enabled = socialist
-    }
-
-    mean_time_to_happen = {
-        months = 400 # Common
-    }
-
-    option = {
-        name = "EVTOPTA3402"
-        random_state = {
-            rich_strata = {
-                consciousness = 3
-                militancy = 3
-            }
-        }
-    }
-
-    option = {
-        name = "EVTOPTB3402"
-        social_reform = low_subsidies
-        rich_strata = {
-            consciousness = -1
-            militancy = -1
-        }
-        middle_strata = {
-            militancy = -2
-            consciousness = -2
-        }
-        poor_strata = {
-            militancy = 3
-            consciousness = 3
-        }
-    }
-
-    option = {
-        name = "EVTOPTC3402"
-        any_pop = {
-            dominant_issue = {
-                value = good_subsidies
-                factor = 0.3
-            }
-            militancy = 1
-        }
-    }
-}
 
 #The Sitdown Strike
 country_event = {
@@ -1201,56 +1146,6 @@ country_event = {
     }
 }
 
-#Wildcat Strike
-country_event = {
-    id = 3404
-    title = "EVTNAME3404"
-    desc = "EVTDESC3404"
-    picture = "Strike"
-
-    trigger = {
-        civilized = yes
-        unemployment_subsidies = acceptable_subsidies
-        NOT = { trade_unions = no_trade_unions }
-        is_ideology_enabled = socialist
-    }
-
-    mean_time_to_happen = {
-        months = 200 # Common
-
-        modifier = {
-            factor = 0.5
-            militancy = 0.2
-        }
-
-        modifier = {
-            factor = 1.5
-            consciousness = 0.2
-        }
-    }
-
-    option = {
-        name = "EVTOPTA3404"
-        random_state = {
-            any_pop = {
-                dominant_issue = {
-                    value = good_subsidies
-                    factor = 0.2
-                }
-                consciousness = 3
-            }
-        }
-    }
-
-    option = {
-        name = "EVTOPTB3404"
-        random_state = {
-            any_pop = {
-                militancy = 2
-            }
-        }
-    }
-}
 
 ##### SAFETY REGULATIONS #####
 #Life and Limb

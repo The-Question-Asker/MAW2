@@ -896,10 +896,6 @@ political_decisions = {
                     NOT = { has_country_flag = in_great_war }
                 }
                 AND = {
-                    conscription = one_year_draft
-                    NOT = { has_country_flag = in_great_war }
-                }
-                AND = {
                     conscription = two_year_draft
                     NOT = { has_country_flag = in_great_war }
                 }
@@ -927,7 +923,6 @@ political_decisions = {
                 AND = {
                     NOT = { OR = { war_policy = pacifism war_policy = anti_military } }
                     OR = {
-                        conscription = one_year_draft
                         conscription = two_year_draft
                     }
                 }
@@ -962,31 +957,12 @@ political_decisions = {
             }
             random_owned = { limit = { owner = { conscription = four_year_draft } } owner = { political_reform = mandatory_service } }
             random_owned = { limit = { owner = { conscription = two_year_draft } } owner = { political_reform = four_year_draft } }
-            random_owned = { limit = { owner = { conscription = one_year_draft } } owner = { political_reform = two_year_draft } }
-            random_owned = { limit = { owner = { conscription = no_draft } } owner = { political_reform = one_year_draft } }
+            random_owned = { limit = { owner = { conscription = no_draft } } owner = { political_reform = two_year_draft } }
         }
 
         ai_will_do = {
             factor = 0
             modifier = { factor = 100 conscription = no_draft }
-            modifier = {
-                factor = 100
-                conscription = one_year_draft
-                OR = {
-                    war_policy = jingoism
-                    war_policy = pro_military
-                    ruling_party_ideology = fascist
-                    ruling_party_ideology = reactionary
-                    any_greater_power = { war_with = THIS }
-                    any_neighbor_country = {
-                        civilized = yes
-                        OR = {
-                            brigades_compare = 1.1
-                            conscription = two_year_draft
-                        }
-                    }
-                }
-            }
             modifier = {
                 factor = 100
                 conscription = two_year_draft
