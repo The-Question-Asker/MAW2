@@ -175,7 +175,7 @@ west_germanic_continental = {
 ##LATINS##
 
 latins_narbonne = {
-    leader = southamerican
+    leader = latin
     unit = SpanishGC
 	
 	narbonne = {
@@ -194,7 +194,7 @@ latins_narbonne = {
 }
 
 latins = {
-    leader = southamerican
+    leader = latin
     unit = SpanishGC
 
 	hispanic = {
@@ -310,15 +310,8 @@ latins = {
 }
 
 east_latin = {
-    leader = european
+    leader = russian
     unit = EuropeanGC
-
-	vlach = {
-	  color = { 187 204 92 }
-        	first_names = { }
-
-			last_names = {	}
-    }
 	
 	llati = {
 	  color = { 125 98 130 }
@@ -329,7 +322,7 @@ east_latin = {
 }
 
 north_latin_britain = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 
 	brutonian = {
@@ -351,7 +344,7 @@ north_latin_britain = {
 }
 
 north_latin_ivernnia = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 	
 	ivernach = {
@@ -411,7 +404,7 @@ hellenes = {
 ##SLAVS##
 
 jugoslavs = {
-    leader = european
+    leader = russian
     unit = EuropeanGC
 
 	sclavenian = {
@@ -429,10 +422,17 @@ jugoslavs = {
 			last_names = {	}
     }
 	
+	vlach = {
+	  color = { 187 204 92 }
+        	first_names = { }
+
+			last_names = {	}
+    }
+	
 }
 
 zapadoslavs = {
-    leader = european
+    leader = russian
     unit = EuropeanGC	
 	
 	polish = {
@@ -538,7 +538,7 @@ mesopotamian = {
 }
 
 coptic = {
-    leader = european
+    leader = aegyptian
     unit = EuropeanGC
 
 	sahid = {
@@ -551,7 +551,7 @@ coptic = {
 }
 
 old_world_colonial_franks = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 	
 	carcassonnais = {
@@ -564,7 +564,7 @@ old_world_colonial_franks = {
 }
 
 colonial_greeks = {
-    leader = european
+    leader = aegyptian
     unit = EuropeanGC
 
 	maxasekes = {
@@ -592,7 +592,7 @@ avars = {
 ##### NEW WORLD CULTURES
 
 afro_diaspora = {
-    leader = european
+    leader = african
     unit = EuropeanGC
 	
 	afro_frankish = {
@@ -639,7 +639,7 @@ afro_diaspora = {
 }
 
 colonial_frankish_culture = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 	
 	colonial_frankish = {
@@ -681,7 +681,7 @@ colonial_frankish_culture = {
 }
 
 colonial_roman_culture = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 	
 	colonial_roman = {
@@ -693,7 +693,7 @@ colonial_roman_culture = {
 }
 
 colonial_african_culture = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 	
 	colonial_vandal = {
@@ -1162,7 +1162,7 @@ iranian = {
 
 
 jewish_cultures = {
-    leader = european
+    leader = aegyptian
     unit = EuropeanGC
     ashkenazi = {
         color = { 242 121 182 } #150  212  214 
@@ -1240,24 +1240,7 @@ finnougric = {
 
 
 levantine = {
-    leader = european
-    #greek = {
-    #    color = { 122  180  210 }
-    #    first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
-    #    Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
-    #    Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-    #    Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-    #    Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-    #    }
-	#
-    #    last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-    #    Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-    #    Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-    #    Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-    #    Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-    #    }
-    #    radicalism = 10
-    #}
+    leader = persian
     georgian = {
         color = {128 207 128}
         first_names = { Akaki Alexander Andria Bagrat Besarion David Dimitri Eduard Ekvtime Evgeni
@@ -1311,7 +1294,7 @@ levantine = {
 }
 
 caucasian = {
-    leader = arab
+    leader = persian
     is_overseas = no
     unit = MoroccoGC
 
