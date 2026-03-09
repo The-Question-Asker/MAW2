@@ -5,7 +5,7 @@
 ##GERMANICS##
 
 continental_germanic_saxon = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 
 	saxon = {
@@ -73,7 +73,7 @@ continental_germanic_frankish = {
 }
 
 north_germanic = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 
 	norse = {
@@ -118,7 +118,7 @@ north_germanic = {
 }
 
 west_germanic = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 
 	anglish = {
@@ -153,7 +153,7 @@ west_germanic = {
 }
 
 west_germanic_continental = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 	
 	laaglander = {
@@ -777,7 +777,7 @@ colonial_african_culture = {
 }
 
 colonial_saxon_culture = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 	
 	colonial_saxon = {
@@ -1209,7 +1209,7 @@ jewish_cultures = {
 }
 
 finnougric = {
-    leader = european
+    leader = russian
     unit = SwedishGC
     finnish = {
         color = { 194 148 79 }
