@@ -42,7 +42,7 @@ continental_germanic_saxon = {
 }
 
 continental_germanic_frankish = {
-    leader = european
+    leader = latin
     unit = EuropeanGC
 	
 	frankish = {
