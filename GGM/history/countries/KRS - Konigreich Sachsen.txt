@@ -78,3 +78,5 @@ basic_chemistry = 1
 piston_steam_engine = 1
 #hot_blast = 1
 
+oob = "KRS_oob.txt"
+

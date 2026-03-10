@@ -100,7 +100,7 @@ north_germanic = {
 							Ludwig Ludolf Lütolf Manegold Mathias Neidhart Nanker Nymandus Ortlieb 
 							Örtel Partschfall Peregrinus Peter Peltrus Ramwold Reinhard Ruland Salomon 
 							Sibot Sigfrid Siegfried Sigismund Wernher Wicher Wigand Wilhelm Wiland Winrich 
-							Wölfel Wolf Zacharias Ytel Liphardus Johannes Hemmo Faust Felix Goswin Gandalf }
+							Wölfel Wolf Zacharias Ytel Liphardus Johannes Hemmo Faust Felix Goswin  }
 
 			last_names = { "von Ruprecht" "von Potppe" "von Orbane" "von Rüdeger" "von Warmund"	
 							"von Ütmar" "von Lupoldus" "von Heidenrich" "von Wiprecht" "von Wulferam" 
