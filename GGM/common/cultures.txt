@@ -261,22 +261,30 @@ latins = {
 
 	roman = {
 	  color = { 227 7 21 } #173 23 33
-        	first_names = { Aelianus Aelius Aemilianus Aemilius Aetius Africanus Albanus 
-							Albus Antoninus Antonius Appius Aquilinus Atilius Augustinus 
-							Aulus Aurelianus Aurelius Avilius Avitus Balbinus Balbus 
-							Blandys Blasius Brutus Caecilius Caelinus Caelius Caesar Caeso 
-							Caesonius Caius Calpurnius Calvus Camillus Caracalla Cassian 
-							Cassianus Cassius Cato Celsus Cicero Claudius Cloelius Lucius 
-							Cornelius Crispinus Crispus Cyprianus Decimus Dioclletianus Drusus 
-							Duilius Egnatious Ennius Fabianus Fabius Fabricius Faustinus Faustus 
-							Festus Flaminius Flavianus Flavius Florianus Gaius Hadrianus 
-							Horatius Iulius Januarius Julius Junius Laelius Longinus Lucilius 
-							Marcellinus Marcus Marinus Maximus Nero Naevius Octavianus Octavius 
-							Paulinus Petronius Pontius Pstumus Quintus Quintillus Romilius Rufinus 
-							Salvius Scipio Seneca Septimus Severus Servius Sextilius Syrus Tacitus 
-							Tiberius Titus Tullious Valentinus Valerianus Vitus }
+        	first_names = {  Ajanos Ajos Amihjanos Amihjos Atjos Alojs Arhicanos Albanos 
+							Albos Antoños Apjos Aquilinos Atijos Augustinos 
+							Aulos Aurejanos Aurejos Abhijos Balbinos Balbos 
+							Blandjos Blazjos Brutos Cacjos Calinos Casar Casor 
+							Casoños Cajos Calpurños Camillos Catjan 
+							Cajanos Catsjos Cator Celsos Ciceror Claudjos Clehjos Luzjos 
+							Chornehjos Crispinos Crispos Cyprjaanos Drusos 
+							Dijos Enños Fabjnos Fabjos Fabricjos Faustinos Faustos 
+							Festos Flamiños Flabjanos Flabhjos Florhjanos Gayos Adrajanos 
+							Orachjos Iuljos Juños Llejos Longinos Lucjos 
+							Marcellinos Marcos Marinos Maximos Neron Nabajos 
+							Paulinos Petrhoños Pontjos Postumos Quintos Quintillos Romjos Rufinos 
+							Salbjos Iscibjor Senecar Septimos Sebheros Serbjos Sezjos Siros Tacitos 
+							Tiberjos Titos Toljos Bhitos Iojanes Iesos Saul Petros Sigfredos Chremundos 
+                            Ioseppos Lucan Abrahamos Baptistar Batar Benedictos Iacomos Ieronimos Iordanos Iacobos
+                            Leonor Nazarenos Paschalos Silbhezter Isaac Absalomos Baruchos Dabhid Gabrihel Ismahel
+                            Salomon Sergjos Zabuljos }
 
-			last_names = {  }
+			last_names = {  
+                            Chastellon Dominos Frater Zibbelor Azor Ionaschon Bhalmarid Fajos Bozigar Miramond Chabran
+                            Farrisolos Galer Bhenator Bhindor Flabhinos Cesar Adoror Arcaror Bellumos Chastonor Istrater 
+                            Vorac Germos Fichentellos Adrjan Bonarjos Abmatricos Siroschon Charcan Gadolar Geshard
+                            
+                            }
     }
 	
 	african = {
