@@ -1345,7 +1345,7 @@ caucasian = {
     }
 
 arab = {
-    leader = arab
+    leader = aegyptian
     is_overseas = no
     unit = MoroccoGC
 
