@@ -103,6 +103,12 @@ country_event = {  #witlian self-gov
 	mean_time_to_happen = {
 		months = 15
 		
+        modifier = {
+            factor = 0.1
+            has_country_flag = must_revolt_colonials
+
+        }
+
 		modifier = {
 			factor = 0.8
 			national_provinces_occupied = 10
@@ -813,6 +819,12 @@ country_event = {  #central lothaire self-gov
 	
 	mean_time_to_happen = {
 		months = 15
+
+        modifier = {
+            factor = 0.1
+            has_country_flag = must_revolt_colonials
+
+        }
 		
 		modifier = {
 			factor = 0.8
@@ -2245,6 +2257,12 @@ country_event = {  #antipodea self-gov
 	
 	mean_time_to_happen = {
 		months = 15
+
+        modifier = {
+            factor = 0.1
+            has_country_flag = must_revolt_colonials
+
+        }
 		
 		modifier = {
 			factor = 0.8
