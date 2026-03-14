@@ -282,7 +282,7 @@ latins = {
 			last_names = {  
                             Chastellon Dominos Frater Zibbelor Azor Ionaschon Bhalmarid Fajos Bozigar Miramond Chabran
                             Farrisolos Galer Bhenator Bhindor Flabhinos Cesar Adoror Arcaror Bellumos Chastonor Istrater 
-                            Vorac Germos Fichentellos Adrjan Bonarjos Abmatricos Siroschon Charcan Gadolar Geshard
+                            Vorac Germos Fichentellos Adrjan Bonarjos Abmatricos Siroschon Charcan Gadolar Geshard Africanos
                             
                             }
     }
