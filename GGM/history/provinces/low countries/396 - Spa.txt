@@ -2,6 +2,7 @@ owner = LUP
 controller = LUP
 add_core = LUP
 add_core = FRK
+add_core = GRM
 add_core = LAA
 trade_goods = coal
 life_rating = 35

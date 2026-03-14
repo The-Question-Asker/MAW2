@@ -2,6 +2,7 @@ owner = FRN
 controller = FRN
 add_core = FRN
 add_core = FRK
+add_core = GRM
 add_core = LAA
 trade_goods = coal
 life_rating = 40
