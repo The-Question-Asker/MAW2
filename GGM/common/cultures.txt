@@ -694,9 +694,27 @@ colonial_roman_culture = {
 	
 	colonial_roman = {
 	  color = { 163 104 153 }
-        	first_names = { }
+        	first_names = { Ajanos Ajos Amihjanos Amihjos Atjos Alojs Arhicanos Albanos 
+							Albos Antoños Apjos Aquilinos Atijos Augustinos 
+							Aulos Aurejanos Aurejos Abhijos Balbinos Balbos 
+							Blandjos Blazjos Brutos Cacjos Calinos Casar Casor 
+							Casoños Cajos Calpurños Camillos Catjan 
+							Cajanos Catsjos Cator Celsos Ciceror Claudjos Clehjos Luzjos 
+							Chornehjos Crispinos Crispos Cyprjaanos Drusos 
+							Dijos Enños Fabjnos Fabjos Fabricjos Faustinos Faustos 
+							Festos Flamiños Flabjanos Flabhjos Florhjanos Gayos Adrajanos 
+							Orachjos Iuljos Juños Llejos Longinos Lucjos 
+							Marcellinos Marcos Marinos Maximos Neron Nabajos 
+							Paulinos Petrhoños Pontjos Postumos Quintos Quintillos Romjos Rufinos 
+							Salbjos Iscibjor Senecar Septimos Sebheros Serbjos Sezjos Siros Tacitos 
+							Tiberjos Titos Toljos Bhitos Iojanes Iesos Saul Petros Sigfredos Chremundos 
+                            Ioseppos Lucan Abrahamos Baptistar Batar Benedictos Iacomos Ieronimos Iordanos Iacobos
+                            Leonor Nazarenos Paschalos Silbhezter Isaac Absalomos Baruchos Dabhid Gabrihel Ismahel
+                            Salomon Sergjos Zabuljos }
 
-			last_names = {  }
+			last_names = { Chastellon Dominos Frater Zibbelor Azor Ionaschon Bhalmarid Fajos Bozigar Miramond Chabran
+                            Farrisolos Galer Bhenator Bhindor Flabhinos Cesar Adoror Arcaror Bellumos Chastonor Istrater 
+                            Vorac Germos Fichentellos Adrjan Bonarjos Abmatricos Siroschon Charcan Gadolar Geshard Africanos }
     }
 }
 
