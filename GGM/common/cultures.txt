@@ -1131,7 +1131,6 @@ turko_semitic = {
         last_names = {
             Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
         }
-        radicalism = 10
     }
     khazar = {
         color = { 255 201 51 }
@@ -1413,23 +1412,6 @@ arab = {
         last_names = {
             "al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
             }
-        radicalism = 10
-    }
-    maures = {
-        color = {252 125 78}
-        first_names = { Abbas Malamah Abu "Ibn Muhammad" Tariq Farraj Galib Hajib Amira Asim Hasan Hayyan Jalaf Mansur Maymun Mujahid Mutarrif Nasr Tabit Tamim Ubada Ufayr Umar Wasil Yazid Yunus Zuhayr
-        }
-
-        last_names = { Ziyad al-Rahman Firnas al-Majriti al-Zahrawi al-Zarqali Bajjah Zuhr al-Idrisi Tufail Rushd al-Baitar Battuta Khaldon al-Qalasadi
-        }
-    }
-    sudanese = {
-        color = {241 241 78}
-        first_names = { "Ibn Muhammad" Abdullah "Abbas said" Ismail Mansur Rahman Abdallahi Hassan Malusi Tahir Wiraj Amsalu Nijam Bakri
-        }
-
-        last_names = { Ahmad Ali Zubayr Digna Azrak Hammuda al-Tasashi Nujumi
-        }
         radicalism = 10
     }
 }
@@ -2153,6 +2135,14 @@ west_african = {
         last_names = { Oladigbolu Adeniran Agogoja Alowolodu Atobatele Zumaw Oyo Tofa Tonyon Bezon Hungbo Dudu
         }
     }
+    maures = {
+        color = {252 125 78}
+        first_names = { Abbas Malamah Abu "Ibn Muhammad" Tariq Farraj Galib Hajib Amira Asim Hasan Hayyan Jalaf Mansur Maymun Mujahid Mutarrif Nasr Tabit Tamim Ubada Ufayr Umar Wasil Yazid Yunus Zuhayr
+        }
+
+        last_names = { Ziyad al-Rahman Firnas al-Majriti al-Zahrawi al-Zarqali Bajjah Zuhr al-Idrisi Tufail Rushd al-Baitar Battuta Khaldon al-Qalasadi
+        }
+    }
 }
 
 central_african = {
@@ -2489,6 +2479,14 @@ east_african = {
         first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
 
         last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+    }
+    sudanese = {
+        color = {241 241 78}
+        first_names = { "Ibn Muhammad" Abdullah "Abbas said" Ismail Mansur Rahman Abdallahi Hassan Malusi Tahir Wiraj Amsalu Nijam Bakri
+        }
+
+        last_names = { Ahmad Ali Zubayr Digna Azrak Hammuda al-Tasashi Nujumi
+        }
     }
 }
 
