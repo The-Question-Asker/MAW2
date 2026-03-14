@@ -1,4 +1,4 @@
-capital = 873
+capital = 260
 primary_culture = ivernach
 religion = arian
 government = absolute_monarchy
