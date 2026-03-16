@@ -1,7 +1,6 @@
 owner = PRS
 controller = PRS
-add_core = BLC
-add_core = MAK
+add_core = BER
 trade_goods = fish
-terrain = mountain
 life_rating = 31
+colonial = 2

@@ -457,54 +457,60 @@
     }
 }
 
-#Gwadar - Ziryanka (1000/250 POPS)
+#BHARUCH -  (1000/250 POPS)
 2640 = {
     aristocrats = {
-        culture = bedouin
-        religion = orthodox
-        size = 5
+        culture = persian
+        religion = manichaean
+        size = 50
     }
 
     clergymen = {
-        culture = bedouin
-        religion = orthodox
-        size = 25
+        culture = persian
+        religion = manichaean
+        size = 50
     }
 
     artisans = {
-        culture = bedouin
-        religion = orthodox
-        size = 25
+        culture = persian
+        religion = manichaean
+        size = 925
+    }
+
+    artisans = {
+        culture = circassian
+        religion = manichaean
+        size = 225
+    }
+	
+    artisans = {
+        culture = armenian
+        religion = manichaean
+        size = 225
     }
 
     soldiers = {
-        culture = bedouin
-        religion = orthodox
+        culture = gujarati
+        religion = manichaean
         size = 100
     }
 
     farmers = {
-        culture = bedouin
-        religion = orthodox
-        size = 300
+        culture = gujarati
+        religion = hindu
+        size = 6000
     }
 
     farmers = {
-        culture = baluchi
+        culture = gujarati
         religion = manichaean
-        size = 600
+        size = 27050
     }
-
-    slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 100
-    }
-
+	
     farmers = {
-        culture = baluchi
+        culture = persian
         religion = manichaean
-        size = 450
+        size = 1450
     }
 
 }
