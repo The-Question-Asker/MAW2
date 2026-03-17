@@ -318,7 +318,7 @@ latins = {
 }
 
 east_latin = {
-    leader = russian
+    leader = aegyptian
     unit = EuropeanGC
 	
 	llati = {
@@ -412,7 +412,7 @@ hellenes = {
 ##SLAVS##
 
 jugoslavs = {
-    leader = russian
+    leader = aegyptian
     unit = EuropeanGC
 
 	sclavenian = {
@@ -440,7 +440,7 @@ jugoslavs = {
 }
 
 zapadoslavs = {
-    leader = russian
+    leader = svernyan
     unit = EuropeanGC	
 	
 	polish = {
@@ -472,7 +472,7 @@ zapadoslavs = {
 }
 
 zapadoslav_wendish = {
-    leader = russian
+    leader = latin
     unit = RussianGC
 	
 	wendish = {
@@ -492,7 +492,7 @@ zapadoslav_wendish = {
 }
 
 great_slavs = {
-    leader = russian
+    leader = svernyan
     unit = RussianGC
 
 	ruthenian = {
@@ -585,7 +585,7 @@ colonial_greeks = {
 }
 
 avars = {
-    leader = russian
+    leader = aegyptian
     unit = RussianGC
 	
         maharuli = { 
@@ -1234,7 +1234,7 @@ jewish_cultures = {
 }
 
 finnougric = {
-    leader = russian
+    leader = svernyan
     unit = SwedishGC
     finnish = {
         color = { 194 148 79 }
