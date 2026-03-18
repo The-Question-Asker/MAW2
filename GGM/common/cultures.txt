@@ -429,13 +429,7 @@ jugoslavs = {
 
 			last_names = {	}
     }
-	
-	vlach = {
-	  color = { 187 204 92 }
-        	first_names = { }
 
-			last_names = {	}
-    }
 	
 }
 
@@ -464,6 +458,13 @@ zapadoslavs = {
 	
 	letts = {
 	  color = { 119 171 191 }
+        	first_names = { }
+
+			last_names = {	}
+    }
+	
+	vlach = {
+	  color = { 187 204 92 }
         	first_names = { }
 
 			last_names = {	}
