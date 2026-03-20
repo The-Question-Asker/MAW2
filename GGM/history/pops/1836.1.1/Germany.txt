@@ -3315,7 +3315,13 @@
     farmers = {
         culture = frankish
         religion = orthodox
-        size = 20265
+        size = 12265
+    }
+	
+    farmers = {
+        culture = laaglander
+        religion = orthodox
+        size = 8265
     }
 
     aristocrats = {
@@ -3678,7 +3684,7 @@
     farmers = {
         culture = saxon
         religion = orthodox
-        size = 43440
+        size = 30440
     }
 
     aristocrats = {
@@ -3709,6 +3715,36 @@
         culture = frankish
         religion = orthodox
         size = 4965
+    }
+	
+    aristocrats = {
+        culture = laaglander
+        religion = orthodox
+        size = 60
+    }
+
+    clergymen = {
+        culture = laaglander
+        religion = orthodox
+        size = 45
+    }
+
+    artisans = {
+        culture = laaglander
+        religion = orthodox
+        size = 270
+    }
+
+    soldiers = {
+        culture = laaglander
+        religion = orthodox
+        size = 60
+    }
+
+    farmers = {
+        culture = laaglander
+        religion = orthodox
+        size = 14965
     }
 
 }
