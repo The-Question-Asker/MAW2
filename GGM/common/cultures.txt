@@ -276,7 +276,7 @@ latins = {
 							Salbjos Iscibjor Senecar Septimos Sebheros Serbjos Sezjos Siros Tacitos 
 							Tiberjos Titos Toljos Bhitos Iojanes Iesos Saul Petros Sigfredos Chremundos 
                             Ioseppos Lucan Abrahamos Baptistar Batar Benedictos Iacomos Ieronimos Iordanos Iacobos
-                            Leonor Nazarenos Paschalos Silbhezter Isaac Absalomos Baruchos Dabhid Gabrihel Ismahel
+                            Leonor Nazarenos Paschalos Silbhezter Isaac Absalomos Baruchos Dabhid Gabrihel Wismahel
                             Salomon Sergjos Zabuljos }
 
 			last_names = {  
@@ -710,7 +710,7 @@ colonial_roman_culture = {
 							Salbjos Iscibjor Senecar Septimos Sebheros Serbjos Sezjos Siros Tacitos 
 							Tiberjos Titos Toljos Bhitos Iojanes Iesos Saul Petros Sigfredos Chremundos 
                             Ioseppos Lucan Abrahamos Baptistar Batar Benedictos Iacomos Ieronimos Iordanos Iacobos
-                            Leonor Nazarenos Paschalos Silbhezter Isaac Absalomos Baruchos Dabhid Gabrihel Ismahel
+                            Leonor Nazarenos Paschalos Silbhezter Isaac Absalomos Baruchos Dabhid Gabrihel Wismahel
                             Salomon Sergjos Zabuljos }
 
 			last_names = { Chastellon Dominos Frater Zibbelor Azor Ionaschon Bhalmarid Fajos Bozigar Miramond Chabran
