@@ -478,39 +478,45 @@
 1393 = {
 
     aristocrats = {
-        culture = nanfaren
+        culture = yue
         religion = mahayana
         size = 50
     }
 
     clergymen = {
-        culture = nanfaren
+        culture = yue
         religion = mahayana
         size = 20
     }
 	
     bureaucrats = {
-        culture = nanfaren
+        culture = yue
         religion = mahayana
         size = 10
     }
 
     artisans = {
-        culture = nanfaren
+        culture = yue
         religion = mahayana
         size = 3250
     }
 
     soldiers = {
-        culture = nanfaren
+        culture = yue
         religion = mahayana
         size = 1075
     }
 
     farmers = {
+        culture = yue
+        religion = mahayana
+        size = 14575
+    }
+	
+    farmers = {
         culture = nanfaren
         religion = mahayana
-        size = 22575
+        size = 8575
     }
 
     aristocrats = {
