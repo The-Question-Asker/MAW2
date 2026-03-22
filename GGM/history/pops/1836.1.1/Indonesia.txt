@@ -130,6 +130,42 @@
 }
 #Tanjungpinang (100000/25000 POPS)
 1402 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 15
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 4
+    }
+	
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 1
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 50
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 25
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 175
+    }
+
     clergymen = {
         culture = yue
         religion = mahayana
@@ -372,6 +408,43 @@
 }
 #Natuna (18000/4500 POPS)
 2576 = {
+
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 15
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 4
+    }
+	
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 1
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 50
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 75
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 575
+    }
+
     aristocrats = {
         culture = malay
         religion = animist

@@ -129,6 +129,12 @@
     }
 	
     farmers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 8725
+    }
+	
+    farmers = {
         culture = maxasekes
         religion = orthodox
         size = 3725
@@ -810,6 +816,43 @@
 }
 #Jolo (44000/11000 POPS)
 1464 = {
+
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 15
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 4
+    }
+	
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 1
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 250
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 375
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 2575
+    }
+	
     aristocrats = {
         culture = malay
         religion = manichaean

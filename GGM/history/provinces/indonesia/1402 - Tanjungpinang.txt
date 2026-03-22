@@ -1,6 +1,7 @@
-owner = AEG
-controller = AEG
+owner = NNG
+controller = NNG
 add_core = SAK
 trade_goods = timber
 life_rating = 30
 colonial = 2
+naval_base = 1

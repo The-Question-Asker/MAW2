@@ -476,6 +476,43 @@
 #Under the Rule of Brunei in 1836 (212000)
 #Brunei (24000/6000 POPS)
 1393 = {
+
+    aristocrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 50
+    }
+
+    clergymen = {
+        culture = nanfaren
+        religion = mahayana
+        size = 20
+    }
+	
+    bureaucrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 10
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = mahayana
+        size = 3250
+    }
+
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1075
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 22575
+    }
+
     aristocrats = {
         culture = malay
         religion = mahayana
@@ -680,6 +717,61 @@
 }
 #Api (56000/14000 POPS)
 1396 = {
+
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 450
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 550
+    }
+	
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 150
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 10250
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 6665
+    }
+	
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 3175
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 38575
+    }
+	
+    farmers = {
+        culture = zhuang
+        religion = mahayana
+        size = 1575
+    }
+	
+    farmers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 24575
+    }
+
     aristocrats = {
         culture = asian_minor
         religion = animist
@@ -767,6 +859,49 @@
 #Under the Rule of Sulu in 1836 (40000)
 #Sandakan (40000/10000 POPS)
 1397 = {
+
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 50
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 50
+    }
+	
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 20
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 2250
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 2775
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 8575
+    }
+	
+    farmers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 4575
+    }
+
     aristocrats = {
         culture = asian_minor
         religion = animist

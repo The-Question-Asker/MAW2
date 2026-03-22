@@ -1,5 +1,6 @@
-owner = SUL
-controller = SUL
+owner = NNG
+controller = NNG
+add_core = NNG
 add_core = SUL
 add_core = KTI
 trade_goods = grain
