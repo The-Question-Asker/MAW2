@@ -277,13 +277,14 @@ latins = {
 							Tiberjos Titos Toljos Bhitos Iojanes Iesos Saul Petros Sigfredos Chremundos 
                             Ioseppos Lucan Abrahamos Baptistar Batar Benedictos Iacomos Ieronimos Iordanos Iacobos
                             Leonor Nazarenos Paschalos Silbhezter Isaac Absalomos Baruchos Dabhid Gabrihel Wismahel
-                            Salomon Sergjos Zabuljos }
+                            Salomon Sergjos Zabuljos Barengar }
 
 			last_names = {  
                             Chastellon Dominos Frater Zibbelor Azor Ionaschon Bhalmarid Fajos Bozigar Miramond Chabran
                             Farrisolos Galer Bhenator Bhindor Flabhinos Cesar Adoror Arcaror Bellumos Chastonor Istrater 
                             Vorac Germos Fichentellos Adrjan Bonarjos Abmatricos Siroschon Charcan Gadolar Geshard Africanos
-                            
+                            Udobhisin Ibhren Almeric Ester Arles Etjos Manljar Chornljar Postumjan Catsjar Sempronjan Scholastis
+                            Agriclar Mellor Piscator Winfansor Fabheror Cocorer Latreror Calator
                             }
     }
 	
@@ -715,7 +716,9 @@ colonial_roman_culture = {
 
 			last_names = { Chastellon Dominos Frater Zibbelor Azor Ionaschon Bhalmarid Fajos Bozigar Miramond Chabran
                             Farrisolos Galer Bhenator Bhindor Flabhinos Cesar Adoror Arcaror Bellumos Chastonor Istrater 
-                            Vorac Germos Fichentellos Adrjan Bonarjos Abmatricos Siroschon Charcan Gadolar Geshard Africanos }
+                            Vorac Germos Fichentellos Adrjan Bonarjos Abmatricos Siroschon Charcan Gadolar Geshard Africanos 
+                            Agriclar Mellor Piscator Winfansor Fabheror Cocorer Latreror Calator
+                            }
     }
 }
 
