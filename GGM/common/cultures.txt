@@ -240,14 +240,14 @@ latins = {
 	galician = {
 	  color = { 25 120 25 }
         	first_names = { 
-                Alfonso Alberse Dominik Vinkenz Innozenzo Seyenz Mayrko Emilio Yohanno Tsverin Yachimo Beato 
-                Franco Mayzell Saul Tsilvano Tsilas Viktorio Pfazcál Alfonz Henyrico Gaspar Loyenz Lion    
-                Leonayrd Yulio Yusso Ignaszo Ysecaido Isaac Yacinto Geaydo Tyrsmondo Conyedo Isidoi Abyahamo
+                Alfonso Alberse Dominik Vinkenz Innozenzo Seyenz Mayrko Emilyo Yohanno Tsverin Yachimo Beato 
+                Franco Mayzell Saul Tsilvano Tsilas Viktoryo Pfazcál Alfonz Henyrico Gaspar Gloyenz Glion    
+                Gleonayrd Yulio Yusso Ignaszo Ysecaido Isaac Yacinto Geaydo Tyrsmondo Conyedo Isidoi Abyahamo
                 Tsisebus Cundamayo Alesanno  
             }
 
 			last_names = {	
-                Laude Tsàlique Pfoyás Pfatzo Mayrnallo Tswedoviya Cadfryol Mollino Ysoig Fabyaro 
+                Glaude Tsàlique Pfoyás Pfatzo Mayrnallo Tswedoviya Cadfryol Mollino Ysoig Fabyaro 
                 Tsantyáno Pfindayo Goto Yusta Cayado Boyel Caylofilio Pfasorye Vascalorye Yáno Caisar 
             }
     }

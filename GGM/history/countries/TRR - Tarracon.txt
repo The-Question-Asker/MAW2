@@ -38,9 +38,9 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = orthodox_country
+set_country_flag = arian_country
 
-ruling_party = dominion_conservative
+ruling_party = TAR_conservative_0
 upper_house = { # inherit
     fascist = 0
     liberal = 25

@@ -1,6 +1,6 @@
 capital = 762
-primary_culture = south_italian
-religion = catholic
+primary_culture = roman
+religion = orthodox
 government = democracy
 plurality = 25.0
 nationalvalue = nv_liberty
