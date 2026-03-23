@@ -1,0 +1,46 @@
+
+leader = {
+    name = "Karl von Orbane"
+    type = land
+    date= "1820.1.1"
+    personality = deeply_religious
+    background = politician
+}
+
+
+
+
+
+
+army = {
+    name = "Königlich Heer"
+    location = 532
+    regiment = {
+        name = "1ste Ritter"
+        type = hussar
+        home = 531
+    }
+
+    regiment = {
+        name = "1ste Jugend"
+        type = infantry
+        home = 533
+    }
+
+    regiment = {
+        name = "2te Jugend"
+        type = infantry
+        home = 534
+    }
+
+    
+    regiment = {
+        name = "1ste Kannonen"
+        type = artillery
+        home = 536
+    }
+
+}
+
+
+

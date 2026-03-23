@@ -1,0 +1,691 @@
+
+leader = {
+    name = "Balbinos Piscator"
+    type = land
+    date= "1820.1.1"
+    personality = brash
+    background = megalomaniac
+}
+
+leader = {
+    name = "Baptistar Fichentellos"
+    type = land
+    date= "1820.1.1"
+    personality = harsh
+    background = brownnoser
+}
+
+leader = {
+    name = "Claudjos Gadolar"
+    type = land
+    date= "1820.1.1"
+    personality = pisspoor
+    background = toady
+}
+
+leader = {
+    name = "Catjan Bhalmarid"
+    type = land
+    date= "1820.1.1"
+    personality = pessimist
+    background = school_of_defense
+}
+
+leader = {
+    name = "Titos Fabheror"
+    type = land
+    date= "1820.1.1"
+    personality = bigoted
+    background = priest
+}
+
+leader = {
+    name = "Antoños Cocorer"
+    type = land
+    date= "1820.1.1"
+    personality = spineless
+    background = amateur
+}
+
+leader = {
+    name = "Absalomos Chabran"
+    type = land
+    date= "1820.1.1"
+    personality = perverse
+    background = adventurer
+}
+
+
+leader = {
+    name = "Ajos Ionaschon"
+    type = sea
+    date= "1820.1.1"
+    personality = indifferent
+    background = colonial_b
+}
+
+leader = {
+    name = "Celsos Mellor"
+    type = sea
+    date= "1820.1.1"
+    personality = calm
+    background = politician
+}
+
+
+
+
+
+
+
+
+army = {
+    name = "Leljor I. 'Pradicos'"
+    location = 769
+
+     regiment = {
+        name = "I. Manipler Equos"
+        type = hussar
+        home = 10
+    }
+
+    regiment = {
+        name = "I. Manipler Winfansos"
+        type = infantry
+        home = 467
+    }
+
+    regiment = {
+        name = "II. Manipler Winfansos"
+        type = infantry
+        home = 453
+    }
+
+    regiment = {
+        name = "III. Manipler Winfansos"
+        type = infantry
+        home = 726
+    }
+
+    regiment = {
+        name = "IV. Manipler Winfansos"
+        type = infantry
+        home = 726
+    }
+
+    
+    regiment = {
+        name = "I. Manipler Tormentos"
+        type = artillery
+        home = 720
+    }
+
+    regiment = {
+        name = "II. Manipler Tormentos"
+        type = artillery
+        home = 720
+    }
+
+    regiment = {
+        name = "III. Manipler Tormentos"
+        type = artillery
+        home = 749
+    }
+
+    regiment = {
+        name = "IV. Manipler Tormentos"
+        type = artillery
+        home = 749
+    }
+
+    regiment = {
+        name = "V. Manipler Tormentos"
+        type = artillery
+        home = 724
+    }
+
+}
+
+army = {
+    name = "Leljor II. 'Francos'"
+    location = 722
+
+     regiment = {
+        name = "I. Manipler Equos"
+        type = hussar
+        home = 724
+    }
+
+    regiment = {
+        name = "I. Manipler Winfansos"
+        type = infantry
+        home = 722
+    }
+
+    regiment = {
+        name = "II. Manipler Winfansos"
+        type = infantry
+        home = 472
+    }
+
+    regiment = {
+        name = "III. Manipler Winfansos"
+        type = infantry
+        home = 725
+    }
+
+    regiment = {
+        name = "IV. Manipler Winfansos"
+        type = infantry
+        home = 727
+    }
+
+    
+    regiment = {
+        name = "I. Manipler Tormentos"
+        type = artillery
+        home = 728
+    }
+
+    regiment = {
+        name = "II. Manipler Tormentos"
+        type = artillery
+        home = 730
+    }
+
+    regiment = {
+        name = "III. Manipler Tormentos"
+        type = artillery
+        home = 729
+    }
+
+    regiment = {
+        name = "IV. Manipler Tormentos"
+        type = artillery
+        home = 731
+    }
+
+    regiment = {
+        name = "V. Manipler Tormentos"
+        type = artillery
+        home = 723
+    }
+
+}
+
+army = {
+    name = "Leljor III. 'Winbhictrix'"
+    location = 756
+
+     regiment = {
+        name = "I. Manipler Equos"
+        type = hussar
+        home = 757
+    }
+
+    regiment = {
+        name = "I. Manipler Winfansos"
+        type = infantry
+        home = 756
+    }
+
+    regiment = {
+        name = "II. Manipler Winfansos"
+        type = infantry
+        home = 758
+    }
+
+    regiment = {
+        name = "III. Manipler Winfansos"
+        type = infantry
+        home = 761
+    }
+
+    regiment = {
+        name = "IV. Manipler Winfansos"
+        type = infantry
+        home = 755
+    }
+
+    
+    regiment = {
+        name = "I. Manipler Tormentos"
+        type = artillery
+        home = 753
+    }
+
+    regiment = {
+        name = "II. Manipler Tormentos"
+        type = artillery
+        home = 760
+    }
+
+    regiment = {
+        name = "III. Manipler Tormentos"
+        type = artillery
+        home = 759
+    }
+
+    regiment = {
+        name = "IV. Manipler Tormentos"
+        type = artillery
+        home = 750
+    }
+
+    regiment = {
+        name = "V. Manipler Tormentos"
+        type = artillery
+        home = 751
+    }
+
+}
+
+
+army = {
+    name = "Leljor IV. 'Hercules'"
+    location = 517
+
+
+    regiment = {
+        name = "I. Manipler Winfansos"
+        type = infantry
+        home = 748
+    }
+
+    regiment = {
+        name = "II. Manipler Winfansos"
+        type = infantry
+        home = 747
+    }
+
+    
+    regiment = {
+        name = "I. Manipler Tormentos"
+        type = artillery
+        home = 745
+    }
+
+    regiment = {
+        name = "II. Manipler Tormentos"
+        type = artillery
+        home = 744
+    }
+
+    regiment = {
+        name = "III. Manipler Tormentos"
+        type = artillery
+        home = 762
+    }
+
+    regiment = {
+        name = "IV. Manipler Tormentos"
+        type = artillery
+        home = 764
+    }
+
+
+}
+
+army = {
+    name = "Auxjos Sardes"
+    location = 766
+
+
+    regiment = {
+        name = "I. Auxos"
+        type = irregular
+        home = 765
+    }
+
+    regiment = {
+        name = "II. Auxos"
+        type = irregular
+        home = 766
+    }
+
+
+}
+
+army = {
+    name = "Leljor V. 'Intja'"
+    location = 1303
+
+
+    regiment = {
+        name = "I. Manipler Winfansos"
+        type = infantry
+        home = 763
+    }
+
+
+    regiment = {
+        name = "I. Auxos Intjos"
+        type = irregular
+        home = 1303
+    }
+
+
+}
+
+army = {
+    name = "Leljor VI. 'Extramaren'"
+    location = 1354
+
+
+    regiment = {
+        name = "I. Manipler Winfansos"
+        type = infantry
+        home = 2568
+    }
+
+    regiment = {
+        name = "I. Manipler Tormentos"
+        type = artillery
+        home = 611
+    }
+
+
+    regiment = {
+        name = "I. Auxos Tsjamos"
+        type = irregular
+        home = 1303
+    }
+
+    regiment = {
+        name = "II. Auxos Tsjamos"
+        type = irregular
+        home = 1303
+    }
+
+
+}
+
+
+navy = {
+    name = "Clases I."
+    location = 754
+
+    ship = {
+        name = "Genbhar"
+        type = manowar
+    }
+
+     ship = {
+        name = "Metjolom"
+        type = manowar
+    }
+
+     ship = {
+        name = "Aquilar"
+        type = manowar
+    }
+
+     ship = {
+        name = "Scyllan"
+        type = manowar
+    }
+
+     ship = {
+        name = "Charbydis"
+        type = manowar
+    }
+
+     ship = {
+        name = "Ferrox"
+        type = manowar
+    }
+
+     ship = {
+        name = "Callidos"
+        type = frigate
+    }
+
+    ship = {
+        name = "Pugnator"
+        type = frigate
+    }
+
+    ship = {
+        name = "Arcular"
+        type = frigate
+    }
+
+    ship = {
+        name = "Tabanos"
+        type = frigate
+    }
+
+    ship = {
+        name = "Fortiter"
+        type = frigate
+    }
+
+    ship = {
+        name = "Ingenan"
+        type = frigate
+    }
+
+    ship = {
+        name = "Willustris"
+        type = frigate
+    }
+
+    ship = {
+        name = "Chrassos"
+        type = frigate
+    }
+
+    ship = {
+        name = "Attagen"
+        type = frigate
+    }
+
+    ship = {
+        name = "Androgynos"
+        type = frigate
+    }
+
+    ship = {
+        name = "Canis"
+        type = frigate
+    }
+
+    ship = {
+        name = "Hydran"
+        type = frigate
+    }
+
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+}
+
+navy = {
+    name = "Clases II."
+    location = 517
+
+    ship = {
+        name = "Felix"
+        type = manowar
+    }
+
+     ship = {
+        name = "Lynx"
+        type = manowar
+    }
+
+     ship = {
+        name = "Dominos"
+        type = frigate
+    }
+
+    ship = {
+        name = "Virgor"
+        type = frigate
+    }
+
+    ship = {
+        name = "Gentilos"
+        type = frigate
+    }
+
+    ship = {
+        name = "Paganos"
+        type = frigate
+    }
+
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+}
+
+navy = {
+    name = "Clases III."
+    location = 1352
+
+
+    ship = {
+        name = "Tsjamos"
+        type = frigate
+    }
+
+    ship = {
+        name = "Sericos"
+        type = frigate
+    }
+
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+    
+    ship = {
+        name = "Clipper Transport"
+        type = clipper_transport
+    }
+
+}
+
+navy = {
+    name = "Clases IV."
+    location = 197
+
+
+     ship = {
+        name = "Nobhar Genbhar"
+        type = manowar
+    }
+
+     ship = {
+        name = "Lottar"
+        type = frigate
+    }
+
+    ship = {
+        name = "Ducatos"
+        type = frigate
+    }
+
+}
+
+

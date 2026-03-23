@@ -1,0 +1,27 @@
+
+leader = {
+    name = "Henyrico Vascalorye"
+    type = land
+    date= "1820.1.1"
+    personality = undisciplined
+    background = unqualified
+}
+
+
+
+
+
+
+army = {
+    name = "Tayaconays Militia"
+    location = 481
+    regiment = {
+        name = "Wiros de Maliaco"
+        type = irregular
+        home = 481
+    }
+
+}
+
+
+

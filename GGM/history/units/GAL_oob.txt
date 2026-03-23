@@ -1,0 +1,105 @@
+
+
+leader = {
+    name = "Ignaszo Cadfryol"
+    type = land
+    date= "1820.1.1"
+    personality = polite
+    background = amateur
+}
+
+
+leader = {
+    name = "Yulio Fabyaro"
+    type = sea
+    date= "1820.1.1"
+    personality = romantic
+    background = madman
+}
+
+
+
+
+army = {
+    name = "Leno I. 'Reyal'"
+    location = 522
+    regiment = {
+        name= "1. Man. Eqios"
+        type = dragoon
+        home = 474
+    }
+
+    regiment = {
+        name= "2. Man. Eqios"
+        type = dragoon
+        home = 474
+    }
+
+    regiment = {
+        name= "1. Man. Hinfanaya"
+        type = infantry
+        home = 476
+    }
+
+    regiment = {
+        name= "2. Man. Hinfanaya"
+        type = infantry
+        home = 518
+    }
+
+    regiment = {
+        name= "3. Man. Hinfanaya"
+        type = infantry
+        home = 519
+    }
+
+    regiment = {
+        name= "1. Man. Canzones"
+        type = artillery
+        home = 522
+    }
+
+    regiment = {
+        name= "2. Man. Canzones"
+        type = artillery
+        home = 520
+    }
+
+    
+
+}
+
+navy = {
+    name = "Claschif I."
+    location = 474
+    ship = {
+        name= "Pfocheya"
+        type = manowar
+    }
+	ship = {
+        name= "Casayo"
+        type = frigate
+    }
+	ship = {
+        name= "Caliciya"
+        type = frigate
+    }
+    ship = {
+        name= "Tayacon"
+        type = clipper_transport
+    }
+	ship = {
+        name= "Tswedia"
+        type = clipper_transport
+    }
+    ship = {
+        name= "Malayo"
+        type = clipper_transport
+    }
+    ship = {
+        name= "Pfoysoale"
+        type = clipper_transport
+    }
+
+}
+

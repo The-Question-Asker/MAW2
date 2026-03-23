@@ -1,0 +1,82 @@
+
+leader = {
+    name = "Goswin Bauer"
+    type = land
+    date= "1820.1.1"
+    personality = strange
+    background = unfit
+}
+
+
+
+
+
+
+army = {
+    name = "Königlich Heer"
+    location = 586
+    regiment = {
+        name = "1ste Ritter"
+        type = hussar
+        home = 586
+    }
+
+    regiment = {
+        name = "1ste Jugend"
+        type = infantry
+        home = 589
+    }
+
+    regiment = {
+        name = "2te Jugend"
+        type = infantry
+        home = 589
+    }
+
+    regiment = {
+        name = "3te Jugend"
+        type = infantry
+        home = 593
+    }
+
+     regiment = {
+        name = "4te Jugend"
+        type = infantry
+        home = 595
+    }
+
+    
+    regiment = {
+        name = "1ste Kannonen"
+        type = artillery
+        home = 589
+    }
+
+    regiment = {
+        name = "2te Kannonen"
+        type = artillery
+        home = 593
+    }
+
+    regiment = {
+        name = "3te Kannonen"
+        type = artillery
+        home = 595
+    }
+
+    regiment = {
+        name = "4te Kannonen"
+        type = artillery
+        home = 592
+    }
+
+    regiment = {
+        name = "5te Kannonen"
+        type = artillery
+        home = 597
+    }
+
+}
+
+
+

@@ -1,0 +1,81 @@
+
+leader = {
+    name = "Gerhard von Xanten"
+    type = land
+    date= "1820.1.1"
+    personality = coward
+    background = yesman
+}
+
+
+
+
+
+
+army = {
+    name = "1ste Heer"
+    location = 564
+    regiment = {
+        name = "1ste Ritter"
+        type = hussar
+        home = 365
+    }
+
+    regiment = {
+        name = "1ste Jugend"
+        type = infantry
+        home = 383
+    }
+
+    regiment = {
+        name = "2te Jugend"
+        type = infantry
+        home = 565
+    }
+
+    regiment = {
+        name = "3te Jugend"
+        type = infantry
+        home = 566
+    }
+
+     regiment = {
+        name = "4te Jugend"
+        type = infantry
+        home = 535
+    }
+
+    regiment = {
+        name = "5te Jugend"
+        type = infantry
+        home = 580
+    }
+
+    regiment = {
+        name = "1ste Kannonen"
+        type = artillery
+        home = 584
+    }
+
+    regiment = {
+        name = "2te Kannonen"
+        type = artillery
+        home = 582
+    }
+
+    regiment = {
+        name = "3te Kannonen"
+        type = artillery
+        home = 580
+    }
+
+    regiment = {
+        name = "4te Kannonen"
+        type = artillery
+        home = 578
+    }
+
+}
+
+
+

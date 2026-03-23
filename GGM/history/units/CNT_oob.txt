@@ -1,0 +1,42 @@
+
+
+leader = {
+    name = "Conyedo Pfoyás"
+    type = land
+    date= "1820.1.1"
+    personality = undisciplined
+    background = warmonger
+}
+
+
+
+
+
+
+army = {
+    name = "Leno I. 'Cansabrya'"
+    location = 482
+    regiment = {
+        name= "1. Man. Eqios"
+        type = dragoon
+        home = 475
+    }
+
+    regiment = {
+        name= "1. Man. Hinfanaya"
+        type = infantry
+        home = 482
+    }
+
+    regiment = {
+        name= "1. Man. Canzones"
+        type = artillery
+        home = 483
+    }
+
+    
+
+}
+
+
+
