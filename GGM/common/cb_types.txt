@@ -525,7 +525,10 @@ acquire_all_cores = {
     }
 
     allowed_countries = {
-        FROM = { tag = THIS }
+        OR = {
+            FROM = { tag = THIS }
+            FROM = { tag = FROM }
+        }
     }
 
     allowed_states = {
