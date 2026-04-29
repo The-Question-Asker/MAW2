@@ -2335,6 +2335,12 @@
         religion = bon_chrestien
         size = 250
     }
+	
+    artisans = {
+        culture = frankish
+        religion = manichaean
+        size = 50
+    }
 
     farmers = {
         culture = frankish
