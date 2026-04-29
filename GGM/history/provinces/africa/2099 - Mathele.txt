@@ -1,5 +1,6 @@
-owner = CRC
-controller = CRC
+owner = FRN
+controller = FRN
+colonial = 2
 add_core = CRC
 add_core = XHO
 trade_goods = grain
