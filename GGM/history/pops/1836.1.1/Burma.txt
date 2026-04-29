@@ -882,7 +882,13 @@
     farmers = {
         culture = kachin
         religion = animist
-        size = 49850
+        size = 24850
+    }
+	
+    farmers = {
+        culture = kachin
+        religion = manichaean
+        size = 15850
     }
 }
 #Myitkyina (364000/91000 POPS)
@@ -914,7 +920,13 @@
     farmers = {
         culture = kachin
         religion = animist
-        size = 37800
+        size = 20800
+    }
+	
+    farmers = {
+        culture = kachin
+        religion = manichaean
+        size = 17800
     }
 
     aristocrats = {
@@ -944,7 +956,13 @@
     farmers = {
         culture = shan
         religion = theravada
-        size = 21050
+        size = 11050
+    }
+	
+    farmers = {
+        culture = shan
+        religion = manichaean
+        size = 11050
     }
 
     aristocrats = {

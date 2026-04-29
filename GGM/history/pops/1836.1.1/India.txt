@@ -3068,91 +3068,91 @@
 1254 = {
     aristocrats = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 53000
     }
 
     clergymen = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 8000
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 7000
     }
 
     soldiers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 3000
     }
 
     farmers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 638000
     }
 
     aristocrats = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 5000
     }
 
     clergymen = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 5000
     }
 
     artisans = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 4000
     }
 
     soldiers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 3000
     }
 
     soldiers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 533000
     }
 }
@@ -3160,79 +3160,79 @@
 1255 = {
     aristocrats = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 1750
     }
 
     clergymen = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 3750
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 10000
     }
 
     soldiers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 3000
     }
 
     soldiers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 750
     }
 
     farmers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 353750
     }
 
     aristocrats = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 1500
     }
 
     clergymen = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 2000
     }
 
     artisans = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 1100
     }
 
     soldiers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 2000
     }
 
     farmers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 181500
     }
 }
@@ -3240,79 +3240,79 @@
 1256 = {
     aristocrats = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 1500
     }
 
     clergymen = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 3750
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 750
     }
 
     soldiers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 3000
     }
 
     soldiers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 750
     }
 
     farmers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 347250
     }
 
     aristocrats = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 2250
     }
 
     clergymen = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 2000
     }
 
     artisans = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 1100
     }
 
     soldiers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 2250
     }
 
     farmers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 201500
     }
 }
@@ -3320,91 +3320,91 @@
 1257 = {
     aristocrats = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 8000
     }
 
     clergymen = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 8500
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 1100
     }
 
     soldiers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 3000
     }
 
     soldiers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 1500
     }
 
     farmers = {
         culture = bengali
-        religion = manichaean
+        religion = hindu
         size = 789000
     }
 
     aristocrats = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 6000
     }
 
     clergymen = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 6000
     }
 
     artisans = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 10000
     }
 
     artisans = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 10000
     }
 
     soldiers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 3000
     }
 
     soldiers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 1000
     }
 
     farmers = {
         culture = bengali
-        religion = hindu
+        religion = manichaean
         size = 545000
     }
 
@@ -3658,7 +3658,13 @@
     farmers = {
         culture = assamese
         religion = hindu
-        size = 79750
+        size = 33750
+    }
+	
+    farmers = {
+        culture = assamese
+        religion = manichaean
+        size = 46750
     }
 
     clergymen = {

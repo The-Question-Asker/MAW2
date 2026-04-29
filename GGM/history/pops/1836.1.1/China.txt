@@ -3259,7 +3259,13 @@
     farmers = {
         culture = nanfaren
         religion = mahayana
-        size = 79850
+        size = 59850
+    }
+	
+    farmers = {
+        culture = nanfaren
+        religion = manichaean
+        size = 20850
     }
 
     aristocrats = {
@@ -3301,7 +3307,13 @@
     farmers = {
         culture = zhuang
         religion = animist
-        size = 100000
+        size = 45000
+    }
+
+    farmers = {
+        culture = zhuang
+        religion = manichaean
+        size = 55000
     }
 
     aristocrats = {
@@ -3331,7 +3343,13 @@
     farmers = {
         culture = yue
         religion = mahayana
-        size = 112800
+        size = 62800
+    }
+	
+    farmers = {
+        culture = yue
+        religion = manichaean
+        size = 60000
     }
 
     aristocrats = {
@@ -3459,7 +3477,13 @@
     farmers = {
         culture = zhuang
         religion = animist
-        size = 373325
+        size = 203325
+    }
+	
+    farmers = {
+        culture = zhuang
+        religion = manichaean
+        size = 173325
     }
 
     farmers = {
@@ -3513,7 +3537,13 @@
     farmers = {
         culture = yue
         religion = mahayana
-        size = 282975
+        size = 202975
+    }
+	
+    farmers = {
+        culture = yue
+        religion = manichaean
+        size = 82975
     }
 
     farmers = {
@@ -11526,7 +11556,7 @@
     farmers = {
         culture = nanfaren
         religion = mahayana
-        size = 412825
+        size = 212825
     }
 
     aristocrats = {
@@ -11556,7 +11586,7 @@
     farmers = {
         culture = nanfaren
         religion = manichaean
-        size = 189100
+        size = 389100
     }
 
     aristocrats = {
@@ -11738,7 +11768,13 @@
     farmers = {
         culture = asian_minor
         religion = animist
-        size = 220650
+        size = 70650
+    }
+	
+    farmers = {
+        culture = asian_minor
+        religion = manichaean
+        size = 150650
     }
 
     aristocrats = {
@@ -11774,7 +11810,13 @@
     serfs = {
         culture = yi
         religion = animist
-        size = 24575
+        size = 10575
+    }
+	
+    serfs = {
+        culture = yi
+        religion = manichaean
+        size = 14575
     }
 }
 #Puer (1420000/355000 POPS)
@@ -11806,7 +11848,13 @@
     farmers = {
         culture = nanfaren
         religion = mahayana
-        size = 60100
+        size = 20100
+    }
+	
+    farmers = {
+        culture = nanfaren
+        religion = manichaean
+        size = 40100
     }
 
     aristocrats = {
@@ -11860,7 +11908,13 @@
     farmers = {
         culture = asian_minor
         religion = animist
-        size = 55100
+        size = 15100
+    }
+	
+    farmers = {
+        culture = asian_minor
+        religion = manichaean
+        size = 40100
     }
 
     aristocrats = {

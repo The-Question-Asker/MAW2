@@ -403,12 +403,18 @@
     farmers = {
         culture = vietnamese
         religion = mahayana
-        size = 62405
+        size = 22405
+    }
+	
+    farmers = {
+        culture = vietnamese
+        religion = manichaean
+        size = 40405
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = manichaean
         size = 2000
     }
 
@@ -432,19 +438,19 @@
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = manichaean
         size = 75
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = manichaean
         size = 1650
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = manichaean
         size = 1275
     }
 }
