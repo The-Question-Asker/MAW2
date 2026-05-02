@@ -1,7 +1,7 @@
 capital = 45
 primary_culture = amorican_frank 
 religion = orthodox
-government = absolute_monarchy
+government = democracy
 plurality = 5.0
 nationalvalue = nv_autocracy
 literacy = 0.02
@@ -11,12 +11,12 @@ civilized = yes
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
-public_meetings = yes_meeting
-press_rights = state_press
+vote_franschise = landed_voting
+public_meetings = no_meeting
+press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = gerrymandering
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -33,7 +33,7 @@ debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
-border_policy = closed_borders
+border_policy = open_borders
 
 set_country_flag = orthodox_country
 

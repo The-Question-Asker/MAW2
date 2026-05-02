@@ -341,13 +341,13 @@ TUR_893 = { 893 889 899 2414 1813 } #Diyarbakir
 
 TUR_894 = { 894 896 898 895 } #Adana
 
-EGY_897 = { 902 897 904 905 903 900 } #Western Syria
+EGY_897 = { 897 904 905 903 900 901 907 } #Western Syria
 
-EGY_903 = { 901 906 907 } #Eastern Syria
+#EGY_903 = {  } #Eastern Syria
 
 #EGY_910 = {  } #Ammon
 
-EGY_915 = { 913 915 912 914 } #Lebanon
+EGY_915 = { 902 913 915 912 914 906 } #Lebanon
 
 EGY_921 = { 917 921 920 919 918 916 908 910 911 922 909 } #Palestine
 

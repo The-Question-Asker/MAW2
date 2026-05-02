@@ -40042,26 +40042,16 @@
 
 # Baalbeck
 912 = {
-    unit = {
-        x = 3369.000000
-        y = 1323.000000
-    }
-
     text_position = {
-        x = 3372.100098
-        y = 1326.300049
-    }
-
-    text_rotation = 0.872665
-    text_scale = 1.800000
-    building_construction = {
-        x = 3366.000000
-        y = 1318.000000
-    }
-
-    military_construction = {
         x = 3373.000000
-        y = 1328.000000
+        y = 1325.650000
+    }
+
+    text_rotation = 0.686432
+    text_scale = 1.800000
+    unit = {
+        x = 3373.150000
+        y = 1326.200000
     }
 
     factory = {
@@ -40069,10 +40059,20 @@
         y = 1332.000000
     }
 
+    building_construction = {
+        x = 3376.950000
+        y = 1325.600000
+    }
+
+    military_construction = {
+        x = 3373.000000
+        y = 1328.000000
+    }
+
     building_position = {
         fort = {
-            x = 3365.000000
-            y = 1321.000000
+            x = 3368.050000
+            y = 1323.700000
         }
 
     }
@@ -40153,15 +40153,15 @@
 # Sidon
 915 = {
     text_position = {
-        x = 3358.500000
-        y = 1312.600000
+        x = 3361.650000
+        y = 1314.650000
     }
 
-    text_rotation = 1.111603
+    text_rotation = 0.405548
     text_scale = 1.800000
     unit = {
-        x = 3359.000000
-        y = 1315.000000
+        x = 3361.850000
+        y = 1315.050000
     }
 
     city = {
@@ -40180,8 +40180,8 @@
     }
 
     military_construction = {
-        x = 3355.750000
-        y = 1310.850000
+        x = 3365.050000
+        y = 1318.000000
     }
 
     building_position = {
@@ -40191,8 +40191,8 @@
         }
 
         railroad = {
-            x = 3357.400000
-            y = 1313.450000
+            x = 3363.400000
+            y = 1316.100000
         }
 
         naval_base = {
