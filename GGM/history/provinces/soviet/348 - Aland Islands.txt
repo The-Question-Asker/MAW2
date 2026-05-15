@@ -4,6 +4,4 @@ add_core = KVE
 add_core = SUO
 trade_goods = fish
 life_rating = 35
-fort = 1
-naval_base = 1
 terrain = small_island

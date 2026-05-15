@@ -12,7 +12,7 @@ SWE_313 = { 313 316 314 315 } #Ostlandet
 
 SWE_318 = { 318 317 319 320 321 } #Norrland
 
-SWE_322 = { 322 324 326 325 } #Stockholm
+SWE_322 = { 322 324 326 325 348 } #Stockholm
 
 SWE_329 = { 329 328 327 323 330 } #Goteburg
 
@@ -22,7 +22,7 @@ RUS_336 = { 336 337 338 342 } #Northern Finland
 
 RUS_343 = { 343 344 341 340 } #Helsinki
 
-RUS_345 = { 345 346 347 348 } #Turku
+RUS_345 = { 345 346 347 } #Turku
 
 DEN_367 = { 367 366 368 2557 371 373 } #Jylland
 
