@@ -359,13 +359,13 @@ PROV37;Fort Bazaine;;;;;;;;;;;;;x
 PROV2594;Post Talleyrand;;;;;;;;;;;;;x
 PROV27;St. Guysland;;;;;;;;;;;;;x
 PROV127;Port Challons;;;;;;;;;;;;;x
-PROV145;Nobhar Ostjar;;;;;;;;;;;;;x
+PROV145;Nowar Ostjar;;;;;;;;;;;;;x
 PROV738;Parminjal;;;;;;;;;;;;;x
 PROV739;Mutjanam;;;;;;;;;;;;;x
 PROV740;Obertheng;;;;;;;;;;;;;x
 PROV741;Felsinjam;;;;;;;;;;;;;x
 PROV742;Spinar;;;;;;;;;;;;;x
-PROV743;Rhabhenam;;;;;;;;;;;;;x
+PROV743;Rhawenam;;;;;;;;;;;;;x
 PROV204;Quinticampos;;;;;;;;;;;;;x
 SAR_720;Sagarenem;;;;;;;;;;;;x
 AUS_726;Longobatjam;;;;;;;;;;;;x
@@ -380,10 +380,10 @@ PROV735;Rhegons;;;;;;;;;;;;;x
 PROV612;Önpfonz;;;;;;;;;;;;;x
 PROV613;Salzbrucke;;;;;;;;;;;;;x
 PROV618;Kelovec;;;;;;;;;;;;;x
-PROV730;Bheron;;;;;;;;;;;;;x
+PROV730;Weron;;;;;;;;;;;;;x
 PROV731;Padipjam;;;;;;;;;;;;;x
 PROV8;Bellodonom;;;;;;;;;;;;;x
-PROV732;Tabhesanos;;;;;;;;;;;;;x
+PROV732;Tawesanos;;;;;;;;;;;;;x
 PROV729;Paurtem;;;;;;;;;;;;;x
 PROV733;Odonem;;;;;;;;;;;;;x
 PROV737;Stuphrod;;;;;;;;;;;;;x
@@ -392,9 +392,9 @@ PROV736;Tercestom;;;;;;;;;;;;;x
 PROV770;Fugadom;;;;;;;;;;;;;x
 PROV778;Tarsatjar;;;;;;;;;;;;;x
 PROV2671;Eridanian Gulf;;;;;;;;;;;;;x
-AUS_729;Bhentem;;;;;;;;;;;x
+AUS_729;Wentem;;;;;;;;;;;x
 AUS_612;Orsmarchos;;;;;;;;;;;;x
-PROV197;Nobhar Genbhar;;;;;;;;;;;;;x
+PROV197;Nowar Genwar;;;;;;;;;;;;;x
 PROV210;Reposdeham;;;;;;;;;;;;;x
 PROV205;Citmouline;;;;;;;;;;;;;x
 PROV209;Ophilé;;;;;;;;;;;;;x
@@ -703,7 +703,7 @@ PROV492;Pfavyoina;;;;;;;;;;;;;x
 PROV494;Filhanos;;;;;;;;;;;;;x
 PROV481;Malaico;;;;;;;;;;;;;x
 PROV493;Victoco;;;;;;;;;;;;;x
-PROV724;Genbhar;;;;;;;;;;;;;x
+PROV724;Genwar;;;;;;;;;;;;;x
 PROV720;Taurinos;;;;;;;;;;;;;x
 PROV725;Aleram;;;;;;;;;;;;;x
 PROV723;Mareng;;;;;;;;;;;;;x

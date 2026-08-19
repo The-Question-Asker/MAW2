@@ -24,7 +24,7 @@ leader = {
 }
 
 leader = {
-    name = "Catjan Bhalmarid"
+    name = "Catjan Walmarid"
     type = land
     date= "1820.1.1"
     personality = pessimist
@@ -32,7 +32,7 @@ leader = {
 }
 
 leader = {
-    name = "Titos Fabheror"
+    name = "Titos Faweror"
     type = land
     date= "1820.1.1"
     personality = bigoted
@@ -214,7 +214,7 @@ army = {
 }
 
 army = {
-    name = "Leljor III. 'Winbhictrix'"
+    name = "Leljor III. 'Winictrix'"
     location = 756
 
      regiment = {
@@ -406,7 +406,7 @@ navy = {
     location = 754
 
     ship = {
-        name = "Genbhar"
+        name = "Genwar"
         type = manowar
     }
 
@@ -672,7 +672,7 @@ navy = {
 
 
      ship = {
-        name = "Nobhar Genbhar"
+        name = "Nowar Genwar"
         type = manowar
     }
 
