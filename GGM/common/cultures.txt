@@ -342,7 +342,7 @@ north_latin_britain = {
 							Nyrfa Decius Mylen Drusus Mysrelless Fabius Gratus Hipparchus Iulius Ylus 
 							Maius Ylon Malchus Ilyn Narses Yluses Nepos Platus Postumus Valerian Zosimus 
 							Tarsus Addonwy Afan Aneirin Aeddan Amig Amlyn Athrwys Arddur Gwyn Gwiddur Gwen 
-							Gwilid Gwrien Gwrainus }
+							Gwilid Gwrien Gwrainus Abracham Gawain }
 
 			last_names = { 	Julia Favia Aternia Cassia Hostilia Tullia Gwinnius Hendwr Cemais Brunnian 
 							Deinius Gwyennius-Mathrafal Gwinnius-Hostilia Aberrius-Bergyus Cunnius Tudor 
@@ -358,9 +358,16 @@ north_latin_ivernnia = {
 	
 	ivernach = {
 	  color = { 136 168 47 }
-        	first_names = { }
+        	first_names = { 
+			Conarius Dungallius Sintiohainus Sircristus Syleachthus Nepos Patricius Palladius Narses Phublios 
+			Muirchtatus Sirissus Sinteannae Sintamaria Teirnus Fhinneogus Paschomus Sadach Ruadhus 
+			Imdibe Sercach Sirsercach Niallus Contus Iudae Genticach Sirepscopus Giurge Sircomdiu Sirdía
+			Abisolón Abracham Iohain-Baptaist Dauid Moysis Iosofád Iacób Iohain Isaac Barnaipus Petur
+			}
 
-			last_names = { Coileanus Brighidia Mohanus Bradain Ciardus Mochanus Ruadhia }
+		last_names = { Coileanus Brighidia Mohanus Bradain Ciardus Mochanus Ruadhia Niagallachtus
+			Manachus Baithsid Bocht Sión Fresgabálus Crístaide Gall Crothius Cennetigus Salm Tempulis Druí
+		}
     }
 }
 
@@ -371,58 +378,80 @@ hellenes = {
     unit = EuropeanGC
 
 	greek = { #hellenic
-	  color = { 122 180 210 }
-         first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
-         Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
-         Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-         Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-         Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-         }
-	  
-         last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-         Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-         Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-         Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-         Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-         }
+		color = { 122 180 210 }
+		first_names = { 	
+			Adamantios Anastasios Andreas Antonios Aristidis Athanasios Cleomenes Amenophis 
+			Philadelphus Epignos Euergetes
+			Epiphanes Philometer Physcon Eupator Alexandros Auletes Apion Petros
+			Abdiel Abessalom Abimelech Achaab Amnon Andronikos Archippos Asmodaios
+			Barouch Beniamin Dauid Dareios Emmanouel Enoch Ephraim Gad Gamaliel
+			Herodes Herodion Iairos Iakob Iapheth Iezekiel Ioannes Iosaphat Ioubal Ismael
+			Issachar Kephas Kleopas Lazaros Seth Matthaios Nikanor Nikodemos Olympiodoros
+			Ouriel Paulos Phanouel Phares Phestos Philemon Philippos Phlegon Prochoros 
+			Salathiel Saoul Sampson Silas Simon Solomon Stephanos Thomas Didymos
+			Timotheos Zaboulon Zakchaios Iesodoros Theodoros Theodosios Dionysios Serapios
+			Antipater Polynices
+		}
+		
+		last_names = { 
+			Voulgaris Zaimis Zymvrakakis
+		}
     }
 
 	levantine = {
-	  color = { 16 101 125 }
-        	first_names = {  }
+		color = { 16 101 125 }
+        	first_names = { 
+				
+				Epiphanes Philometer Physcon Eupator Alexandros Auletes Apion Petros
+				Abdiel Abessalom Abimelech Achaab Amnon Andronikos Archippos Asmodaios
+				Barouch Beniamin Dauid Dareios Emmanouel Enoch Ephraim Gad Gamaliel
+				Herodes Herodion Iairos Iakob Iapheth Iezekiel Ioannes Iosaphat Ioubal Ismael
+				Issachar Kephas Kleopas Lazaros Seth Matthaios Nikanor Nikodemos Olympiodoros
+				Ouriel Paulos Phanouel Phares Phestos Philemon Philippos Phlegon Prochoros 
+				Salathiel Saoul Sampson Silas Simon Solomon Stephanos Thomas Didymos
+				Timotheos Zaboulon Zakchaios Iesodoros Theodoros Theodosios Dionysios Serapios
+				Antipater Polynices
+			}
 
-			last_names = {	}
+		last_names = {	}
     }
 	
 	aegyptian = {
-	  color = { 157 201 197 }
-        	first_names = { Abadir Atoum Panoute Papnoute Patermoute Shenoute Tanoute 
-							Amoun Atre Pamin Panine Phanoub Jamoul Senouti Phib Patapi 
-							Barsanouphios Ethom Herwoj Phnouti Shenouti Tepio Abashkhiron 
-							Girgis Harmine Joore Kollouthos Niran Pachomios Pakhom Pambo 
-							Patermouthios Phello Pigol Pijimi Sarjoun Sidhom Yeshak Yaraklas 
-							Cleomenes Amenophis Soter Philadelphus Epignos Euergetes Philopator Ptolemy
-							Epiphanes Philometer Physcon Eupator Alexandros Auletes Apion Petros
-							Abdiel Abessalom Abimelech Achaab Amnon Andronikos Archippos Asmodaios
-							Barouch Beniamin Dauid Dareios Emmanouel Enoch Ephraim Gad Gamaliel
-							Herodes Herodion Iairos Iakob Iapheth Iezekiel Ioannes Iosaphat Ioubal Ismael
-							Issachar Kephas Kleopas Lazaros Seth Matthaios Nikanor Nikodemos Olympiodoros
-							Ouriel Paulos Phanouel Phares Phestos Philemon Philippos Phlegon Prochoros 
-							Salathiel Saoul Sampson Silas Simon Solomon Stephanos Thomas Didymos
-							Timotheos Zaboulon Zakchaios Iesodoros Theodoros Theodosios Dionysios Serapios
-							Antipater Polynices
-							}
+		color = { 157 201 197 }
+        	first_names = { 
+			Abadir Atoum Panoute Papnoute Patermoute Shenoute Tanoute 
+			Amoun Atre Pamin Panine Phanoub Jamoul Senouti Phib Patapi 
+			Barsanouphios Ethom Herwoj Phnouti Shenouti Tepio Abashkhiron 
+			Girgis Harmine Joore Kollouthos Niran Pachomios Pakhom Pambo 
+			Patermouthios Phello Pigol Pijimi Sarjoun Sidhom Yeshak Yaraklas 
+			Philopator Ptolemy Mithradites Mithras Soterdoros Soterdosios Soter Ptolemy
+			Cleon Nikon 
+			
+			Cleomenes Amenophis Soter Philadelphus Epignos Euergetes
+			Epiphanes Philometer Physcon Eupator Alexandros Auletes Apion Petros
+			Abdiel Abessalom Abimelech Achaab Amnon Andronikos Archippos Asmodaios
+			Barouch Beniamin Dauid Dareios Emmanouel Enoch Ephraim Gad Gamaliel
+			Herodes Herodion Iairos Iakob Iapheth Iezekiel Ioannes Iosaphat Ioubal Ismael
+			Issachar Kephas Kleopas Lazaros Seth Matthaios Nikanor Nikodemos Olympiodoros
+			Ouriel Paulos Phanouel Phares Phestos Philemon Philippos Phlegon Prochoros 
+			Salathiel Saoul Sampson Silas Simon Solomon Stephanos Thomas Didymos
+			Timotheos Zaboulon Zakchaios Iesodoros Theodoros Theodosios Dionysios Serapios
+			Antipater Polynices
+			
+		}
 
-			last_names = {	Ptolemides Lagides Pleistoneices Chrysermus Varoufakis Perdicides Atoumides
-							Harminides Ethomos Papnoutou Phanoubou Yeshakou Eurgeteou Asmodaou Auletou
-							Abdielou Herodou Matthaiou Iosaphatou Arsinoes Gamalielou Nikodemou Phestou 
-							Timotheou Antipaterou Kollouthou Pachomiou Ptolemidou Cleomenou Epiphanou
-							Batrachou Anagkaios Hypatia Agrotes Angelos Angaros Perknos Amanrobios
-							Diakonos Demokoinos Kedelos Proboulos Skapperos Pompos Metanaietes Thelgo
-							Doulos Characteros Kednos Georgos Pothmeus Machates Phoules Strategos
-							Halieus Aphilos Polemstes Nautos Hyphantes Hodites Likmetor Martyria Goetos Drytomos
-							
-							}
+		last_names = {	
+			Ptolemides Lagides Pleistoneices Chrysermus Varoufakis Perdicides Atoumides
+			Harminides Ethomos Papnoutou Phanoubou Yeshakou Eurgeteou Asmodaou Auletou
+			Abdielou Herodou Matthaiou Iosaphatou Arsinoes Gamalielou Nikodemou Phestou 
+			Timotheou Antipaterou Kollouthou Pachomiou Ptolemidou Cleomenou Epiphanou
+			Batrachou Anagkaios Hypatia Agrotes Angelos Angaros Perknos Amanrobios
+			Diakonos Demokoinos Kedelos Proboulos Skapperos Pompos Metanaietes Thelgo
+			Doulos Characteros Kednos Georgos Pothmeus Machates Phoules Strategos
+			Halieus Aphilos Polemstes Nautos Hyphantes Hodites Likmetor Martyria Goetos Drytomos
+			Cleopatres
+			
+		}
     }
 
 }
