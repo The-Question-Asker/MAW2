@@ -284,7 +284,7 @@ latins = {
                             Farrisolos Galer Wenator Windor Flabhinos Cesar Adoror Arcaror Bellumos Chastonor Istrater 
                             Vorac Germos Fichentellos Adrjan Bonarjos Abmatricos Siroschon Charcan Gadolar Geshard Africanos
                             Udobhisin Ibhren Almeric Ester Arles Etjos Manljar Chornljar Postumjan Catsjar Sempronjan Scholastis
-                            Agriclar Mellor Piscator Winfansor Fabheror Cocorer Latreror Calator
+                            Agriclar Mellor Piscator Winfansor Faweror Cocorer Latreror Calator
                             }
     }
 	
