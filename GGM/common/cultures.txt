@@ -441,7 +441,7 @@ hellenes = {
 		}
 
 		last_names = {	
-			Ptolemides Lagides Pleistoneices Chrysermus Varoufakis Perdicides Atoumides
+			Ptolemides Lagides Pleistoneices Chrysermus Varouphakis Perdicides Atoumides
 			Harminides Ethomos Papnoutou Phanoubou Yeshakou Eurgeteou Asmodaou Auletou
 			Abdielou Herodou Matthaiou Iosaphatou Arsinoes Gamalielou Nikodemou Phestou 
 			Timotheou Antipaterou Kollouthou Pachomiou Ptolemidou Cleomenou Epiphanou
