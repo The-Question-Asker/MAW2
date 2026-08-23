@@ -431,7 +431,7 @@ hellenes = {
 			Epiphanes Philometer Physcon Eupator Alexandros Auletes Apion Petros
 			Abdiel Abessalom Abimelech Achaab Amnon Andronikos Archippos Asmodaios
 			Barouch Beniamin Dauid Dareios Emmanouel Enoch Ephraim Gad Gamaliel
-			Herodes Herodion Iairos Iakob Iapheth Iezekiel Ioannes Iosaphat Ioubal Ismael
+			Herodes Herodion Iesos Iairos Iakob Iapheth Iezekiel Ioannes Iosaphat Ioubal Ismael
 			Issachar Kephas Kleopas Lazaros Seth Matthaios Nikanor Nikodemos Olympiodoros
 			Ouriel Paulos Phanouel Phares Phestos Philemon Philippos Phlegon Prochoros 
 			Salathiel Saoul Sampson Silas Simon Solomon Stephanos Thomas Didymos
@@ -448,8 +448,8 @@ hellenes = {
 			Batrachou Anagkaios Hypatia Agrotes Angelos Angaros Perknos Amanrobios
 			Diakonos Demokoinos Kedelos Proboulos Skapperos Pompos Metanaietes Thelgo
 			Doulos Characteros Kednos Georgos Pothmeus Machates Phoules Strategos
-			Halieus Aphilos Polemstes Nautos Hyphantes Hodites Likmetor Martyria Goetos Drytomos
-			Cleopatres
+			Halieus Aphilos Polemestes Nautos Hyphantes Hodites Likmetor Martyria Goetos Drytomos
+			Cleopatres Etheirades Glaukogenias Glaukoetheirades Choreogenias
 			
 		}
     }
